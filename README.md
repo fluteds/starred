@@ -53,13 +53,13 @@
 
 ## HTML 
 
-- [mxstbr/pgp.asc](https://github.com/mxstbr/pgp.asc) - An initiative to decentralize public PGP keys.
 - [skullface/protest.wtf](https://github.com/skullface/protest.wtf) - ✊ Going to a protest and don’t know wtf to do or wtf to bring? This guide aims to help you protect yourself.
 - [chowderman/xp-paint](https://github.com/chowderman/xp-paint) - A web version of MS Paint from Windows XP
 - [learning-gardens/pixel-lab](https://github.com/learning-gardens/pixel-lab) - A space for indie game devs, weird web artists, and anyone making or learning about all the strange things you can make with pixels
 
 ## JavaScript 
 
+- [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [forwardemail/custom-fonts-in-emails](https://github.com/forwardemail/custom-fonts-in-emails) - An extremely easy way to use custom fonts in emails without having to use art software.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [camero2734/Nico-and-the-Bots](https://github.com/camero2734/Nico-and-the-Bots) - A collection of bots for the twenty one pilots Discord server
