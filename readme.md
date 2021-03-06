@@ -46,6 +46,8 @@
 
 ## CSS 
 
+- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
+- [h01000110/windows-95](https://github.com/h01000110/windows-95) - Jekyll Theme
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [eladnava/applicationize](https://github.com/eladnava/applicationize) - Converts your favorite web apps into desktop apps with their own dedicated launcher icon.
@@ -67,6 +69,7 @@
 
 ## JavaScript 
 
+- [Zaarrg/TTVDropBot](https://github.com/Zaarrg/TTVDropBot) - Twitch Drop Bot. Automaticlly Farms Rust Twitch Drops for ya
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
@@ -165,6 +168,7 @@
 
 ## SCSS 
 
+- [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
 
 ## Swift 
