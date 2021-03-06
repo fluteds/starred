@@ -15,6 +15,7 @@
   - [JavaScript](#javascript)
   - [Lua](#lua)
   - [Mercury](#mercury)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -66,6 +67,9 @@
 
 ## JavaScript 
 
+- [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
+- [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+- [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [NiciusB/twitch-drops-lurker](https://github.com/NiciusB/twitch-drops-lurker) - Get twitch drops without the hassle of having a tab open
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
@@ -112,6 +116,10 @@
 ## Mercury 
 
 - [spacekookie/gay](https://github.com/spacekookie/gay) - 🏳️‍🌈 LGBT pride in here 🏳️‍🌈
+
+## Objective-C 
+
+- [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 
 ## Others 
 
@@ -185,6 +193,7 @@
 
 ## Vue 
 
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 
 
