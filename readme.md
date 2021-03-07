@@ -20,6 +20,7 @@
   - [PHP](#php)
   - [Python](#python)
   - [SCSS](#scss)
+  - [Scala](#scala)
   - [Swift](#swift)
   - [Tcl](#tcl)
   - [TypeScript](#typescript)
@@ -46,6 +47,7 @@
 
 ## CSS 
 
+- [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [h01000110/windows-95](https://github.com/h01000110/windows-95) - Jekyll Theme
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
@@ -62,6 +64,7 @@
 
 ## HTML 
 
+- [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing template
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [skullface/protest.wtf](https://github.com/skullface/protest.wtf) - ✊ Going to a protest and don’t know wtf to do or wtf to bring? This guide aims to help you protect yourself.
 - [chowderman/xp-paint](https://github.com/chowderman/xp-paint) - A web version of MS Paint from Windows XP
@@ -69,6 +72,8 @@
 
 ## JavaScript 
 
+- [wobsoriano/poke95](https://github.com/wobsoriano/poke95) - 🚀 A Windows 95 style Pokédex built with React.
+- [arturbien/React95](https://github.com/arturbien/React95) - 🌈🕹   Refreshed Windows 95 style UI components for your React app
 - [Zaarrg/TTVDropBot](https://github.com/Zaarrg/TTVDropBot) - Twitch Drop Bot. Automaticlly Farms Rust Twitch Drops for ya
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
@@ -170,6 +175,10 @@
 
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
+
+## Scala 
+
+- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 
 ## Swift 
 
