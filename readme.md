@@ -21,6 +21,7 @@
   - [Python](#python)
   - [SCSS](#scss)
   - [Scala](#scala)
+  - [Shell](#shell)
   - [Swift](#swift)
   - [Tcl](#tcl)
   - [TypeScript](#typescript)
@@ -160,7 +161,7 @@
 ## Python 
 
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 34 stars and 60 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 61 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Miso Bot | Discord bot with too many features
@@ -179,6 +180,10 @@
 ## Scala 
 
 - [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+
+## Shell 
+
+- [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 
 ## Swift 
 
