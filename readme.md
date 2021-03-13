@@ -69,6 +69,7 @@
 
 ## HTML 
 
+- [nthitz/pluggedTT](https://github.com/nthitz/pluggedTT) - 
 - [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing template
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [skullface/protest.wtf](https://github.com/skullface/protest.wtf) - ✊ Going to a protest and don’t know wtf to do or wtf to bring? This guide aims to help you protect yourself.
@@ -77,6 +78,8 @@
 
 ## JavaScript 
 
+- [jlbruno/TT-Helper-Bot](https://github.com/jlbruno/TT-Helper-Bot) - a bot for random helpful functions on turntable.fm
+- [atomjack/cmbot](https://github.com/atomjack/cmbot) - A full featured bot for turntable.fm
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [alaingilbert/Turntable-API](https://github.com/alaingilbert/Turntable-API) - Allows you to create bots for turntable.fm
 - [MarkReeder/Turntable.fm-Extensions](https://github.com/MarkReeder/Turntable.fm-Extensions) - 
@@ -175,7 +178,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 62 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 63 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Miso Bot | Discord bot with too many features
