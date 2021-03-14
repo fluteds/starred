@@ -78,6 +78,9 @@
 
 ## JavaScript 
 
+- [sharedferret/Sparkle-Turntable-Bot](https://github.com/sharedferret/Sparkle-Turntable-Bot) - A Turntable.fm bot for the Indie/Classic Alternative 1 + Done room.
+- [Izzmo/AutoAwesomer](https://github.com/Izzmo/AutoAwesomer) - A Turntable.fm bookmarklet that automatically awesomes every song for you.
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [jlbruno/TT-Helper-Bot](https://github.com/jlbruno/TT-Helper-Bot) - a bot for random helpful functions on turntable.fm
 - [atomjack/cmbot](https://github.com/atomjack/cmbot) - A full featured bot for turntable.fm
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -145,6 +148,7 @@
 
 ## Others 
 
+- [plugcommunity/documentation](https://github.com/plugcommunity/documentation) - Unofficial Community Documentation
 - [B00merang-Artwork/Windows-XP](https://github.com/B00merang-Artwork/Windows-XP) - Remake of classic YlmfOS theme with some mods for icons to scale right
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
