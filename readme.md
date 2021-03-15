@@ -69,6 +69,7 @@
 
 ## HTML 
 
+- [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [nthitz/pluggedTT](https://github.com/nthitz/pluggedTT) - 
 - [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing template
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
@@ -78,6 +79,15 @@
 
 ## JavaScript 
 
+- [ouuan/my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
+- [avatarkava/beavisbot](https://github.com/avatarkava/beavisbot) - A node.js powered bot for plug.dj and dubtrack.fm
+- [plugCubed/plugAPI](https://github.com/plugCubed/plugAPI) - A generic API for creating plug.dj bots
+- [basicBot/custom](https://github.com/basicBot/custom) - How to customize basicBot, a not so basic bot for plug.dj
+- [basicBot/source](https://github.com/basicBot/source) - A not so basic bot for plug.dj
+- [dwyl/learn-travis](https://github.com/dwyl/learn-travis) - :sunglasses: A quick Travis CI (Continuous Integration) Tutorial for Node.js developers
+- [iamstarkov/generator-travis](https://github.com/iamstarkov/generator-travis) - Yeoman generator to get and keep `.travis.yml` up-to-date effortlessly
+- [siddharthkp/travis.yml](https://github.com/siddharthkp/travis.yml) - Quickly create a .travis.yml for node projects
+- [TerrordactylDesigns/boombot](https://github.com/TerrordactylDesigns/boombot) - Node.js powered Chat and DJ bot for Turntable.fm
 - [sharedferret/Sparkle-Turntable-Bot](https://github.com/sharedferret/Sparkle-Turntable-Bot) - A Turntable.fm bot for the Indie/Classic Alternative 1 + Done room.
 - [Izzmo/AutoAwesomer](https://github.com/Izzmo/AutoAwesomer) - A Turntable.fm bookmarklet that automatically awesomes every song for you.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -179,10 +189,11 @@
 
 ## Python 
 
+- [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 63 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 62 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Miso Bot | Discord bot with too many features
