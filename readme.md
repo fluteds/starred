@@ -12,8 +12,10 @@
   - [Elm](#elm)
   - [Go](#go)
   - [HTML](#html)
+  - [Inno Setup](#inno-setup)
   - [JavaScript](#javascript)
   - [Lua](#lua)
+  - [Makefile](#makefile)
   - [Mercury](#mercury)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -65,6 +67,7 @@
 
 ## Go 
 
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
 
 ## HTML 
@@ -77,8 +80,17 @@
 - [chowderman/xp-paint](https://github.com/chowderman/xp-paint) - A web version of MS Paint from Windows XP
 - [learning-gardens/pixel-lab](https://github.com/learning-gardens/pixel-lab) - A space for indie game devs, weird web artists, and anyone making or learning about all the strange things you can make with pixels
 
+## Inno Setup 
+
+- [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
+
 ## JavaScript 
 
+- [pixelcrisis/turnstyles](https://github.com/pixelcrisis/turnstyles) - turnstyles for turntable.fm | a chrome extension
+- [jodrell2000/rboto](https://github.com/jodrell2000/rboto) - Mr. Roboto bot for I ❤️ The 80's room on Turntable.fm
+- [aportner/opentt](https://github.com/aportner/opentt) - Open Turntable.fm server
+- [extplug/replug](https://github.com/extplug/replug) - Semi-automatic reverse engineering of plug.dj client javascript
+- [samuri51/chillybot](https://github.com/samuri51/chillybot) - a turntable bot created by a moderator of straight_chillin11
 - [ouuan/my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
 - [avatarkava/beavisbot](https://github.com/avatarkava/beavisbot) - A node.js powered bot for plug.dj and dubtrack.fm
 - [plugCubed/plugAPI](https://github.com/plugCubed/plugAPI) - A generic API for creating plug.dj bots
@@ -148,6 +160,10 @@
 
 - [swxy/NoPixelServer](https://github.com/swxy/NoPixelServer) - NoPixel Full Server Files working
 
+## Makefile 
+
+- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
+
 ## Mercury 
 
 - [spacekookie/gay](https://github.com/spacekookie/gay) - 🏳️‍🌈 LGBT pride in here 🏳️‍🌈
@@ -158,6 +174,7 @@
 
 ## Others 
 
+- [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [plugcommunity/documentation](https://github.com/plugcommunity/documentation) - Unofficial Community Documentation
@@ -186,11 +203,13 @@
 
 ## PHP 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [aerouk/imageserve](https://github.com/aerouk/imageserve) - A ShareX image hosting solution for your own domain.
 - [trewknowledge/GDPR](https://github.com/trewknowledge/GDPR) - This plugin is meant to assist a Controller, Data Processor, and Data Protection Officer (DPO) with efforts to meet the obligations and rights enacted under the GDPR.
 
 ## Python 
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
