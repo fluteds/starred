@@ -1,6 +1,5 @@
-name: Update Starred Readme
-on: 
-  workflow_dispatch:
+name: update awesome-stars
+on:
   schedule:
   - cron: 30 0 * * *
 jobs:
@@ -16,8 +15,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -e git+https://github.com/maguowei/starred@master#egg=starred
+        pip install starred
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username fluteds --repository starred --sort --token ${GITHUB_TOKEN} --message 'Updated starred list'
+      run: starred --username maguowei --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
