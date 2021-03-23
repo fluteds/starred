@@ -276,6 +276,7 @@
 
 ## TypeScript 
 
+- [chiyadev/genshin-schedule](https://github.com/chiyadev/genshin-schedule) - 🕑 Genshin farming scheduler
 - [dolanmiu/MMM-awesome-alexa](https://github.com/dolanmiu/MMM-awesome-alexa) - Turn your MagicMirror into an 'Amazon Echo'. Activated when you say 'Alexa'.
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
