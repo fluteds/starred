@@ -90,6 +90,8 @@
 
 ## JavaScript 
 
+- [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper) - Download website to local directory (including all css, images, js, etc.)
+- [rauenzi/BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 - [uzair-ashraf/genshin-impact-wish-simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator) - A React web application to simulate Genshin Impact gacha in the browser
@@ -222,6 +224,7 @@
 
 ## Python 
 
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [y1ndan/genshin-impact-helper](https://github.com/y1ndan/genshin-impact-helper) - Automatically get Genshin Impact daily check-in rewards from HoYoLAB Community by GitHub Actions. 米游社原神自动每日签到+微博活动提醒+微博超话签到+礼包领取推送
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
