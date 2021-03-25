@@ -6,6 +6,7 @@
 ## Contents
 
   - [AppleScript](#applescript)
+  - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
@@ -34,6 +35,10 @@
 ## AppleScript 
 
 - [noopkat/twitch-scripts](https://github.com/noopkat/twitch-scripts) - all of the scripts I use to automate my twitch stream
+
+## C 
+
+- [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
 
 ## C# # 
 
@@ -218,6 +223,7 @@
 
 ## PHP 
 
+- [JoeGandy/ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) - A little PHP script created for uploading custom sharex files to your own webserver
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [aerouk/imageserve](https://github.com/aerouk/imageserve) - A ShareX image hosting solution for your own domain.
 - [trewknowledge/GDPR](https://github.com/trewknowledge/GDPR) - This plugin is meant to assist a Controller, Data Processor, and Data Protection Officer (DPO) with efforts to meet the obligations and rights enacted under the GDPR.
@@ -234,10 +240,10 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 62 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 63 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
-- [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Miso Bot | Discord bot with too many features
+- [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [iam-abbas/Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
 - [Zackhardtoname/study_together](https://github.com/Zackhardtoname/study_together) - 
@@ -279,6 +285,7 @@
 
 ## TypeScript 
 
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [chiyadev/genshin-schedule](https://github.com/chiyadev/genshin-schedule) - 🕑 Genshin farming scheduler
 - [dolanmiu/MMM-awesome-alexa](https://github.com/dolanmiu/MMM-awesome-alexa) - Turn your MagicMirror into an 'Amazon Echo'. Activated when you say 'Alexa'.
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
