@@ -6,6 +6,7 @@
 ## Contents
 
   - [AppleScript](#applescript)
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -35,6 +36,10 @@
 ## AppleScript 
 
 - [noopkat/twitch-scripts](https://github.com/noopkat/twitch-scripts) - all of the scripts I use to automate my twitch stream
+
+## Batchfile 
+
+- [Lyceris-chan/GenshinImpact](https://github.com/Lyceris-chan/GenshinImpact) - This repo contains a script meant to ease and help intel players with setting up their machine to be able to play this game.
 
 ## C 
 
@@ -99,6 +104,8 @@
 
 ## JavaScript 
 
+- [dephraiim/translate-readme](https://github.com/dephraiim/translate-readme) - Translate Github Readme to any other Language
+- [genshindev/api](https://github.com/genshindev/api) - A fan-made Genshin Impact API for easy access to game data.
 - [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper) - Download website to local directory (including all css, images, js, etc.)
 - [rauenzi/BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
