@@ -107,7 +107,7 @@
 - [dephraiim/translate-readme](https://github.com/dephraiim/translate-readme) - Translate Github Readme to any other Language
 - [genshindev/api](https://github.com/genshindev/api) - A fan-made Genshin Impact API for easy access to game data.
 - [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper) - Download website to local directory (including all css, images, js, etc.)
-- [rauenzi/BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
+- [rauenzi/BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord enhances Discord desktop app with new features.
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 - [uzair-ashraf/genshin-impact-wish-simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator) - A React web application to simulate Genshin Impact gacha in the browser
@@ -254,7 +254,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 65 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 64 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
