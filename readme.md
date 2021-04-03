@@ -47,6 +47,8 @@
 
 ## C# # 
 
+- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
+- [yinghualuowu/GenshinDailyHelper](https://github.com/yinghualuowu/GenshinDailyHelper) - miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Github Action 自动执行 米游社原神每日签到福利
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 - [benjibobs/Steam-Shutdown](https://github.com/benjibobs/Steam-Shutdown) - A simple and lightweight program that will shutdown your PC after Steam has finished all of its downloads
@@ -105,6 +107,7 @@
 
 ## JavaScript 
 
+- [MeguminSama/genshin-audio-extractor](https://github.com/MeguminSama/genshin-audio-extractor) - Convert Genshin Impact audio files into a playable format
 - [dephraiim/translate-readme](https://github.com/dephraiim/translate-readme) - Translate Github Readme to any other Language
 - [genshindev/api](https://github.com/genshindev/api) - A fan-made Genshin Impact API for easy access to game data.
 - [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper) - Download website to local directory (including all css, images, js, etc.)
@@ -286,6 +289,7 @@
 
 ## Shell 
 
+- [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations.
 - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
