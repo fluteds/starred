@@ -28,6 +28,7 @@
   - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [Tcl](#tcl)
   - [TypeScript](#typescript)
@@ -47,6 +48,7 @@
 
 ## C# # 
 
+- [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
 - [yinghualuowu/GenshinDailyHelper](https://github.com/yinghualuowu/GenshinDailyHelper) - miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Github Action 自动执行 米游社原神每日签到福利
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
@@ -72,6 +74,7 @@
 
 ## CSS 
 
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [pixelcrisis/turnstyles](https://github.com/pixelcrisis/turnstyles) - turnstyles for turntable.fm | a chrome extension
 - [Athari/CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
@@ -92,6 +95,7 @@
 
 ## HTML 
 
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [nthitz/pluggedTT](https://github.com/nthitz/pluggedTT) - 
@@ -247,6 +251,7 @@
 
 ## Python 
 
+- [DavidBuchanan314/tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [y1ndan/genshin-impact-helper](https://github.com/y1ndan/genshin-impact-helper) - Automatically get Genshin Impact daily check-in rewards from HoYoLAB Community by GitHub Actions. 米游社原神自动每日签到+微博活动提醒+微博超话签到+礼包领取推送
@@ -258,7 +263,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 66 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 67 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -293,6 +298,10 @@
 - [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations.
 - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
+
+## Svelte 
+
+- [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 
 ## Swift 
 
