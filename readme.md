@@ -218,6 +218,7 @@
 
 ## Others 
 
+- [alexpana/guitar-tabs](https://github.com/alexpana/guitar-tabs) - Collection of guitar tablatures.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
@@ -286,6 +287,7 @@
 
 ## Rust 
 
+- [sushiibot/sushii-2](https://github.com/sushiibot/sushii-2) - 🍣🍣 Moderation bot for Discord
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [iandwelker/smcurser](https://github.com/iandwelker/smcurser) - SMServer tui client written in rust
 
