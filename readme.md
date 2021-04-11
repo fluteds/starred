@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [alaingilbert/ttapi](https://github.com/alaingilbert/ttapi) - Golang Turntable.fm api
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
@@ -112,6 +113,9 @@
 
 ## JavaScript 
 
+- [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - Discord Tools is a Visual Studio Code extension to code Discord bots more easily. Works for Javascript (Discord.js, Eris), Python (Discord.py), Typescript (Harmony) and Java (JDA). Generate template bot and code.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [vin/turntable.fm](https://github.com/vin/turntable.fm) - A turntable.fm bot based on Alain Gilbert's ttapi module for node.js.
 - [TechLevelZero/doddlebot](https://github.com/TechLevelZero/doddlebot) - doddlebot for doddlecord
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
@@ -270,7 +274,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 37 stars and 67 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 38 stars and 67 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
