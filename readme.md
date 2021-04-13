@@ -113,6 +113,7 @@
 
 ## JavaScript 
 
+- [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
 - [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - Discord Tools is a Visual Studio Code extension to code Discord bots more easily. Works for Javascript (Discord.js, Eris), Python (Discord.py), Typescript (Harmony) and Java (JDA). Generate template bot and code.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [vin/turntable.fm](https://github.com/vin/turntable.fm) - A turntable.fm bot based on Alain Gilbert's ttapi module for node.js.
@@ -222,6 +223,7 @@
 
 ## Others 
 
+- [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
 - [alexpana/guitar-tabs](https://github.com/alexpana/guitar-tabs) - Collection of guitar tablatures.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -261,6 +263,9 @@
 
 ## Python 
 
+- [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
+- [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
+- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [anatolykopyl/youtube-cdl](https://github.com/anatolykopyl/youtube-cdl) - 📼 Bulk youtube subscription download
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [DavidBuchanan314/tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
@@ -275,7 +280,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 38 stars and 67 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 38 stars and 68 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
