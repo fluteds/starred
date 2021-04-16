@@ -115,6 +115,7 @@
 
 ## JavaScript 
 
+- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
@@ -267,6 +268,8 @@
 
 ## Python 
 
+- [x2110311x/sacarver](https://github.com/x2110311x/sacarver) - one of the r/twentyonepilots discord bots
+- [back8/github_y1ndan_genshin-impact-helper](https://github.com/back8/github_y1ndan_genshin-impact-helper) - 
 - [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
 - [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
 - [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
@@ -285,7 +288,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 38 stars and 66 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 38 stars and 65 forks.
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -340,6 +343,8 @@
 
 ## TypeScript 
 
+- [cybershard/auproximity](https://github.com/cybershard/auproximity) - AUProximity is an open source proximity voice chat platform, primarily aimed at Among Us.
+- [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [chiyadev/genshin-schedule](https://github.com/chiyadev/genshin-schedule) - 🕑 Genshin farming scheduler
 - [dolanmiu/MMM-awesome-alexa](https://github.com/dolanmiu/MMM-awesome-alexa) - Turn your MagicMirror into an 'Amazon Echo'. Activated when you say 'Alexa'.
