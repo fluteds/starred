@@ -92,10 +92,11 @@
 
 ## Go 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [alaingilbert/ttapi](https://github.com/alaingilbert/ttapi) - Golang Turntable.fm api
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
 
 ## HTML 
