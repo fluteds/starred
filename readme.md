@@ -6,6 +6,7 @@
 ## Contents
 
   - [AppleScript](#applescript)
+  - [Assembly](#assembly)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -38,6 +39,10 @@
 ## AppleScript 
 
 - [noopkat/twitch-scripts](https://github.com/noopkat/twitch-scripts) - all of the scripts I use to automate my twitch stream
+
+## Assembly 
+
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
 ## Batchfile 
 
@@ -116,6 +121,7 @@
 
 ## JavaScript 
 
+- [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
