@@ -312,7 +312,7 @@
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [iam-abbas/Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
-- [Zackhardtoname/study_together](https://github.com/Zackhardtoname/study_together) - 
+- [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [mitchweaver/Discline](https://github.com/mitchweaver/Discline) - 🐍  A terminal Discord client that you can actually use.
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
 
