@@ -51,6 +51,7 @@
 
 ## C 
 
+- [AndyNovo/filteredseed](https://github.com/AndyNovo/filteredseed) - 
 - [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 
