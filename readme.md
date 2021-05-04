@@ -124,6 +124,7 @@
 
 ## JavaScript 
 
+- [toluschr/BetterDiscord-Animated-Status](https://github.com/toluschr/BetterDiscord-Animated-Status) - Animate your Discord Status with this BetterDiscord Plugin
 - [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
@@ -287,6 +288,7 @@
 
 ## Python 
 
+- [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [asottile/all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
 - [x2110311x/sacarver](https://github.com/x2110311x/sacarver) - one of the r/twentyonepilots discord bots
 - [back8/github_y1ndan_genshin-impact-helper](https://github.com/back8/github_y1ndan_genshin-impact-helper) - 
