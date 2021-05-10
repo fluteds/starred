@@ -291,6 +291,7 @@
 
 ## Python 
 
+- [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [asottile/all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
 - [x2110311x/sacarver](https://github.com/x2110311x/sacarver) - one of the r/twentyonepilots discord bots
@@ -312,7 +313,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 41 stars and 74 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 41 stars and 74 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
