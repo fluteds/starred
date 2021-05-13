@@ -58,6 +58,7 @@
 
 ## C# # 
 
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [TwosHusbandS/Project-127](https://github.com/TwosHusbandS/Project-127) - Custom Client to achieve a working 1.27 GTA V for everyone on PC
 - [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
@@ -85,6 +86,7 @@
 
 ## CSS 
 
+- [skullface/design-resources](https://github.com/skullface/design-resources) - 📐 Select websites, tools, assets, and readings for working in and learning about design.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [pixelcrisis/turnstyles](https://github.com/pixelcrisis/turnstyles) - turnstyles for turntable.fm | a chrome extension
 - [Athari/CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
@@ -110,6 +112,7 @@
 
 ## HTML 
 
+- [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [n1c00o/bruh.tk](https://github.com/n1c00o/bruh.tk) - bruh.tk -&gt; URL shortener using GitHub Issues
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
@@ -127,6 +130,7 @@
 
 ## JavaScript 
 
+- [Revadike/steam-free-packages](https://github.com/Revadike/steam-free-packages) - Periodically request free packages on steam to be added to your account
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [toluschr/BetterDiscord-Animated-Status](https://github.com/toluschr/BetterDiscord-Animated-Status) - Animate your Discord Status with this BetterDiscord Plugin
 - [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
@@ -295,6 +299,8 @@
 
 ## Python 
 
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+- [Sketchy502/SDV-Summary](https://github.com/Sketchy502/SDV-Summary) - An application to display a summary of the player from a Stardew Valley save file.
 - [PetterKraabol/Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download chat messages from past broadcasts on Twitch
 - [hoppuman/TikTokHacks](https://github.com/hoppuman/TikTokHacks) - 
 - [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
