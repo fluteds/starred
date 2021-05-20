@@ -58,6 +58,7 @@
 
 ## C# # 
 
+- [andulv/RSTabExplorer](https://github.com/andulv/RSTabExplorer) - RockSmith Tab Explorer
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [TwosHusbandS/Project-127](https://github.com/TwosHusbandS/Project-127) - Custom Client to achieve a working 1.27 GTA V for everyone on PC
