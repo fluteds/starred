@@ -134,6 +134,7 @@
 
 ## JavaScript 
 
+- [111116/webosu](https://github.com/111116/webosu) - ➤⓵ web rhythm game (unofficial osu!) http://osugame.online/
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji) - ✨🐛💥 A semantic-release plugin for gitmojis. Different from conventional changelog, Gitmoji commits are used to determine a release type and generate release notes.
 - [imjohnbo/issue-bot](https://github.com/imjohnbo/issue-bot) - GitHub Actions powered Issue Bot 🦾
@@ -147,7 +148,7 @@
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
-- [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - VSCode extension to code Discord bots more easily. Works for Javascript (Discord.js, Eris), Python (Discord.py), Typescript (Harmony) and Java (JDA). Generate template bot and code.
+- [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - VSCode extension allowing the integration of a Dicord chat, bot templates, snippets, themes and more!
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [vin/turntable.fm](https://github.com/vin/turntable.fm) - A turntable.fm bot based on Alain Gilbert's ttapi module for node.js.
 - [TechLevelZero/doddlebot](https://github.com/TechLevelZero/doddlebot) - doddlebot for doddlecord
@@ -301,6 +302,7 @@
 
 ## PHP 
 
+- [Plancke/hypixel-php](https://github.com/Plancke/hypixel-php) - 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [JoeGandy/ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) - A little PHP script created for uploading custom sharex files to your own webserver
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -375,6 +377,7 @@
 
 ## Shell 
 
+- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations.
