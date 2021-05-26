@@ -134,6 +134,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [111116/webosu](https://github.com/111116/webosu) - ➤⓵ web rhythm game (unofficial osu!) http://osugame.online/
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji) - ✨🐛💥 A semantic-release plugin for gitmojis. Different from conventional changelog, Gitmoji commits are used to determine a release type and generate release notes.
@@ -259,6 +260,7 @@
 
 ## Others 
 
+- [devmount/CheatSheets](https://github.com/devmount/CheatSheets) - A curated list of everything I look up more than twice
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [isaacs/github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 1. You found a secret!
@@ -311,6 +313,7 @@
 
 ## Python 
 
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸  Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [xz-dev/genshin_impact_helper](https://github.com/xz-dev/genshin_impact_helper) - 原神每日签到（需要服务器的）
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
@@ -343,7 +346,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 42 stars and 78 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 42 stars and 79 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -404,6 +407,7 @@
 
 ## TypeScript 
 
+- [technote-space/toc-generator](https://github.com/technote-space/toc-generator) - GitHub Actions to generate TOC (Table of Contents)
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from react components. Inspired by natemoo-re
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [nubleh/favchecker](https://github.com/nubleh/favchecker) - fork of flowerplanner but with favchecker with its default route
