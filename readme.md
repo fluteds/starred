@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [lx-s/WinMute](https://github.com/lx-s/WinMute) - WinMute let's you automatically mute your PC volume on certain events (e. g. Screensaver, Workstation Lock, Shutdown, etc.).
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -134,6 +135,9 @@
 
 ## JavaScript 
 
+- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
+- [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
+- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [111116/webosu](https://github.com/111116/webosu) - ➤⓵ web rhythm game (unofficial osu!) http://osugame.online/
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
