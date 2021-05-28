@@ -88,6 +88,7 @@
 
 ## CSS 
 
+- [leeprky/Slook](https://github.com/leeprky/Slook) - SLOOK
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [skullface/design-resources](https://github.com/skullface/design-resources) - 📐 Select websites, tools, assets, and readings for working in and learning about design.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -267,7 +268,7 @@
 - [devmount/CheatSheets](https://github.com/devmount/CheatSheets) - A curated list of everything I look up more than twice
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [isaacs/github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
-- [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 1. You found a secret!
+- [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 2. You found a secret!
 - [miffycs/Animal-Crossing-Amiibo](https://github.com/miffycs/Animal-Crossing-Amiibo) - 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only.
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
@@ -317,6 +318,7 @@
 
 ## Python 
 
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸  Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [xz-dev/genshin_impact_helper](https://github.com/xz-dev/genshin_impact_helper) - 原神每日签到（需要服务器的）
