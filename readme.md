@@ -35,6 +35,7 @@
   - [Swift](#swift)
   - [Tcl](#tcl)
   - [TypeScript](#typescript)
+  - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
 
 ## AppleScript 
@@ -51,7 +52,6 @@
 
 ## C 
 
-- [younishd/filteredseed](https://github.com/younishd/filteredseed) - 
 - [AndyNovo/filteredseed](https://github.com/AndyNovo/filteredseed) - 
 - [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
@@ -107,10 +107,9 @@
 
 ## Go 
 
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [alaingilbert/ttapi](https://github.com/alaingilbert/ttapi) - Golang Turntable.fm api
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
@@ -120,7 +119,6 @@
 - [anadius/sims-4-gallery-link-generator](https://github.com/anadius/sims-4-gallery-link-generator) - Generate links for gallery items from `.trayitem` files. This is useful when your item contains CC.
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [n1c00o/bruh.tk](https://github.com/n1c00o/bruh.tk) - bruh.tk -&gt; URL shortener using GitHub Issues
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [nthitz/pluggedTT](https://github.com/nthitz/pluggedTT) - 
@@ -138,19 +136,13 @@
 
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
-- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [111116/webosu](https://github.com/111116/webosu) - ➤⓵ web rhythm game (unofficial osu!) http://osugame.online/
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
-- [momocow/semantic-release-gitmoji](https://github.com/momocow/semantic-release-gitmoji) - ✨🐛💥 A semantic-release plugin for gitmojis. Different from conventional changelog, Gitmoji commits are used to determine a release type and generate release notes.
 - [imjohnbo/issue-bot](https://github.com/imjohnbo/issue-bot) - GitHub Actions powered Issue Bot 🦾
 - [Revadike/steam-free-packages](https://github.com/Revadike/steam-free-packages) - Periodically request free packages on steam to be added to your account
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [toluschr/BetterDiscord-Animated-Status](https://github.com/toluschr/BetterDiscord-Animated-Status) - Animate your Discord Status with this BetterDiscord Plugin
-- [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
-- [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
-- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
-- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
@@ -176,7 +168,6 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [typesense/showcase-recipe-search](https://github.com/typesense/showcase-recipe-search) - Instantly search 2M cooking recipes using Typesense Search (an open source alternative to Algolia / ElasticSearch)  ⚡ 🥘 🔍
 - [jodrell2000/rboto](https://github.com/jodrell2000/rboto) - Mr. Roboto bot for I ❤️ The 80's room on Turntable.fm
-- [aportner/opentt](https://github.com/aportner/opentt) - Open Turntable.fm server
 - [extplug/replug](https://github.com/extplug/replug) - Semi-automatic reverse engineering of plug.dj client javascript
 - [samuri51/chillybot](https://github.com/samuri51/chillybot) - a turntable bot created by a moderator of straight_chillin11
 - [ouuan/my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
@@ -319,7 +310,7 @@
 ## Python 
 
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸  Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [xz-dev/genshin_impact_helper](https://github.com/xz-dev/genshin_impact_helper) - 原神每日签到（需要服务器的）
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
@@ -352,7 +343,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 42 stars and 79 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 42 stars and 77 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -388,7 +379,6 @@
 
 ## Shell 
 
-- [wei/git-sync](https://github.com/wei/git-sync) - 🔃 A GitHub Action for syncing between two independent repositories using force push
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
@@ -413,11 +403,10 @@
 
 ## TypeScript 
 
-- [technote-space/toc-generator](https://github.com/technote-space/toc-generator) - GitHub Actions to generate TOC (Table of Contents)
+- [Scoder12/murdermystery](https://github.com/Scoder12/murdermystery) - A web game built with Next.js, Typescript, and Go.
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from react components. Inspired by natemoo-re
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [nubleh/favchecker](https://github.com/nubleh/favchecker) - fork of flowerplanner but with favchecker with its default route
-- [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [cybershard/auproximity](https://github.com/cybershard/auproximity) - AUProximity is an open source proximity voice chat platform, primarily aimed at Among Us.
 - [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
@@ -436,6 +425,10 @@
 - [vtrois/gitmoji-vscode](https://github.com/vtrois/gitmoji-vscode) - 😜 An emoji tool with your git commit messages for VS Code
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
+
+## Visual Basic .NET 
+
+- [hama3254/Crunchyroll-Downloader-v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Downloader for Crunchyroll
 
 ## Vue 
 
