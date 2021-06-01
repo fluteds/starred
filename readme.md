@@ -117,6 +117,9 @@
 
 ## HTML 
 
+- [anadius/gd-efc](https://github.com/anadius/gd-efc) - Google Drive - encrypted folder copy
+- [lukechilds/doge-seed](https://github.com/lukechilds/doge-seed) - Dank mnemonic seed phrases
+- [sindresorhus/norway-postal-codes](https://github.com/sindresorhus/norway-postal-codes) - Norway postal code registry in various formats
 - [anadius/sims-4-gallery-link-generator](https://github.com/anadius/sims-4-gallery-link-generator) - Generate links for gallery items from `.trayitem` files. This is useful when your item contains CC.
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [n1c00o/bruh.tk](https://github.com/n1c00o/bruh.tk) - bruh.tk -&gt; URL shortener using GitHub Issues
@@ -139,6 +142,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/doge-seed-cli](https://github.com/sindresorhus/doge-seed-cli) - Generate dank mnemonic seed phrases in the terminal
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
@@ -261,6 +265,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [devmount/CheatSheets](https://github.com/devmount/CheatSheets) - A curated list of everything I look up more than twice
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [isaacs/github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
@@ -314,6 +319,9 @@
 
 ## Python 
 
+- [haranlakha/spotify-tweet-bot](https://github.com/haranlakha/spotify-tweet-bot) - Twitter bot which gets the users currently playing song and tweets it to their timeline
+- [micah5/ace-attorney-reddit-bot](https://github.com/micah5/ace-attorney-reddit-bot) - 👨🏼‍⚖️ reddit bot that turns comment chains into ace attorney scenes
+- [LuisMayo/ace-attorney-twitter-bot](https://github.com/LuisMayo/ace-attorney-twitter-bot) - Twitter bot that turns comment chains into ace attorney scenes. Inspired by and using https://github.com/micah5/ace-attorney-reddit-bot
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -348,7 +356,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 42 stars and 79 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 78 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -369,6 +377,7 @@
 
 ## Rust 
 
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [sushiibot/sushii-2](https://github.com/sushiibot/sushii-2) - 🍣🍣 Moderation bot for Discord
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [iandwelker/smcurser](https://github.com/iandwelker/smcurser) - SMServer tui client written in rust
@@ -408,6 +417,8 @@
 
 ## TypeScript 
 
+- [cyyynthia/pronoundb.org](https://github.com/cyyynthia/pronoundb.org) - A browser extension that lets people know how to refer to each other on various places of the Internet. Available on Chrome, Firefox, and Edge.
+- [guilyx/guilyx](https://github.com/guilyx/guilyx) - Statistics from Github, CodingTime and Spotify, leave a ⭐ if you like it
 - [Scoder12/murdermystery](https://github.com/Scoder12/murdermystery) - A web game built with Next.js, Typescript, and Go.
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from react components. Inspired by natemoo-re
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
