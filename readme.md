@@ -138,10 +138,12 @@
 
 ## Java 
 
+- [jan-leila/FastReset](https://github.com/jan-leila/FastReset) - 
 - [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) - Fast, Automatic In-Game Seed Cracker for Minecraft.
 
 ## JavaScript 
 
+- [kevva/wifi-password-cli](https://github.com/kevva/wifi-password-cli) - Get current wifi password
 - [sindresorhus/doge-seed-cli](https://github.com/sindresorhus/doge-seed-cli) - Generate dank mnemonic seed phrases in the terminal
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
@@ -417,6 +419,7 @@
 
 ## TypeScript 
 
+- [NearW/minecraft-speedrun](https://github.com/NearW/minecraft-speedrun) - Server configuration for a speedrun server
 - [cyyynthia/pronoundb.org](https://github.com/cyyynthia/pronoundb.org) - A browser extension that lets people know how to refer to each other on various places of the Internet. Available on Chrome, Firefox, and Edge.
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Statistics from Github, CodingTime and Spotify, leave a ⭐ if you like it
 - [Scoder12/murdermystery](https://github.com/Scoder12/murdermystery) - A web game built with Next.js, Typescript, and Go.
