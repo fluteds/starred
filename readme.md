@@ -36,6 +36,7 @@
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [Tcl](#tcl)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
@@ -64,6 +65,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [andulv/RSTabExplorer](https://github.com/andulv/RSTabExplorer) - RockSmith Tab Explorer
@@ -130,7 +132,6 @@
 - [sindresorhus/norway-postal-codes](https://github.com/sindresorhus/norway-postal-codes) - Norway postal code registry in various formats
 - [anadius/sims-4-gallery-link-generator](https://github.com/anadius/sims-4-gallery-link-generator) - Generate links for gallery items from `.trayitem` files. This is useful when your item contains CC.
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-- [n1c00o/bruh.tk](https://github.com/n1c00o/bruh.tk) - bruh.tk -&gt; URL shortener using GitHub Issues
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [nthitz/pluggedTT](https://github.com/nthitz/pluggedTT) - 
@@ -153,6 +154,9 @@
 
 ## JavaScript 
 
+- [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
+- [sindresorhus/capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
 - [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules
 - [kevva/wifi-password-cli](https://github.com/kevva/wifi-password-cli) - Get current wifi password
@@ -432,6 +436,10 @@
 ## Tcl 
 
 - [Slush0Puppy/retime](https://github.com/Slush0Puppy/retime) - A tool for retiming speedruns down to the millisecond.
+
+## TeX 
+
+- [pistacium/meeras_reset-inator_3000](https://github.com/pistacium/meeras_reset-inator_3000) - meeras_reset-inator_3000
 
 ## TypeScript 
 
