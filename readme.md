@@ -148,6 +148,7 @@
 
 ## Java 
 
+- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
 - [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) - Minecraft mod that adds over 50 new biomes to the game.
 - [Zodsmar/SeedSearcherStandaloneTool](https://github.com/Zodsmar/SeedSearcherStandaloneTool) - Minecraft, searching numeric seeds for specific features/biomes
 - [KaptainWutax/FeatureUtils](https://github.com/KaptainWutax/FeatureUtils) - High-performance library that simulates Minecraft structures, decorators and loot for seed finding applications.
@@ -342,6 +343,8 @@
 
 ## Python 
 
+- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [DuncanRuns/MinecraftAutoResetter](https://github.com/DuncanRuns/MinecraftAutoResetter) - Automatically makes a new minecraft world upon leaving one.
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [haranlakha/spotify-tweet-bot](https://github.com/haranlakha/spotify-tweet-bot) - Twitter bot which gets the users currently playing song and tweets it to their timeline
@@ -381,7 +384,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 77 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 78 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -447,6 +450,7 @@
 
 ## TypeScript 
 
+- [progfay/github-streaks](https://github.com/progfay/github-streaks) - Check streak on GitHub from CLI
 - [NearW/minecraft-speedrun](https://github.com/NearW/minecraft-speedrun) - Server configuration for a speedrun server
 - [cyyynthia/pronoundb.org](https://github.com/cyyynthia/pronoundb.org) - A browser extension that lets people know how to refer to each other on various places of the Internet. Available on Chrome, Firefox, and Edge.
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Statistics from Github, CodingTime and Spotify, leave a ⭐ if you like it
