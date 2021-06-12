@@ -38,7 +38,6 @@
   - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
 
 ## AppleScript 
@@ -251,7 +250,6 @@
 - [Sleepydragn1/twitchAFK](https://github.com/Sleepydragn1/twitchAFK) - SlimerJS script for idling a Twitch channel.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
-- [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
 - [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [mikebryant/ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
@@ -287,6 +285,7 @@
 
 ## Others 
 
+- [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [SeedFinding/fnseedc](https://github.com/SeedFinding/fnseedc) - Collection of resources for Minecraft Seedcracking
 - [funkyface/ssg-seeds](https://github.com/funkyface/ssg-seeds) - Minecraft SSG seeds for 1.16
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -477,10 +476,6 @@
 - [vtrois/gitmoji-vscode](https://github.com/vtrois/gitmoji-vscode) - 😜 An emoji tool with your git commit messages for VS Code
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
-
-## Visual Basic .NET 
-
-- [hama3254/Crunchyroll-Downloader-v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Downloader for Crunchyroll
 
 ## Vue 
 
