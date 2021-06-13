@@ -38,6 +38,7 @@
   - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [VBScript](#vbscript)
   - [Vue](#vue)
 
 ## AppleScript 
@@ -476,6 +477,10 @@
 - [vtrois/gitmoji-vscode](https://github.com/vtrois/gitmoji-vscode) - 😜 An emoji tool with your git commit messages for VS Code
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
+
+## VBScript 
+
+- [onx/ILOVEYOU](https://github.com/onx/ILOVEYOU) - Formatted and commented source code of ILOVEYOU/Love Letter
 
 ## Vue 
 
