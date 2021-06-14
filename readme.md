@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ActionScript](#actionscript)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
@@ -41,16 +42,22 @@
   - [VBScript](#vbscript)
   - [Vue](#vue)
 
+## ActionScript 
+
+- [InQuest/malware-samples](https://github.com/InQuest/malware-samples) - A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net
+
 ## AppleScript 
 
 - [noopkat/twitch-scripts](https://github.com/noopkat/twitch-scripts) - all of the scripts I use to automate my twitch stream
 
 ## Assembly 
 
+- [guitmz/virii](https://github.com/guitmz/virii) - Collection of ancient computer virus source codes
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
 ## AutoHotkey 
 
+- [Liscum/QuickMacro](https://github.com/Liscum/QuickMacro) - GTA Online useful macros
 - [pjagada/minecraftahk](https://github.com/pjagada/minecraftahk) - Scripts made or modified by Peej for resetting or other stuff
 
 ## Batchfile 
@@ -157,6 +164,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
 - [Maclay74/gta-online-finger-hack-master](https://github.com/Maclay74/gta-online-finger-hack-master) - Train your hacking skill before the heist.
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -286,6 +294,7 @@
 
 ## Others 
 
+- [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [SeedFinding/fnseedc](https://github.com/SeedFinding/fnseedc) - Collection of resources for Minecraft Seedcracking
 - [funkyface/ssg-seeds](https://github.com/funkyface/ssg-seeds) - Minecraft SSG seeds for 1.16
@@ -480,6 +489,7 @@
 
 ## VBScript 
 
+- [Da2dalus/The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
 - [onx/ILOVEYOU](https://github.com/onx/ILOVEYOU) - Formatted and commented source code of ILOVEYOU/Love Letter
 
 ## Vue 
