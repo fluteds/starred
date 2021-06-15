@@ -57,6 +57,7 @@
 
 ## AutoHotkey 
 
+- [2called-chaos/gtav-online-ahk](https://github.com/2called-chaos/gtav-online-ahk) - GTA V Online AHK-Macros
 - [Liscum/QuickMacro](https://github.com/Liscum/QuickMacro) - GTA Online useful macros
 - [pjagada/minecraftahk](https://github.com/pjagada/minecraftahk) - Scripts made or modified by Peej for resetting or other stuff
 
@@ -494,6 +495,7 @@
 
 ## Vue 
 
+- [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 
