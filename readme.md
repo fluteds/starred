@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [alaingilbert/ttapi](https://github.com/alaingilbert/ttapi) - Golang Turntable.fm api
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
@@ -165,6 +166,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
 - [Maclay74/gta-online-finger-hack-master](https://github.com/Maclay74/gta-online-finger-hack-master) - Train your hacking skill before the heist.
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
@@ -353,6 +355,7 @@
 
 ## Python 
 
+- [TheTalkingMime/ResetTracker](https://github.com/TheTalkingMime/ResetTracker) - 
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [DuncanRuns/MinecraftAutoResetter](https://github.com/DuncanRuns/MinecraftAutoResetter) - Automatically makes a new minecraft world upon leaving one.
@@ -460,6 +463,7 @@
 
 ## TypeScript 
 
+- [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 - [progfay/github-streaks](https://github.com/progfay/github-streaks) - Check streak on GitHub from CLI
 - [NearW/minecraft-speedrun](https://github.com/NearW/minecraft-speedrun) - Server configuration for a speedrun server
 - [cyyynthia/pronoundb.org](https://github.com/cyyynthia/pronoundb.org) - A browser extension that lets people know how to refer to each other on various places of the Internet. Available on Chrome, Firefox, and Edge.
