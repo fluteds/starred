@@ -20,4 +20,4 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username fluteds --repository starred --sort --token ${GITHUB_TOKEN} --message 'Updated starred list'
+      run: starred --username fluteds --repository starred --sort --token ${GITHUB_TOKEN} --message 'Update starred list'
