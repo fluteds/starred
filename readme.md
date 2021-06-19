@@ -52,6 +52,7 @@
 
 ## Assembly 
 
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [guitmz/virii](https://github.com/guitmz/virii) - Collection of ancient computer virus source codes
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
@@ -182,7 +183,6 @@
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [111116/webosu](https://github.com/111116/webosu) - ➤⓵ web rhythm game (unofficial osu!) http://osugame.online/
-- [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [imjohnbo/issue-bot](https://github.com/imjohnbo/issue-bot) - GitHub Actions powered Issue Bot 🦾
 - [Revadike/steam-free-packages](https://github.com/Revadike/steam-free-packages) - Periodically request free packages on steam to be added to your account
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -399,7 +399,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 78 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 79 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
