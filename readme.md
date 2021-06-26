@@ -15,6 +15,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Elm](#elm)
+  - [G-code](#g-code)
   - [Go](#go)
   - [HTML](#html)
   - [Inno Setup](#inno-setup)
@@ -127,6 +128,10 @@
 ## Elm 
 
 - [bobwhitelock/parliament-visualization](https://github.com/bobwhitelock/parliament-visualization) - An interactive visualization of UK parliament votes since 1997
+
+## G-code 
+
+- [hoppuman/TikTokHacks](https://github.com/hoppuman/TikTokHacks) - 
 
 ## Go 
 
@@ -378,7 +383,6 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [Sketchy502/SDV-Summary](https://github.com/Sketchy502/SDV-Summary) - An application to display a summary of the player from a Stardew Valley save file.
 - [PetterKraabol/Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download chat messages from past broadcasts on Twitch
-- [hoppuman/TikTokHacks](https://github.com/hoppuman/TikTokHacks) - 
 - [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
@@ -402,7 +406,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 82 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 82 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
