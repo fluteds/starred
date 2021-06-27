@@ -77,7 +77,6 @@
 ## C# # 
 
 - [DarwinBaker/AATool](https://github.com/DarwinBaker/AATool) - A tool to track Minecraft Advancement progress.
-- [karaoke-dev/karaoke](https://github.com/karaoke-dev/karaoke) - Will be the best karaoke system.
 - [Mr-Technician/BorderlessMinecraft](https://github.com/Mr-Technician/BorderlessMinecraft) - Application to run Minecraft as a borderless window.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
@@ -175,6 +174,8 @@
 
 ## JavaScript 
 
+- [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
+- [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
 - [Maclay74/gta-online-finger-hack-master](https://github.com/Maclay74/gta-online-finger-hack-master) - Train your hacking skill before the heist.
@@ -266,7 +267,7 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [good-lly/gdpr-documents](https://github.com/good-lly/gdpr-documents) - 🇪🇺  Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for personal use.
-- [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - A minimalistic typing test
+- [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [Sleepydragn1/twitchAFK](https://github.com/Sleepydragn1/twitchAFK) - SlimerJS script for idling a Twitch channel.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
@@ -305,7 +306,6 @@
 
 ## Others 
 
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [SeedFinding/fnseedc](https://github.com/SeedFinding/fnseedc) - Collection of resources for Minecraft Seedcracking
@@ -508,7 +508,6 @@
 
 ## Vue 
 
-- [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 
