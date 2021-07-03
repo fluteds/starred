@@ -59,6 +59,7 @@
 
 ## AutoHotkey 
 
+- [fluteds/gtao-macro](https://github.com/fluteds/gtao-macro) - Collection of fresh and tweaked macros for GTAO. All macros are able to be used for quality of life usage.
 - [2called-chaos/gtav-online-ahk](https://github.com/2called-chaos/gtav-online-ahk) - GTA V Online AHK-Macros
 - [Liscum/QuickMacro](https://github.com/Liscum/QuickMacro) - GTA Online useful macros
 - [pjagada/minecraftahk](https://github.com/pjagada/minecraftahk) - Scripts made or modified by Peej for resetting or other stuff
@@ -145,6 +146,7 @@
 
 ## HTML 
 
+- [fluteds/tttools](https://github.com/fluteds/tttools) - A collection of quality of life tools and themes for turntable.fm
 - [randomidiot13/queueclient-web](https://github.com/randomidiot13/queueclient-web) - An unofficial client for viewing the speedrun.com verification queue, in HTML this time.
 - [anadius/gd-efc](https://github.com/anadius/gd-efc) - Google Drive - encrypted folder copy
 - [lukechilds/doge-seed](https://github.com/lukechilds/doge-seed) - Dank mnemonic seed phrases
@@ -308,6 +310,8 @@
 
 ## Others 
 
+- [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 3. You found a secret!
+- [fluteds/starred](https://github.com/fluteds/starred) - ⭐ All my starred repos in an awesome list format that automatically daily via workflow!
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
@@ -317,7 +321,6 @@
 - [devmount/CheatSheets](https://github.com/devmount/CheatSheets) - A curated list of everything I look up more than twice
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [isaacs/github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
-- [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 3. You found a secret!
 - [miffycs/Animal-Crossing-Amiibo](https://github.com/miffycs/Animal-Crossing-Amiibo) - 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only.
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
@@ -367,6 +370,7 @@
 
 ## Python 
 
+- [fluteds/gih](https://github.com/fluteds/gih) - Automatically collect daily check-in rewards from HoYoLAB Community via Workflow & Docker.
 - [NinjaSnail1080/maac](https://github.com/NinjaSnail1080/maac) - Minecraft Automatic Advancements Checklist: An easy-to-use tool for keeping track of your Minecraft advancements
 - [TheTalkingMime/ResetTracker](https://github.com/TheTalkingMime/ResetTracker) - 
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -409,7 +413,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 80 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 81 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
