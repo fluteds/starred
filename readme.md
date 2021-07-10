@@ -213,7 +213,7 @@
 - [dephraiim/translate-readme](https://github.com/dephraiim/translate-readme) - Translate Github Readme to any other Language
 - [genshindev/api](https://github.com/genshindev/api) - A fan-made Genshin Impact API for easy access to game data.
 - [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper) - Download website to local directory (including all css, images, js, etc.)
-- [rauenzi/BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord enhances Discord desktop app with new features.
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
 - [uzair-ashraf/genshin-impact-wish-simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator) - A React web application to simulate Genshin Impact gacha in the browser
 - [technobly/Auto-Awexomer](https://github.com/technobly/Auto-Awexomer) - A Turntable.fm bookmarklet that automatically awexomes every song for you, and looks good doing it.
