@@ -104,6 +104,7 @@
 
 - [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 - [lx-s/WinMute](https://github.com/lx-s/WinMute) - WinMute let's you automatically mute your PC volume on certain events (e. g. Screensaver, Workstation Lock, Shutdown, etc.).
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -313,6 +314,7 @@
 
 ## Others 
 
+- [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets) - Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO.
 - [D4rkS0ulMC/WorldCountingMacros](https://github.com/D4rkS0ulMC/WorldCountingMacros) - 
 - [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 3. You found a secret!
 - [fluteds/starred](https://github.com/fluteds/starred) - ⭐ All my starred repos in an awesome list format that automatically daily via workflow!
@@ -326,7 +328,6 @@
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [isaacs/github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [miffycs/Animal-Crossing-Amiibo](https://github.com/miffycs/Animal-Crossing-Amiibo) - 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only.
-- [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
 - [ZoeBijl/QueerCats](https://github.com/ZoeBijl/QueerCats) - A whole bunch of pride flags represented as blobby cat emoji
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -521,7 +522,7 @@
 ## Vue 
 
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 
 ## License
