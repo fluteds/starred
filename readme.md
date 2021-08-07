@@ -419,7 +419,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 47 stars and 92 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 47 stars and 93 forks
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -487,6 +487,7 @@
 
 ## TypeScript 
 
+- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [progfay/github-streaks](https://github.com/progfay/github-streaks) - Check streak on GitHub from CLI
 - [NearW/minecraft-speedrun](https://github.com/NearW/minecraft-speedrun) - Server configuration for a speedrun server
 - [cyyynthia/pronoundb.org](https://github.com/cyyynthia/pronoundb.org) - A browser extension that lets people know how to refer to each other on various places of the Internet. Available on Chrome, Firefox, and Edge.
