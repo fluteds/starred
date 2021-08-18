@@ -14,7 +14,6 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
-  - [Elm](#elm)
   - [G-code](#g-code)
   - [Go](#go)
   - [HTML](#html)
@@ -128,10 +127,6 @@
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 - [eladnava/applicationize](https://github.com/eladnava/applicationize) - Converts your favorite web apps into desktop apps with their own dedicated launcher icon.
 
-## Elm 
-
-- [bobwhitelock/parliament-visualization](https://github.com/bobwhitelock/parliament-visualization) - An interactive visualization of UK parliament votes since 1997
-
 ## G-code 
 
 - [hoppuman/TikTokHacks](https://github.com/hoppuman/TikTokHacks) - 
@@ -149,6 +144,7 @@
 
 ## HTML 
 
+- [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [fluteds/tttools](https://github.com/fluteds/tttools) - A collection of quality of life tools and themes for turntable.fm
 - [randomidiot13/queueclient-web](https://github.com/randomidiot13/queueclient-web) - An unofficial client for viewing the speedrun.com verification queue, in HTML this time.
@@ -184,7 +180,6 @@
 
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
-- [jxnblk/blog](https://github.com/jxnblk/blog) - Personal blog on design & development
 - [itsmeow/Spicetify-Canvas](https://github.com/itsmeow/Spicetify-Canvas) - Spotify Canvas, on Spicetify for Desktop!
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
@@ -384,6 +379,7 @@
 
 ## Python 
 
+- [jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator
 - [robinuniverse/TwitFix](https://github.com/robinuniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [fluteds/gih](https://github.com/fluteds/gih) - Automatically collect daily check-in rewards from HoYoLAB Community via Workflow & Docker
 - [NinjaSnail1080/maac](https://github.com/NinjaSnail1080/maac) - Minecraft Automatic Advancements Checklist: An easy-to-use tool for keeping track of your Minecraft advancements
@@ -428,7 +424,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 48 stars and 94 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 48 stars and 95 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
