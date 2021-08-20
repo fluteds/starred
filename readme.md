@@ -179,7 +179,7 @@
 
 - [Ovilia/ovilia.github.io](https://github.com/Ovilia/ovilia.github.io) - Ovilia's personal site
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
-- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 Minimalist, elegant and simple startpage inspired by the Bento box!
+- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 Minimalist, elegant and hackable startpage inspired by the Bento Box.
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [itsmeow/Spicetify-Canvas](https://github.com/itsmeow/Spicetify-Canvas) - Spotify Canvas, on Spicetify for Desktop!
@@ -316,6 +316,7 @@
 
 ## Others 
 
+- [LukeSmithxyz/etc](https://github.com/LukeSmithxyz/etc) - Random files that could be of interest
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [PoeticRainbow/golden-days](https://github.com/PoeticRainbow/golden-days) - Golden Days is a Minecraft resource pack meant to bring back old textures, lighting, names, and sounds from older versions of Minecraft.
 - [shackhorn/UwUCraft](https://github.com/shackhorn/UwUCraft) - A wholesome minecraft texture pack collaborative effort.
@@ -494,6 +495,7 @@
 
 ## TypeScript 
 
+- [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [progfay/github-streaks](https://github.com/progfay/github-streaks) - Check streak on GitHub from CLI
