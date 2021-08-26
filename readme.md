@@ -77,6 +77,7 @@
 
 ## C# # 
 
+- [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded) - The Stardew Valley Expanded mod for Stardew Valley.
 - [DarwinBaker/AATool](https://github.com/DarwinBaker/AATool) - A tool to track Minecraft Advancement progress.
 - [Mr-Technician/BorderlessMinecraft](https://github.com/Mr-Technician/BorderlessMinecraft) - Application to run Minecraft as a borderless window.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
@@ -101,6 +102,7 @@
 
 ## C++ 
 
+- [mastercomfig/team-comtress-2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
@@ -427,7 +429,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 48 stars and 94 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 48 stars and 95 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
