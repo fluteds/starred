@@ -61,7 +61,7 @@
 - [fluteds/gtao-macro](https://github.com/fluteds/gtao-macro) - Collection of fresh and tweaked macros for GTAO. All macros are able to be used for quality of life usage
 - [2called-chaos/gtav-online-ahk](https://github.com/2called-chaos/gtav-online-ahk) - GTA V Online AHK-Macros
 - [Liscum/QuickMacro](https://github.com/Liscum/QuickMacro) - GTA Online useful macros
-- [pjagada/minecraftahk](https://github.com/pjagada/minecraftahk) - Scripts made or modified by Peej for resetting or other stuff
+- [pjagada/minecraftahk](https://github.com/pjagada/minecraftahk) - Reset macros to increase reset efficiency in Minecraft Java Edition speedrunning
 
 ## Batchfile 
 
@@ -209,7 +209,7 @@
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
-- [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - VSCode extension allowing the integration of a Dicord chat, bot templates, snippets, themes and more!
+- [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [vin/turntable.fm](https://github.com/vin/turntable.fm) - A turntable.fm bot based on Alain Gilbert's ttapi module for node.js.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
@@ -429,7 +429,7 @@
 - [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 49 stars and 97 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 97 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
