@@ -14,6 +14,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Elixir](#elixir)
   - [G-code](#g-code)
   - [Go](#go)
   - [HTML](#html)
@@ -102,7 +103,6 @@
 
 ## C++ 
 
-- [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [mastercomfig/team-comtress-2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -130,12 +130,17 @@
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 - [eladnava/applicationize](https://github.com/eladnava/applicationize) - Converts your favorite web apps into desktop apps with their own dedicated launcher icon.
 
+## Elixir 
+
+- [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
+
 ## G-code 
 
 - [hoppuman/TikTokHacks](https://github.com/hoppuman/TikTokHacks) - 
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [alaingilbert/ttapi](https://github.com/alaingilbert/ttapi) - Golang Turntable.fm api
@@ -180,7 +185,7 @@
 
 ## JavaScript 
 
-- [Ovilia/ovilia.github.io](https://github.com/Ovilia/ovilia.github.io) - Ovilia's personal site
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
@@ -319,6 +324,7 @@
 
 ## Others 
 
+- [5R33CH4/5R33CH4](https://github.com/5R33CH4/5R33CH4) - 5R33CH4
 - [LukeSmithxyz/etc](https://github.com/LukeSmithxyz/etc) - Random files that could be of interest
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [PoeticRainbow/golden-days](https://github.com/PoeticRainbow/golden-days) - Golden Days is a Minecraft resource pack meant to bring back old textures, lighting, names, and sounds from older versions of Minecraft.
@@ -385,6 +391,7 @@
 
 ## Python 
 
+- [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator
 - [robinuniverse/TwitFix](https://github.com/robinuniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [fluteds/gih](https://github.com/fluteds/gih) - Automatically collect daily check-in rewards from HoYoLAB Community via Workflow & Docker
@@ -427,10 +434,10 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
-- [EmoteBot/EmoteManager](https://github.com/EmoteBot/EmoteManager) - Discord bot that lets you manage server emotes
+- [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 97 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 98 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -485,6 +492,7 @@
 
 ## Swift 
 
+- [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [Dimillian/ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI) - Animal Crossing New Horizon companion app in SwiftUI
 
