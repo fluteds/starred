@@ -324,6 +324,7 @@
 
 ## Others 
 
+- [BekahHW/Moms-Learn-Tech](https://github.com/BekahHW/Moms-Learn-Tech) - Resources for moms coming back into the tech field or learning to code for the first time
 - [5R33CH4/5R33CH4](https://github.com/5R33CH4/5R33CH4) - 5R33CH4
 - [LukeSmithxyz/etc](https://github.com/LukeSmithxyz/etc) - Random files that could be of interest
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
