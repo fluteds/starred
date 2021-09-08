@@ -108,7 +108,7 @@
 - [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
-- [lx-s/WinMute](https://github.com/lx-s/WinMute) - WinMute let's you automatically mute your PC volume on certain events (e. g. Screensaver, Workstation Lock, Shutdown, etc.).
+- [lx-s/WinMute](https://github.com/lx-s/WinMute) - WinMute lets you automatically mute your PC volume on certain events (e. g. Screensaver, Workstation Lock, Shutdown, etc.).
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -441,7 +441,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 49 stars and 98 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 98 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
