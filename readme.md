@@ -509,6 +509,7 @@
 
 ## TypeScript 
 
+- [resir014/thebestmotherfuckingwebsite.co](https://github.com/resir014/thebestmotherfuckingwebsite.co) - Source for thebestmotherfuckingwebsite.co
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
