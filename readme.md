@@ -325,6 +325,7 @@
 
 ## Others 
 
+- [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [Hypnootize/TF2-Huds-Megalist](https://github.com/Hypnootize/TF2-Huds-Megalist) - List of all TF2 updated and outdated HUDS
 - [BekahHW/Moms-Learn-Tech](https://github.com/BekahHW/Moms-Learn-Tech) - Resources for moms coming back into the tech field or learning to code for the first time
 - [5R33CH4/5R33CH4](https://github.com/5R33CH4/5R33CH4) - 5R33CH4
