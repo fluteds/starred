@@ -337,7 +337,7 @@
 - [dadulo3/awesome-opendirectories](https://github.com/dadulo3/awesome-opendirectories) - Websites for data hoarders - grouped by category
 - [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets) - Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO.
 - [D4rkS0ulMC/WorldCountingMacros](https://github.com/D4rkS0ulMC/WorldCountingMacros) - 
-- [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 3. You found a secret!
+- [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 2. You found a secret!
 - [fluteds/starred](https://github.com/fluteds/starred) - ⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow!
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
