@@ -22,6 +22,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Mercury](#mercury)
@@ -59,7 +60,6 @@
 
 ## AutoHotkey 
 
-- [fluteds/gtao-macro](https://github.com/fluteds/gtao-macro) - Collection of fresh and tweaked macros for GTAO. All macros are able to be used for quality of life usage
 - [2called-chaos/gtav-online-ahk](https://github.com/2called-chaos/gtav-online-ahk) - GTA V Online AHK-Macros
 - [Liscum/QuickMacro](https://github.com/Liscum/QuickMacro) - GTA Online useful macros
 - [pjagada/minecraftahk](https://github.com/pjagada/minecraftahk) - Reset macros to increase reset efficiency in Minecraft Java Edition speedrunning
@@ -103,6 +103,7 @@
 
 ## C++ 
 
+- [abeaumont/competitive-programming](https://github.com/abeaumont/competitive-programming) - Solutions to problems from various online judges / contest sites.
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [mastercomfig/team-comtress-2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
@@ -186,6 +187,9 @@
 
 ## JavaScript 
 
+- [baspinarenes/spider-solitaire](https://github.com/baspinarenes/spider-solitaire) - Legendary spider solitaire game with Windows XP theme
+- [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
+- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [captainadorable/personal-website](https://github.com/captainadorable/personal-website) - My personal website source code.
 - [cyberbarbie/taelur](https://github.com/cyberbarbie/taelur) - Get to know Taelur via npm. Just run `npx taelur`
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -309,6 +313,10 @@
 
 - [charliezcr/Kpop-Data-Analysis](https://github.com/charliezcr/Kpop-Data-Analysis) - Statistics and Data Analysis about Kpop Industry
 
+## Kotlin 
+
+- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+
 ## Lua 
 
 - [swxy/NoPixelServer](https://github.com/swxy/NoPixelServer) - NoPixel Full Server Files working
@@ -330,7 +338,7 @@
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [Hypnootize/TF2-Huds-Megalist](https://github.com/Hypnootize/TF2-Huds-Megalist) - List of all TF2 updated and outdated HUDS
 - [BekahHW/Moms-Learn-Tech](https://github.com/BekahHW/Moms-Learn-Tech) - Resources for moms coming back into the tech field or learning to code for the first time
-- [5R33CH4/5R33CH4](https://github.com/5R33CH4/5R33CH4) - 5R33CH4
+- [sreechar/5R33CH4](https://github.com/sreechar/5R33CH4) - 5R33CH4
 - [LukeSmithxyz/etc](https://github.com/LukeSmithxyz/etc) - Random files that could be of interest
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [PoeticRainbow/golden-days](https://github.com/PoeticRainbow/golden-days) - Golden Days is a Minecraft resource pack meant to bring back old textures, lighting, names, and sounds from older versions of Minecraft.
@@ -444,7 +452,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 53 stars and 101 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 53 stars and 102 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -494,6 +502,7 @@
 
 ## Svelte 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, hassle-free, self-hostable Heroku & Netlify alternative
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 
 ## Swift 
@@ -512,6 +521,10 @@
 
 ## TypeScript 
 
+- [iGalaxyYT/igalaxy.dev](https://github.com/iGalaxyYT/igalaxy.dev) - My personal website, built using Next.js and hosted on Vercel
+- [juicyfx/juicy](https://github.com/juicyfx/juicy) - :tangerine: Awesome juicy lambdas for generating PDF, taking screenshots, transform XML to JSON, generate images from github readme, generate SVG icons, generate screenshots from Twitter/Facebok. Running on @vercel platform.
+- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
+- [makitsune/maki.cafe](https://github.com/makitsune/maki.cafe) - 
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
 - [ryanmcgall/ryanmcgall.xyz-](https://github.com/ryanmcgall/ryanmcgall.xyz-) - Personal website 👋
 - [cnrad/send](https://github.com/cnrad/send) - 💬 Send a message to me on Discord using webhooks
