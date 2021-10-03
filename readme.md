@@ -521,7 +521,7 @@
 
 ## TypeScript 
 
-- [iGalaxyYT/igalaxy.dev](https://github.com/iGalaxyYT/igalaxy.dev) - My personal website, built using Next.js and hosted on Vercel
+- [iGalaxyYT/igalaxy.dev](https://github.com/iGalaxyYT/igalaxy.dev) - (old) My personal website, built using Next.js and hosted on Vercel
 - [juicyfx/juicy](https://github.com/juicyfx/juicy) - :tangerine: Awesome juicy lambdas for generating PDF, taking screenshots, transform XML to JSON, generate images from github readme, generate SVG icons, generate screenshots from Twitter/Facebok. Running on @vercel platform.
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
 - [makitsune/maki.cafe](https://github.com/makitsune/maki.cafe) - 
