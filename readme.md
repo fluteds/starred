@@ -190,6 +190,7 @@
 
 ## JavaScript 
 
+- [itsmeow/TOP-LoC-ARG-Tester](https://github.com/itsmeow/TOP-LoC-ARG-Tester) - A discord bot to test codes from the twenty one pilots LoC ARG
 - [cheap-glitch/vim.help](https://github.com/cheap-glitch/vim.help) - 📔 A mirror of Vim’s built-in documentation, adapted and improved for the web.
 - [cheap-glitch/fretboarder](https://github.com/cheap-glitch/fretboarder) - 🎸 A web app to visualize scales, chords and arpeggios on all kinds of fretboards.
 - [notion-enhancer/extension](https://github.com/notion-enhancer/extension) - an enhancer/customiser for the all-in-one productivity workspace notion.so on the web
@@ -461,7 +462,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 54 stars and 102 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 54 stars and 103 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -533,7 +534,6 @@
 ## TypeScript 
 
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
-- [iGalaxyYT/igalaxy.dev](https://github.com/iGalaxyYT/igalaxy.dev) - (old) My personal website, built using Next.js and hosted on Vercel
 - [juicyfx/juicy](https://github.com/juicyfx/juicy) - :tangerine: Awesome juicy lambdas for generating PDF, taking screenshots, transform XML to JSON, generate images from github readme, generate SVG icons, generate screenshots from Twitter/Facebok. Running on @vercel platform.
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
 - [makitsune/maki.cafe](https://github.com/makitsune/maki.cafe) - 
