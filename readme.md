@@ -94,7 +94,7 @@
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 - [benjibobs/Steam-Shutdown](https://github.com/benjibobs/Steam-Shutdown) - A simple and lightweight program that will shutdown your PC after Steam has finished all of its downloads
-- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10
+- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [karpach/remote-shutdown-pc](https://github.com/karpach/remote-shutdown-pc) - Remote Shutdown Manager is a windows application, which gives an ability to shutdown, suspend, hibernate PC or turn screen off using HTTP GET request.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [GroovyGiantPanda/FiveMRpServerResources](https://github.com/GroovyGiantPanda/FiveMRpServerResources) - 
@@ -190,6 +190,8 @@
 
 ## JavaScript 
 
+- [jdan/cards](https://github.com/jdan/cards) - Turn your Notion database into a deck of cards
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [itsmeow/TOP-LoC-ARG-Tester](https://github.com/itsmeow/TOP-LoC-ARG-Tester) - A discord bot to test codes from the twenty one pilots LoC ARG
 - [cheap-glitch/vim.help](https://github.com/cheap-glitch/vim.help) - 📔 A mirror of Vim’s built-in documentation, adapted and improved for the web.
 - [cheap-glitch/fretboarder](https://github.com/cheap-glitch/fretboarder) - 🎸 A web app to visualize scales, chords and arpeggios on all kinds of fretboards.
@@ -462,7 +464,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 54 stars and 103 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 55 stars and 103 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
