@@ -103,6 +103,8 @@
 
 ## C++ 
 
+- [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) - An osu! Bongo Cat overlay
+- [a1928370421/Bongobs-Cat-Plugin](https://github.com/a1928370421/Bongobs-Cat-Plugin) - Bongo Cat On Obs
 - [abeaumont/competitive-programming](https://github.com/abeaumont/competitive-programming) - Solutions to problems from various online judges / contest sites.
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [mastercomfig/team-comtress-2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
