@@ -159,6 +159,9 @@
 
 ## HTML 
 
+- [fluteds/s](https://github.com/fluteds/s) - 🔗 A url shortener hosted on GitHub pages and redirects created by issue requests. Repo is forked from nelsontky
+- [fluteds/CSS](https://github.com/fluteds/CSS) - My styling files for use with Discord, Spicetify and Tumblr
+- [fluteds/found](https://github.com/fluteds/found) - dmaorg website by twenty one pilots rewritten from the ground up for practice on html, css styling and works exactly the same as the original website
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [fluteds/tttools](https://github.com/fluteds/tttools) - A collection of quality of life tools and themes for turntable.fm
@@ -350,6 +353,7 @@
 
 ## Others 
 
+- [fluteds/acnh](https://github.com/fluteds/acnh) - 🌱 Tracking progress + info in Animal Crossing: New Horizons! Includes an automatic daily task list issue creator and issue templates
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -486,6 +490,7 @@
 
 ## ReScript 
 
+- [fluteds/tf2](https://github.com/fluteds/tf2) - My configs, huds, mods and binds for TF2
 - [bodhish/mytemplate.xyz](https://github.com/bodhish/mytemplate.xyz) - A No-Code developer website builder experiment created with ReScript. The builder creates a JSON from the user input and renders a pre-defined template. Supports links, Dev.to blog page, and GitHub repositories as input.
 - [JarateKing/TF2-Hud-Reference](https://github.com/JarateKing/TF2-Hud-Reference) - Tutorial and reference for huds
 
@@ -546,6 +551,7 @@
 
 ## TypeScript 
 
+- [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
 - [barbarbar338/storage](https://github.com/barbarbar338/storage) - 📦 A system where you can share your files publicly on the internet. Upload your files and share them with anyone with a permanent url!
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [juicyfx/juicy](https://github.com/juicyfx/juicy) - :tangerine: Awesome juicy lambdas for generating PDF, taking screenshots, transform XML to JSON, generate images from github readme, generate SVG icons, generate screenshots from Twitter/Facebok. Running on @vercel platform.
