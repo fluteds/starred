@@ -60,6 +60,7 @@
 
 ## AutoHotkey 
 
+- [Nigh/Genshin-fishing](https://github.com/Nigh/Genshin-fishing) - Genshin auto fishing
 - [2called-chaos/gtav-online-ahk](https://github.com/2called-chaos/gtav-online-ahk) - GTA V Online AHK-Macros
 - [Liscum/QuickMacro](https://github.com/Liscum/QuickMacro) - GTA Online useful macros
 - [pjagada/minecraftahk](https://github.com/pjagada/minecraftahk) - Reset macros to increase reset efficiency in Minecraft Java Edition speedrunning
@@ -103,6 +104,7 @@
 
 ## C++ 
 
+- [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) - An osu! Bongo Cat overlay
 - [a1928370421/Bongobs-Cat-Plugin](https://github.com/a1928370421/Bongobs-Cat-Plugin) - Bongo Cat On Obs
 - [abeaumont/competitive-programming](https://github.com/abeaumont/competitive-programming) - Solutions to problems from various online judges / contest sites.
@@ -196,6 +198,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/github-username-cli](https://github.com/sindresorhus/github-username-cli) - Get a GitHub username from an email address
 - [benwiley4000/win95-media-player](https://github.com/benwiley4000/win95-media-player) - 💿 Back from 1995, and running on your website
 - [aanthr0/shxbot](https://github.com/aanthr0/shxbot) - shxbot is a Discord bot for uploading images to sxcu.net
 - [fosslife/delta](https://github.com/fosslife/delta) - A modern file uploader + URL shortner written in node for your private cloud. low memory overhead + secure
@@ -479,7 +482,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 56 stars and 103 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 56 stars and 104 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -552,6 +555,7 @@
 
 ## TypeScript 
 
+- [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
 - [barbarbar338/storage](https://github.com/barbarbar338/storage) - 📦 A system where you can share your files publicly on the internet. Upload your files and share them with anyone with a permanent url!
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
