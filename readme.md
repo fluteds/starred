@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [thomasgranbohm/mascot-tracker](https://github.com/thomasgranbohm/mascot-tracker) - 🐧 Mascot tracker webhook setup for Club Penguin Rewritten and Discord
 - [LegitCP/cpr-client-library](https://github.com/LegitCP/cpr-client-library) - Client library for Club Penguin Rewritten's HTML5 client.
 - [Strencher/BdBrowser](https://github.com/Strencher/BdBrowser) - 
 - [sindresorhus/github-username-cli](https://github.com/sindresorhus/github-username-cli) - Get a GitHub username from an email address
@@ -231,7 +232,7 @@
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [sindresorhus/capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules
 - [kevva/wifi-password-cli](https://github.com/kevva/wifi-password-cli) - Get current wifi password
@@ -360,6 +361,7 @@
 
 ## Others 
 
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [fuwn/xp](https://github.com/fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
 - [fluteds/acnh](https://github.com/fluteds/acnh) - 🌱 Tracking progress + info in Animal Crossing: New Horizons! Includes an automatic daily task list issue creator and issue templates
