@@ -199,7 +199,6 @@
 
 ## JavaScript 
 
-- [thomasgranbohm/mascot-tracker](https://github.com/thomasgranbohm/mascot-tracker) - 🐧 Mascot tracker webhook setup for Club Penguin Rewritten and Discord
 - [LegitCP/cpr-client-library](https://github.com/LegitCP/cpr-client-library) - Client library for Club Penguin Rewritten's HTML5 client.
 - [Strencher/BdBrowser](https://github.com/Strencher/BdBrowser) - 
 - [sindresorhus/github-username-cli](https://github.com/sindresorhus/github-username-cli) - Get a GitHub username from an email address
@@ -492,7 +491,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 57 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 58 stars and 106 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -565,6 +564,9 @@
 
 ## TypeScript 
 
+- [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - Archiving Lorde's emails. Why? I don't really know I think I just like thinking it's a blog. Will I ever finish it? I don't know. Does it look pretty? Yes
+- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - Next.js blog starter built with Typescript, MDX, and Tailwind CSS.
+- [thomasgranbohm/mascot-tracker](https://github.com/thomasgranbohm/mascot-tracker) - 🐧 Mascot tracker implementation for Club Penguin Rewritten and Discord
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
 - [barbarbar338/storage](https://github.com/barbarbar338/storage) - 📦 A system where you can share your files publicly on the internet. Upload your files and share them with anyone with a permanent url!
