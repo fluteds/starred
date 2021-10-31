@@ -118,7 +118,7 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 
@@ -441,7 +441,7 @@
 
 ## Python 
 
-- [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手
+- [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币任务
 - [Xetera/this-tweet-took-off](https://github.com/Xetera/this-tweet-took-off) - 🔪 Block replies to viral tweets from users getting paid to promote useless products
 - [djrrb/BadgeBot](https://github.com/djrrb/BadgeBot) - A drawbot script that created the badges for the Typographics conference.
 - [scribbletone/overlay-pdf](https://github.com/scribbletone/overlay-pdf) - This Drawbot script will take two PDFs and overlay them to help highlight differences.
