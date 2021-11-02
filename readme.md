@@ -441,7 +441,7 @@
 
 ## Python 
 
-- [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币任务
+- [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
 - [Xetera/this-tweet-took-off](https://github.com/Xetera/this-tweet-took-off) - 🔪 Block replies to viral tweets from users getting paid to promote useless products
 - [djrrb/BadgeBot](https://github.com/djrrb/BadgeBot) - A drawbot script that created the badges for the Typographics conference.
 - [scribbletone/overlay-pdf](https://github.com/scribbletone/overlay-pdf) - This Drawbot script will take two PDFs and overlay them to help highlight differences.
@@ -494,7 +494,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 58 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 106 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -537,12 +537,12 @@
 
 ## Shell 
 
+- [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [notion-enhancer/notion-repackaged](https://github.com/notion-enhancer/notion-repackaged) - Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux. Direct port of Notion is also available for Linux.
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
-- [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations.
 - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
