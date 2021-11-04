@@ -201,6 +201,7 @@
 
 ## JavaScript 
 
+- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [LegitCP/cpr-client-library](https://github.com/LegitCP/cpr-client-library) - Client library for Club Penguin Rewritten's HTML5 client.
 - [Strencher/BdBrowser](https://github.com/Strencher/BdBrowser) - 
 - [sindresorhus/github-username-cli](https://github.com/sindresorhus/github-username-cli) - Get a GitHub username from an email address
