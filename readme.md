@@ -74,6 +74,7 @@
 
 ## C 
 
+- [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing Impersonation Privileges on Windows 10 and Server 2019
 - [smy20011/fsg-windows](https://github.com/smy20011/fsg-windows) - Minecraft Speedrun Filter Compiled for Windows
 - [AndyNovo/filteredseed](https://github.com/AndyNovo/filteredseed) - 
 - [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
@@ -106,6 +107,7 @@
 
 ## C++ 
 
+- [MaikelChan/SpaceCadetPinball](https://github.com/MaikelChan/SpaceCadetPinball) - Wii and 3DS ports of  3D Pinball - Space Cadet
 - [alula/SpaceCadetPinball](https://github.com/alula/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) - An osu! Bongo Cat overlay
