@@ -69,6 +69,7 @@
 
 ## Batchfile 
 
+- [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview) - An open source batch script based WiFi Passview for Windows!
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [Lyceris-chan/GenshinImpact](https://github.com/Lyceris-chan/GenshinImpact) - This repo contains a script meant to ease and help intel players with setting up their machine to be able to play this game.
 
@@ -192,6 +193,8 @@
 
 ## Java 
 
+- [axieum/fabric-example-mod](https://github.com/axieum/fabric-example-mod) - An elegant Minecraft mod template for the Fabric mod loader
+- [Moresteck/BetaCraft-Launcher-Java](https://github.com/Moresteck/BetaCraft-Launcher-Java) - Java edition of BetaCraft Launcher
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [toolbox4minecraft/amidst](https://github.com/toolbox4minecraft/amidst) - Advanced Minecraft Interface and Data/Structure Tracking
 - [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
@@ -203,6 +206,7 @@
 
 ## JavaScript 
 
+- [Jesper-Hustad/NoPixel-minigame](https://github.com/Jesper-Hustad/NoPixel-minigame) - 
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [LegitCP/cpr-client-library](https://github.com/LegitCP/cpr-client-library) - Client library for Club Penguin Rewritten's HTML5 client.
 - [Strencher/BdBrowser](https://github.com/Strencher/BdBrowser) - 
@@ -319,7 +323,6 @@
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [good-lly/gdpr-documents](https://github.com/good-lly/gdpr-documents) - 🇪🇺  Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 ("GDPR") documents for personal use.
 - [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [Sleepydragn1/twitchAFK](https://github.com/Sleepydragn1/twitchAFK) - SlimerJS script for idling a Twitch channel.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -348,6 +351,7 @@
 
 ## Lua 
 
+- [Adoggman/NoPixelServer](https://github.com/Adoggman/NoPixelServer) - NoPixel full server files
 - [swxy/NoPixelServer](https://github.com/swxy/NoPixelServer) - NoPixel Full Server Files working
 
 ## Makefile 
@@ -365,6 +369,7 @@
 
 ## Others 
 
+- [saucettv/WorkingTwitchAdBlockers](https://github.com/saucettv/WorkingTwitchAdBlockers) - 
 - [LlamaPag/bastion](https://github.com/LlamaPag/bastion) - A bastion practice map for 1.16.1
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [mandatoryprogrammer/chrome-extension-manifests-dataset](https://github.com/mandatoryprogrammer/chrome-extension-manifests-dataset) - &gt;100K Chrome Extension manifest.json files for analysis
