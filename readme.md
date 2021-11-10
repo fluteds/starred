@@ -206,6 +206,7 @@
 
 ## JavaScript 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [aviaryan/Kissanime-Batch-Downloader](https://github.com/aviaryan/Kissanime-Batch-Downloader) - :jp: :tv: KissAnime, KissCartoon and KissAsian batch links generator script
 - [Jesper-Hustad/NoPixel-minigame](https://github.com/Jesper-Hustad/NoPixel-minigame) - 
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
@@ -370,6 +371,7 @@
 
 ## Others 
 
+- [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [fluteds/dotfiles](https://github.com/fluteds/dotfiles) - 
 - [saucettv/WorkingTwitchAdBlockers](https://github.com/saucettv/WorkingTwitchAdBlockers) - 
 - [LlamaPag/bastion](https://github.com/LlamaPag/bastion) - A bastion practice map for 1.16.1
@@ -508,7 +510,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 107 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 106 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
