@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [auguwu/ume](https://github.com/auguwu/ume) - 💝 梅 / ume is a easy, self-hostable, and flexible image and file host; primarily used for ShareX
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
@@ -206,6 +207,8 @@
 
 ## JavaScript 
 
+- [typicode/tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
+- [Erisa/worker-links](https://github.com/Erisa/worker-links) - A simple URL Shortener for Cloudflare Workers or anywhere!
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [aviaryan/Kissanime-Batch-Downloader](https://github.com/aviaryan/Kissanime-Batch-Downloader) - :jp: :tv: KissAnime, KissCartoon and KissAsian batch links generator script
 - [Jesper-Hustad/NoPixel-minigame](https://github.com/Jesper-Hustad/NoPixel-minigame) - 
@@ -371,6 +374,7 @@
 
 ## Others 
 
+- [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [fluteds/dotfiles](https://github.com/fluteds/dotfiles) - 
 - [saucettv/WorkingTwitchAdBlockers](https://github.com/saucettv/WorkingTwitchAdBlockers) - 
@@ -447,6 +451,7 @@
 
 ## PHP 
 
+- [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) - ShareXen - Another ShareX Custom Uploader PHP Script
 - [Plancke/hypixel-php](https://github.com/Plancke/hypixel-php) - 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [JoeGandy/ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) - A little PHP script created for uploading custom sharex files to your own webserver
@@ -456,6 +461,7 @@
 
 ## Python 
 
+- [kyb3r/modmail](https://github.com/kyb3r/modmail) - A feature rich discord Modmail bot
 - [jackblk/DeviceAuthGenerator](https://github.com/jackblk/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
 - [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
 - [Xetera/this-tweet-took-off](https://github.com/Xetera/this-tweet-took-off) - 🔪 Block replies to viral tweets from users getting paid to promote useless products
