@@ -194,6 +194,7 @@
 
 ## Java 
 
+- [fluteds/Potato](https://github.com/fluteds/Potato) - If you fork this then you can say you forked a potato.
 - [axieum/fabric-example-mod](https://github.com/axieum/fabric-example-mod) - An elegant Minecraft mod template for the Fabric mod loader
 - [Moresteck/BetaCraft-Launcher-Java](https://github.com/Moresteck/BetaCraft-Launcher-Java) - Java edition of BetaCraft Launcher
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
@@ -207,6 +208,9 @@
 
 ## JavaScript 
 
+- [fluteds/status-change](https://github.com/fluteds/status-change) - Add a custom Playing status on Discord's browser webclient version
+- [fluteds/cli](https://github.com/fluteds/cli) - A short command line npm readme package that's pretty useless but it links to my socials, work and a kitten cam so... that's a bonus?
+- [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [typicode/tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [Erisa/worker-links](https://github.com/Erisa/worker-links) - A simple URL Shortener for Cloudflare Workers or anywhere!
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -374,6 +378,8 @@
 
 ## Others 
 
+- [fluteds/sdb](https://github.com/fluteds/sdb) - Database repo for 's' a url shortener hosted on GitHub pages and redirects created by issue requests
+- [fluteds/how-to-ask-for-help](https://github.com/fluteds/how-to-ask-for-help) - This awesome list repo contains information and lists of open sourced websites and repos for asking questions relating to coding.
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [fluteds/dotfiles](https://github.com/fluteds/dotfiles) - 
@@ -411,7 +417,7 @@
 - [devmount/CheatSheets](https://github.com/devmount/CheatSheets) - A curated list of everything I look up more than twice
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [isaacs/github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
-- [miffycs/Animal-Crossing-Amiibo](https://github.com/miffycs/Animal-Crossing-Amiibo) - 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only.
+- [miffycs/Animal-Crossing-Amiibo](https://github.com/miffycs/Animal-Crossing-Amiibo) - 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only. Series 5 data uploaded.
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
 - [ZoeBijl/QueerCats](https://github.com/ZoeBijl/QueerCats) - A whole bunch of pride flags represented as blobby cat emoji
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -461,6 +467,7 @@
 
 ## Python 
 
+- [ecriminal/Discord-Exploit-Collection](https://github.com/ecriminal/Discord-Exploit-Collection) - 👾 A collection of Discord bugs and exploits
 - [kyb3r/modmail](https://github.com/kyb3r/modmail) - A feature rich discord Modmail bot
 - [jackblk/DeviceAuthGenerator](https://github.com/jackblk/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
 - [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
@@ -516,7 +523,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 105 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
@@ -597,12 +604,12 @@
 
 ## TypeScript 
 
-- [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - ✉️ Lorde Mail Archive is a website written with Typescript and Tailwind CSS containing all emails sent from Lorde via her Mailing List (it also looks pretty)
+- [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - Lorde Mail Archive is a website written with Typescript and Tailwind CSS containing all emails sent from Lorde via her Mailing List
 - [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - Next.js blog starter built with Typescript, MDX, and Tailwind CSS.
 - [thomasgranbohm/mascot-tracker](https://github.com/thomasgranbohm/mascot-tracker) - 🐧 Mascot tracker implementation for Club Penguin Rewritten and Discord
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
-- [barbarbar338/storage](https://github.com/barbarbar338/storage) - 📦 A system where you can share your files publicly on the internet. Upload your files and share them with anyone with a permanent url!
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [juicyfx/juicy](https://github.com/juicyfx/juicy) - :tangerine: Awesome juicy lambdas for generating PDF, taking screenshots, transform XML to JSON, generate images from github readme, generate SVG icons, generate screenshots from Twitter/Facebok. Running on @vercel platform.
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
