@@ -60,6 +60,9 @@
 
 ## AutoHotkey 
 
+- [iQuerz/MyAHKScript](https://github.com/iQuerz/MyAHKScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
+- [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
+- [Drugoy/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.
 - [fluteds/mcahk](https://github.com/fluteds/mcahk) - Fork of pjagada/minecraftahk reset macros to increase reset efficiency in Minecraft Java Edition speedrunning amongst other things
 - [pjagada/strongholdnotcalculator](https://github.com/pjagada/strongholdnotcalculator) - lookup tables, their generators, and readers for perfect travel
 - [Nigh/Genshin-fishing](https://github.com/Nigh/Genshin-fishing) - Genshin auto fishing
@@ -525,7 +528,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 60 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 60 stars and 108 forks
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
