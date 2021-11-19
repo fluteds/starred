@@ -173,6 +173,7 @@
 
 ## HTML 
 
+- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [fluteds/s](https://github.com/fluteds/s) - 🔗 A url shortener hosted on GitHub pages and redirects created by issue requests. Repo is forked from nelsontky
 - [fluteds/CSS](https://github.com/fluteds/CSS) - My styling files for use with Discord, Spicetify and Tumblr
 - [fluteds/found](https://github.com/fluteds/found) - dmaorg website by twenty one pilots rewritten from the ground up for practice on html, css styling and works exactly the same as the original website
@@ -385,6 +386,7 @@
 
 ## Others 
 
+- [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [fluteds/sdb](https://github.com/fluteds/sdb) - Database repo for 's' a url shortener hosted on GitHub pages and redirects created by issue requests
 - [fluteds/how-to-ask-for-help](https://github.com/fluteds/how-to-ask-for-help) - This awesome list repo contains information and lists of open sourced websites and repos for asking questions relating to coding.
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
