@@ -173,13 +173,14 @@
 
 ## HTML 
 
+- [Erisa/dis.cord.gift](https://github.com/Erisa/dis.cord.gift) - IMPORTANT: This is just a rickroll. There is nothing malicious and never will be. Send any legal requests to my email.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [fluteds/s](https://github.com/fluteds/s) - 🔗 A url shortener hosted on GitHub pages and redirects created by issue requests. Repo is forked from nelsontky
 - [fluteds/CSS](https://github.com/fluteds/CSS) - My styling files for use with Discord, Spicetify and Tumblr
 - [fluteds/found](https://github.com/fluteds/found) - dmaorg website by twenty one pilots rewritten from the ground up for practice on html, css styling and works exactly the same as the original website
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
-- [fluteds/tttools](https://github.com/fluteds/tttools) - A collection of quality of life tools and themes for turntable.fm. All themes and plugins are compatiable with ttStyles, Tampermonkey, Stylish and other turntable extensions
+- [fluteds/tttools](https://github.com/fluteds/tttools) - Quality of life tools and themes for turntable.fm. All themes and plugins are compatiable with ttStyles, Tampermonkey, Stylish and other turntable extensions
 - [randomidiot13/queueclient-web](https://github.com/randomidiot13/queueclient-web) - An unofficial client for viewing the speedrun.com verification queue, in HTML this time.
 - [anadius/gd-efc](https://github.com/anadius/gd-efc) - Google Drive - encrypted folder copy
 - [lukechilds/doge-seed](https://github.com/lukechilds/doge-seed) - Dank mnemonic seed phrases
@@ -215,6 +216,7 @@
 
 ## JavaScript 
 
+- [journey-ad/Moe-counter](https://github.com/journey-ad/Moe-counter) - 多种风格可选的萌萌计数器
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [fluteds/status-change](https://github.com/fluteds/status-change) - Add a custom Playing status on Discord's browser webclient version
 - [fluteds/cli](https://github.com/fluteds/cli) - A short command line npm readme package that's pretty useless but it links to my socials, work and a kitten cam so... that's a bonus?
@@ -257,7 +259,7 @@
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [sindresorhus/capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 - [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules
 - [kevva/wifi-password-cli](https://github.com/kevva/wifi-password-cli) - Get current wifi password
@@ -475,6 +477,7 @@
 
 ## Python 
 
+- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics.
 - [Roadcrosser/discord-member-watch](https://github.com/Roadcrosser/discord-member-watch) - Need to talk to/discipline a member but they aren't on? Get notified when they are.
 - [ecriminal/Discord-Exploit-Collection](https://github.com/ecriminal/Discord-Exploit-Collection) - 👾 A collection of Discord bugs and exploits
 - [kyb3r/modmail](https://github.com/kyb3r/modmail) - A feature rich discord Modmail bot
@@ -612,6 +615,7 @@
 
 ## TypeScript 
 
+- [tatupesonen/formatbot](https://github.com/tatupesonen/formatbot) - A bot to format code inside code blocks on Discord
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - Written with Typescript and Tailwind CSS, LMA contains all emails sent from Lorde via her Mailing List
 - [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - Next.js blog starter built with Typescript, MDX, and Tailwind CSS.
