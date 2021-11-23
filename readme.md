@@ -72,8 +72,9 @@
 
 ## Batchfile 
 
+- [RiversideRocks/autobing](https://github.com/RiversideRocks/autobing) - Farm Microsoft Rewards with Bing searches.
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
-- [fluteds/batch](https://github.com/fluteds/batch) - These are my collection of Batchfiles and Autohotkey scripts, some written by me, some written by others and modified. Expect some questionable bat files from my end
+- [fluteds/batch](https://github.com/fluteds/batch) - These are my collection of Batchfiles and Autohotkey scripts, some written by me, some written by others and modified. Expect some questionably written bat files from my end
 - [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview) - An open source batch script based WiFi Passview for Windows!
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [Lyceris-chan/GenshinImpact](https://github.com/Lyceris-chan/GenshinImpact) - This repo contains a script meant to ease and help intel players with setting up their machine to be able to play this game.
@@ -202,8 +203,8 @@
 
 ## Java 
 
+- [LambdAurora/fuck_namemc](https://github.com/LambdAurora/fuck_namemc) - Minecraft mod to block NameMC indexing on servers.
 - [mjtb49/StrongholdTrainer](https://github.com/mjtb49/StrongholdTrainer) - 
-- [fluteds/Potato](https://github.com/fluteds/Potato) - If you fork this then you can say you forked a potato.
 - [axieum/fabric-example-mod](https://github.com/axieum/fabric-example-mod) - An elegant Minecraft mod template for the Fabric mod loader
 - [Moresteck/BetaCraft-Launcher-Java](https://github.com/Moresteck/BetaCraft-Launcher-Java) - Java edition of BetaCraft Launcher
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
@@ -478,6 +479,7 @@
 
 ## Python 
 
+- [jjjchens235/bing-rewards](https://github.com/jjjchens235/bing-rewards) - An automated solution for earning daily Microsoft Rewards points using Python and Selenium
 - [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics.
 - [Roadcrosser/discord-member-watch](https://github.com/Roadcrosser/discord-member-watch) - Need to talk to/discipline a member but they aren't on? Get notified when they are.
 - [ecriminal/Discord-Exploit-Collection](https://github.com/ecriminal/Discord-Exploit-Collection) - 👾 A collection of Discord bugs and exploits
@@ -535,7 +537,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 60 stars and 107 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 61 stars and 111 forks 🌟
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
