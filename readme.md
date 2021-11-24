@@ -390,6 +390,7 @@
 
 ## Others 
 
+- [skogard/apebase](https://github.com/skogard/apebase) - Bored Ape Database
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [fluteds/sdb](https://github.com/fluteds/sdb) - Database repo for 's' a url shortener hosted on GitHub pages and redirects created by issue requests
 - [fluteds/how-to-ask-for-help](https://github.com/fluteds/how-to-ask-for-help) - This awesome list repo contains information and lists of open sourced websites and repos for asking questions relating to coding.
@@ -419,7 +420,7 @@
 - [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets) - Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO.
 - [D4rkS0ulMC/WorldCountingMacros](https://github.com/D4rkS0ulMC/WorldCountingMacros) - 
 - [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 2. You found a secret!
-- [fluteds/starred](https://github.com/fluteds/starred) - ⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow!
+- [fluteds/starred](https://github.com/fluteds/starred) - ⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
@@ -537,7 +538,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 61 stars and 111 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 61 stars and 109 forks 🌟
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
