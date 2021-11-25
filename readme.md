@@ -9,6 +9,7 @@
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
+  - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -60,15 +61,19 @@
 
 ## AutoHotkey 
 
+- [fluteds/mcahk](https://github.com/fluteds/mcahk) - Reset macros to increase reset efficiency in Minecraft Java Edition speedrunning amongst other things
 - [iQuerz/MyAHKScript](https://github.com/iQuerz/MyAHKScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
 - [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
 - [Drugoy/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.
-- [fluteds/mcahk](https://github.com/fluteds/mcahk) - Fork of pjagada/minecraftahk reset macros to increase reset efficiency in Minecraft Java Edition speedrunning amongst other things
 - [pjagada/strongholdnotcalculator](https://github.com/pjagada/strongholdnotcalculator) - lookup tables, their generators, and readers for perfect travel
 - [Nigh/Genshin-fishing](https://github.com/Nigh/Genshin-fishing) - Genshin auto fishing
 - [2called-chaos/gtav-online-ahk](https://github.com/2called-chaos/gtav-online-ahk) - GTA V Online AHK-Macros
 - [Liscum/QuickMacro](https://github.com/Liscum/QuickMacro) - GTA Online useful macros
 - [pjagada/minecraftahk](https://github.com/pjagada/minecraftahk) - Reset macros to increase reset efficiency in Minecraft Java Edition speedrunning
+
+## AutoIt 
+
+- [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, and Weather Results to Your Default Browser
 
 ## Batchfile 
 
@@ -178,7 +183,7 @@
 - [Erisa/dis.cord.gift](https://github.com/Erisa/dis.cord.gift) - IMPORTANT: This is just a rickroll. There is nothing malicious and never will be. Send any legal requests to my email.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [fluteds/s](https://github.com/fluteds/s) - 🔗 A url shortener hosted on GitHub pages and redirects created by issue requests. Repo is forked from nelsontky
-- [fluteds/CSS](https://github.com/fluteds/CSS) - My styling files for use with Discord, Spicetify and Tumblr
+- [fluteds/css](https://github.com/fluteds/css) - Styling files for use with Discord, Spicetify and Tumblr - not actively maintained with the latest css changes
 - [fluteds/found](https://github.com/fluteds/found) - dmaorg website by twenty one pilots rewritten from the ground up for practice on html, css styling and works exactly the same as the original website
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
@@ -390,10 +395,10 @@
 
 ## Others 
 
+- [Metacor/Minecraft-Speedrun-Guide](https://github.com/Metacor/Minecraft-Speedrun-Guide) - Minecraft - Any%, RSG, 1.16.1
 - [skogard/apebase](https://github.com/skogard/apebase) - Bored Ape Database
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [fluteds/sdb](https://github.com/fluteds/sdb) - Database repo for 's' a url shortener hosted on GitHub pages and redirects created by issue requests
-- [fluteds/how-to-ask-for-help](https://github.com/fluteds/how-to-ask-for-help) - This awesome list repo contains information and lists of open sourced websites and repos for asking questions relating to coding.
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [saucettv/WorkingTwitchAdBlockers](https://github.com/saucettv/WorkingTwitchAdBlockers) - 
@@ -403,7 +408,7 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [fuwn/xp](https://github.com/fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
-- [fluteds/acnh](https://github.com/fluteds/acnh) - 🌱 Tracking progress + info in Animal Crossing: New Horizons! Includes an automatic daily task list issue creator and issue templates
+- [fluteds/acnh](https://github.com/fluteds/acnh) - Tracking progress + info in Animal Crossing: New Horizons! Includes an automatic daily task list issue creator and issue templates
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -480,6 +485,7 @@
 
 ## Python 
 
+- [Phanabani/minecraft-playtime-calculator](https://github.com/Phanabani/minecraft-playtime-calculator) - A tool to analyze chat logs generated by Minecraft
 - [jjjchens235/bing-rewards](https://github.com/jjjchens235/bing-rewards) - An automated solution for earning daily Microsoft Rewards points using Python and Selenium
 - [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - Rick Roll Language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are coming from Rick Astley's lyrics.
 - [Roadcrosser/discord-member-watch](https://github.com/Roadcrosser/discord-member-watch) - Need to talk to/discipline a member but they aren't on? Get notified when they are.
@@ -538,7 +544,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 61 stars and 109 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 109 forks 🌟
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
