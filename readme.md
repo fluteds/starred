@@ -61,7 +61,7 @@
 
 ## AutoHotkey 
 
-- [fluteds/mcahk](https://github.com/fluteds/mcahk) - Reset macros to increase reset efficiency in Minecraft Java Edition speedrunning amongst other things
+- [fluteds/mcahk](https://github.com/fluteds/mcahk) - Reset macros to increase reset efficiency in Minecraft Java Edition speedrunning
 - [iQuerz/MyAHKScript](https://github.com/iQuerz/MyAHKScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
 - [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
 - [Drugoy/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.
@@ -180,6 +180,7 @@
 
 ## HTML 
 
+- [prolesoft/txt](https://github.com/prolesoft/txt) - Client-side encrypted (no server) text sharing
 - [Erisa/dis.cord.gift](https://github.com/Erisa/dis.cord.gift) - IMPORTANT: This is just a rickroll. There is nothing malicious and never will be. Send any legal requests to my email.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [fluteds/s](https://github.com/fluteds/s) - 🔗 A url shortener hosted on GitHub pages and redirects created by issue requests. Repo is forked from nelsontky
@@ -223,6 +224,8 @@
 
 ## JavaScript 
 
+- [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
+- [bokub/nopaste](https://github.com/bokub/nopaste) - :clipboard: Client-side paste service
 - [journey-ad/Moe-counter](https://github.com/journey-ad/Moe-counter) - 多种风格可选的萌萌计数器
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [fluteds/status-change](https://github.com/fluteds/status-change) - Add a custom Playing status on Discord's browser webclient version
