@@ -62,7 +62,6 @@
 ## AutoHotkey 
 
 - [fluteds/mcahk](https://github.com/fluteds/mcahk) - Macros to increase reset efficiency in Minecraft Java Edition speedrunning in all categories and to help with macro practice
-- [iQuerz/MyAHKScript](https://github.com/iQuerz/MyAHKScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
 - [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
 - [Drugoy/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.
 - [pjagada/strongholdnotcalculator](https://github.com/pjagada/strongholdnotcalculator) - lookup tables, their generators, and readers for perfect travel
@@ -73,7 +72,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, and Weather Results to Your Default Browser
+- [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
 ## Batchfile 
 
@@ -94,6 +93,7 @@
 
 ## C# # 
 
+- [iQuerz/MyAHKScript](https://github.com/iQuerz/MyAHKScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
 - [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded) - The Stardew Valley Expanded mod for Stardew Valley.
 - [DarwinBaker/AATool](https://github.com/DarwinBaker/AATool) - A tool to track Minecraft Advancement progress.
 - [Mr-Technician/BorderlessMinecraft](https://github.com/Mr-Technician/BorderlessMinecraft) - Application to run Minecraft as a borderless window.
@@ -417,7 +417,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
-- [Hypnootize/TF2-Huds-Megalist](https://github.com/Hypnootize/TF2-Huds-Megalist) - List of all TF2 updated and outdated HUDS
+- [Hypnootize/TF2-HUDs-Megalist](https://github.com/Hypnootize/TF2-HUDs-Megalist) - List of all TF2 updated and outdated HUDS
 - [BekahHW/Moms-Learn-Tech](https://github.com/BekahHW/Moms-Learn-Tech) - Resources for moms coming back into the tech field or learning to code for the first time
 - [sreechar/5R33CH4](https://github.com/sreechar/5R33CH4) - 5R33CH4
 - [LukeSmithxyz/etc](https://github.com/LukeSmithxyz/etc) - Random files that could be of interest
@@ -547,7 +547,7 @@
 - [tournament-kings/EmoteManager](https://github.com/tournament-kings/EmoteManager) - Discord bot that lets you manage server emotes
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 110 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 111 forks 🌟
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [k4m4/onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
