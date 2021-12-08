@@ -121,6 +121,7 @@
 
 ## C++ 
 
+- [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [MaikelChan/SpaceCadetPinball](https://github.com/MaikelChan/SpaceCadetPinball) - Wii and 3DS ports of  3D Pinball - Space Cadet
 - [alula/SpaceCadetPinball](https://github.com/alula/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
@@ -216,6 +217,8 @@
 
 ## Java 
 
+- [logwet/noverworld](https://github.com/logwet/noverworld) - Spawn in the nether with a set of items. Made by logwet, designed by k4yfour, idea by Fyroah.
+- [logwet/blinded](https://github.com/logwet/blinded) - Spawn in the overworld at post blind coords with a typical post nether split inventory. Based on the codebase of noverworld. Made by logwet, designed by logwet and k4yfour.
 - [LambdAurora/fuck_namemc](https://github.com/LambdAurora/fuck_namemc) - Minecraft mod to block NameMC indexing on servers.
 - [mjtb49/StrongholdTrainer](https://github.com/mjtb49/StrongholdTrainer) - 
 - [axieum/fabric-example-mod](https://github.com/axieum/fabric-example-mod) - An elegant Minecraft mod template for the Fabric mod loader
