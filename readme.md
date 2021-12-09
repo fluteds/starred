@@ -143,6 +143,7 @@
 
 ## CSS 
 
+- [guglicap/wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
 - [tandpfun/nft-avatar](https://github.com/tandpfun/nft-avatar) - Create fake Twitter NFT avatars by giving your profile picture a hexagonal shape.
 - [kidonng/cherry](https://github.com/kidonng/cherry) - 🍒 Collection of handcrafted resources
 - [leeprky/Slook](https://github.com/leeprky/Slook) - SLOOK
