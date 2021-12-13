@@ -532,7 +532,6 @@
 
 ## Shell 
 
-- [laufragor/mcsr](https://github.com/laufragor/mcsr) - Minecraft speedrunning various resources
 - [joinemm/bin](https://github.com/joinemm/bin) - Shell scripts
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) - XMonad™️. Widgets go brr.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
@@ -566,6 +565,7 @@
 
 ## TypeScript 
 
+- [dreamingkills/shinbatsu](https://github.com/dreamingkills/shinbatsu) - scrobble your played osu! beatmaps to last.fm!
 - [Dragory/ZeppelinBot](https://github.com/Dragory/ZeppelinBot) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 - [cnrad/sponsor](https://github.com/cnrad/sponsor) - 💰 A simple, inviting alternative to GitHub Sponsors
 - [tatupesonen/formatbot](https://github.com/tatupesonen/formatbot) - A bot to format code inside code blocks on Discord
@@ -598,7 +598,7 @@
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [vtrois/gitmoji-vscode](https://github.com/vtrois/gitmoji-vscode) - 😜 An emoji tool with your git commit messages for VS Code
+- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 An emoji tool with your git commit messages for VS Code
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
 
