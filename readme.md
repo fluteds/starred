@@ -221,6 +221,7 @@
 
 ## JavaScript 
 
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar [experimental WIP]
 - [ajzbc/kanye.rest](https://github.com/ajzbc/kanye.rest) - 🌊 A free REST API for random Kanye West quotes (Kanye as a Service)
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - A pastebin based on Cloudflare worker, with friendly CLI usage and rich features
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
@@ -442,6 +443,7 @@
 
 ## Python 
 
+- [AlexFlipnote/OsuKeyboard](https://github.com/AlexFlipnote/OsuKeyboard) - A nice little software that simulates the typing sound from Osu!
 - [DuncanRuns/F3Cender](https://github.com/DuncanRuns/F3Cender) - It's pronounced F3 Sender but I had to get F3+C in the name. A small script to send your Minecraft F3+C copies to a discord channel through webhooks.
 - [Sharpieman20/Sharpies-Speedrunning-Tools](https://github.com/Sharpieman20/Sharpies-Speedrunning-Tools) - 
 - [younishd/neoreset](https://github.com/younishd/neoreset) - Neo's auto resetter for Minecraft speedrunning on Linux.
@@ -512,6 +514,7 @@
 
 ## Rust 
 
+- [queer/qit](https://github.com/queer/qit) - Overly opinionated git tooling
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -565,12 +568,12 @@
 
 ## TypeScript 
 
+- [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - Written with Typescript and Tailwind CSS, LMA contains all emails sent from Lorde via her Mailing List
 - [dreamingkills/shinbatsu](https://github.com/dreamingkills/shinbatsu) - scrobble your played osu! beatmaps to last.fm!
 - [Dragory/ZeppelinBot](https://github.com/Dragory/ZeppelinBot) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 - [cnrad/sponsor](https://github.com/cnrad/sponsor) - 💰 A simple, inviting alternative to GitHub Sponsors
 - [tatupesonen/formatbot](https://github.com/tatupesonen/formatbot) - A bot to format code inside code blocks on Discord
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - Written with Typescript and Tailwind CSS, LMA contains all emails sent from Lorde via her Mailing List
 - [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - Next.js blog starter built with Typescript, MDX, and Tailwind CSS.
 - [thomasgranbohm/mascot-tracker](https://github.com/thomasgranbohm/mascot-tracker) - 🐧 Mascot tracker implementation for Club Penguin Rewritten and Discord
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
@@ -598,7 +601,7 @@
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 An emoji tool with your git commit messages for VS Code
+- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VS Code
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
 
