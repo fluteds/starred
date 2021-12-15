@@ -132,6 +132,7 @@
 
 ## CSS 
 
+- [cyyynthia/cynthia.dev](https://github.com/cyyynthia/cynthia.dev) - My personal website
 - [guglicap/wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
 - [tandpfun/nft-avatar](https://github.com/tandpfun/nft-avatar) - Create fake Twitter NFT avatars by giving your profile picture a hexagonal shape.
 - [kidonng/cherry](https://github.com/kidonng/cherry) - 🍒 Collection of handcrafted resources
@@ -221,6 +222,7 @@
 
 ## JavaScript 
 
+- [cyyynthia/pronoundb-powercord](https://github.com/cyyynthia/pronoundb-powercord) - PronounDB plugin for Powercord.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar [experimental WIP]
 - [ajzbc/kanye.rest](https://github.com/ajzbc/kanye.rest) - 🌊 A free REST API for random Kanye West quotes (Kanye as a Service)
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - A pastebin based on Cloudflare worker, with friendly CLI usage and rich features
