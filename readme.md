@@ -132,6 +132,7 @@
 
 ## CSS 
 
+- [xandjiji/stardew-helper](https://github.com/xandjiji/stardew-helper) - Stardew Helper is a companion App to help you while playing Stardew Valley.
 - [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
 - [cyyynthia/cynthia.dev](https://github.com/cyyynthia/cynthia.dev) - My personal website
 - [guglicap/wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
@@ -364,6 +365,8 @@
 
 ## Others 
 
+- [BuildBot42/discord-scam-links](https://github.com/BuildBot42/discord-scam-links) - One page, easily readable list of phishing Discord-imitating websites
+- [DevSpen/links](https://github.com/DevSpen/links) - Collection of IP grabber, phishing, and otherwise "bad" links -  Focuses on Steam and Discord scams.
 - [MaxT-uk/ImprovedZeppelinDocs](https://github.com/MaxT-uk/ImprovedZeppelinDocs) - You thought Zeppelin self-host was hard? Follow this guide and youll have it up in no time!
 - [LlamaPag/bastion](https://github.com/LlamaPag/bastion) - A bastion practice map for 1.16.1
 - [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources
@@ -499,7 +502,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 110 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 109 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
