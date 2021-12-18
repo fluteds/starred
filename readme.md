@@ -365,6 +365,7 @@
 
 ## Others 
 
+- [sayuriu/handwriting-font](https://github.com/sayuriu/handwriting-font) - My handwriting, as a font!
 - [BuildBot42/discord-scam-links](https://github.com/BuildBot42/discord-scam-links) - One page, easily readable list of phishing Discord-imitating websites
 - [DevSpen/links](https://github.com/DevSpen/links) - Collection of IP grabber, phishing, and otherwise "bad" links -  Focuses on Steam and Discord scams.
 - [MaxT-uk/ImprovedZeppelinDocs](https://github.com/MaxT-uk/ImprovedZeppelinDocs) - You thought Zeppelin self-host was hard? Follow this guide and youll have it up in no time!
@@ -502,7 +503,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 109 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 110 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
