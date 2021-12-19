@@ -577,7 +577,7 @@
 
 - [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - Written with Typescript and Tailwind CSS, LMA contains all emails sent from Lorde via her Mailing List
 - [dreamingkills/shinbatsu](https://github.com/dreamingkills/shinbatsu) - scrobble your played osu! beatmaps to last.fm!
-- [Dragory/ZeppelinBot](https://github.com/Dragory/ZeppelinBot) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
+- [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 - [cnrad/sponsor](https://github.com/cnrad/sponsor) - 💰 A simple, inviting alternative to GitHub Sponsors
 - [tatupesonen/formatbot](https://github.com/tatupesonen/formatbot) - A bot to format code inside code blocks on Discord
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
