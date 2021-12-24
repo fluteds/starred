@@ -373,7 +373,7 @@
 - [WalshyDev/Discord-bad-domains](https://github.com/WalshyDev/Discord-bad-domains) - 
 - [sayuriu/handwriting-font](https://github.com/sayuriu/handwriting-font) - My handwriting, as a font!
 - [BuildBot42/discord-scam-links](https://github.com/BuildBot42/discord-scam-links) - One page, easily readable list of phishing Discord-imitating websites
-- [DevSpen/links](https://github.com/DevSpen/links) - Collection of IP grabber, phishing, and otherwise "bad" links -  Focuses on Steam and Discord scams.
+- [DevSpen/scam-links](https://github.com/DevSpen/scam-links) - Collection of phishing and malicious links that focuses on Steam and Discord scams.
 - [MaxT-uk/ImprovedZeppelinDocs](https://github.com/MaxT-uk/ImprovedZeppelinDocs) - You thought Zeppelin self-host was hard? Follow this guide and youll have it up in no time!
 - [LlamaPag/bastion](https://github.com/LlamaPag/bastion) - A bastion practice map for 1.16.1
 - [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources
