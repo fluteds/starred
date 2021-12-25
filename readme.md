@@ -209,6 +209,7 @@
 
 ## Java 
 
+- [RedLime/SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT) - Counting In-game Timer for Minecraft SpeedRun
 - [mjtb49/StrongholdTrainer](https://github.com/mjtb49/StrongholdTrainer) - 
 - [Ninjabrain1/Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) - Accurate stronghold calculator for Minecraft speedrunning.
 - [logwet/noverworld](https://github.com/logwet/noverworld) - Spawn in the nether with a set of items. Made by logwet, designed by k4yfour, idea by Fyroah.
@@ -227,6 +228,8 @@
 
 ## JavaScript 
 
+- [google/santa-tracker-web](https://github.com/google/santa-tracker-web) - The source code to Santa Tracker's website, by Google
+- [angeloanan/youtube-tv-browser](https://github.com/angeloanan/youtube-tv-browser) - ⏯ | A lightweight browser extension that enables YouTube for TV in your browser
 - [cyyynthia/pronoundb-powercord](https://github.com/cyyynthia/pronoundb-powercord) - PronounDB plugin for Powercord.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [ajzbc/kanye.rest](https://github.com/ajzbc/kanye.rest) - 🌊 A free REST API for random Kanye West quotes (Kanye as a Service)
@@ -511,7 +514,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 110 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 111 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
