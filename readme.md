@@ -376,6 +376,7 @@
 
 ## Others 
 
+- [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [fluteds/.github](https://github.com/fluteds/.github) - Funding files and other misc things I don't want to keep creating everytime for my repos
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
