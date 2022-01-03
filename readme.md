@@ -229,7 +229,7 @@
 
 ## JavaScript 
 
-- [vogler/epicgames-claimer](https://github.com/vogler/epicgames-claimer) - 
+- [vogler/epicgames-claimer](https://github.com/vogler/epicgames-claimer) - Claims the current free games on the Epic Games Store.
 - [Mango0x45/retime.mcbe.wtf](https://github.com/Mango0x45/retime.mcbe.wtf) - A run retimer for speedrunners.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [google/santa-tracker-web](https://github.com/google/santa-tracker-web) - The source code to Santa Tracker's website, by Google
