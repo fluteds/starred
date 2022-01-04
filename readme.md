@@ -177,7 +177,7 @@
 
 - [jemimaabu/list-alphabetizer](https://github.com/jemimaabu/list-alphabetizer) - A webapp for sorting lists alphabetically
 - [animebook/animebook.github.io](https://github.com/animebook/animebook.github.io) - In-browser video player for learning Japanese with subtitles
-- [nextcord/workbin](https://github.com/nextcord/workbin) - A pastebin service on workers.
+- [vcokltfre/workbin](https://github.com/vcokltfre/workbin) - A pastebin service on workers.
 - [bokub/git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
 - [prolesoft/txt](https://github.com/prolesoft/txt) - Client-side encrypted (no server) text sharing
 - [Erisa/dis.cord.gift](https://github.com/Erisa/dis.cord.gift) - IMPORTANT: This is just a rickroll. There is nothing malicious and never will be. Send any legal requests to my email.
