@@ -542,6 +542,7 @@
 
 ## Rust 
 
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [aquelemiguel/parrot](https://github.com/aquelemiguel/parrot) - 🦜 A hassle-free, highly performant, host it yourself Discord music bot built with Serenity in Rust. Powered by yt-dlp.
 - [queer/qit](https://github.com/queer/qit) - Overly opinionated git tooling
