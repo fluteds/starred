@@ -62,6 +62,8 @@
 
 ## AutoHotkey 
 
+- [Nigh/ahk-autoupdate-template](https://github.com/Nigh/ahk-autoupdate-template) - ahk app with autoupdate template
+- [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - This app won't clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...
 - [pjagada/spawn-juicer](https://github.com/pjagada/spawn-juicer) - Multi-instance set seed reset macro with automatic spawn resetting for Minecraft speedrunning
 - [fluteds/mcahk](https://github.com/fluteds/mcahk) - Macros to increase reset efficiency in Minecraft Java Edition speedrunning in all categories and to help with macro practice
 - [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
@@ -379,6 +381,7 @@
 
 ## Others 
 
+- [Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter](https://github.com/Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter) - This list is a fork of DandelionSprouts' AntiKpopSpammersTwitter updated with more K-pop artists and related stuff.
 - [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) - An actively maintained JSON List containing 1960+ malicious  Domains which are used for phishing on Discord.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [fluteds/.github](https://github.com/fluteds/.github) - Funding files and other misc things I don't want to keep creating everytime for my repos
@@ -528,7 +531,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 112 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 114 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
