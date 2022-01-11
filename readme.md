@@ -96,6 +96,7 @@
 
 ## C# # 
 
+- [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
 - [CypElf/GenshinLyrePlayer](https://github.com/CypElf/GenshinLyrePlayer) - An easy to use, automatic MIDI player for the Genshin Impact in-game musical instruments.
 - [MCMrARM/mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
 - [iQuerz/MyAHKScript](https://github.com/iQuerz/MyAHKScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
@@ -167,7 +168,7 @@
 
 ## Go 
 
-- [auguwu/ume](https://github.com/auguwu/ume) - 💝 梅 / ume is a easy, self-hostable, and flexible image and file host; primarily used for ShareX
+- [auguwu/ume](https://github.com/auguwu/ume) - 💝 梅 — Easy, self-hostable, and flexible image and file host, made in Go using MongoDB GridFS.
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
@@ -471,10 +472,12 @@
 
 ## PowerShell 
 
+- [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [LeDragoX/Win10SmartDebloat](https://github.com/LeDragoX/Win10SmartDebloat) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10+.
 
 ## Python 
 
+- [3096/genshin_scripts](https://github.com/3096/genshin_scripts) - 
 - [MCBE-Speedrunning/Steve-Bot](https://github.com/MCBE-Speedrunning/Steve-Bot) - A discord bot made for the minecraft bedrock speedrunning server
 - [mebeim/aoc](https://github.com/mebeim/aoc) - 🎄 My solutions and walkthroughs for Advent of Code (https://adventofcode.com) and more related stuff.
 - [sdushantha/svart](https://github.com/sdushantha/svart) - Change between dark/light mode depending on the ambient light intensity
@@ -549,6 +552,7 @@
 
 ## Rust 
 
+- [sagiegurari/shell2batch](https://github.com/sagiegurari/shell2batch) - Coverts simple basic shell scripts to windows batch scripts.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [aquelemiguel/parrot](https://github.com/aquelemiguel/parrot) - 🦜 A hassle-free, highly performant, host it yourself Discord music bot built with Serenity in Rust. Powered by yt-dlp.
@@ -609,6 +613,7 @@
 
 ## TypeScript 
 
+- [Xetera/fixtiktok](https://github.com/Xetera/fixtiktok) - Make tiktok embeds playable on Discord by adding "fix" before "tiktok.com"
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
 - [indiesdev/curl](https://github.com/indiesdev/curl) - 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
