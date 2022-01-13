@@ -80,6 +80,7 @@
 
 ## Batchfile 
 
+- [chsliu/batch](https://github.com/chsliu/batch) - Batch files for Windows
 - [fluteds/batch](https://github.com/fluteds/batch) - My batch files for day to day usage
 - [RiversideRocks/autobing](https://github.com/RiversideRocks/autobing) - Farm Microsoft Rewards with Bing searches.
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
@@ -131,7 +132,6 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 - [lx-s/WinMute](https://github.com/lx-s/WinMute) - WinMute lets you automatically mute your PC volume on certain events (e. g. Screensaver, Workstation Lock, Shutdown, etc.).
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 
@@ -172,7 +172,6 @@
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
@@ -382,6 +381,7 @@
 
 ## Others 
 
+- [bbmaster123/10SM](https://github.com/bbmaster123/10SM) - Native Windows 10 Start Menu for Windows 11
 - [reflect2/china-ip-list](https://github.com/reflect2/china-ip-list) - China IP List
 - [Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter](https://github.com/Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter) - This list is a fork of DandelionSprouts' AntiKpopSpammersTwitter updated with more K-pop artists and related stuff.
 - [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) - An actively maintained JSON List containing 2000+ malicious  Domains which are used for phishing on Discord.
@@ -535,7 +535,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 114 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 113 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
