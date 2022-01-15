@@ -16,6 +16,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Elixir](#elixir)
+  - [Emacs Lisp](#emacs-lisp)
   - [G-code](#g-code)
   - [GLSL](#glsl)
   - [Go](#go)
@@ -157,6 +158,10 @@
 
 - [ibx34/bottle](https://github.com/ibx34/bottle) - An unban request system similar to Twitch's. I got inspiration from watching a Spoonkid video :)
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
+
+## Emacs Lisp 
+
+- [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 
 ## G-code 
 
@@ -381,6 +386,7 @@
 
 ## Others 
 
+- [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [bbmaster123/10SM](https://github.com/bbmaster123/10SM) - Native Windows 10 Start Menu for Windows 11
 - [reflect2/china-ip-list](https://github.com/reflect2/china-ip-list) - China IP List
 - [Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter](https://github.com/Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter) - This list is a fork of DandelionSprouts' AntiKpopSpammersTwitter updated with more K-pop artists and related stuff.
@@ -535,7 +541,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 113 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 66 stars and 114 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
