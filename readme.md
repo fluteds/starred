@@ -486,6 +486,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [3096/genshin_scripts](https://github.com/3096/genshin_scripts) - 
 - [MCBE-Speedrunning/Steve-Bot](https://github.com/MCBE-Speedrunning/Steve-Bot) - A discord bot made for the minecraft bedrock speedrunning server
 - [mebeim/aoc](https://github.com/mebeim/aoc) - 🎄 My solutions and walkthroughs for Advent of Code (https://adventofcode.com) and more related stuff.
@@ -543,7 +544,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 66 stars and 117 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 118 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -561,6 +562,7 @@
 
 ## Rust 
 
+- [angelofallars/treefetch](https://github.com/angelofallars/treefetch) - 🌲 A plant-based system fetch tool made with Rust.
 - [sagiegurari/shell2batch](https://github.com/sagiegurari/shell2batch) - Coverts simple basic shell scripts to windows batch scripts.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
