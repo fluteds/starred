@@ -240,7 +240,7 @@
 ## JavaScript 
 
 - [robinuniverse/TwitFix-Extension](https://github.com/robinuniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
-- [vogler/epicgames-claimer](https://github.com/vogler/epicgames-claimer) - Claims the current free games on the Epic Games Store.
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Claims free games on the Epic Games Store and Amazon Prime Gaming.
 - [Mango0x45/retime.mcbe.wtf](https://github.com/Mango0x45/retime.mcbe.wtf) - A run retimer for speedrunners.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [google/santa-tracker-web](https://github.com/google/santa-tracker-web) - The source code to Santa Tracker's website, by Google
@@ -371,6 +371,7 @@
 
 ## Kotlin 
 
+- [lakscastro/how-many-lines](https://github.com/lakscastro/how-many-lines) - 🎮 How many lines of code have you written throughout your journey on GitHub?
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 
 ## Lua 
@@ -544,7 +545,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 118 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 117 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -624,6 +625,7 @@
 
 ## TypeScript 
 
+- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators for Minecraft 1.15, 1.16, 1.17, 1.18
 - [soatok/dunktags](https://github.com/soatok/dunktags) - Generate a hashtag for a terrible take so you can dunk on it without boosting engagement
 - [Xetera/fixtiktok](https://github.com/Xetera/fixtiktok) - Make tiktok embeds playable on Discord by adding "fix" before "tiktok.com"
