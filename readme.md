@@ -239,6 +239,7 @@
 
 ## JavaScript 
 
+- [4ndv/HexaGone](https://github.com/4ndv/HexaGone) - Replaces twitter NFT idiocracy
 - [robinuniverse/TwitFix-Extension](https://github.com/robinuniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Claims free games on the Epic Games Store and Amazon Prime Gaming.
 - [Mango0x45/retime.mcbe.wtf](https://github.com/Mango0x45/retime.mcbe.wtf) - A run retimer for speedrunners.
@@ -389,6 +390,7 @@
 
 ## Others 
 
+- [tvler/laundry-symbols](https://github.com/tvler/laundry-symbols) - Every laundry symbol as a 24x24 SVG
 - [fluteds/quality-of-life](https://github.com/fluteds/quality-of-life) - Minecraft Datapack for 1.18+ that contains custom recipes and some tweaks to drops just for quality of life
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [bbmaster123/10SM](https://github.com/bbmaster123/10SM) - Native Windows 10 Start Menu for Windows 11
