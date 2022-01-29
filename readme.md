@@ -104,7 +104,7 @@
 - [iQuerz/MyAHKScript](https://github.com/iQuerz/MyAHKScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
 - [DarwinBaker/AATool](https://github.com/DarwinBaker/AATool) - A tool to track Minecraft Advancement progress.
 - [Mr-Technician/BorderlessMinecraft](https://github.com/Mr-Technician/BorderlessMinecraft) - Application to run Minecraft as a borderless window.
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
