@@ -101,7 +101,7 @@
 - [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
 - [CypElf/GenshinLyrePlayer](https://github.com/CypElf/GenshinLyrePlayer) - An easy to use, automatic MIDI player for the Genshin Impact in-game musical instruments.
 - [MCMrARM/mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
-- [iQuerz/MyAHKScript](https://github.com/iQuerz/MyAHKScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
+- [iQuerz/iQScript](https://github.com/iQuerz/iQScript) - An AutoHotkeyScript that I use on the daily basis for my PC.
 - [DarwinBaker/AATool](https://github.com/DarwinBaker/AATool) - A tool to track Minecraft Advancement progress.
 - [Mr-Technician/BorderlessMinecraft](https://github.com/Mr-Technician/BorderlessMinecraft) - Application to run Minecraft as a borderless window.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
@@ -548,7 +548,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 120 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 119 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
