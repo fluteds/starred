@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [Treeki/PocketWordle](https://github.com/Treeki/PocketWordle) - Wordle for Pocket PC 2003
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [MaikelChan/SpaceCadetPinball](https://github.com/MaikelChan/SpaceCadetPinball) - Wii and 3DS ports of  3D Pinball - Space Cadet
 - [alula/SpaceCadetPinball](https://github.com/alula/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
@@ -567,6 +568,7 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [angelofallars/treefetch](https://github.com/angelofallars/treefetch) - 🌲 A plant-based system fetch tool made with Rust.
 - [sagiegurari/shell2batch](https://github.com/sagiegurari/shell2batch) - Coverts simple basic shell scripts to windows batch scripts.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
@@ -629,6 +631,7 @@
 
 ## TypeScript 
 
+- [lynn/hello-wordl](https://github.com/lynn/hello-wordl) - Wordle clone you can play forever
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators for Minecraft 1.15, 1.16, 1.17, 1.18
