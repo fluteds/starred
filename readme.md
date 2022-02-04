@@ -99,6 +99,7 @@
 
 ## C# # 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
 - [CypElf/GenshinLyrePlayer](https://github.com/CypElf/GenshinLyrePlayer) - An easy to use, automatic MIDI player for the Genshin Impact in-game musical instruments.
 - [MCMrARM/mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
@@ -241,6 +242,7 @@
 
 ## JavaScript 
 
+- [LandenStephenss/PowercordPluginDownloader](https://github.com/LandenStephenss/PowercordPluginDownloader) - Easily download plugins in powercord via a button in the message context menu!
 - [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
 - [4ndv/HexaGone](https://github.com/4ndv/HexaGone) - Replaces twitter NFT idiocracy
 - [robinuniverse/TwitFix-Extension](https://github.com/robinuniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
@@ -393,6 +395,7 @@
 
 ## Others 
 
+- [robole/file-bunny](https://github.com/robole/file-bunny) - Perform file actions quickly with keyboard-driven file selection  🐰⌨️
 - [tvler/laundry-symbols](https://github.com/tvler/laundry-symbols) - Every laundry symbol as a 24x24 SVG
 - [fluteds/quality-of-life](https://github.com/fluteds/quality-of-life) - Minecraft Datapack for 1.18+ that contains custom recipes and some tweaks to drops just for quality of life
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
