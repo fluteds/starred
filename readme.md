@@ -493,6 +493,7 @@
 
 ## Python 
 
+- [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub.
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [Rdimo/Hazard-Nuker](https://github.com/Rdimo/Hazard-Nuker) - A discord token nuker With loads of options that will screw an account up real bad, also has inbuilt massreport, GroupChat Spammer and Token/Password/Creditcard grabber and so much more!
