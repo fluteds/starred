@@ -91,6 +91,7 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [AndyNovo/filteredseed](https://github.com/AndyNovo/filteredseed) - 
 - [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing Impersonation Privileges on Windows 10 and Server 2019
 - [smy20011/fsg-windows](https://github.com/smy20011/fsg-windows) - Minecraft Speedrun Filter Compiled for Windows
@@ -99,6 +100,7 @@
 
 ## C# # 
 
+- [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
 - [CypElf/GenshinLyrePlayer](https://github.com/CypElf/GenshinLyrePlayer) - An easy to use, automatic MIDI player for the Genshin Impact in-game musical instruments.
@@ -258,7 +260,6 @@
 - [bokub/nopaste](https://github.com/bokub/nopaste) - :clipboard: Client-side paste service
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [fluteds/status-change](https://github.com/fluteds/status-change) - Add a custom Playing status on Discord's browser webclient version
-- [fluteds/cli](https://github.com/fluteds/cli) - A short command line npm readme package that's pretty useless but it links to my socials, work and a kitten cam so... that's a bonus?
 - [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [typicode/tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [Erisa/worker-links](https://github.com/Erisa/worker-links) - A simple URL Shortener for Cloudflare Workers or anywhere!
@@ -403,7 +404,6 @@
 - [Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter](https://github.com/Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter) - This list is a fork of DandelionSprouts' AntiKpopSpammersTwitter updated with more K-pop artists and related stuff.
 - [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) - An actively maintained JSON List containing 7300+ malicious  Domains which are used for phishing on Discord.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
-- [fluteds/.github](https://github.com/fluteds/.github) - Funding files and other misc things I don't want to keep creating everytime for my repos
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
 - [orhun/orhun](https://github.com/orhun/orhun) - 
@@ -425,7 +425,6 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Fuwn/xp](https://github.com/Fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
-- [fluteds/acnh](https://github.com/fluteds/acnh) - Tracking progress + info in Animal Crossing: New Horizons! Includes an automatic daily task list issue creator and issue templates
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -439,7 +438,7 @@
 - [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets) - Repository of all mined assets including sprites, news items, sound files, translations, and 3D Assets for Pokemon GO.
 - [D4rkS0ulMC/WorldCountingMacros](https://github.com/D4rkS0ulMC/WorldCountingMacros) - 
 - [fluteds/fluteds](https://github.com/fluteds/fluteds) - ⭐ 2. You found a secret!
-- [fluteds/starred](https://github.com/fluteds/starred) - ⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow
+- [fluteds/starred](https://github.com/fluteds/starred) - All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
@@ -563,7 +562,6 @@
 
 ## ReScript 
 
-- [fluteds/tf2](https://github.com/fluteds/tf2) - My configs, huds, mods and binds for TF2 - Most of these are heavily adapted versions of Woolen's configs. The hud is a heavily adapted version of Bear Hud
 - [JarateKing/TF2-Hud-Reference](https://github.com/JarateKing/TF2-Hud-Reference) - Tutorial and reference for huds
 
 ## Ruby 
@@ -636,6 +634,7 @@
 
 ## TypeScript 
 
+- [eggsy/discord-is-sponsor](https://github.com/eggsy/discord-is-sponsor) - 🙌 Check if a Discord user is sponsoring you/someone on GitHub and give them roles!
 - [lynn/hello-wordl](https://github.com/lynn/hello-wordl) - Wordle clone you can play forever
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
@@ -645,7 +644,7 @@
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
 - [indiesdev/curl](https://github.com/indiesdev/curl) - 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
-- [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - Written with Typescript and Tailwind CSS, LMA contains all emails sent from Lorde via her Mailing List
+- [fluteds/lorde-mail-archive](https://github.com/fluteds/lorde-mail-archive) - Lorde Mail Archive is a website containing all known E-mails sent from Lorde via her Mailing System
 - [dreamingkills/shinbatsu](https://github.com/dreamingkills/shinbatsu) - scrobble your played osu! beatmaps to last.fm!
 - [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 - [cnrad/sponsor](https://github.com/cnrad/sponsor) - 💰 A simple, inviting alternative to GitHub Sponsors
@@ -688,6 +687,7 @@
 
 ## Vue 
 
+- [eggsy/is-inside-me-dead](https://github.com/eggsy/is-inside-me-dead) - 😥 Website source code after is-inside.me was shut down.
 - [PredaaA/whatismyti.me](https://github.com/PredaaA/whatismyti.me) - Get your time and timezone to your clipboard easily, and more time utilities!
 - [Ovyerus/gcalc-clone](https://github.com/Ovyerus/gcalc-clone) - dumb thing that originated from a job interview test. probably broken at some aspects
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
