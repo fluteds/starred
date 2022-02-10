@@ -402,7 +402,7 @@
 - [bbmaster123/10SM](https://github.com/bbmaster123/10SM) - Native Windows 10 Start Menu for Windows 11
 - [hidns/china-ip-list](https://github.com/hidns/china-ip-list) - China IP List
 - [Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter](https://github.com/Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter) - This list is a fork of DandelionSprouts' AntiKpopSpammersTwitter updated with more K-pop artists and related stuff.
-- [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) - An actively maintained JSON List containing 7300+ malicious  Domains which are used for phishing on Discord.
+- [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) - An actively maintained JSON List containing 8200+ malicious  Domains which are used for phishing on Discord.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
@@ -634,6 +634,7 @@
 
 ## TypeScript 
 
+- [jacc/indicium](https://github.com/jacc/indicium) - 🏛 My current public website
 - [eggsy/discord-is-sponsor](https://github.com/eggsy/discord-is-sponsor) - 🙌 Check if a Discord user is sponsoring you/someone on GitHub and give them roles!
 - [lynn/hello-wordl](https://github.com/lynn/hello-wordl) - Wordle clone you can play forever
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
