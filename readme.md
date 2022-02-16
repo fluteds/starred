@@ -45,6 +45,7 @@
   - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [VBA](#vba)
   - [VBScript](#vbscript)
   - [Vue](#vue)
 
@@ -187,6 +188,7 @@
 
 ## HTML 
 
+- [fluteds/wordle](https://github.com/fluteds/wordle) - Scraped Wordle files from Wayback Machine before it was overtaken by New York Times
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [jemimaabu/list-alphabetizer](https://github.com/jemimaabu/list-alphabetizer) - A webapp for sorting lists alphabetically
 - [animebook/animebook.github.io](https://github.com/animebook/animebook.github.io) - In-browser video player for learning Japanese with subtitles
@@ -682,6 +684,10 @@
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VS Code
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
+
+## VBA 
+
+- [nilsding/wordle97](https://github.com/nilsding/wordle97) - Wordle for Word 97
 
 ## VBScript 
 
