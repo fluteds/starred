@@ -396,6 +396,7 @@
 
 ## Others 
 
+- [xXBuilderBXx/DiscordScamBrowserFilter](https://github.com/xXBuilderBXx/DiscordScamBrowserFilter) - A Discord scam filter for browsers that use UBlock Origin with new links added daily!
 - [robole/file-bunny](https://github.com/robole/file-bunny) - Perform file actions quickly with keyboard-driven file selection  🐰⌨️
 - [tvler/laundry-symbols](https://github.com/tvler/laundry-symbols) - Every laundry symbol as a 24x24 SVG
 - [fluteds/quality-of-life](https://github.com/fluteds/quality-of-life) - Minecraft Datapack for 1.18+ that contains custom recipes and some tweaks to drops just for quality of life
@@ -555,7 +556,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 70 stars and 124 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 71 stars and 123 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
