@@ -157,7 +157,7 @@
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [h01000110/windows-95](https://github.com/h01000110/windows-95) - Jekyll Theme
-- [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 
 ## Elixir 
 
@@ -244,6 +244,7 @@
 
 ## JavaScript 
 
+- [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
 - [LandenStephenss/PowercordPluginDownloader](https://github.com/LandenStephenss/PowercordPluginDownloader) - Easily download plugins in powercord via a button in the message context menu!
 - [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
