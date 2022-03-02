@@ -161,7 +161,6 @@
 
 ## Elixir 
 
-- [ibx34/bottle](https://github.com/ibx34/bottle) - An unban request system similar to Twitch's. I got inspiration from watching a Spoonkid video :)
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 
 ## Emacs Lisp 
@@ -403,7 +402,7 @@
 - [fluteds/quality-of-life](https://github.com/fluteds/quality-of-life) - Minecraft Datapack for 1.18+ that contains custom recipes and some tweaks to drops just for quality of life
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [bbmaster123/10SM](https://github.com/bbmaster123/10SM) - Native Windows 10 Start Menu for Windows 11
-- [hidns/china-ip-list](https://github.com/hidns/china-ip-list) - China IP List
+- [carrnot/china-ip-list](https://github.com/carrnot/china-ip-list) - China IP List
 - [Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter](https://github.com/Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter) - This list is a fork of DandelionSprouts' AntiKpopSpammersTwitter updated with more K-pop artists and related stuff.
 - [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) - An actively maintained JSON List containing 9200+ malicious  Domains which are used for phishing on Discord.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
