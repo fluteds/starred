@@ -578,6 +578,7 @@
 
 ## Rust 
 
+- [Domterion/zer0bin](https://github.com/Domterion/zer0bin) - 🖊️ // Just a place to paste
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [angelofallars/treefetch](https://github.com/angelofallars/treefetch) - 🌲 A plant-based system fetch tool made with Rust.
 - [sagiegurari/shell2batch](https://github.com/sagiegurari/shell2batch) - Coverts simple basic shell scripts to windows batch scripts.
@@ -701,6 +702,7 @@
 
 ## Vue 
 
+- [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
 - [eggsy/is-inside-me-dead](https://github.com/eggsy/is-inside-me-dead) - 😥 Website source code after is-inside.me was shut down.
 - [PredaaA/whatismyti.me](https://github.com/PredaaA/whatismyti.me) - Get your time and timezone to your clipboard easily, and more time utilities!
 - [Ovyerus/gcalc-clone](https://github.com/Ovyerus/gcalc-clone) - dumb thing that originated from a job interview test. probably broken at some aspects
