@@ -66,7 +66,6 @@
 - [Nigh/ahk-autoupdate-template](https://github.com/Nigh/ahk-autoupdate-template) - ahk app with autoupdate template
 - [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - This app won't clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...
 - [pjagada/spawn-juicer](https://github.com/pjagada/spawn-juicer) - Multi-instance and single-instance set seed reset macro with automatic spawn resetting for Minecraft speedrunning
-- [fluteds/mcahk](https://github.com/fluteds/mcahk) - Macros to increase reset efficiency in Minecraft Java Edition speedrunning in all categories and to help with macro practice
 - [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
 - [Drugoy/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.
 - [pjagada/strongholdnotcalculator](https://github.com/pjagada/strongholdnotcalculator) - lookup tables, their generators, and readers for perfect travel
@@ -198,7 +197,7 @@
 - [Erisa/dis.cord.gift](https://github.com/Erisa/dis.cord.gift) - IMPORTANT: This is just a rickroll. There is nothing malicious and never will be. Send any legal requests to my email.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [fluteds/s](https://github.com/fluteds/s) - 🔗 A url shortener hosted on GitHub pages and redirects created by issue requests. Repo is forked from nelsontky
-- [fluteds/css](https://github.com/fluteds/css) - Styling files for use with Discord, Spicetify and Tumblr - not actively maintained with the latest css changes as I only update if it bothers me
+- [fluteds/css](https://github.com/fluteds/css) - Styling files for use with Discord, Spicetify and Tumblr
 - [fluteds/found](https://github.com/fluteds/found) - dmaorg website by twenty one pilots rewritten from the ground up for practice on html, css styling and works exactly the same as the original website
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
@@ -245,6 +244,7 @@
 
 ## JavaScript 
 
+- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
 - [LandenStephenss/PowercordPluginDownloader](https://github.com/LandenStephenss/PowercordPluginDownloader) - Easily download plugins in powercord via a button in the message context menu!
@@ -385,6 +385,7 @@
 
 ## Lua 
 
+- [xatier/girlfriend_require](https://github.com/xatier/girlfriend_require) - i need a girlfriend
 - [Adoggman/NoPixelServer](https://github.com/Adoggman/NoPixelServer) - NoPixel full server files
 - [swxy/NoPixelServer](https://github.com/swxy/NoPixelServer) - NoPixel Full Server Files working
 
@@ -642,11 +643,11 @@
 
 ## TypeScript 
 
+- [timdorr/turntable-api](https://github.com/timdorr/turntable-api) - 
 - [gowon-bot/gowon](https://github.com/gowon-bot/gowon) - A Last.fm Discord bot written in TypeScript
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [judge2020/cloudflare-file-hosting](https://github.com/judge2020/cloudflare-file-hosting) - Use Cloudflare (Workers) as a file host!
 - [witchtrash/hakke.ro](https://github.com/witchtrash/hakke.ro) - idiot website
-- [pinkcig/f](https://github.com/pinkcig/f) - 🔖 ― Dead simple file hosting solution
 - [jacc/indicium](https://github.com/jacc/indicium) - 🏛 My current public website
 - [eggsy/discord-is-sponsor](https://github.com/eggsy/discord-is-sponsor) - 🙌 Check if a Discord user is sponsoring you/someone on GitHub and give them roles!
 - [lynn/hello-wordl](https://github.com/lynn/hello-wordl) - Wordle clone you can play forever
