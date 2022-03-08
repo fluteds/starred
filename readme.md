@@ -90,6 +90,7 @@
 
 ## C 
 
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [AndyNovo/filteredseed](https://github.com/AndyNovo/filteredseed) - 
@@ -198,7 +199,6 @@
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [fluteds/s](https://github.com/fluteds/s) - 🔗 A url shortener hosted on GitHub pages and redirects created by issue requests. Repo is forked from nelsontky
 - [fluteds/css](https://github.com/fluteds/css) - Styling files for use with Discord, Spicetify and Tumblr
-- [fluteds/found](https://github.com/fluteds/found) - dmaorg website by twenty one pilots rewritten from the ground up for practice on html, css styling and works exactly the same as the original website
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [fluteds/tttools](https://github.com/fluteds/tttools) - Quality of life tools and themes for turntable.fm. All themes and plugins are compatiable with ttStyles, Tampermonkey, Stylish and other turntable extensions
@@ -263,7 +263,6 @@
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [bokub/nopaste](https://github.com/bokub/nopaste) - :clipboard: Client-side paste service
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [fluteds/status-change](https://github.com/fluteds/status-change) - Add a custom Playing status on Discord's browser webclient version
 - [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [typicode/tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [Erisa/worker-links](https://github.com/Erisa/worker-links) - A simple URL Shortener for Cloudflare Workers or anywhere!
@@ -402,7 +401,7 @@
 - [xXBuilderBXx/DiscordScamBrowserFilter](https://github.com/xXBuilderBXx/DiscordScamBrowserFilter) - A Discord scam filter for browsers that use UBlock Origin with new links added daily!
 - [robole/file-bunny](https://github.com/robole/file-bunny) - Perform file actions quickly with keyboard-driven file selection  🐰⌨️
 - [tvler/laundry-symbols](https://github.com/tvler/laundry-symbols) - Every laundry symbol as a 24x24 SVG
-- [fluteds/quality-of-life](https://github.com/fluteds/quality-of-life) - Minecraft Datapack for 1.18+ that contains custom recipes and some tweaks to drops just for quality of life
+- [fluteds/qol](https://github.com/fluteds/qol) - Minecraft Datapack for 1.18+ that contains custom recipes and some tweaks to drops just for quality of life
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [bbmaster123/10SM](https://github.com/bbmaster123/10SM) - Native Windows 10 Start Menu for Windows 11
 - [carrnot/china-ip-list](https://github.com/carrnot/china-ip-list) - China IP List
@@ -561,7 +560,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 125 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 124 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -573,6 +572,7 @@
 
 ## Ruby 
 
+- [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 - [stevekinney/pizza](https://github.com/stevekinney/pizza) - Where is the best :pizza: in a given city?
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
