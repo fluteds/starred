@@ -224,6 +224,7 @@
 
 ## Java 
 
+- [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [Gregor0410/SpeedrunPractice](https://github.com/Gregor0410/SpeedrunPractice) - Speedrun Practice mod
 - [RedLime/SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT) - Counting In-game Timer for Minecraft SpeedRun
 - [mjtb49/StrongholdTrainer](https://github.com/mjtb49/StrongholdTrainer) - 
@@ -315,7 +316,6 @@
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
-- [uzair-ashraf/genshin-impact-wish-simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator) - A React web application to simulate Genshin Impact gacha in the browser
 - [technobly/Auto-Awexomer](https://github.com/technobly/Auto-Awexomer) - A Turntable.fm bookmarklet that automatically awexomes every song for you, and looks good doing it.
 - [falk-hueffner/metric-cooking](https://github.com/falk-hueffner/metric-cooking) - Browser script that annotates US cooking units with their metric equivalent (e.g. 1 3/4 cups sugar [350 g])
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
@@ -560,7 +560,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 124 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 125 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
