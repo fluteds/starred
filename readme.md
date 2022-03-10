@@ -177,6 +177,7 @@
 
 ## Go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [punctuations/tablespoon](https://github.com/punctuations/tablespoon) - 🥄 A cli tool to generate semantic commit messages
 - [auguwu/ume](https://github.com/auguwu/ume) - 💝 梅 — Easy, self-hostable, and flexible image and file host, made in Go using MongoDB GridFS.
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
@@ -643,6 +644,7 @@
 
 ## TypeScript 
 
+- [nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - An easy way to mass download osu! beatmaps (WIP)
 - [timdorr/turntable-api](https://github.com/timdorr/turntable-api) - 
 - [gowon-bot/gowon](https://github.com/gowon-bot/gowon) - A Last.fm Discord bot written in TypeScript
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
