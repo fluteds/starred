@@ -497,6 +497,7 @@
 
 ## Python 
 
+- [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [HANDZCZ/genshin-stats](https://github.com/HANDZCZ/genshin-stats) - Repository that shows my genshin stats, automatically claims hoyolab exp, daily rewards and redeems codes from https://www.pockettactics.com/genshin-impact/codes.
 - [Languste27/SessionControl](https://github.com/Languste27/SessionControl) - Script to start and stop a MCSR session
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
@@ -608,6 +609,7 @@
 
 ## Shell 
 
+- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [WalshyDev/Discord-Status-Webhook](https://github.com/WalshyDev/Discord-Status-Webhook) - 
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [joinemm/bin](https://github.com/joinemm/bin) - Shell scripts
@@ -650,7 +652,6 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [judge2020/cloudflare-file-hosting](https://github.com/judge2020/cloudflare-file-hosting) - Use Cloudflare (Workers) as a file host!
 - [witchtrash/hakke.ro](https://github.com/witchtrash/hakke.ro) - idiot website
-- [jacc/indicium](https://github.com/jacc/indicium) - 🏛 My current public website
 - [eggsy/discord-is-sponsor](https://github.com/eggsy/discord-is-sponsor) - 🙌 Check if a Discord user is sponsoring you/someone on GitHub and give them roles!
 - [lynn/hello-wordl](https://github.com/lynn/hello-wordl) - Wordle clone you can play forever
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
