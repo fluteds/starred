@@ -246,6 +246,8 @@
 
 ## JavaScript 
 
+- [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
@@ -497,6 +499,7 @@
 
 ## Python 
 
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [lun-4/storcord](https://github.com/lun-4/storcord) - a badly-designed document store on top of discord (meme, not production ready, NOT PRODUCTION READY)
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
@@ -564,7 +567,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 127 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 73 stars and 126 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -589,7 +592,7 @@
 - [sagiegurari/shell2batch](https://github.com/sagiegurari/shell2batch) - Coverts simple basic shell scripts to windows batch scripts.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-- [aquelemiguel/parrot](https://github.com/aquelemiguel/parrot) - 🦜 A hassle-free, highly performant, host it yourself Discord music bot built with Serenity in Rust. Powered by yt-dlp.
+- [aquelemiguel/parrot](https://github.com/aquelemiguel/parrot) - 🦜 A hassle-free, highly performant, host-it-yourself Discord music bot with YouTube support. Powered by yt-dlp.
 - [queer/qit](https://github.com/queer/qit) - Overly opinionated git tooling
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
@@ -611,6 +614,7 @@
 
 ## Shell 
 
+- [vladimircicovic/wifi_pass](https://github.com/vladimircicovic/wifi_pass) - Collection of passwords from torrent collections - uniq, sorted, removed length bellow 8 for wifi cracking
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [WalshyDev/Discord-Status-Webhook](https://github.com/WalshyDev/Discord-Status-Webhook) - 
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
@@ -649,7 +653,7 @@
 ## TypeScript 
 
 - [rishiosaur/ll](https://github.com/rishiosaur/ll) - ⚡️ A blazing fast link shortener powered by Next.js and DNS magic!
-- [nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - An easy way to mass download osu! beatmaps (WIP)
+- [nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - An easy way to mass download osu! beatmaps
 - [timdorr/turntable-api](https://github.com/timdorr/turntable-api) - 
 - [gowon-bot/gowon](https://github.com/gowon-bot/gowon) - A Last.fm Discord bot written in TypeScript
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
