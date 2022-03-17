@@ -189,6 +189,7 @@
 
 ## HTML 
 
+- [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pabio/redirect-russia](https://github.com/pabio/redirect-russia) - 🇺🇦 Redirect Russian traffic from your site to support Ukraine
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [jemimaabu/list-alphabetizer](https://github.com/jemimaabu/list-alphabetizer) - A webapp for sorting lists alphabetically
@@ -586,7 +587,7 @@
 
 ## Rust 
 
-- [Domterion/zer0bin](https://github.com/Domterion/zer0bin) - 🖊️ // Just a place to paste
+- [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [angelofallars/treefetch](https://github.com/angelofallars/treefetch) - 🌲 A plant-based system fetch tool made with Rust.
 - [sagiegurari/shell2batch](https://github.com/sagiegurari/shell2batch) - Coverts simple basic shell scripts to windows batch scripts.
