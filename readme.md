@@ -247,6 +247,7 @@
 
 ## JavaScript 
 
+- [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021
 - [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
