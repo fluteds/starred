@@ -178,7 +178,6 @@
 ## Go 
 
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [punctuations/tablespoon](https://github.com/punctuations/tablespoon) - 🥄 A cli tool to generate semantic commit messages
 - [auguwu/ume](https://github.com/auguwu/ume) - 💝 梅 — Easy, self-hostable, and flexible image and file host, made in Go using MongoDB GridFS.
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -247,6 +246,7 @@
 
 ## JavaScript 
 
+- [lem6ns/ddgmail](https://github.com/lem6ns/ddgmail) - An unofficial CLI for DuckDuckGo Email Protection.
 - [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021
 - [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
@@ -569,7 +569,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 73 stars and 129 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 73 stars and 130 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
