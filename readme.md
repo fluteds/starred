@@ -620,7 +620,7 @@
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [WalshyDev/Discord-Status-Webhook](https://github.com/WalshyDev/Discord-Status-Webhook) - 
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
-- [joinemm/bin](https://github.com/joinemm/bin) - Shell scripts
+- [joinemm/bin](https://github.com/joinemm/bin) - Compilation of all my shell scripts
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) - XMonad™️. Widgets go brr.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
