@@ -300,7 +300,7 @@
 - [Maclay74/gta-online-finger-hack-master](https://github.com/Maclay74/gta-online-finger-hack-master) - Train your hacking skill before the heist.
 - [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
 - [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
 - [kevva/wifi-password-cli](https://github.com/kevva/wifi-password-cli) - Get current wifi password
 - [sindresorhus/doge-seed-cli](https://github.com/sindresorhus/doge-seed-cli) - Generate dank mnemonic seed phrases in the terminal
@@ -501,6 +501,7 @@
 
 ## Python 
 
+- [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [lun-4/storcord](https://github.com/lun-4/storcord) - a badly-designed document store on top of discord (meme, not production ready, NOT PRODUCTION READY)
