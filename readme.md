@@ -131,7 +131,7 @@
 - [Treeki/PocketWordle](https://github.com/Treeki/PocketWordle) - Wordle for Pocket PC 2003
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [MaikelChan/SpaceCadetPinball](https://github.com/MaikelChan/SpaceCadetPinball) - Wii and 3DS ports of  3D Pinball - Space Cadet
-- [alula/SpaceCadetPinball](https://github.com/alula/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
+- [alula/SpaceCadetPinball](https://github.com/alula/SpaceCadetPinball) - Emscripten port of 3D Pinball for Windows – Space Cadet decompilation
 - [abeaumont/competitive-programming](https://github.com/abeaumont/competitive-programming) - Solutions to problems from various online judges / contest sites.
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [mastercomfig/team-comtress-2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
