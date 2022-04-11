@@ -16,6 +16,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Crystal](#crystal)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [G-code](#g-code)
@@ -164,6 +165,10 @@
 ## CoffeeScript 
 
 - [phonowell/genshin-impact-script](https://github.com/phonowell/genshin-impact-script) - 好耶！是人畜无害的原神脚本！Sweet! What a cute Genshin Impact script!
+
+## Crystal 
+
+- [ryanprior/meet](https://github.com/ryanprior/meet) - Start a meeting quickly from the comfort of your command line. 👩‍👩‍👧‍👦️💨️
 
 ## Elixir 
 
