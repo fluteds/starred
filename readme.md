@@ -127,7 +127,6 @@
 - [karpach/remote-shutdown-pc](https://github.com/karpach/remote-shutdown-pc) - Remote Shutdown Manager is a windows application, which gives an ability to shutdown, suspend, hibernate PC or turn screen off using HTTP GET request.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [GroovyGiantPanda/FiveMRpServerResources](https://github.com/GroovyGiantPanda/FiveMRpServerResources) - 
-- [smdx24/CPI-Source-Code](https://github.com/smdx24/CPI-Source-Code) - A repo of all C# scripts known and decompiled from the Club Penguin Island 1.13 Windows Client.
 
 ## C++ 
 
