@@ -258,6 +258,7 @@
 
 ## JavaScript 
 
+- [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification and watch age restricted videos without having to sign in.
 - [lem6ns/ddgmail](https://github.com/lem6ns/ddgmail) - An unofficial CLI for DuckDuckGo Email Protection.
 - [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021
