@@ -106,6 +106,7 @@
 
 ## C# # 
 
+- [ItsKaitlyn03/OculusKiller](https://github.com/ItsKaitlyn03/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 - [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
@@ -121,13 +122,12 @@
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [TwosHusbandS/Project-127](https://github.com/TwosHusbandS/Project-127) - Custom Client to achieve a working 1.27 GTA V for everyone on PC
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-- [yinghualuowu/GenshinDailyHelper](https://github.com/yinghualuowu/GenshinDailyHelper) - miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Github Action 自动执行 米游社原神每日签到福利
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 - [benjibobs/Steam-Shutdown](https://github.com/benjibobs/Steam-Shutdown) - A simple and lightweight program that will shutdown your PC after Steam has finished all of its downloads
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [karpach/remote-shutdown-pc](https://github.com/karpach/remote-shutdown-pc) - Remote Shutdown Manager is a windows application, which gives an ability to shutdown, suspend, hibernate PC or turn screen off using HTTP GET request.
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [GroovyGiantPanda/FiveMRpServerResources](https://github.com/GroovyGiantPanda/FiveMRpServerResources) - 
 
 ## C++ 
@@ -137,7 +137,6 @@
 - [MaikelChan/SpaceCadetPinball](https://github.com/MaikelChan/SpaceCadetPinball) - Wii and 3DS ports of  3D Pinball - Space Cadet
 - [alula/SpaceCadetPinball](https://github.com/alula/SpaceCadetPinball) - Emscripten port of 3D Pinball for Windows – Space Cadet decompilation
 - [abeaumont/competitive-programming](https://github.com/abeaumont/competitive-programming) - Solutions to problems from various online judges / contest sites.
-- [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [mastercomfig/team-comtress-2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -313,7 +312,7 @@
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
 - [Maclay74/gta-online-finger-hack-master](https://github.com/Maclay74/gta-online-finger-hack-master) - Train your hacking skill before the heist.
-- [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/
+- [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) - 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
 - [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
@@ -390,7 +389,7 @@
 - [wendy-guo/card-jitsu](https://github.com/wendy-guo/card-jitsu) - a "remake" of the classic card-jitsu game from club penguin, paired with your (my) favourite (island's) animal crossing villagers 🤍
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Jinja 
@@ -547,7 +546,7 @@
 - [younishd/neoreset](https://github.com/younishd/neoreset) - Neo's auto resetter for Minecraft speedrunning on Linux.
 - [Phanabani/minecraft-playtime-calculator](https://github.com/Phanabani/minecraft-playtime-calculator) - A tool to analyze chat logs generated by Minecraft
 - [jjjchens235/bing-rewards](https://github.com/jjjchens235/bing-rewards) - An automated solution for earning daily Microsoft Rewards points using Python and Selenium
-- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Discord server: https://discord.gg/yzZ3MfGZ8A
+- [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Discord server:
 - [Roadcrosser/discord-member-watch](https://github.com/Roadcrosser/discord-member-watch) - Need to talk to/discipline a member but they aren't on? Get notified when they are.
 - [ecriminal/Discord-Exploit-Collection](https://github.com/ecriminal/Discord-Exploit-Collection) - 👾 A collection of Discord bugs and exploits
 - [kyb3r/modmail](https://github.com/kyb3r/modmail) - A feature rich discord Modmail bot
@@ -570,17 +569,14 @@
 - [LuisMayo/ace-attorney-twitter-bot](https://github.com/LuisMayo/ace-attorney-twitter-bot) - Twitter bot that turns comment chains into ace attorney scenes. Inspired by and using https://github.com/micah5/ace-attorney-reddit-bot
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [xz-dev/genshin_impact_helper](https://github.com/xz-dev/genshin_impact_helper) - 原神每日签到（需要服务器的）
 - [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
 - [ms-jpq/gay](https://github.com/ms-jpq/gay) - Colour your text / terminal to be more gay. 🏳️‍🌈
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [PetterKraabol/Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download chat messages from past broadcasts on Twitch
-- [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [x2110311x/sacarver](https://github.com/x2110311x/sacarver) - one of the r/twentyonepilots discord bots
-- [back8/github_y1ndan_genshin-impact-helper](https://github.com/back8/github_y1ndan_genshin-impact-helper) - 
 - [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
 - [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
 - [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
@@ -594,7 +590,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 76 stars and 131 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 76 stars and 132 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
