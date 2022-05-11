@@ -421,7 +421,7 @@
 
 ## Others 
 
-- [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - 
+- [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - Register for your *is-a-good-dev* domain!
 - [xXBuilderBXx/DiscordScamBrowserFilter](https://github.com/xXBuilderBXx/DiscordScamBrowserFilter) - A Discord scam filter for browsers that use UBlock Origin with new links added daily!
 - [robole/file-bunny](https://github.com/robole/file-bunny) - Perform file actions quickly with keyboard-driven file selection  🐰⌨️
 - [tvler/laundry-symbols](https://github.com/tvler/laundry-symbols) - Every laundry symbol as a 24x24 SVG
@@ -687,7 +687,7 @@
 - [lynn/hello-wordl](https://github.com/lynn/hello-wordl) - Wordle clone you can play forever
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
-- [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators for Minecraft 1.15, 1.16, 1.17, 1.18
+- [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators and Guides for Minecraft 1.15, 1.16, 1.17, 1.18
 - [soatok/dunktags](https://github.com/soatok/dunktags) - Generate a hashtag for a terrible take so you can dunk on it without boosting engagement
 - [Xetera/fixtiktok](https://github.com/Xetera/fixtiktok) - Make tiktok embeds playable on Discord by adding "fix" before "tiktok.com"
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
