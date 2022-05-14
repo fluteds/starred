@@ -261,6 +261,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [makitsune/blahaj-finder](https://github.com/makitsune/blahaj-finder) - Hourly BLÅHAJ finder map
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
@@ -374,7 +375,6 @@
 - [forwardemail/custom-fonts-in-emails](https://github.com/forwardemail/custom-fonts-in-emails) - An extremely easy way to use custom fonts in emails without having to use art software.
 - [hundredrabbits/Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) - 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱
@@ -729,6 +729,7 @@
 - [Zaarrg/TTVDropBot](https://github.com/Zaarrg/TTVDropBot) - Twitch Drop Bot. Automaticlly Farms every Twitch Drop available like Rust for ya and now also your Custom Channel's
 - [camero2734/Nico-and-the-Bots](https://github.com/camero2734/Nico-and-the-Bots) - A collection of bots for the twenty one pilots Discord server
 - [defund12/defund12.org](https://github.com/defund12/defund12.org) - defund12.org
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
