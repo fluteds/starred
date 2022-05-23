@@ -108,6 +108,7 @@
 
 ## C# # 
 
+- [riperiperi/FreeSO](https://github.com/riperiperi/FreeSO) - Re-implementation of The Sims Online.
 - [ItsKaitlyn03/OculusKiller](https://github.com/ItsKaitlyn03/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
@@ -150,7 +151,6 @@
 
 ## CSS 
 
-- [discord-theme-tools/theme-warnings](https://github.com/discord-theme-tools/theme-warnings) - A simple theme addon to warn users for being in the incorrect theme mode.
 - [xandjiji/stardew-helper](https://github.com/xandjiji/stardew-helper) - Stardew Helper is a companion App to help you while playing Stardew Valley.
 - [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
 - [cyyynthia/cynthia.dev](https://github.com/cyyynthia/cynthia.dev) - My personal website
@@ -604,7 +604,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 137 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 136 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -640,6 +640,7 @@
 
 ## SCSS 
 
+- [discord-theme-tools/theme-notices](https://github.com/discord-theme-tools/theme-notices) - CSS & SCSS styling that you can apply to your theme which allows you to warn the user.
 - [michaelbull/loona-intro-generator](https://github.com/michaelbull/loona-intro-generator) - Create your own animated intro sequence based on the LOONA music videos.
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
