@@ -271,7 +271,7 @@
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) - Select which region you connect to in various Valve games
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [makitsune/blahaj-finder](https://github.com/makitsune/blahaj-finder) - Hourly BLÅHAJ finder map
+- [makifoxgirl/blahaj-finder](https://github.com/makifoxgirl/blahaj-finder) - Hourly BLÅHAJ finder map
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification and watch age restricted videos without having to sign in.
 - [lem6ns/ddgmail](https://github.com/lem6ns/ddgmail) - An unofficial CLI for DuckDuckGo Email Protection.
@@ -721,7 +721,7 @@
 - [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
-- [makitsune/maki.cafe](https://github.com/makitsune/maki.cafe) - 
+- [makifoxgirl/maki.cafe](https://github.com/makifoxgirl/maki.cafe) - 
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
 - [ryanmcgall/ryanmcgall.xyz-](https://github.com/ryanmcgall/ryanmcgall.xyz-) - Personal website 👋
 - [cnrad/send](https://github.com/cnrad/send) - 💬 Send a message to me on Discord using webhooks
