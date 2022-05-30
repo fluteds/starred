@@ -221,7 +221,7 @@
 - [Erisa/dis.cord.gift](https://github.com/Erisa/dis.cord.gift) - IMPORTANT: This is just a rickroll. There is nothing malicious and never will be. Send any legal requests to my email.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [fluteds/s](https://github.com/fluteds/s) - 🔗 A url shortener hosted on GitHub pages and redirects created by issue requests. Repo is forked from nelsontky
-- [fluteds/css](https://github.com/fluteds/css) - Styling files for use with Discord, Spicetify and Tumblr
+- [fluteds/css](https://github.com/fluteds/css) - Styling files for use with Discord, Spicetify and Tumblr. Smaller snippets can be found on my Gist page
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [fluteds/tttools](https://github.com/fluteds/tttools) - Quality of life tools and themes for turntable.fm. All themes and plugins are compatiable with ttStyles, Tampermonkey, Stylish and other turntable extensions
@@ -455,7 +455,6 @@
 - [MaxT-uk/ImprovedZeppelinDocs](https://github.com/MaxT-uk/ImprovedZeppelinDocs) - You thought Zeppelin self-host was hard? Follow this guide and youll have it up in no time!
 - [LlamaPag/bastion](https://github.com/LlamaPag/bastion) - A bastion practice map for 1.16.1
 - [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources
-- [Metacor/Minecraft-Speedrun-Guide](https://github.com/Metacor/Minecraft-Speedrun-Guide) - Minecraft - Any%, RSG, 1.16.1
 - [skogard/apebase](https://github.com/skogard/apebase) - Bored Ape Database
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
@@ -534,6 +533,7 @@
 
 ## Python 
 
+- [Hamlet3000/vectorator](https://github.com/Hamlet3000/vectorator) - This is a fork of TurkMcGill's program for Anki's Vector robot. It makes him talk. A LOT.
 - [pistacium/top-run-time](https://github.com/pistacium/top-run-time) - Takes output from RedLime's SpeedRunIGT mod (igt_timer.log) to get the top run retime as per the rules in speedrun.com/mc as well as generating a new file which is a copy of igt_timer.log which specif
 - [CowCoding0/Gartic-Phone-Draw-Bot](https://github.com/CowCoding0/Gartic-Phone-Draw-Bot) - Drawing Bot for Gartic Phone
 - [EhsanKia/CatalogScanner](https://github.com/EhsanKia/CatalogScanner) - Scans Animal Crossing: New Horizon catalog from video of user scrolling through.
@@ -606,7 +606,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 141 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 140 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
