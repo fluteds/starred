@@ -433,6 +433,8 @@
 
 ## Others 
 
+- [Paperback-iOS/app](https://github.com/Paperback-iOS/app) - Repository to host app releases, issues, and feature requests for Paperback
+- [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K, 125%, 150%, 200%. With 2 versions, 2 types and 3 different sizes!
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources.
 - [dysphorLia/SensoryFriendlyResourcePack](https://github.com/dysphorLia/SensoryFriendlyResourcePack) - Sensory Friendly Resource Pack by dysphorLia
 - [xXBuilderBXx/DiscordScamBrowserFilter](https://github.com/xXBuilderBXx/DiscordScamBrowserFilter) - A Discord scam filter for browsers that use UBlock Origin with new links added daily!
@@ -679,6 +681,7 @@
 
 ## Swift 
 
+- [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) - Free and open source manga reader for iOS and iPadOS
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
