@@ -256,6 +256,7 @@
 
 ## JavaScript 
 
+- [SawyerHood/animal-crossing-catch](https://github.com/SawyerHood/animal-crossing-catch) - Site to keep track of your critters in Animal Crossing
 - [dannyhpy/ac-music-extension](https://github.com/dannyhpy/ac-music-extension) - Google Chrome/Firefox extension that plays hourly Animal Crossing music and more while browsing!
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) - Select which region you connect to in various Valve games
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
