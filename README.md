@@ -411,6 +411,7 @@
 
 ## Others 
 
+- [jonatlin/res_settings](https://github.com/jonatlin/res_settings) - Settings for Reddit Enhancement Suite
 - [Paperback-iOS/app](https://github.com/Paperback-iOS/app) - Repository to host app releases, issues, and feature requests for Paperback
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K, 125%, 150%, 200%. With 2 versions, 2 types and 3 different sizes!
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources.
@@ -581,7 +582,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 139 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 78 stars and 139 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
