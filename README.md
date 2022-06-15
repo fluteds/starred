@@ -28,7 +28,6 @@
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -44,6 +43,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [SourcePawn](#sourcepawn)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
@@ -69,6 +69,7 @@
 
 - [Nigh/ahk-autoupdate-template](https://github.com/Nigh/ahk-autoupdate-template) - ahk app with autoupdate template
 - [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - This app won't clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...
+- [fluteds/batch](https://github.com/fluteds/batch) - My batch and ahk files for day to day usage, fixing annoying crashes, check wifi connections and disable general Windows 10 telemetry along with disabling useless apps
 - [pjagada/spawn-juicer](https://github.com/pjagada/spawn-juicer) - Multi-instance and single-instance set seed reset macro with automatic spawn resetting for Minecraft speedrunning
 - [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
 - [Drugoy/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.
@@ -87,7 +88,6 @@
 - [JarateKing/CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - Clean TF2's sequel
 - [yonderbread/ame-scripts](https://github.com/yonderbread/ame-scripts) - Windows 10 AME script, sliced and diced.
 - [chsliu/batch](https://github.com/chsliu/batch) - Batch files for Windows
-- [fluteds/batch](https://github.com/fluteds/batch) - My batch and ahk files for day to day usage, fixing annoying crashes, check wifi connections and disable general Windows 10 telemetry along with disabling useless apps
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [Lyceris-chan/GenshinImpact](https://github.com/Lyceris-chan/GenshinImpact) - This repo contains a script meant to ease and help intel players with setting up their machine to be able to play this game.
@@ -381,10 +381,6 @@
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-## Jinja 
-
-- [leighmacdonald/uncletopia](https://github.com/leighmacdonald/uncletopia) - Ansible playbook for uncletopia server cluster
-
 ## Jupyter Notebook 
 
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -587,7 +583,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 140 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 142 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -652,6 +648,10 @@
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
+
+## SourcePawn 
+
+- [leighmacdonald/uncletopia](https://github.com/leighmacdonald/uncletopia) - Ansible playbook for uncletopia server cluster
 
 ## Svelte 
 
