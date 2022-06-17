@@ -21,6 +21,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [G-code](#g-code)
+- [GDScript](#gdscript)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -69,7 +70,6 @@
 
 - [Nigh/ahk-autoupdate-template](https://github.com/Nigh/ahk-autoupdate-template) - ahk app with autoupdate template
 - [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - This app won't clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...
-- [fluteds/batch](https://github.com/fluteds/batch) - My batch and ahk files for day to day usage, fixing annoying crashes, check wifi connections and disable general Windows 10 telemetry along with disabling useless apps
 - [pjagada/spawn-juicer](https://github.com/pjagada/spawn-juicer) - Multi-instance and single-instance set seed reset macro with automatic spawn resetting for Minecraft speedrunning
 - [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
 - [Drugoy/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.
@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [digital-dream-labs/vector](https://github.com/digital-dream-labs/vector) - Public repository for rolling release of main Vector robot code repository.
 - [34736384/genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
@@ -181,6 +182,10 @@
 ## G-code 
 
 - [hoppuman/TikTokHacks](https://github.com/hoppuman/TikTokHacks) - 
+
+## GDScript 
+
+- [mgschwan/VRWorkout](https://github.com/mgschwan/VRWorkout) - High-intensity virtual reality workout game
 
 ## GLSL 
 
@@ -584,7 +589,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 141 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 139 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
