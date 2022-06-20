@@ -107,6 +107,7 @@
 
 ## C# # 
 
+- [KrisIsBackAU/Oculus-VR-Dash-Manager](https://github.com/KrisIsBackAU/Oculus-VR-Dash-Manager) - Oculus VR Dash Manager
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
 - [riperiperi/FreeSO](https://github.com/riperiperi/FreeSO) - Re-implementation of The Sims Online.
 - [ItsKaitlyn03/OculusKiller](https://github.com/ItsKaitlyn03/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
