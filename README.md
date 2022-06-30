@@ -281,6 +281,7 @@
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
+- [robole/vscode-file-bunny](https://github.com/robole/vscode-file-bunny) - Perform file actions quickly with keyboard-driven file selection  🐰⌨️
 - [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
 - [4ndv/HexaGone](https://github.com/4ndv/HexaGone) - Replaces twitter NFT idiocracy
 - [robinuniverse/TwitFix-Extension](https://github.com/robinuniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
@@ -426,7 +427,6 @@
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources.
 - [dysphorLia/SensoryFriendlyResourcePack](https://github.com/dysphorLia/SensoryFriendlyResourcePack) - Sensory Friendly Resource Pack by dysphorLia
 - [xXBuilderBXx/DiscordScamBrowserFilter](https://github.com/xXBuilderBXx/DiscordScamBrowserFilter) - A Discord scam filter for browsers that use UBlock Origin with new links added daily!
-- [robole/file-bunny](https://github.com/robole/file-bunny) - Perform file actions quickly with keyboard-driven file selection  🐰⌨️
 - [tvler/laundry-symbols](https://github.com/tvler/laundry-symbols) - Every laundry symbol as a 24x24 SVG
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [bbmaster123/10SM](https://github.com/bbmaster123/10SM) - Native Windows 10 Start Menu for Windows 11
