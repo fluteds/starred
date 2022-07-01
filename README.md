@@ -222,6 +222,7 @@
 - [prolesoft/txt](https://github.com/prolesoft/txt) - Client-side encrypted (no server) text sharing
 - [Erisa/dis.cord.gift](https://github.com/Erisa/dis.cord.gift) - IMPORTANT: This is just a rickroll. There is nothing malicious and never will be. Send any legal requests to my email.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
+- [makifoxgirl/maki.cafe](https://github.com/makifoxgirl/maki.cafe) - 
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [randomidiot13/queueclient-web](https://github.com/randomidiot13/queueclient-web) - An unofficial client for viewing the speedrun.com verification queue, in HTML this time.
 - [anadius/gd-efc](https://github.com/anadius/gd-efc) - Google Drive - encrypted folder copy
@@ -714,7 +715,6 @@
 - [kidonng/cherry](https://github.com/kidonng/cherry) - 🍒 Collection of handcrafted resources
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
-- [makifoxgirl/maki.cafe](https://github.com/makifoxgirl/maki.cafe) - 
 - [ryanmcgall/ryanmcgall.xyz-](https://github.com/ryanmcgall/ryanmcgall.xyz-) - Personal website 👋
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
