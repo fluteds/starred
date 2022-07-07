@@ -172,6 +172,7 @@
 
 ## Crystal 
 
+- [GeopJr/BLAHAJ](https://github.com/GeopJr/BLAHAJ) - 🦈🏳️‍⚧️🏳️‍🌈 Gay sharks at your local terminal - lolcat-like CLI tool
 - [ryanprior/meet](https://github.com/ryanprior/meet) - Start a meeting quickly from the comfort of your command line. 👩‍👩‍👧‍👦️💨️
 
 ## EJS 
@@ -271,6 +272,7 @@
 
 ## JavaScript 
 
+- [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [SawyerHood/animal-crossing-catch](https://github.com/SawyerHood/animal-crossing-catch) - Site to keep track of your critters in Animal Crossing
 - [dannyhpy/ac-music-extension](https://github.com/dannyhpy/ac-music-extension) - Google Chrome/Firefox extension that plays hourly Animal Crossing music and more while browsing!
