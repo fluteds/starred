@@ -86,7 +86,7 @@
 
 ## Batchfile 
 
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps, and more!
+- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more!
 - [JarateKing/CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - Clean TF2's sequel
 - [yonderbread/ame-scripts](https://github.com/yonderbread/ame-scripts) - Windows 10 AME script, sliced and diced.
 - [chsliu/batch](https://github.com/chsliu/batch) - Batch files for Windows
@@ -544,7 +544,6 @@
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [lun-4/storcord](https://github.com/lun-4/storcord) - a badly-designed document store on top of discord (meme, not production ready, NOT PRODUCTION READY)
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
-- [HANDZCZ/genshin-stats](https://github.com/HANDZCZ/genshin-stats) - Repository that shows my genshin stats, automatically claims hoyolab exp, daily rewards and redeems codes from https://www.pockettactics.com/genshin-impact/codes.
 - [Languste27/SessionControl](https://github.com/Languste27/SessionControl) - Script to start and stop a MCSR session
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub.
@@ -573,7 +572,6 @@
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - 💀 Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh
 - [robinuniverse/TwitFix](https://github.com/robinuniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
-- [fluteds/gih](https://github.com/fluteds/gih) - Automatically collect daily check-in rewards from HoYoLAB Community via Workflow & Docker
 - [NinjaSnail1080/maac](https://github.com/NinjaSnail1080/maac) - Minecraft Automatic Advancements Checklist: An easy-to-use tool for keeping track of your Minecraft advancements
 - [TheTalkingMime/ResetTracker](https://github.com/TheTalkingMime/ResetTracker) - 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
