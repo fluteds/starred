@@ -691,6 +691,7 @@
 
 ## TypeScript 
 
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [rishiosaur/ll](https://github.com/rishiosaur/ll) - ⚡️ A blazing fast link shortener powered by Next.js and DNS magic!
 - [nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - An easy way to mass download osu! beatmaps
