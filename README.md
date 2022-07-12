@@ -305,7 +305,7 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [typicode/tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
-- [Erisa/worker-links](https://github.com/Erisa/worker-links) - A simple URL Shortener for Cloudflare Workers or anywhere!
+- [Erisa/worker-links](https://github.com/Erisa/worker-links) - A simple URL Shortener for Cloudflare Workers!
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [Strencher/BdBrowser](https://github.com/Strencher/BdBrowser) - 
@@ -527,6 +527,7 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI Store: a GUI Store for the most common cli package managers, sych as Winget and Scoop
 - [bibanon/tubeup](https://github.com/bibanon/tubeup) - Download videos using youtube-dl and upload to the Internet Archive with metadata.
 - [GooeyPancake/victor](https://github.com/GooeyPancake/victor) - Tool and documentation dumping grounds
