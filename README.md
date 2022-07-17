@@ -431,7 +431,7 @@
 - [jonatlin/res_settings](https://github.com/jonatlin/res_settings) - Settings for Reddit Enhancement Suite
 - [Paperback-iOS/app](https://github.com/Paperback-iOS/app) - Repository to host app releases, issues, and feature requests for Paperback
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K, 125%, 150%, 200%. With 2 versions, 2 types and 3 different sizes!
-- [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources.
+- [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [dysphorLia/SensoryFriendlyResourcePack](https://github.com/dysphorLia/SensoryFriendlyResourcePack) - Sensory Friendly Resource Pack by dysphorLia
 - [xXBuilderBXx/DiscordScamBrowserFilter](https://github.com/xXBuilderBXx/DiscordScamBrowserFilter) - A Discord scam filter for browsers that use UBlock Origin with new links added daily!
 - [tvler/laundry-symbols](https://github.com/tvler/laundry-symbols) - Every laundry symbol as a 24x24 SVG
