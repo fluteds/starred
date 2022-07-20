@@ -402,7 +402,7 @@
 ## Jupyter Notebook 
 
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-- [charliezcr/Kpop-Data-Analysis](https://github.com/charliezcr/Kpop-Data-Analysis) - Statistics and Data Analysis about Kpop Industry
+- [charliezcr/Kpop-Data-Analysis](https://github.com/charliezcr/Kpop-Data-Analysis) - Data analysis about K-pop industry, artists, and companies. Visualized business performances of public K-pop companies and analyzed artist management and international marketing strategies
 
 ## Kotlin 
 
@@ -603,7 +603,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 145 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 144 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
