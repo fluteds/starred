@@ -96,6 +96,7 @@
 
 ## C 
 
+- [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [jbruchon/snippets](https://github.com/jbruchon/snippets) - Little helpful pieces of code I wrote, then found lying around in the snippets storeroom behind the red door in the rainforest.
 - [woofdoggo/mapless-practice](https://github.com/woofdoggo/mapless-practice) - Generator for practicing mapless buried treasure for Minecraft speedruns
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
@@ -271,6 +272,7 @@
 
 ## JavaScript 
 
+- [getify/youperiod.app](https://github.com/getify/youperiod.app) - YouPeriod.app -- the privacy-first period tracking app
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [SawyerHood/animal-crossing-catch](https://github.com/SawyerHood/animal-crossing-catch) - Site to keep track of your critters in Animal Crossing
