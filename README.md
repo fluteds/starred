@@ -408,7 +408,7 @@
 
 ## Kotlin 
 
-- [lakscastro/how-many-lines](https://github.com/lakscastro/how-many-lines) - 🎮 How many lines of code have you written throughout your journey on GitHub?
+- [alexrintt/how-many-lines](https://github.com/alexrintt/how-many-lines) - 🎮 How many lines of code have you written throughout your journey on GitHub?
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 
 ## Lua 
