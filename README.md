@@ -409,6 +409,7 @@
 
 ## Kotlin 
 
+- [isXander/Pronounify](https://github.com/isXander/Pronounify) - View your pronouns in Minecraft
 - [alexrintt/how-many-lines](https://github.com/alexrintt/how-many-lines) - 🎮 How many lines of code have you written throughout your journey on GitHub?
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 
@@ -530,6 +531,8 @@
 
 ## Python 
 
+- [scottrice/Ice](https://github.com/scottrice/Ice) - Application to automatically add ROMs to Steam
+- [xenova/sponsorblock-ml](https://github.com/xenova/sponsorblock-ml) - Automatically detect in-video YouTube sponsorships, self/unpaid promotions, and interaction reminders.
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI Store: a GUI Store for the most common cli package managers, sych as Winget and Scoop
 - [bibanon/tubeup](https://github.com/bibanon/tubeup) - Download videos using youtube-dl and upload to the Internet Archive with metadata.
@@ -606,7 +609,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 146 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 147 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
