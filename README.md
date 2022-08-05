@@ -154,6 +154,7 @@
 
 ## CSS 
 
+- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - 
 - [xandjiji/stardew-helper](https://github.com/xandjiji/stardew-helper) - Stardew Helper is a companion App to help you while playing Stardew Valley.
 - [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
 - [cyyynthia/cynthia.dev](https://github.com/cyyynthia/cynthia.dev) - My personal website
@@ -431,6 +432,8 @@
 
 ## Others 
 
+- [notsamicc/Fortnite-Builds](https://github.com/notsamicc/Fortnite-Builds) - alot of builds
+- [Dimbreath/GenshinData](https://github.com/Dimbreath/GenshinData) - Repository containing the game data for the game Genshin Impact.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
