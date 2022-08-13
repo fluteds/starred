@@ -117,7 +117,7 @@
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
 - [riperiperi/FreeSO](https://github.com/riperiperi/FreeSO) - Re-implementation of The Sims Online.
 - [OpenOculus/OculusKiller](https://github.com/OpenOculus/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
-- [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows
+- [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 - [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
 - [CypElf/GenshinLyrePlayer](https://github.com/CypElf/GenshinLyrePlayer) - An easy to use, automatic MIDI player for the Genshin Impact in-game musical instruments.
