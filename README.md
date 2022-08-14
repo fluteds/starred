@@ -33,6 +33,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Mako](#mako)
 - [Mercury](#mercury)
 - [Others](#others)
 - [PHP](#php)
@@ -427,6 +428,10 @@
 ## Makefile 
 
 - [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
+
+## Mako 
+
+- [HANDZCZ/genshin-stats](https://github.com/HANDZCZ/genshin-stats) - Repository that host code to show my genshin stats. Claims daily reward and active primo codes.
 
 ## Mercury 
 
