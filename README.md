@@ -65,6 +65,7 @@
 
 ## Assembly 
 
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [guitmz/virii](https://github.com/guitmz/virii) - Collection of ancient computer virus source codes
 
 ## AutoHotkey 
@@ -124,7 +125,6 @@
 - [MCMrARM/mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
 - [iQuerz/iQScript](https://github.com/iQuerz/iQScript) - An AutoHotkey script that I use on the daily basis for my PC. Comes with an installer that takes care of everything for you.
 - [DarwinBaker/AATool](https://github.com/DarwinBaker/AATool) - A tool to track Minecraft Advancement progress.
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [Mr-Technician/BorderlessMinecraft](https://github.com/Mr-Technician/BorderlessMinecraft) - Application to run Minecraft as a borderless window.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
@@ -208,6 +208,7 @@
 
 ## Go 
 
+- [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sign and install iOS apps without a computer
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -622,7 +623,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 84 stars and 152 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 84 stars and 153 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -671,6 +672,7 @@
 
 ## Shell 
 
+- [diademiemi/blahaj.sh](https://github.com/diademiemi/blahaj.sh) - Blahaj.sh site
 - [antonino3g/arch-linux-post-install](https://github.com/antonino3g/arch-linux-post-install) - :rocket: My Arch Linux post-installation setup and configs scripts.
 - [JohnHammond/ignition_key](https://github.com/JohnHammond/ignition_key) - This is a small BASH script to quickly setup all the tools I would want and need on a new machine.
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
