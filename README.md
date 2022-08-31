@@ -111,6 +111,7 @@
 
 ## C# # 
 
+- [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵
 - [7coil/DiscordForOffice](https://github.com/7coil/DiscordForOffice) - Discord Rich Presence for Microsoft Office (2013 and above, Office 365)
 - [builtbybel/LoveWindowsAgain](https://github.com/builtbybel/LoveWindowsAgain) - Fall in love with Windows 11
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
@@ -257,7 +258,7 @@
 
 ## Java 
 
-- [Hibiii/Blahaj](https://github.com/Hibiii/Blahaj) - BLÅHAJ Soft toy, shark mod, 16px
+- [cbyrneee/Blahaj-Fabric](https://github.com/cbyrneee/Blahaj-Fabric) - BLÅHAJ Soft toy, shark mod, 16px. But for Fabric, I hate Quilt :)
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [RedLime/ModCheck](https://github.com/RedLime/ModCheck) - Minecraft SpeedRun Mod Auto Installer
 - [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
@@ -349,7 +350,6 @@
 - [Revadike/steam-free-packages](https://github.com/Revadike/steam-free-packages) - Periodically request free packages on steam to be added to your account
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [toluschr/BetterDiscord-Animated-Status](https://github.com/toluschr/BetterDiscord-Animated-Status) - Animate your Discord Status with this BetterDiscord Plugin
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [vin/turntable.fm](https://github.com/vin/turntable.fm) - A turntable.fm bot based on Alain Gilbert's ttapi module for node.js.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [dephraiim/translate-readme](https://github.com/dephraiim/translate-readme) - Translate Github Readme to any other Language
@@ -442,6 +442,7 @@
 
 ## Others 
 
+- [russdb/gruvbox-windows-terminal](https://github.com/russdb/gruvbox-windows-terminal) - A collection of gruvbox themes for windows terminal
 - [FeinbergMC/WallOBSSetup](https://github.com/FeinbergMC/WallOBSSetup) - OBS setup files for Specnr's Wall macro
 - [notsamicc/Fortnite-Builds](https://github.com/notsamicc/Fortnite-Builds) - alot of builds
 - [Dimbreath/GenshinData](https://github.com/Dimbreath/GenshinData) - Repository containing the game data for the game Genshin Impact.
@@ -540,7 +541,7 @@
 
 ## PowerShell 
 
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 250+ useful cross-platform PowerShell scripts.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 400+ useful cross-platform PowerShell scripts.
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
@@ -719,6 +720,7 @@
 
 ## TypeScript 
 
+- [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [rishiosaur/ll](https://github.com/rishiosaur/ll) - ⚡️ A blazing fast link shortener powered by Next.js and DNS magic!
