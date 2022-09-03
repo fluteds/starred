@@ -281,6 +281,7 @@
 
 ## JavaScript 
 
+- [davialc/lofi-me](https://github.com/davialc/lofi-me) - ☕ A simple lofi player for desktop
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [Erisa/starbin-pages](https://github.com/Erisa/starbin-pages) - A hastebin-compatible paste site running on Cloudflare Pages.
 - [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that I made in like 2 days
@@ -442,6 +443,7 @@
 
 ## Others 
 
+- [qfoxb/tf2bd-lists](https://github.com/qfoxb/tf2bd-lists) - A repository full of useful Team Fortress 2 Bot Detector lists!
 - [russdb/gruvbox-windows-terminal](https://github.com/russdb/gruvbox-windows-terminal) - A collection of gruvbox themes for windows terminal
 - [FeinbergMC/WallOBSSetup](https://github.com/FeinbergMC/WallOBSSetup) - OBS setup files for Specnr's Wall macro
 - [notsamicc/Fortnite-Builds](https://github.com/notsamicc/Fortnite-Builds) - alot of builds
@@ -625,7 +627,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 85 stars and 154 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 86 stars and 154 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
