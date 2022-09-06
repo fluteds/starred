@@ -70,6 +70,7 @@
 
 ## AutoHotkey 
 
+- [gbs0/gta_casino_solver](https://github.com/gbs0/gta_casino_solver) - Some scripts that solve the keypad hacking in the vault from GTA V Casino heist.
 - [Specnr/MultiResetWall](https://github.com/Specnr/MultiResetWall) - A wall-style multi-instance macro for Minecraft RSG resetting
 - [Nigh/ahk-autoupdate-template](https://github.com/Nigh/ahk-autoupdate-template) - ahk app with autoupdate template
 - [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - This app won't clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...
