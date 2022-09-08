@@ -17,6 +17,7 @@
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
+- [Dart](#dart)
 - [EJS](#ejs)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -183,6 +184,10 @@
 
 - [GeopJr/BLAHAJ](https://github.com/GeopJr/BLAHAJ) - 🦈🏳️‍⚧️🏳️‍🌈 Gay sharks at your local terminal - lolcat-like CLI tool
 - [ryanprior/meet](https://github.com/ryanprior/meet) - Start a meeting quickly from the comfort of your command line. 👩‍👩‍👧‍👦️💨️
+
+## Dart 
+
+- [chatsen/chatsen](https://github.com/chatsen/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 
 ## EJS 
 
