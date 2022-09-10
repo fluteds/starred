@@ -217,7 +217,7 @@
 
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
-- [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sign and install iOS apps without a computer
+- [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [auguwu/ume](https://github.com/auguwu/ume) - 💝 梅 — Easy, self-hostable, and flexible image and file host, made in Go using MongoDB GridFS.
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
@@ -478,7 +478,7 @@
 - [BuildBot42/discord-scam-links](https://github.com/BuildBot42/discord-scam-links) - One page, easily readable list of phishing Discord-imitating websites
 - [DevSpen/scam-links](https://github.com/DevSpen/scam-links) - Collection of phishing and malicious links that focuses on Steam and Discord scams.
 - [MaxT-uk/ImprovedZeppelinDocs](https://github.com/MaxT-uk/ImprovedZeppelinDocs) - You thought Zeppelin self-host was hard? Follow this guide and youll have it up in no time!
-- [LlamaPag/bastion](https://github.com/LlamaPag/bastion) - A bastion practice map for 1.16.1
+- [LlamaPag/bastion](https://github.com/LlamaPag/bastion) - A Minecraft bastion practice map for speedrunners
 - [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources
 - [skogard/apebase](https://github.com/skogard/apebase) - Bored Ape Database
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
