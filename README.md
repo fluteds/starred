@@ -562,6 +562,7 @@
 
 ## Python 
 
+- [nano-shino/genshinhelper](https://github.com/nano-shino/genshinhelper) - A Discord bot to help with daily Genshin activities
 - [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [scottrice/Ice](https://github.com/scottrice/Ice) - Application to automatically add ROMs to Steam
 - [xenova/sponsorblock-ml](https://github.com/xenova/sponsorblock-ml) - Automatically detect in-video YouTube sponsorships, self/unpaid promotions, and interaction reminders.
@@ -639,7 +640,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 86 stars and 152 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 87 stars and 152 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
