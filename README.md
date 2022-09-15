@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [itzAlex/chatterino7](https://github.com/itzAlex/chatterino7) - Chat client for https://twitch.tv
 - [GabeEddyT/chatterino2](https://github.com/GabeEddyT/chatterino2) - Chat client for https://twitch.tv
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
 - [LiquidFenrir/3ds-webcam](https://github.com/LiquidFenrir/3ds-webcam) - Use your 3DS as a webcam over the network
@@ -189,6 +190,7 @@
 
 ## Dart 
 
+- [itzAlex/chatsen](https://github.com/itzAlex/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 - [chatsen/chatsen](https://github.com/chatsen/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 
 ## EJS 
@@ -640,7 +642,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 87 stars and 151 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 88 stars and 151 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -723,6 +725,7 @@
 
 ## Swift 
 
+- [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) - Free and open source manga reader for iOS and iPadOS
 
 ## Tcl 
