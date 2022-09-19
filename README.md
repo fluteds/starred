@@ -563,6 +563,8 @@
 
 ## Python 
 
+- [Xetera/sni-proxy](https://github.com/Xetera/sni-proxy) - Magically bypass government censorship by tampering with the SNI field of TLS handshakes
+- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [nano-shino/genshinhelper](https://github.com/nano-shino/genshinhelper) - A Discord bot to help with daily Genshin activities
 - [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [scottrice/Ice](https://github.com/scottrice/Ice) - Application to automatically add ROMs to Steam
@@ -641,7 +643,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 88 stars and 152 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 89 stars and 151 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -738,6 +740,7 @@
 
 ## TypeScript 
 
+- [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [c-rainbow/twitch-audio-web](https://github.com/c-rainbow/twitch-audio-web) - Chrome extension to enable Twitch radio mode in web
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
