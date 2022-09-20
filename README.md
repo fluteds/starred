@@ -563,7 +563,7 @@
 
 ## Python 
 
-- [Xetera/sni-proxy](https://github.com/Xetera/sni-proxy) - Magically bypass government censorship by tampering with the SNI field of TLS handshakes
+- [Xetera/sni-proxy](https://github.com/Xetera/sni-proxy) - 🪄 Magically bypass government censorship by tampering with the SNI field of TLS handshakes
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [nano-shino/genshinhelper](https://github.com/nano-shino/genshinhelper) - A Discord bot to help with daily Genshin activities
 - [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
