@@ -190,6 +190,7 @@
 
 ## Dart 
 
+- [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. Built with Flutter.
 - [itzAlex/chatsen](https://github.com/itzAlex/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 - [chatsen/chatsen](https://github.com/chatsen/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 
