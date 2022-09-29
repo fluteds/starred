@@ -292,6 +292,7 @@
 
 ## JavaScript 
 
+- [TimIsOverpowered/archive](https://github.com/TimIsOverpowered/archive) - Automated Upload Twitch Vod to Youtube after streaming & Serves as an API for VOD playback with chat replay
 - [z0ccc/LocateJS](https://github.com/z0ccc/LocateJS) - Check if your location is actually hidden
 - [davialc/lofi-me](https://github.com/davialc/lofi-me) - ☕ A simple lofi player for desktop
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
@@ -436,6 +437,7 @@
 
 ## Lua 
 
+- [tilda/painmon](https://github.com/tilda/painmon) - Personal Genshin Impact-themed desktop suite for Rainmeter
 - [xatier/girlfriend_require](https://github.com/xatier/girlfriend_require) - i need a girlfriend
 - [Adoggman/NoPixelServer](https://github.com/Adoggman/NoPixelServer) - NoPixel full server files
 - [swxy/NoPixelServer](https://github.com/swxy/NoPixelServer) - NoPixel Full Server Files working
@@ -646,7 +648,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 90 stars and 152 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 90 stars and 153 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
