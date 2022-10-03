@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino) - Chat client for twitch.tv. See releases for download. Only nightlies are supported.
 - [itzAlex/chatterino7](https://github.com/itzAlex/chatterino7) - Chat client for https://twitch.tv
 - [GabeEddyT/chatterino2](https://github.com/GabeEddyT/chatterino2) - Chat client for https://twitch.tv
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
@@ -471,7 +472,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [jonatlin/res_settings](https://github.com/jonatlin/res_settings) - Settings for Reddit Enhancement Suite
 - [Paperback-iOS/app](https://github.com/Paperback-iOS/app) - Repository to host app releases, issues, and feature requests for Paperback
-- [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K, 125%, 150%, 200%. With 2 versions, 2 types and 3 different sizes!
+- [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [dysphorLia/SensoryFriendlyResourcePack](https://github.com/dysphorLia/SensoryFriendlyResourcePack) - Sensory Friendly Resource Pack by dysphorLia
 - [xXBuilderBXx/DiscordScamBrowserFilter](https://github.com/xXBuilderBXx/DiscordScamBrowserFilter) - A Discord scam filter for browsers that use UBlock Origin with new links added daily!
