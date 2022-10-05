@@ -166,6 +166,7 @@
 
 ## CSS 
 
+- [jakejarvis/kitboga-bank](https://github.com/jakejarvis/kitboga-bank) - Mirror of Kitboga's fake bank account repository on BitBucket, please submit new themes there!
 - [Peyrzival/dotfiles-gruv](https://github.com/Peyrzival/dotfiles-gruv) - 
 - [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - 
 - [xandjiji/stardew-helper](https://github.com/xandjiji/stardew-helper) - Stardew Helper is a companion App to help you while playing Stardew Valley.
@@ -655,7 +656,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 90 stars and 154 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 90 stars and 155 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
