@@ -140,7 +140,7 @@
 - [TwosHusbandS/Project-127](https://github.com/TwosHusbandS/Project-127) - Custom Client to achieve a working 1.27 GTA V for everyone on PC
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI3
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 - [benjibobs/Steam-Shutdown](https://github.com/benjibobs/Steam-Shutdown) - A simple and lightweight program that will shutdown your PC after Steam has finished all of its downloads
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [karpach/remote-shutdown-pc](https://github.com/karpach/remote-shutdown-pc) - Remote Shutdown Manager is a windows application, which gives an ability to shutdown, suspend, hibernate PC or turn screen off using HTTP GET request.
@@ -574,6 +574,7 @@
 
 ## Python 
 
+- [samay825/Sms-Bomb](https://github.com/samay825/Sms-Bomb) - THIS TOOL IS FOR DDOS ATTACK ON PHONE NUMBER YOU CAN USE THIS TOOL ON YOUR KALI LINUX OR TERMUX ALSO IF IS NOT WORK THEN PLEASE CONTACT ME IN "Sincryption" YOUTUBE CHANNEL THANKYOU FOR COMING HERE ...
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
 - [Xetera/sni-proxy](https://github.com/Xetera/sni-proxy) - 🪄 Magically bypass government censorship without a VPN by tampering with the SNI field of TLS handshakes
@@ -656,7 +657,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 90 stars and 154 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 90 stars and 152 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -757,6 +758,7 @@
 
 ## TypeScript 
 
+- [yuanqing/single-page-markdown-website](https://github.com/yuanqing/single-page-markdown-website) - :hot_pepper: Create a nice single-page documentation website from one or more Markdown files
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [c-rainbow/twitch-audio-web](https://github.com/c-rainbow/twitch-audio-web) - Chrome extension to enable Twitch radio mode in web
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
