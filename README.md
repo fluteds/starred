@@ -103,6 +103,7 @@
 
 ## C 
 
+- [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [jbruchon/snippets](https://github.com/jbruchon/snippets) - Little helpful pieces of code I wrote, then found lying around in the snippets storeroom behind the red door in the rainforest.
 - [woofdoggo/mapless-practice](https://github.com/woofdoggo/mapless-practice) - Generator for practicing mapless buried treasure for Minecraft speedruns
@@ -149,6 +150,7 @@
 
 ## C++ 
 
+- [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 - [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino) - Chat client for twitch.tv. See releases for download. Only nightlies are supported.
 - [itzAlex/chatterino7](https://github.com/itzAlex/chatterino7) - Chat client for https://twitch.tv
 - [GabeEddyT/chatterino2](https://github.com/GabeEddyT/chatterino2) - Chat client for https://twitch.tv
@@ -225,6 +227,8 @@
 
 ## Go 
 
+- [nuuls/filehost](https://github.com/nuuls/filehost) - 
+- [fourtf/i](https://github.com/fourtf/i) - Simple self-host image uploader.
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
@@ -696,7 +700,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool
 - [sushiibot/sushii-2](https://github.com/sushiibot/sushii-2) - 🍣🍣 Moderation bot for Discord
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [iandwelker/smcurser](https://github.com/iandwelker/smcurser) - SMServer tui client written in rust
