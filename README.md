@@ -117,6 +117,7 @@
 
 ## C# # 
 
+- [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
 - [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵
@@ -151,6 +152,7 @@
 
 ## C++ 
 
+- [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 - [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino) - Chat client for twitch.tv. See releases for download. Only nightlies are supported.
 - [itzAlex/chatterino7](https://github.com/itzAlex/chatterino7) - Chat client for https://twitch.tv
@@ -302,6 +304,8 @@
 
 ## JavaScript 
 
+- [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
+- [sudofox/mojang-blocklist](https://github.com/sudofox/mojang-blocklist) - identifying/tracking minecraft servers on mojang's blocklist
 - [TimIsOverpowered/archive](https://github.com/TimIsOverpowered/archive) - Automated Upload Twitch Vod to Youtube after streaming & Serves as an API for VOD playback with chat replay
 - [z0ccc/LocateJS](https://github.com/z0ccc/LocateJS) - Check if your location is actually hidden
 - [davialc/lofi-me](https://github.com/davialc/lofi-me) - ☕ A simple lofi player for desktop
@@ -580,6 +584,7 @@
 
 ## Python 
 
+- [breakerspace/weaponizing-censors](https://github.com/breakerspace/weaponizing-censors) - censors pose a threat to the entire Internet
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
@@ -663,7 +668,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 91 stars and 152 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 91 stars and 153 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -766,6 +771,7 @@
 
 ## TypeScript 
 
+- [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
 - [cyberofficial/TTVDropBot](https://github.com/cyberofficial/TTVDropBot) - Twitch Drop Bot. Automaticlly Farms every Twitch Drop available like Rust for ya and now also your Custom Channel's
 - [yuanqing/single-page-markdown-website](https://github.com/yuanqing/single-page-markdown-website) - :hot_pepper: Create a nice single-page documentation website from one or more Markdown files
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
