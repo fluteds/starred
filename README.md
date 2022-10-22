@@ -281,6 +281,7 @@
 
 ## Java 
 
+- [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable
 - [cbyrneee/Blahaj-Fabric](https://github.com/cbyrneee/Blahaj-Fabric) - BLÅHAJ Soft toy, shark mod, 16px. But for Fabric, I hate Quilt :)
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [RedLime/ModCheck](https://github.com/RedLime/ModCheck) - Minecraft SpeedRun Mod Auto Installer
