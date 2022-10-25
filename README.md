@@ -8,6 +8,7 @@
 - [ActionScript](#actionscript)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
@@ -71,6 +72,10 @@
 
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [guitmz/virii](https://github.com/guitmz/virii) - Collection of ancient computer virus source codes
+
+## Astro 
+
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## AutoHotkey 
 
@@ -842,7 +847,6 @@
 - [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
 - [eggsy/is-inside-me-dead](https://github.com/eggsy/is-inside-me-dead) - 😥 Website source code after is-inside.me was shut down.
 - [PredaaA/whatismyti.me](https://github.com/PredaaA/whatismyti.me) - Get your time and timezone to your clipboard easily, and more time utilities!
-- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## mcfunction 
 
