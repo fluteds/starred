@@ -234,6 +234,7 @@
 
 ## Go 
 
+- [gempir/justlog](https://github.com/gempir/justlog) - twitch logging platform
 - [nuuls/filehost](https://github.com/nuuls/filehost) - 
 - [fourtf/i](https://github.com/fourtf/i) - Simple self-host image uploader.
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view
