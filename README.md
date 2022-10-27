@@ -251,6 +251,7 @@
 
 ## HTML 
 
+- [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
 - [DeepDiscord/DeepDiscord](https://github.com/DeepDiscord/DeepDiscord) - Search Discord's "Deep Web" (work in progress)
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your *is-a-good-dev* domain!
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
@@ -286,6 +287,7 @@
 
 ## Java 
 
+- [TwitchRecover/TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Twitch VOD tool which recovers all VODs including those that are sub only or deleted.
 - [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable
 - [cbyrneee/Blahaj-Fabric](https://github.com/cbyrneee/Blahaj-Fabric) - BLÅHAJ Soft toy, shark mod, 16px. But for Fabric, I hate Quilt :)
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
@@ -310,6 +312,8 @@
 
 ## JavaScript 
 
+- [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to show sub only VOD on Twitch
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [sudofox/mojang-blocklist](https://github.com/sudofox/mojang-blocklist) - identifying/tracking minecraft servers on mojang's blocklist
 - [TimIsOverpowered/archive](https://github.com/TimIsOverpowered/archive) - Automated Upload Twitch Vod to Youtube after streaming & Serves as an API for VOD playback with chat replay
@@ -591,6 +595,7 @@
 
 ## Python 
 
+- [Samathingamajig/twitch-sub-pricing](https://github.com/Samathingamajig/twitch-sub-pricing) - Finds where the cheapest Twitch subs can be acquired
 - [breakerspace/weaponizing-censors](https://github.com/breakerspace/weaponizing-censors) - censors pose a threat to the entire Internet
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
