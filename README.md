@@ -156,6 +156,7 @@
 
 ## C++ 
 
+- [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) - Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: will be updated soon. sorry for inconvenience)
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 - [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino) - Chat client for twitch.tv. See releases for download. Only nightlies are supported.
@@ -849,6 +850,7 @@
 
 ## Vue 
 
+- [pedrozaalex/tiny_snails](https://github.com/pedrozaalex/tiny_snails) - generate links with tiny slugs for your links!
 - [tilda/enkanomiya](https://github.com/tilda/enkanomiya) - Calculate the "CRIT Value" (CV) of your artifacts easily, and more
 - [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
 - [eggsy/is-inside-me-dead](https://github.com/eggsy/is-inside-me-dead) - 😥 Website source code after is-inside.me was shut down.
