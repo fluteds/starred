@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gempir/justlog](https://github.com/gempir/justlog) - twitch logging platform
 - [nuuls/filehost](https://github.com/nuuls/filehost) - 
 - [fourtf/i](https://github.com/fourtf/i) - Simple self-host image uploader.
@@ -313,6 +314,7 @@
 
 ## JavaScript 
 
+- [sorz/accept-language-per-site](https://github.com/sorz/accept-language-per-site) - Firefox extension to change Accept-Language for different sites.
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to show sub only VOD on Twitch
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
@@ -597,6 +599,7 @@
 
 ## Python 
 
+- [SpaceGliderr/orbot](https://github.com/SpaceGliderr/orbot) - Bot for the Loona Discord server
 - [Samathingamajig/twitch-sub-pricing](https://github.com/Samathingamajig/twitch-sub-pricing) - Finds where the cheapest Twitch subs can be acquired
 - [breakerspace/weaponizing-censors](https://github.com/breakerspace/weaponizing-censors) - censors pose a threat to the entire Internet
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
@@ -735,7 +738,7 @@
 
 ## Shell 
 
-- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide
+- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [diademiemi/blahaj.sh](https://github.com/diademiemi/blahaj.sh) - Blahaj.sh site
 - [antonino3g/arch-linux-post-install](https://github.com/antonino3g/arch-linux-post-install) - :rocket: My Arch Linux post-installation setup and configs scripts.
 - [JohnHammond/ignition_key](https://github.com/JohnHammond/ignition_key) - This is a small BASH script to quickly setup all the tools I would want and need on a new machine.
@@ -785,6 +788,7 @@
 
 ## TypeScript 
 
+- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - A Discord Desktop Clientmod
 - [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
 - [cyberofficial/TTVDropBot](https://github.com/cyberofficial/TTVDropBot) - Twitch Drop Bot. Automaticlly Farms every Twitch Drop available like Rust for ya and now also your Custom Channel's
