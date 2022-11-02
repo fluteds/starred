@@ -121,6 +121,7 @@
 
 ## C# # 
 
+- [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
@@ -235,7 +236,6 @@
 
 ## Go 
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gempir/justlog](https://github.com/gempir/justlog) - twitch logging platform
 - [nuuls/filehost](https://github.com/nuuls/filehost) - 
 - [fourtf/i](https://github.com/fourtf/i) - Simple self-host image uploader.
@@ -314,6 +314,7 @@
 
 ## JavaScript 
 
+- [tacohitbox/userscripts](https://github.com/tacohitbox/userscripts) - Some userscripts I wrote.
 - [sorz/accept-language-per-site](https://github.com/sorz/accept-language-per-site) - Firefox extension to change Accept-Language for different sites.
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to show sub only VOD on Twitch
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
@@ -584,6 +585,7 @@
 
 ## PHP 
 
+- [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) - ShareXen - Another ShareX Custom Uploader PHP Script
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [JoeGandy/ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) - A little PHP script created for uploading custom sharex files to your own webserver
@@ -592,7 +594,7 @@
 ## PowerShell 
 
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 400+ useful cross-platform PowerShell scripts.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
@@ -685,7 +687,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 92 stars and 154 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 93 stars and 154 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -788,6 +790,7 @@
 
 ## TypeScript 
 
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - A Discord Desktop Clientmod
 - [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
