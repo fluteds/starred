@@ -500,7 +500,6 @@
 - [russdb/gruvbox-windows-terminal](https://github.com/russdb/gruvbox-windows-terminal) - A collection of gruvbox themes for windows terminal
 - [FeinbergMC/WallOBSSetup](https://github.com/FeinbergMC/WallOBSSetup) - OBS setup files for Specnr's Wall macro
 - [notsamicc/Fortnite-Builds](https://github.com/notsamicc/Fortnite-Builds) - alot of builds
-- [Dimbreath/GenshinData](https://github.com/Dimbreath/GenshinData) - Repository containing the game data for the game Genshin Impact.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
