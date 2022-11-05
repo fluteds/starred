@@ -496,6 +496,7 @@
 
 ## Others 
 
+- [Discord-AntiScam/scam-links](https://github.com/Discord-AntiScam/scam-links) - A database of over 237KBs scam links used for Discord, Steam and more.
 - [qfoxb/tf2bd-lists](https://github.com/qfoxb/tf2bd-lists) - A repository full of useful Team Fortress 2 Bot Detector lists!
 - [russdb/gruvbox-windows-terminal](https://github.com/russdb/gruvbox-windows-terminal) - A collection of gruvbox themes for windows terminal
 - [FeinbergMC/WallOBSSetup](https://github.com/FeinbergMC/WallOBSSetup) - OBS setup files for Specnr's Wall macro
