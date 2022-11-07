@@ -496,6 +496,7 @@
 
 ## Others 
 
+- [IgrecL/Japanese-Learning-Resources](https://github.com/IgrecL/Japanese-Learning-Resources) - Useful resources for learning Japanese
 - [Discord-AntiScam/scam-links](https://github.com/Discord-AntiScam/scam-links) - A database of over 237KBs scam links used for Discord, Steam and more.
 - [qfoxb/tf2bd-lists](https://github.com/qfoxb/tf2bd-lists) - A repository full of useful Team Fortress 2 Bot Detector lists!
 - [russdb/gruvbox-windows-terminal](https://github.com/russdb/gruvbox-windows-terminal) - A collection of gruvbox themes for windows terminal
@@ -601,6 +602,7 @@
 
 ## Python 
 
+- [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [SpaceGliderr/orbot](https://github.com/SpaceGliderr/orbot) - Bot for the Loona Discord server
 - [Samathingamajig/twitch-sub-pricing](https://github.com/Samathingamajig/twitch-sub-pricing) - Finds where the cheapest Twitch subs can be acquired
 - [breakerspace/weaponizing-censors](https://github.com/breakerspace/weaponizing-censors) - censors pose a threat to the entire Internet
