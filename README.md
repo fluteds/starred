@@ -314,6 +314,8 @@
 
 ## JavaScript 
 
+- [wesbos/who-blue](https://github.com/wesbos/who-blue) - A browser extension to separate lords from peasants
+- [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users
 - [tacohitbox/userscripts](https://github.com/tacohitbox/userscripts) - Some userscripts I wrote.
 - [sorz/accept-language-per-site](https://github.com/sorz/accept-language-per-site) - Firefox extension to change Accept-Language for different sites.
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to show sub only VOD on Twitch
@@ -688,7 +690,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 95 stars and 154 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 96 stars and 154 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
