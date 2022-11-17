@@ -315,6 +315,7 @@
 
 ## JavaScript 
 
+- [vg-mjg/majsoul-plus-mods](https://github.com/vg-mjg/majsoul-plus-mods) - Collection of majsoul plus mods
 - [wesbos/who-blue](https://github.com/wesbos/who-blue) - A browser extension to separate lords from peasants
 - [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users
 - [tacohitbox/userscripts](https://github.com/tacohitbox/userscripts) - Some userscripts I wrote.
