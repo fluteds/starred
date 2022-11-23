@@ -215,7 +215,6 @@
 ## EJS 
 
 - [crizmo/Stream-Savers](https://github.com/crizmo/Stream-Savers) - Stream Savers is a free, open-source and easy-to-use service to loop stream 24/7 to YouTube
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -446,6 +445,7 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [twoscott/haseul-bot](https://github.com/twoscott/haseul-bot) - A general purpose Discord bot.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -593,7 +593,7 @@
 
 - [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) - ShareXen - Another ShareX Custom Uploader PHP Script
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
 - [JoeGandy/ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) - A little PHP script created for uploading custom sharex files to your own webserver
 - [aerouk/imageserve](https://github.com/aerouk/imageserve) - A ShareX image hosting solution for your own domain.
 
@@ -607,6 +607,7 @@
 
 ## Python 
 
+- [MCMi460/3DS-RPC](https://github.com/MCMi460/3DS-RPC) - Connect your 3DS playing status to Discord!
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [SpaceGliderr/orbot](https://github.com/SpaceGliderr/orbot) - Bot for the Loona Discord server
@@ -706,7 +707,7 @@
 
 ## Ruby 
 
-- [buhrmi/opendjbooth](https://github.com/buhrmi/opendjbooth) - Music is more fun together.
+- [buhrmi/opendjboothold](https://github.com/buhrmi/opendjboothold) - Music is more fun together.
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 - [stevekinney/pizza](https://github.com/stevekinney/pizza) - Where is the best :pizza: in a given city?
