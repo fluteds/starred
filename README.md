@@ -609,6 +609,7 @@
 
 ## Python 
 
+- [joinemm/spotify-to-lastfm](https://github.com/joinemm/spotify-to-lastfm) - Analyze and bulk scrobble your spotify data package
 - [MCMi460/3DS-RPC](https://github.com/MCMi460/3DS-RPC) - Connect your 3DS playing status to Discord!
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
