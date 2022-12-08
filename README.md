@@ -182,7 +182,6 @@
 
 ## CSS 
 
-- [MCMi460/3DS-RPC](https://github.com/MCMi460/3DS-RPC) - Connect your 3DS playing status to Discord!
 - [jakejarvis/kitboga-bank](https://github.com/jakejarvis/kitboga-bank) - Mirror of Kitboga's fake bank account repository on BitBucket, please submit new themes there!
 - [Peyrzival/dotfiles-gruv](https://github.com/Peyrzival/dotfiles-gruv) - 
 - [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - 
@@ -438,7 +437,7 @@
 - [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
-- [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [forwardemail/custom-fonts-in-emails](https://github.com/forwardemail/custom-fonts-in-emails) - An extremely easy way to use custom fonts in emails without having to use art software.
 - [hundredrabbits/Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool
@@ -614,6 +613,7 @@
 ## Python 
 
 - [joinemm/spotify-to-lastfm](https://github.com/joinemm/spotify-to-lastfm) - Analyze and bulk scrobble your spotify data package
+- [MCMi460/3DS-RPC](https://github.com/MCMi460/3DS-RPC) - Connect your 3DS playing status to Discord!
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [SpaceGliderr/orbot](https://github.com/SpaceGliderr/orbot) - Bot for the Loona Discord server
