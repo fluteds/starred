@@ -621,6 +621,7 @@
 - [breakerspace/weaponizing-censors](https://github.com/breakerspace/weaponizing-censors) - censors pose a threat to the entire Internet
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
+- [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
 - [Xetera/sni-proxy](https://github.com/Xetera/sni-proxy) - 🪄 Magically bypass government censorship without a VPN by tampering with the SNI field of TLS handshakes
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [nano-shino/genshinhelper](https://github.com/nano-shino/genshinhelper) - A Discord bot to help with daily Genshin activities
@@ -701,7 +702,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 101 stars and 160 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 102 stars and 160 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
