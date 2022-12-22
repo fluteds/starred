@@ -304,7 +304,7 @@
 - [RedLime/ModCheck](https://github.com/RedLime/ModCheck) - Minecraft SpeedRun Mod Auto Installer
 - [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [Gregor0410/SpeedrunPractice](https://github.com/Gregor0410/SpeedrunPractice) - Speedrun Practice mod
-- [RedLime/SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT) - Counting In-game Timer for Minecraft SpeedRun
+- [RedLime/SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT) - In-game Timer for Minecraft Speedrun
 - [mjtb49/StrongholdTrainer](https://github.com/mjtb49/StrongholdTrainer) - 
 - [Ninjabrain1/Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) - Accurate stronghold calculator for Minecraft speedrunning.
 - [logwet/noverworld](https://github.com/logwet/noverworld) - Spawn in the nether with a set of items. Made by logwet, designed by k4yfour, idea by Fyroah.
