@@ -726,6 +726,7 @@
 
 ## Rust 
 
+- [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [Lioness100/free-duolingo-plus](https://github.com/Lioness100/free-duolingo-plus) - Simple CLI tool to create dummy accounts with referral links to give yourself free Plus.
