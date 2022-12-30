@@ -110,7 +110,7 @@
 ## C 
 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - Flipper Zero FW [ROGUEMASTER]
+- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster FlipperZero Firmware
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [jbruchon/snippets](https://github.com/jbruchon/snippets) - Little helpful pieces of code I wrote, then found lying around in the snippets storeroom behind the red door in the rainforest.
@@ -185,7 +185,6 @@
 
 - [jakejarvis/kitboga-bank](https://github.com/jakejarvis/kitboga-bank) - Mirror of Kitboga's fake bank account repository on BitBucket, please submit new themes there!
 - [Peyrzival/dotfiles-gruv](https://github.com/Peyrzival/dotfiles-gruv) - 
-- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - 
 - [xandjiji/stardew-helper](https://github.com/xandjiji/stardew-helper) - Stardew Helper is a companion App to help you while playing Stardew Valley.
 - [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
 - [cyyynthia/cynthia.dev](https://github.com/cyyynthia/cynthia.dev) - My personal website
@@ -336,6 +335,7 @@
 - [TimIsOverpowered/archive](https://github.com/TimIsOverpowered/archive) - Automated Upload Twitch Vod to Youtube after streaming & Serves as an API for VOD playback with chat replay
 - [z0ccc/LocateJS](https://github.com/z0ccc/LocateJS) - Check if your location is actually hidden
 - [davialc/lofi-me](https://github.com/davialc/lofi-me) - ☕ A simple lofi player for desktop
+- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - 
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [Erisa/starbin](https://github.com/Erisa/starbin) - A hastebin-compatible paste site running on Cloudflare Pages.
 - [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that I made in like 2 days
