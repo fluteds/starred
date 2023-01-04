@@ -632,7 +632,7 @@
 - [scottrice/Ice](https://github.com/scottrice/Ice) - Application to automatically add ROMs to Steam
 - [xenova/sponsorblock-ml](https://github.com/xenova/sponsorblock-ml) - Automatically detect in-video YouTube sponsorships, self/unpaid promotions, and interaction reminders.
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [bibanon/tubeup](https://github.com/bibanon/tubeup) - Download videos using youtube-dl and upload to the Internet Archive with metadata.
 - [GooeyPancake/victor](https://github.com/GooeyPancake/victor) - Tool and documentation dumping grounds
 - [equalo-official/animalese-generator](https://github.com/equalo-official/animalese-generator) - Generate audio like the dialogue from animal crossing
@@ -705,7 +705,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 104 stars and 161 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 104 stars and 162 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
