@@ -111,7 +111,7 @@
 ## C 
 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster FlipperZero Firmware
+- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [jbruchon/snippets](https://github.com/jbruchon/snippets) - Little helpful pieces of code I wrote, then found lying around in the snippets storeroom behind the red door in the rainforest.
@@ -613,6 +613,7 @@
 
 ## Python 
 
+- [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [seksea/auto-status](https://github.com/seksea/auto-status) - Ever wanted to have discord say you've played Garfield Kart for 10k+ days or say you're competing in a made up tournament? Well this project is for you
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
 - [joinemm/spotify-to-lastfm](https://github.com/joinemm/spotify-to-lastfm) - Analyze and bulk scrobble your spotify data package
