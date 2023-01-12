@@ -258,6 +258,7 @@
 
 ## HTML 
 
+- [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) - a ransomware-group observatory  🧅👹
 - [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
 - [DeepDiscord/DeepDiscord](https://github.com/DeepDiscord/DeepDiscord) - Search Discord's "Deep Web" (work in progress)
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
