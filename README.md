@@ -360,7 +360,7 @@
 - [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
 - [4ndv/HexaGone](https://github.com/4ndv/HexaGone) - Replaces twitter NFT idiocracy
 - [robinuniverse/TwitFix-Extension](https://github.com/robinuniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
-- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Claims free games on the Epic Games Store and Amazon Prime Gaming.
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [Mango0x45/retime.mcbe.wtf](https://github.com/Mango0x45/retime.mcbe.wtf) - A run retimer for speedrunners.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [google/santa-tracker-web](https://github.com/google/santa-tracker-web) - The source code to Santa Tracker's website, by Google
@@ -533,7 +533,7 @@
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
-- [orhun/orhun](https://github.com/orhun/orhun) - My GitHub profile README.md ⭐
+- [orhun/orhun](https://github.com/orhun/orhun) - My GitHub profile README.md ⭐:octocat:
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [sayuriu/handwriting-font](https://github.com/sayuriu/handwriting-font) - My handwriting, as a font!
 - [BuildBot42/discord-scam-links](https://github.com/BuildBot42/discord-scam-links) - One page, easily readable list of phishing Discord-imitating websites
