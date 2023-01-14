@@ -75,7 +75,6 @@
 
 ## Astro 
 
-- [cyyynthia/cynthia.dev](https://github.com/cyyynthia/cynthia.dev) - My personal website
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## AutoHotkey 
@@ -293,6 +292,8 @@
 
 ## Java 
 
+- [RedLime/SleepBackground](https://github.com/RedLime/SleepBackground) - Your instances are want to sleep, just let them do it (better performance & configurable Dynamic Menu FPS))
+- [DuncanRuns/Force-Port-Mod](https://github.com/DuncanRuns/Force-Port-Mod) - A fabric mod which forces the port of the "open to lan" feature to be 25565.
 - [tr7zw/ItemSwapper](https://github.com/tr7zw/ItemSwapper) - Tweaks to the inventory system based on Xisumavoid's video.
 - [chrrs/PegsEmotes](https://github.com/chrrs/PegsEmotes) - Discord style chat emotes for Minecraft chat.
 - [TwitchRecover/TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Twitch VOD tool which recovers all VODs including those that are sub only or deleted.
@@ -508,6 +509,7 @@
 
 ## Others 
 
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
 - [ilfuriano/smart_intercom](https://github.com/ilfuriano/smart_intercom) - 
 - [IgrecL/Japanese-Learning-Resources](https://github.com/IgrecL/Japanese-Learning-Resources) - Useful resources for learning Japanese
@@ -707,7 +709,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 104 stars and 160 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 104 stars and 161 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
