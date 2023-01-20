@@ -609,6 +609,7 @@
 
 ## PowerShell 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
@@ -638,7 +639,6 @@
 - [scottrice/Ice](https://github.com/scottrice/Ice) - Application to automatically add ROMs to Steam
 - [xenova/sponsorblock-ml](https://github.com/xenova/sponsorblock-ml) - Automatically detect in-video YouTube sponsorships, self/unpaid promotions, and interaction reminders.
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [bibanon/tubeup](https://github.com/bibanon/tubeup) - Download videos using youtube-dl and upload to the Internet Archive with metadata.
 - [GooeyPancake/victor](https://github.com/GooeyPancake/victor) - Tool and documentation dumping grounds
 - [equalo-official/animalese-generator](https://github.com/equalo-official/animalese-generator) - Generate audio like the dialogue from animal crossing
