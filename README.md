@@ -241,6 +241,7 @@
 
 ## Go 
 
+- [Vencord/Installer](https://github.com/Vencord/Installer) - A cross platform gui/cli app for installing Vencord
 - [gempir/justlog](https://github.com/gempir/justlog) - twitch logging platform
 - [nuuls/filehost](https://github.com/nuuls/filehost) - 
 - [fourtf/i](https://github.com/fourtf/i) - Simple self-host image uploader.
