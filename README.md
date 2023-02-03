@@ -512,6 +512,7 @@
 
 ## Others 
 
+- [hashirahmad/Best-always-free-tier-cloud-platforms](https://github.com/hashirahmad/Best-always-free-tier-cloud-platforms) - Best 'always' free tier cloud platforms
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
 - [ilfuriano/smart_intercom](https://github.com/ilfuriano/smart_intercom) - 
