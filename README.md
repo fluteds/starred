@@ -475,7 +475,7 @@
 
 - [flex3r/DankChat](https://github.com/flex3r/DankChat) - Don't you guys have phones?
 - [isXander/Pronounify](https://github.com/isXander/Pronounify) - View your pronouns in Minecraft
-- [alexrintt/how-many-lines](https://github.com/alexrintt/how-many-lines) - 🎮 How many lines of code have you written throughout your journey on GitHub?
+- [alexrintt/how-many-lines](https://github.com/alexrintt/how-many-lines) - How many lines of code have you written throughout your journey on GitHub?
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 
 ## Logos 
