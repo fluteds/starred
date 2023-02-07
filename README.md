@@ -626,7 +626,7 @@
 - [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [seksea/auto-status](https://github.com/seksea/auto-status) - Ever wanted to have discord say you've played Garfield Kart for 10k+ days or say you're competing in a made up tournament? Well this project is for you
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
-- [joinemm/spotify-to-lastfm](https://github.com/joinemm/spotify-to-lastfm) - Analyze and bulk scrobble your spotify data package
+- [joinemm/spotify-to-lastfm](https://github.com/joinemm/spotify-to-lastfm) - :musical_note: Analyze and bulk scrobble your spotify data package into Last.fm
 - [MCMi460/3DS-RPC](https://github.com/MCMi460/3DS-RPC) - Connect your 3DS playing status to Discord!
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
@@ -715,7 +715,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 106 stars and 163 forks 🌟
-- [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - Discord bot with too many features
+- [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -779,7 +779,7 @@
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [WalshyDev/Discord-Status-Webhook](https://github.com/WalshyDev/Discord-Status-Webhook) - 
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
-- [joinemm/bin](https://github.com/joinemm/bin) - Compilation of all my shell scripts
+- [joinemm/bin](https://github.com/joinemm/bin) - :wastebasket: Compilation of all my shell scripts
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) - XMonad™️. Widgets go brr.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
