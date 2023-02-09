@@ -758,7 +758,7 @@
 
 ## SCSS 
 
-- [discord-theme-tools/theme-notices](https://github.com/discord-theme-tools/theme-notices) - CSS & SCSS styling that you can apply to your theme which allows you to warn the user.
+- [discord-extensions/theme-notices](https://github.com/discord-extensions/theme-notices) - CSS & SCSS styling that you can apply to your theme which allows you to warn the user.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
