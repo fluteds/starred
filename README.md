@@ -341,7 +341,7 @@
 - [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - 
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [Erisa/starbin](https://github.com/Erisa/starbin) - A hastebin-compatible paste site running on Cloudflare Pages.
-- [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that I made in like 2 days
+- [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that was used for Club Penguin Rewritten events.
 - [getify/youperiod.app](https://github.com/getify/youperiod.app) - YouPeriod.app -- the privacy-first period tracking app
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
