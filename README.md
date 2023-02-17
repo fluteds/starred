@@ -279,7 +279,7 @@
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [nthitz/pluggedTT](https://github.com/nthitz/pluggedTT) - 
-- [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing template
+- [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing page template
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [skullface/protest.wtf](https://github.com/skullface/protest.wtf) - ✊ Going to a protest and don’t know wtf to do or wtf to bring? This guide aims to help you protect yourself.
 - [learning-gardens/pixel-lab](https://github.com/learning-gardens/pixel-lab) - A space for indie game devs, weird web artists, and anyone making or learning about all the strange things you can make with pixels
@@ -713,7 +713,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 106 stars and 163 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 106 stars and 165 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
