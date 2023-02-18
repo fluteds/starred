@@ -511,6 +511,7 @@
 
 ## Others 
 
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [hashirahmad/Best-always-free-tier-cloud-platforms](https://github.com/hashirahmad/Best-always-free-tier-cloud-platforms) - Best 'always' free tier cloud platforms
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
