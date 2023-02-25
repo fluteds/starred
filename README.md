@@ -472,6 +472,7 @@
 
 ## Kotlin 
 
+- [Maxr1998/LightStickMod](https://github.com/Maxr1998/LightStickMod) - Modding the LOOΠΔ light stick with a custom PCB/firmware, rechargeable battery and a companion Android app for wireless control.
 - [flex3r/DankChat](https://github.com/flex3r/DankChat) - Don't you guys have phones?
 - [isXander/Pronounify](https://github.com/isXander/Pronounify) - View your pronouns in Minecraft
 - [alexrintt/how-many-lines](https://github.com/alexrintt/how-many-lines) - How many lines of code have you written throughout your journey on GitHub?
