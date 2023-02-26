@@ -323,6 +323,8 @@
 
 ## JavaScript 
 
+- [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
+- [alexrintt/lofi-player](https://github.com/alexrintt/lofi-player) - Web lofi-player built to learn HTML, CSS and JavaScript.
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [KevinParnell/OneeChan](https://github.com/KevinParnell/OneeChan) - Customizable rice and themes for 4chan X
 - [NeverDecaf/majsoul-mods](https://github.com/NeverDecaf/majsoul-mods) - A collection of mahjong soul scripts
@@ -360,7 +362,7 @@
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
-- [robole/vscode-file-bunny](https://github.com/robole/vscode-file-bunny) - Perform file actions quickly with keyboard-driven file selection  🐰⌨️
+- [robole/vscode-file-bunny](https://github.com/robole/vscode-file-bunny) - VS Code - No need to hop to the Sidebar to work with files  🐰⌨️
 - [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
 - [4ndv/HexaGone](https://github.com/4ndv/HexaGone) - Replaces twitter NFT idiocracy
 - [robinuniverse/TwitFix-Extension](https://github.com/robinuniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
