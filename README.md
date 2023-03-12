@@ -697,7 +697,7 @@
 - [TheTalkingMime/ResetTracker](https://github.com/TheTalkingMime/ResetTracker) - 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [haranlakha/spotify-tweet-bot](https://github.com/haranlakha/spotify-tweet-bot) - Twitter bot which gets the users currently playing song and tweets it to their timeline
+- [haranlakha/spotify-tweet-bot](https://github.com/haranlakha/spotify-tweet-bot) - DEPRECATED: Twitter bot which gets the users currently playing song and tweets it to their timeline
 - [micah5/ace-attorney-reddit-bot](https://github.com/micah5/ace-attorney-reddit-bot) - 👨🏼‍⚖️ reddit bot that turns comment chains into ace attorney scenes
 - [LuisMayo/ace-attorney-twitter-bot](https://github.com/LuisMayo/ace-attorney-twitter-bot) - Twitter bot that turns comment chains into ace attorney scenes. Inspired by and using https://github.com/micah5/ace-attorney-reddit-bot
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
