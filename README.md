@@ -295,6 +295,7 @@
 
 ## Java 
 
+- [DuncanRuns/MinecraftCoopStarter](https://github.com/DuncanRuns/MinecraftCoopStarter) - A simple ngrok wrapper for minecraft coops; opens the 25565 tcp port to the world through ngrok.
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
 - [RedLime/SleepBackground](https://github.com/RedLime/SleepBackground) - Your instances are want to sleep, just let them do it (better performance & configurable Dynamic Menu FPS))
 - [DuncanRuns/Force-Port-Mod](https://github.com/DuncanRuns/Force-Port-Mod) - A fabric mod which forces the port of the "open to lan" feature to be 25565.
