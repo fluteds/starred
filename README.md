@@ -325,6 +325,7 @@
 
 ## JavaScript 
 
+- [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [rdeprey/meeting-indicator](https://github.com/rdeprey/meeting-indicator) - Use your Outlook calendar to show a message on an LCD screen so that others know when you're in a meeting
 - [martinkadlec0/hc-tcg](https://github.com/martinkadlec0/hc-tcg) - Hermitcraft TCG
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
@@ -542,7 +543,7 @@
 - [bbmaster123/10SM](https://github.com/bbmaster123/10SM) - Native Windows 10 Start Menu for Windows 11
 - [carrnot/china-ip-list](https://github.com/carrnot/china-ip-list) - China IP List
 - [Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter](https://github.com/Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter) - This list is a fork of DandelionSprouts' AntiKpopSpammersTwitter updated with more K-pop artists and related stuff.
-- [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) - An actively maintained JSON & txt List containing 19'000+ malicious Domains which are used for phishing on Discord.
+- [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links) - An actively maintained JSON & txt List containing 20'000+ malicious Domains which are used for phishing on Discord.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
@@ -723,7 +724,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 108 stars and 168 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 108 stars and 167 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
