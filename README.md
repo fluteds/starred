@@ -49,6 +49,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
+- [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [SourcePawn](#sourcepawn)
 - [Svelte](#svelte)
@@ -519,6 +520,7 @@
 
 ## Others 
 
+- [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
 - [JohnHammond/labs](https://github.com/JohnHammond/labs) - Free and publicly available training labs and exercises, for quick copy-and-paste demonstrations, learning and education.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [hashirahmad/Best-always-free-tier-cloud-platforms](https://github.com/hashirahmad/Best-always-free-tier-cloud-platforms) - Best 'always' free tier cloud platforms
@@ -630,6 +632,7 @@
 
 ## Python 
 
+- [brucethemoose/Minecraft-Performance-Flags-Benchmarks](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Sane, Benchmarked Java Flags and Tweaks for Minecraft
 - [Bla-De/StardewSeedScripts](https://github.com/Bla-De/StardewSeedScripts) - Scripts to assist in finding good seeds for various Stardew Valley Speedruns
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks
@@ -725,7 +728,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 109 stars and 169 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 110 stars and 169 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -779,6 +782,10 @@
 ## Scala 
 
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+
+## ShaderLab 
+
+- [Xibanya/ShaderTutorials](https://github.com/Xibanya/ShaderTutorials) - Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!
 
 ## Shell 
 
