@@ -166,7 +166,7 @@
 
 ## C++ 
 
-- [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) - Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: will be updated soon. sorry for inconvenience)
+- [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) - Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functiona
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 - [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino) - Chat client for twitch.tv. See releases for download. Only nightlies are supported.
@@ -396,7 +396,7 @@
 - [cheap-glitch/vim.help](https://github.com/cheap-glitch/vim.help) - 📔 A mirror of Vim’s built-in documentation, adapted and improved for the web.
 - [cheap-glitch/fretboarder](https://github.com/cheap-glitch/fretboarder) - 🎸 A web app to visualize scales, chords and arpeggios on all kinds of fretboards.
 - [notion-enhancer/extension](https://github.com/notion-enhancer/extension) - an enhancer/customiser for the all-in-one productivity workspace notion.so (browser)
-- [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - A 1.1.1.1 DNS resolver built for Discord
+- [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord.
 - [baspinarenes/spider-solitaire](https://github.com/baspinarenes/spider-solitaire) - Legendary spider solitaire game with Windows XP theme
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [captainadorable/personal-website](https://github.com/captainadorable/personal-website) - My personal website source code.
@@ -632,6 +632,7 @@
 
 ## Python 
 
+- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [brucethemoose/Minecraft-Performance-Flags-Benchmarks](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Sane, Benchmarked Java Flags and Tweaks for Minecraft
 - [Bla-De/StardewSeedScripts](https://github.com/Bla-De/StardewSeedScripts) - Scripts to assist in finding good seeds for various Stardew Valley Speedruns
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -728,7 +729,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 110 stars and 169 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 110 stars and 170 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
