@@ -81,6 +81,7 @@
 
 ## AutoHotkey 
 
+- [LSDL/hogwarts-legacy-gesture-to-spell](https://github.com/LSDL/hogwarts-legacy-gesture-to-spell) - A AHK script project that allows you to cast magic with mouse gestures in Hogwarts Legacy game.
 - [houdini101/AHK_Minecraft_Tools](https://github.com/houdini101/AHK_Minecraft_Tools) - Simple AutoHotKey Script for Minecraft. Includes AFK-Fishing, Auto-Sweep Attack and Nether Portal Calculator.
 - [gbs0/gta_casino_solver](https://github.com/gbs0/gta_casino_solver) - Some scripts that solve the keypad hacking in the vault from GTA V Casino heist.
 - [Specnr/MultiResetWall](https://github.com/Specnr/MultiResetWall) - A wall-style multi-instance macro for Minecraft RSG resetting
@@ -521,6 +522,8 @@
 
 ## Others 
 
+- [CommunityDragon/awesome-league](https://github.com/CommunityDragon/awesome-league) - A list of apps that work with the League of Legends Client & In-Game API.
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
 - [JohnHammond/labs](https://github.com/JohnHammond/labs) - Free and publicly available training labs and exercises, for quick copy-and-paste demonstrations, learning and education.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
@@ -633,6 +636,7 @@
 
 ## Python 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
 - [adhikary97/girlfriend_text](https://github.com/adhikary97/girlfriend_text) - Send text to girlfriend in the morning
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [brucethemoose/Minecraft-Performance-Flags-Benchmarks](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Sane, Benchmarked Java Flags and Tweaks for Minecraft
