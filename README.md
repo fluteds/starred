@@ -330,6 +330,7 @@
 
 ## JavaScript 
 
+- [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [rdeprey/meeting-indicator](https://github.com/rdeprey/meeting-indicator) - Use your Outlook calendar to show a message on an LCD screen so that others know when you're in a meeting
 - [martinkadlec0/hc-tcg](https://github.com/martinkadlec0/hc-tcg) - Hermitcraft TCG
@@ -798,6 +799,7 @@
 
 ## Shell 
 
+- [luzifer-arch/chatterino2-dankerino-git](https://github.com/luzifer-arch/chatterino2-dankerino-git) - 
 - [mwvd/i-am-home-now-i-love-u-sleep-tight](https://github.com/mwvd/i-am-home-now-i-love-u-sleep-tight) - text your best friend "i am home now i love u sleep tight" when you are home
 - [diademiemi/blahaj.sh](https://github.com/diademiemi/blahaj.sh) - Blahaj.sh site
 - [antonino3g/arch-linux-post-install](https://github.com/antonino3g/arch-linux-post-install) - :rocket: My Arch Linux post-installation setup and configs scripts.
