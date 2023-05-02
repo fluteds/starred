@@ -319,7 +319,7 @@
 - [logwet/blinded](https://github.com/logwet/blinded) - Spawn in the overworld at post blind coords with a typical post nether split inventory. Based on the codebase of noverworld. Made by logwet, designed by logwet and k4yfour.
 - [LambdAurora/fuck_namemc](https://github.com/LambdAurora/fuck_namemc) - Minecraft mod to block NameMC indexing on servers.
 - [axieum/fabric-example-mod](https://github.com/axieum/fabric-example-mod) - An elegant Minecraft mod template for the Fabric mod loader
-- [Moresteck/BetaCraft-Launcher-Java](https://github.com/Moresteck/BetaCraft-Launcher-Java) - Java edition of BetaCraft Launcher
+- [betacraftuk/betacraft-launcher](https://github.com/betacraftuk/betacraft-launcher) - A launcher for Minecraft focused on legacy versions of the game
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [toolbox4minecraft/amidst](https://github.com/toolbox4minecraft/amidst) - Advanced Minecraft Interface and Data/Structure Tracking
 - [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
@@ -737,7 +737,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 113 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 114 stars and 173 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
