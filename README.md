@@ -44,7 +44,6 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [ReScript](#rescript)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -58,6 +57,7 @@
 - [Text](#text)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
+- [Valve Data Format](#valve-data-format)
 - [Vue](#vue)
 - [mcfunction](#mcfunction)
 
@@ -743,10 +743,6 @@
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
 
-## ReScript 
-
-- [JarateKing/TF2-Hud-Reference](https://github.com/JarateKing/TF2-Hud-Reference) - Tutorial and reference for huds
-
 ## Ruby 
 
 - [buhrmi/opendjboothold](https://github.com/buhrmi/opendjboothold) - Music is more fun together.
@@ -924,6 +920,10 @@
 
 - [Da2dalus/The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
 - [onx/ILOVEYOU](https://github.com/onx/ILOVEYOU) - Formatted and commented source code of ILOVEYOU/Love Letter
+
+## Valve Data Format 
+
+- [JarateKing/TF2-Hud-Reference](https://github.com/JarateKing/TF2-Hud-Reference) - Tutorial and reference for huds
 
 ## Vue 
 
