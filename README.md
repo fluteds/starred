@@ -492,7 +492,7 @@
 
 ## Logos 
 
-- [enmity-mod/loader-ios](https://github.com/enmity-mod/loader-ios) - Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.
+- [enmity-mod/tweak](https://github.com/enmity-mod/tweak) - Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.
 
 ## Lua 
 
@@ -640,6 +640,7 @@
 
 ## Python 
 
+- [robinuniverse/FxGitHub](https://github.com/robinuniverse/FxGitHub) - An attempt to make a github embed that actually shows the code you link to
 - [Shishkebaboo/VodRecovery](https://github.com/Shishkebaboo/VodRecovery) - The purpose of this script is to obtain videos or clips that are either marked as "sub-only" or have been deleted on Twitch.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
