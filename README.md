@@ -480,7 +480,6 @@
 
 ## Jupyter Notebook 
 
-- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [charliezcr/Kpop-Data-Analysis](https://github.com/charliezcr/Kpop-Data-Analysis) - Data analysis about K-pop industry, artists, and companies. Visualized business performances of public K-pop companies and analyzed artist management and international marketing strategies
 
 ## Kotlin 
@@ -676,6 +675,7 @@
 - [equalo-official/animalese-generator](https://github.com/equalo-official/animalese-generator) - Generate audio like the dialogue from animal crossing
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [Hamlet3000/vectorator](https://github.com/Hamlet3000/vectorator) - This is a fork of TurkMcGill's program for Anki's Vector robot. It makes him talk. A LOT.
+- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [pistacium/top-run-time](https://github.com/pistacium/top-run-time) - Takes output from RedLime's SpeedRunIGT mod (igt_timer.log) to get the top run retime as per the rules in speedrun.com/mc as well as generating a new file which is a copy of igt_timer.log which specif
 - [CowCoding0/Gartic-Phone-Draw-Bot](https://github.com/CowCoding0/Gartic-Phone-Draw-Bot) - Drawing Bot for Gartic Phone
 - [EhsanKia/CatalogScanner](https://github.com/EhsanKia/CatalogScanner) - Scans Animal Crossing: New Horizon catalog from video of user scrolling through.
