@@ -312,7 +312,6 @@
 - [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable.
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [RedLime/ModCheck](https://github.com/RedLime/ModCheck) - Minecraft SpeedRun Mod Auto Installer
-- [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [Gregor0410/SpeedrunPractice](https://github.com/Gregor0410/SpeedrunPractice) - Speedrun Practice mod
 - [RedLime/SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT) - In-game Timer for Minecraft Speedrun
 - [mjtb49/StrongholdTrainer](https://github.com/mjtb49/StrongholdTrainer) - 
@@ -332,6 +331,7 @@
 
 ## JavaScript 
 
+- [stephanerangaya/throbber](https://github.com/stephanerangaya/throbber) - A Google Chrome/Microsoft Edge extension that brings you back to the 90s
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
@@ -489,6 +489,7 @@
 - [Maxr1998/LightStickMod](https://github.com/Maxr1998/LightStickMod) - Modding the LOOΠΔ light stick with a custom PCB/firmware, rechargeable battery and a companion Android app for wireless control.
 - [flex3r/DankChat](https://github.com/flex3r/DankChat) - Don't you guys have phones?
 - [isXander/Pronounify](https://github.com/isXander/Pronounify) - View your pronouns in Minecraft
+- [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 
 ## Logos 
