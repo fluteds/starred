@@ -112,6 +112,7 @@
 
 ## C 
 
+- [libc0607/GI_Dice](https://github.com/libc0607/GI_Dice) - An implementation of the Element Dice in Genius Invokation TCG with RISC-V & BLE inside 原神七圣召唤中的元素骰子，支持蓝牙
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [Malin001/Legilimens-Hogwarts-Legacy-cpp](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-cpp) - Legilimens is a tool to help you find your last few missing collectibles in Hogwarts Legacy and finally get that 100% completion. Now rewritten in C++
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
