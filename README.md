@@ -353,7 +353,7 @@
 - [TimIsOverpowered/archive](https://github.com/TimIsOverpowered/archive) - Automated Upload Twitch Vod to Youtube after streaming & Serves as an API for VOD playback with chat replay
 - [z0ccc/LocateJS](https://github.com/z0ccc/LocateJS) - Check if your location is actually hidden
 - [davialcantaraa/lofi-me](https://github.com/davialcantaraa/lofi-me) - ☕ A simple lofi player for desktop
-- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - 
+- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServer V1, codebase not very good
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [Erisa/starbin](https://github.com/Erisa/starbin) - A hastebin-compatible paste site running on Cloudflare Pages.
 - [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that was used for Club Penguin Rewritten events.
