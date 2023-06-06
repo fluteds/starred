@@ -266,6 +266,7 @@
 
 ## HTML 
 
+- [spotlightishere/dubdub.bingo](https://github.com/spotlightishere/dubdub.bingo) - WWDC '23 bingo card
 - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) - the original, transparent ransomware claim tracker 🥷🏼🧅🖥️
 - [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
 - [DeepDiscord/DeepDiscord](https://github.com/DeepDiscord/DeepDiscord) - Search Discord's "Deep Web" (work in progress)
@@ -364,7 +365,7 @@
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) - Select which region you connect to in various Valve games
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [makifoxgirl/blahaj-finder](https://github.com/makifoxgirl/blahaj-finder) - Hourly BLÅHAJ finder map
+- [makidoll/blahaj-finder](https://github.com/makidoll/blahaj-finder) - Hourly BLÅHAJ finder map
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your is-a-good.dev domain!
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
@@ -525,6 +526,7 @@
 
 ## Others 
 
+- [fabiencelier/geoguessr-tips](https://github.com/fabiencelier/geoguessr-tips) - Tips and resources for GeoGuessr
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [kostas-from-cyber-space/4chan-captcha-solver](https://github.com/kostas-from-cyber-space/4chan-captcha-solver) - 4chan captcha solver userscript
 - [CommunityDragon/awesome-league](https://github.com/CommunityDragon/awesome-league) - A list of apps that work with the League of Legends Client & In-Game API.
@@ -900,7 +902,7 @@
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
-- [makifoxgirl/maki.cafe](https://github.com/makifoxgirl/maki.cafe) - 
+- [makidoll/maki.cafe](https://github.com/makidoll/maki.cafe) - 
 - [ryanmcgall/ryanmcgall.xyz-](https://github.com/ryanmcgall/ryanmcgall.xyz-) - Personal website 👋
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
