@@ -302,6 +302,7 @@
 
 ## Java 
 
+- [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware
 - [adryd325/mc-a11y-tweaks](https://github.com/adryd325/mc-a11y-tweaks) - Small tweaks related to flickers, flashes, and scaling in Minecraft
 - [DuncanRuns/MinecraftCoopStarter](https://github.com/DuncanRuns/MinecraftCoopStarter) - A simple ngrok wrapper for minecraft coops; opens the 25565 tcp port to the world through ngrok.
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
@@ -644,6 +645,7 @@
 
 ## Python 
 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [danielweidman/pixmob-ir-reverse-engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering) - Hacking the PixMob infrared (and now also RF!) protocol to enable control of PixMob wristbands at home.
 - [robinuniverse/FxGitHub](https://github.com/robinuniverse/FxGitHub) - An attempt to make a github embed that actually shows the code you link to
 - [Shishkebaboo/VodRecovery](https://github.com/Shishkebaboo/VodRecovery) - The purpose of this script is to obtain videos or clips that are either marked as "sub-only" or have been deleted on Twitch.
@@ -801,6 +803,7 @@
 
 ## Shell 
 
+- [aBoredDev/playit-setup-script](https://github.com/aBoredDev/playit-setup-script) - An un-official script to set up the playit.gg tunnel host (https://playit.gg/) and install it as a service on Linux
 - [TheRemote/RaspberryPiMinecraft](https://github.com/TheRemote/RaspberryPiMinecraft) - Configuration files and performance testing scripts to setup and optimize a dedicated Minecraft (PC Java version) server
 - [luzifer-arch/chatterino2-dankerino-git](https://github.com/luzifer-arch/chatterino2-dankerino-git) - 
 - [mwvd/i-am-home-now-i-love-u-sleep-tight](https://github.com/mwvd/i-am-home-now-i-love-u-sleep-tight) - text your best friend "i am home now i love u sleep tight" when you are home
