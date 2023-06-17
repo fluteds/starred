@@ -870,6 +870,7 @@
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
 - [cyberofficial/TTVDropBot](https://github.com/cyberofficial/TTVDropBot) - Twitch Drop Bot. Automaticlly Farms every Twitch Drop available like Rust for ya and now also your Custom Channel's
@@ -943,7 +944,6 @@
 
 ## Vue 
 
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [tilda/enkanomiya](https://github.com/tilda/enkanomiya) - Calculate the "CRIT Value" (CV) of your artifacts easily, and more
 - [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
 - [eggsy/is-inside-me-dead](https://github.com/eggsy/is-inside-me-dead) - 😥 Website source code after is-inside.me was shut down.
