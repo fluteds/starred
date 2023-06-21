@@ -871,7 +871,6 @@
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
 - [yuanqing/single-page-markdown-website](https://github.com/yuanqing/single-page-markdown-website) - :hot_pepper: Create a nice single-page documentation website from one or more Markdown files
@@ -892,7 +891,7 @@
 - [lynn/hello-wordl](https://github.com/lynn/hello-wordl) - Wordle clone you can play forever
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
-- [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators and Guides for Minecraft 1.15, 1.16, 1.17, 1.18, 1.19
+- [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators and Guides for Minecraft 1.15, 1.16, 1.17, 1.18, 1.19, 1.20
 - [soatok/dunktags](https://github.com/soatok/dunktags) - Generate a hashtag for a terrible take so you can dunk on it without boosting engagement
 - [Xetera/fixtiktok](https://github.com/Xetera/fixtiktok) - Make tiktok embeds playable on Discord by adding "fix" before "tiktok.com"
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
@@ -944,6 +943,7 @@
 
 ## Vue 
 
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [tilda/enkanomiya](https://github.com/tilda/enkanomiya) - Calculate the "CRIT Value" (CV) of your artifacts easily, and more
 - [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
 - [eggsy/is-inside-me-dead](https://github.com/eggsy/is-inside-me-dead) - 😥 Website source code after is-inside.me was shut down.
