@@ -748,7 +748,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 128 stars and 172 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -907,7 +907,7 @@
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
-- [makidoll/maki.cafe](https://github.com/makidoll/maki.cafe) - 
+- [makidoll/maki.cafe](https://github.com/makidoll/maki.cafe) - its my site
 - [ryanmcgall/ryanmcgall.xyz-](https://github.com/ryanmcgall/ryanmcgall.xyz-) - Personal website 👋
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
