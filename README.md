@@ -365,7 +365,7 @@
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) - Select which region you connect to in various Valve games
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [makidoll/blahaj-finder](https://github.com/makidoll/blahaj-finder) - Hourly BLÅHAJ finder map
+- [makidrone/blahaj-finder](https://github.com/makidrone/blahaj-finder) - Hourly BLÅHAJ finder map
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your is-a-good.dev domain!
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
@@ -907,7 +907,7 @@
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
-- [makidoll/maki.cafe](https://github.com/makidoll/maki.cafe) - its my site
+- [makidrone/maki.cafe](https://github.com/makidrone/maki.cafe) - its my site
 - [ryanmcgall/ryanmcgall.xyz-](https://github.com/ryanmcgall/ryanmcgall.xyz-) - Personal website 👋
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
