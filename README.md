@@ -748,7 +748,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 127 stars and 173 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -871,6 +871,7 @@
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
 - [yuanqing/single-page-markdown-website](https://github.com/yuanqing/single-page-markdown-website) - :hot_pepper: Create a nice single-page documentation website from one or more Markdown files
@@ -943,7 +944,6 @@
 
 ## Vue 
 
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [tilda/enkanomiya](https://github.com/tilda/enkanomiya) - Calculate the "CRIT Value" (CV) of your artifacts easily, and more
 - [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
 - [eggsy/is-inside-me-dead](https://github.com/eggsy/is-inside-me-dead) - 😥 Website source code after is-inside.me was shut down.
