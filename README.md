@@ -761,7 +761,6 @@
 
 ## Ruby 
 
-- [buhrmi/opendjboothold](https://github.com/buhrmi/opendjboothold) - Music is more fun together.
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 - [stevekinney/pizza](https://github.com/stevekinney/pizza) - Where is the best :pizza: in a given city?
