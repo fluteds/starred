@@ -381,7 +381,7 @@
 - [robole/vscode-file-bunny](https://github.com/robole/vscode-file-bunny) - Perform file actions quickly with keyboard-driven file selection. 🐰
 - [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
 - [4ndv/HexaGone](https://github.com/4ndv/HexaGone) - Replaces twitter NFT idiocracy
-- [robinuniverse/TwitFix-Extension](https://github.com/robinuniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
+- [daisyUniverse/TwitFix-Extension](https://github.com/daisyUniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [Mango0x45/retime.mcbe.wtf](https://github.com/Mango0x45/retime.mcbe.wtf) - A run retimer for speedrunners.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
@@ -638,7 +638,7 @@
 ## PowerShell 
 
 - [theyetty/update-hogwarts-legacy-engine.ini](https://github.com/theyetty/update-hogwarts-legacy-engine.ini) - 
-- [robinuniverse/PluralKit-Windows-Switcher](https://github.com/robinuniverse/PluralKit-Windows-Switcher) - A set of scripts that allow your windows system to start up differently depending on whose fronting in pluralkit
+- [daisyUniverse/PluralKit-Windows-Switcher](https://github.com/daisyUniverse/PluralKit-Windows-Switcher) - A set of scripts that allow your windows system to start up differently depending on whose fronting in pluralkit
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
@@ -652,7 +652,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [danielweidman/pixmob-ir-reverse-engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering) - Hacking the PixMob infrared (and now also RF!) protocol to enable control of PixMob wristbands at home.
-- [robinuniverse/FxGitHub](https://github.com/robinuniverse/FxGitHub) - An attempt to make a github embed that actually shows the code you link to
+- [daisyUniverse/FxGitHub](https://github.com/daisyUniverse/FxGitHub) - An attempt to make a github embed that actually shows the code you link to
 - [Shishkebaboo/VodRecovery](https://github.com/Shishkebaboo/VodRecovery) - The purpose of this script is to obtain videos or clips that are either marked as "sub-only" or have been deleted on Twitch.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
@@ -723,7 +723,7 @@
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - 💀 Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh
-- [robinuniverse/TwitFix](https://github.com/robinuniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
+- [daisyUniverse/TwitFix](https://github.com/daisyUniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [TheTalkingMime/ResetTracker](https://github.com/TheTalkingMime/ResetTracker) - 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -866,7 +866,7 @@
 ## TypeScript 
 
 - [NandaScott/PTCGL-Flipper-Redeemer](https://github.com/NandaScott/PTCGL-Flipper-Redeemer) - 
-- [Vencord/Desktop](https://github.com/Vencord/Desktop) - A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed
 - [acquitelol/rosiecord](https://github.com/acquitelol/rosiecord) - Wrapper for @enmity-mod with more modifications
 - [ryanccn/discord-css-mappings](https://github.com/ryanccn/discord-css-mappings) - CSS mappings for Discord themes.
 - [benbalter/gmail-and-google-calendar-stats](https://github.com/benbalter/gmail-and-google-calendar-stats) - Scrapes your GMail and Google Calendar data and returns it as a CSV for further analysis.
