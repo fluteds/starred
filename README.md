@@ -131,6 +131,7 @@
 
 ## C# # 
 
+- [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [jamescl604/MSFSVoiceAttackPlugin](https://github.com/jamescl604/MSFSVoiceAttackPlugin) - Enables additional control of Microsoft Flight Simulator 2020 from Voice Attack
 - [andyvorld/LGSTrayBattery](https://github.com/andyvorld/LGSTrayBattery) - A tray app used to track battery levels of wireless Logitech mouse.
 - [SolomonRosemite/ITECH-Auto-Attendance](https://github.com/SolomonRosemite/ITECH-Auto-Attendance) - (Only relevant for ITECH students) An application that regularly inscribes school attendance.
@@ -335,6 +336,7 @@
 
 ## JavaScript 
 
+- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan
 - [Roshy10/taylors-version](https://github.com/Roshy10/taylors-version) - A React app which updates Spotify playlists to use Taylor Swift's re-released tracks
 - [sky-pose-rick/ptcgl-credits](https://github.com/sky-pose-rick/ptcgl-credits) - 
 - [stephanerangaya/throbber](https://github.com/stephanerangaya/throbber) - A Google Chrome/Microsoft Edge extension that brings you back to the 90s
@@ -648,6 +650,8 @@
 
 ## Python 
 
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [AidanHarveyNelson/pokemon_tcg_redeem](https://github.com/AidanHarveyNelson/pokemon_tcg_redeem) - A Script to automatically redeem Pokemon TCG Live Codes
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -658,7 +662,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [adhikary97/girlfriend_text](https://github.com/adhikary97/girlfriend_text) - Send text to girlfriend in the morning
-- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [brucethemoose/Minecraft-Performance-Flags-Benchmarks](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Sane, Benchmarked Java Flags and Tweaks for Minecraft
 - [Bla-De/StardewSeedScripts](https://github.com/Bla-De/StardewSeedScripts) - Scripts to assist in finding good seeds for various Stardew Valley Speedruns
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -770,6 +774,7 @@
 
 ## Rust 
 
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure Rust written Crunchyroll cli client and downloader
 - [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
@@ -866,6 +871,8 @@
 
 ## TypeScript 
 
+- [benlikescode/geohub](https://github.com/benlikescode/geohub) - I created my own version of the geography guessing game Geoguessr
+- [rod41732/chatterino-theme-creator-web](https://github.com/rod41732/chatterino-theme-creator-web) - Visual theme creator for Chatterino (https://chatterino.com)
 - [NandaScott/PTCGL-Flipper-Redeemer](https://github.com/NandaScott/PTCGL-Flipper-Redeemer) - 
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed
 - [acquitelol/rosiecord](https://github.com/acquitelol/rosiecord) - Wrapper for @enmity-mod with more modifications
