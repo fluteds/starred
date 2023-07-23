@@ -336,6 +336,7 @@
 
 ## JavaScript 
 
+- [ItsGravix/kahoot-live](https://github.com/ItsGravix/kahoot-live) - Kahoot remake for TikTok lives
 - [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan
 - [Roshy10/taylors-version](https://github.com/Roshy10/taylors-version) - A React app which updates Spotify playlists to use Taylor Swift's re-released tracks
 - [sky-pose-rick/ptcgl-credits](https://github.com/sky-pose-rick/ptcgl-credits) - 
@@ -479,7 +480,6 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [twoscott/haseul-bot](https://github.com/twoscott/haseul-bot) - A general purpose Discord bot.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [wendy-guo/card-jitsu](https://github.com/wendy-guo/card-jitsu) - a "remake" of the classic card-jitsu game from club penguin, paired with your (my) favourite (island's) animal crossing villagers 🤍
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -758,7 +758,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 128 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 128 stars and 174 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -942,6 +942,7 @@
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - 😜 Gitmoji tool for git commit messages in VSCode
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
