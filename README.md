@@ -337,6 +337,7 @@
 ## JavaScript 
 
 - [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Roshy10/taylors-version](https://github.com/Roshy10/taylors-version) - A React app which updates Spotify playlists to use Taylor Swift's re-released tracks
 - [sky-pose-rick/ptcgl-credits](https://github.com/sky-pose-rick/ptcgl-credits) - 
 - [stephanerangaya/throbber](https://github.com/stephanerangaya/throbber) - A Google Chrome/Microsoft Edge extension that brings you back to the 90s
@@ -650,7 +651,6 @@
 
 ## Python 
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [AidanHarveyNelson/pokemon_tcg_redeem](https://github.com/AidanHarveyNelson/pokemon_tcg_redeem) - A Script to automatically redeem Pokemon TCG Live Codes
