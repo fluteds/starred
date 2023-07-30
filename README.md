@@ -336,7 +336,7 @@
 
 ## JavaScript 
 
-- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan
+- [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Roshy10/taylors-version](https://github.com/Roshy10/taylors-version) - A React app which updates Spotify playlists to use Taylor Swift's re-released tracks
 - [sky-pose-rick/ptcgl-credits](https://github.com/sky-pose-rick/ptcgl-credits) - 
@@ -759,7 +759,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 129 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 131 stars and 173 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -872,6 +872,7 @@
 
 ## TypeScript 
 
+- [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - I created my own version of the geography guessing game Geoguessr
 - [rod41732/chatterino-theme-creator-web](https://github.com/rod41732/chatterino-theme-creator-web) - Visual theme creator for Chatterino (https://chatterino.com)
 - [NandaScott/PTCGL-Flipper-Redeemer](https://github.com/NandaScott/PTCGL-Flipper-Redeemer) - 
