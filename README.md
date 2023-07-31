@@ -64,6 +64,7 @@
 ## ActionScript 
 
 - [InQuest/malware-samples](https://github.com/InQuest/malware-samples) - A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## AppleScript 
 
@@ -227,6 +228,7 @@
 
 ## Elixir 
 
+- [recursiveGecko/race_bot](https://github.com/recursiveGecko/race_bot) - An Elixir project dedicated to processing live data from Formula 1 races.
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 
 ## Emacs Lisp 
@@ -796,7 +798,6 @@
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [sushiibot/sushii-2](https://github.com/sushiibot/sushii-2) - 🍣🍣 Moderation bot for Discord
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [itsjunetime/smcurser](https://github.com/itsjunetime/smcurser) - SMServer tui client written in rust
 
 ## SCSS 
