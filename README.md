@@ -653,6 +653,7 @@
 
 ## Python 
 
+- [tf2classic/TF2CDownloader](https://github.com/tf2classic/TF2CDownloader) - Cross-platform utility for automatically downloading and installing TF2 Classic
 - [Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator](https://github.com/Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator) - A highly customizable Genius Invokation TCG simulator for AI training. (PyPI package: dgisim)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
@@ -777,7 +778,7 @@
 
 ## Rust 
 
-- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 CLI based downloader for Crunchyroll
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
 - [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
