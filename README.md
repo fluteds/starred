@@ -171,6 +171,7 @@
 
 ## C++ 
 
+- [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - The Minecraft PE (mcpe01_canada.apk) Reverse Engineering Project
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) - Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functiona
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -653,6 +654,7 @@
 
 ## Python 
 
+- [Limitly/Free-Copilot](https://github.com/Limitly/Free-Copilot) - Get Github Copilot for free
 - [tf2classic/TF2CDownloader](https://github.com/tf2classic/TF2CDownloader) - Cross-platform utility for automatically downloading and installing TF2 Classic
 - [Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator](https://github.com/Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator) - A highly customizable Genius Invokation TCG simulator for AI training. (PyPI package: dgisim)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
