@@ -171,7 +171,7 @@
 
 ## C++ 
 
-- [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - The Minecraft PE (mcpe01_canada.apk) Reverse Engineering Project
+- [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - ReMinecraftPE - A custom experience based on Minecraft PE as of 2011.
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) - Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functiona
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -339,6 +339,7 @@
 
 ## JavaScript 
 
+- [lawreka/ascii-tarot](https://github.com/lawreka/ascii-tarot) - A CLI tool for tarot reading with full ASCII art deck *:･ﾟ✧*:･ﾟ✧
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Roshy10/taylors-version](https://github.com/Roshy10/taylors-version) - A React app which updates Spotify playlists to use Taylor Swift's re-released tracks
