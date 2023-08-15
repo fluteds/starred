@@ -270,6 +270,7 @@
 
 ## HTML 
 
+- [baffler/Transparent-Twitch-Chat-Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Twitch chat on top of windowed games for single monitor streamers
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [spotlightishere/dubdub.bingo](https://github.com/spotlightishere/dubdub.bingo) - WWDC '23 bingo card
 - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) - the transparent ransomware claim tracker 🥷🏼🧅🖥️
@@ -656,6 +657,7 @@
 
 ## Python 
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [meganmansfield/taylorswift](https://github.com/meganmansfield/taylorswift) - A code to match you with the perfect Taylor Swift song for your mood and relationship status.
 - [karayaman/lichess-with-a-real-board](https://github.com/karayaman/lichess-with-a-real-board) - Lichess.org client for real life chess boards.
 - [Limitly/Free-Copilot](https://github.com/Limitly/Free-Copilot) - Get Github Copilot for free
@@ -784,6 +786,7 @@
 
 ## Rust 
 
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
 - [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
