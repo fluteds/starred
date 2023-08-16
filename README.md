@@ -825,6 +825,7 @@
 
 ## Shell 
 
+- [ihateblueb/cobalt-cli](https://github.com/ihateblueb/cobalt-cli) - save what you love from your terminal
 - [aBoredDev/playit-setup-script](https://github.com/aBoredDev/playit-setup-script) - An un-official script to set up the playit.gg tunnel host (https://playit.gg/) and install it as a service on Linux
 - [TheRemote/RaspberryPiMinecraft](https://github.com/TheRemote/RaspberryPiMinecraft) - Configuration files and performance testing scripts to setup and optimize a dedicated Minecraft (PC Java version) server
 - [luzifer-arch/chatterino2-dankerino-git](https://github.com/luzifer-arch/chatterino2-dankerino-git) - 
