@@ -341,6 +341,7 @@
 
 ## JavaScript 
 
+- [javierarce/letterboxd-scraper](https://github.com/javierarce/letterboxd-scraper) - A script that scrapes films from a Letterboxd user's public diary.
 - [MitanshiKshatriya/taylor-swift-api](https://github.com/MitanshiKshatriya/taylor-swift-api) - get random lyrics/quotes of Taylor Swift
 - [lawreka/ascii-tarot](https://github.com/lawreka/ascii-tarot) - A CLI tool for tarot reading with full ASCII art deck *:･ﾟ✧*:･ﾟ✧
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
