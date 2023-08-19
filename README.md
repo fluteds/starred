@@ -353,7 +353,6 @@
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [rdeprey/meeting-indicator](https://github.com/rdeprey/meeting-indicator) - Use your Outlook calendar to show a message on an LCD screen so that others know when you're in a meeting
-- [martinkadlec0/hc-tcg](https://github.com/martinkadlec0/hc-tcg) - Hermitcraft TCG
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [alexrintt/lofi-player](https://github.com/alexrintt/lofi-player) - Web lofi-player built to learn HTML, CSS and JavaScript.
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
@@ -895,6 +894,7 @@
 - [ryanccn/discord-css-mappings](https://github.com/ryanccn/discord-css-mappings) - CSS mappings for Discord themes.
 - [benbalter/gmail-and-google-calendar-stats](https://github.com/benbalter/gmail-and-google-calendar-stats) - Scrapes your GMail and Google Calendar data and returns it as a CSV for further analysis.
 - [MeguminSama/cropcord](https://github.com/MeguminSama/cropcord) - Delete screenshots from discord
+- [martinkadlec0/hc-tcg](https://github.com/martinkadlec0/hc-tcg) - Hermitcraft TCG
 - [cyyynthia/discord-active-dev](https://github.com/cyyynthia/discord-active-dev) - Thingy to ~~farm~~get the Discord active developer badge, written in the form of a mini tutorial
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
