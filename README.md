@@ -369,7 +369,7 @@
 - [TimIsOverpowered/archive](https://github.com/TimIsOverpowered/archive) - Automated Upload Twitch Vod to Youtube after streaming & Serves as an API for VOD playback with chat replay
 - [z0ccc/LocateJS](https://github.com/z0ccc/LocateJS) - Check if your location is actually hidden
 - [davialcantaraa/lofi-me](https://github.com/davialcantaraa/lofi-me) - ☕ A simple lofi player for desktop
-- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServer V1, codebase not very good
+- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServer V1, codebase needs lots of improvements
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [Erisa/starbin](https://github.com/Erisa/starbin) - A hastebin-compatible paste site running on Cloudflare Pages.
 - [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that was used for Club Penguin Rewritten events.
@@ -526,7 +526,6 @@
 ## Makefile 
 
 - [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Mako 
 
@@ -641,6 +640,7 @@
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [PrincessAkira/road-to-yuzu-without-switch](https://github.com/PrincessAkira/road-to-yuzu-without-switch) - This Repo explains how to install the Yuzu Switch Emulator without a Switch
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 
@@ -937,7 +937,7 @@
 - [cnrad/sponsor](https://github.com/cnrad/sponsor) - 💰 A simple, inviting alternative to GitHub Sponsors
 - [tatupesonen/formatbot](https://github.com/tatupesonen/formatbot) - A bot to format code inside code blocks on Discord
 - [Erisa/worker-links](https://github.com/Erisa/worker-links) - A simple URL Shortener for Cloudflare Workers!
-- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - Next.js blog starter built with Typescript, MDX, and Tailwind CSS.
+- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Typescript, MDX, and Tailwind CSS.
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
