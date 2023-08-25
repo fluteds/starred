@@ -347,7 +347,6 @@
 - [MitanshiKshatriya/taylor-swift-api](https://github.com/MitanshiKshatriya/taylor-swift-api) - get random lyrics/quotes of Taylor Swift
 - [lawreka/ascii-tarot](https://github.com/lawreka/ascii-tarot) - A CLI tool for tarot reading with full ASCII art deck *:･ﾟ✧*:･ﾟ✧
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Roshy10/taylors-version](https://github.com/Roshy10/taylors-version) - A React app which updates Spotify playlists to use Taylor Swift's re-released tracks
 - [sky-pose-rick/ptcgl-credits](https://github.com/sky-pose-rick/ptcgl-credits) - 
 - [stephanerangaya/throbber](https://github.com/stephanerangaya/throbber) - A Google Chrome/Microsoft Edge extension that brings you back to the 90s
@@ -670,6 +669,7 @@
 - [Limitly/Free-Copilot](https://github.com/Limitly/Free-Copilot) - Get Github Copilot for free
 - [tf2classic/TF2CDownloader](https://github.com/tf2classic/TF2CDownloader) - Cross-platform utility for automatically downloading and installing TF2 Classic
 - [Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator](https://github.com/Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator) - A highly customizable Genius Invokation TCG simulator for AI training. (PyPI package: dgisim)
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [AidanHarveyNelson/pokemon_tcg_redeem](https://github.com/AidanHarveyNelson/pokemon_tcg_redeem) - A Script to automatically redeem Pokemon TCG Live Codes
