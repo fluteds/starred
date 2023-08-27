@@ -664,6 +664,7 @@
 
 ## Python 
 
+- [c4em/collei](https://github.com/c4em/collei) - Redeem daily check-in rewards and claim codes automatically for Genshin Impact and Honkai Star Rail.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [meganmansfield/taylorswift](https://github.com/meganmansfield/taylorswift) - A code to match you with the perfect Taylor Swift song for your mood and relationship status.
 - [karayaman/lichess-with-a-real-board](https://github.com/karayaman/lichess-with-a-real-board) - Lichess.org client for real life chess boards.
