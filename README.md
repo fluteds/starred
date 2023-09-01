@@ -893,7 +893,7 @@
 
 - [jinglescode/nostr-url-shortener](https://github.com/jinglescode/nostr-url-shortener) - A free URL shortener service enabled by the NOSTR protocol, that is fast and fuss-free, stripped of all bells and whistles, no gimmicks—it just works!
 - [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
-- [benlikescode/geohub](https://github.com/benlikescode/geohub) - I created my own version of the geography guessing game Geoguessr
+- [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
 - [rod41732/chatterino-theme-creator-web](https://github.com/rod41732/chatterino-theme-creator-web) - Visual theme creator for Chatterino (https://chatterino.com)
 - [NandaScott/PTCGL-Flipper-Redeemer](https://github.com/NandaScott/PTCGL-Flipper-Redeemer) - 
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed
