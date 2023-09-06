@@ -113,6 +113,7 @@
 
 ## C 
 
+- [mierau/gamekid](https://github.com/mierau/gamekid) - Play Game Boy games on your Playdate.
 - [UnrealPowerz/powar](https://github.com/UnrealPowerz/powar) - A Pokéwalker emulator
 - [libc0607/GI_Dice](https://github.com/libc0607/GI_Dice) - An implementation of the Element Dice in Genius Invokation TCG with RISC-V & BLE inside 原神七圣召唤中的元素骰子，支持蓝牙
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
@@ -545,6 +546,7 @@
 
 ## Others 
 
+- [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
 - [fabiencelier/geoguessr-tips](https://github.com/fabiencelier/geoguessr-tips) - Tips and resources for GeoGuessr
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [kostas-from-cyber-space/4chan-captcha-solver](https://github.com/kostas-from-cyber-space/4chan-captcha-solver) - 4chan captcha solver userscript
