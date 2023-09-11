@@ -345,6 +345,7 @@
 
 ## JavaScript 
 
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [javierarce/letterboxd-scraper](https://github.com/javierarce/letterboxd-scraper) - A script that scrapes films from a Letterboxd user's public diary.
