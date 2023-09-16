@@ -174,6 +174,7 @@
 
 ## C++ 
 
+- [surepy/tf2_bot_detector](https://github.com/surepy/tf2_bot_detector) - Attempts to improve the gameplay experience of playing in casual valve matchmaking servers.
 - [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - ReMinecraftPE - A custom experience based on Minecraft PE as of 2011.
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) - Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functiona
@@ -671,6 +672,8 @@
 
 ## Python 
 
+- [surepy/tf2db-sleepy-list](https://github.com/surepy/tf2db-sleepy-list) - sleepy's incredibly lazy tf2bd list
+- [jaydenmilne/steamsync](https://github.com/jaydenmilne/steamsync) - Tool to automatically add games from the Epic Games Launcher to Steam
 - [c4em/collei](https://github.com/c4em/collei) - Redeem daily check-in rewards and claim codes automatically for Genshin Impact and Honkai Star Rail.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [meganmansfield/taylorswift](https://github.com/meganmansfield/taylorswift) - A code to match you with the perfect Taylor Swift song for your mood and relationship status.
@@ -872,6 +875,7 @@
 
 ## Svelte 
 
+- [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - A tool for setting the artwork of your Steam library.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
@@ -897,6 +901,7 @@
 
 ## TypeScript 
 
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [jinglescode/nostr-url-shortener](https://github.com/jinglescode/nostr-url-shortener) - A free URL shortener service enabled by the NOSTR protocol, that is fast and fuss-free, stripped of all bells and whistles, no gimmicks—it just works!
 - [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
