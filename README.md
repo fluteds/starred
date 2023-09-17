@@ -169,7 +169,6 @@
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [benjibobs/Steam-Shutdown](https://github.com/benjibobs/Steam-Shutdown) - A simple and lightweight program that will shutdown your PC after Steam has finished all of its downloads
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
-- [karpach/remote-shutdown-pc](https://github.com/karpach/remote-shutdown-pc) - Remote Shutdown Manager is a windows application, which gives an ability to shutdown, suspend, hibernate PC or turn screen off using HTTP GET request.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 
 ## C++ 
@@ -254,6 +253,7 @@
 
 ## Go 
 
+- [WiiLink24/Demae-Deliveroo](https://github.com/WiiLink24/Demae-Deliveroo) - Deliveroo but on your Wii, how amazing!
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
@@ -951,7 +951,7 @@
 - [cnrad/sponsor](https://github.com/cnrad/sponsor) - 💰 A simple, inviting alternative to GitHub Sponsors
 - [tatupesonen/formatbot](https://github.com/tatupesonen/formatbot) - A bot to format code inside code blocks on Discord
 - [Erisa/worker-links](https://github.com/Erisa/worker-links) - A simple URL Shortener for Cloudflare Workers!
-- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Typescript, MDX, and Tailwind CSS.
+- [ChangoMan/nextjs-typescript-mdx-blog](https://github.com/ChangoMan/nextjs-typescript-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
