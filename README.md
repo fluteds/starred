@@ -113,6 +113,7 @@
 
 ## C 
 
+- [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [mierau/gamekid](https://github.com/mierau/gamekid) - Play Game Boy games on your Playdate.
 - [UnrealPowerz/powar](https://github.com/UnrealPowerz/powar) - A Pokéwalker emulator
 - [libc0607/GI_Dice](https://github.com/libc0607/GI_Dice) - An implementation of the Element Dice in Genius Invokation TCG with RISC-V & BLE inside 原神七圣召唤中的元素骰子，支持蓝牙
