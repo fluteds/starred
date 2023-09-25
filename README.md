@@ -347,6 +347,7 @@
 
 ## JavaScript 
 
+- [tdjsnelling/monaco](https://github.com/tdjsnelling/monaco) - Real-time F1 live timing & telemetry UI
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
@@ -673,6 +674,7 @@
 
 ## Python 
 
+- [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [surepy/tf2db-sleepy-list](https://github.com/surepy/tf2db-sleepy-list) - sleepy's incredibly lazy tf2bd list
 - [jaydenmilne/steamsync](https://github.com/jaydenmilne/steamsync) - Tool to automatically add games from the Epic Games Launcher to Steam
 - [c4em/collei](https://github.com/c4em/collei) - Redeem daily check-in rewards and claim codes automatically for Genshin Impact and Honkai Star Rail.
