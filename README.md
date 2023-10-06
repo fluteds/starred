@@ -317,6 +317,8 @@
 
 ## Java 
 
+- [AutumnVN/loli](https://github.com/AutumnVN/loli) - A Minecraft client mod
+- [Mojang/slicer](https://github.com/Mojang/slicer) - Resource pack migration tool for Minecraft 1.14
 - [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware
 - [adryd325/mc-a11y-tweaks](https://github.com/adryd325/mc-a11y-tweaks) - Small tweaks related to flickers, flashes, and scaling in Minecraft
 - [DuncanRuns/MinecraftCoopStarter](https://github.com/DuncanRuns/MinecraftCoopStarter) - A simple ngrok wrapper for minecraft coops; opens the 25565 tcp port to the world through ngrok.
@@ -670,7 +672,7 @@
 - [theyetty/update-hogwarts-legacy-engine.ini](https://github.com/theyetty/update-hogwarts-legacy-engine.ini) - 
 - [daisyUniverse/PluralKit-Windows-Switcher](https://github.com/daisyUniverse/PluralKit-Windows-Switcher) - A set of scripts that allow your windows system to start up differently depending on whose fronting in pluralkit
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1)
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
@@ -794,7 +796,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 133 stars and 174 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 134 stars and 174 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -810,6 +812,7 @@
 
 ## Rust 
 
+- [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [ihateblueb/cobalt-cli](https://github.com/ihateblueb/cobalt-cli) - save what you love from your terminal
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
