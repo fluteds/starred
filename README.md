@@ -123,7 +123,7 @@
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [jbruchon/snippets](https://github.com/jbruchon/snippets) - Little helpful pieces of code I wrote, then found lying around in the snippets storeroom behind the red door in the rainforest.
-- [woofdoggo/mapless-practice](https://github.com/woofdoggo/mapless-practice) - Generator for practicing mapless buried treasure for Minecraft speedruns
+- [tesselslate/mapless-practice](https://github.com/tesselslate/mapless-practice) - Generator for practicing mapless buried treasure for Minecraft speedruns
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -175,7 +175,7 @@
 
 ## C++ 
 
-- [surepy/tf2_bot_detector](https://github.com/surepy/tf2_bot_detector) - Attempts to improve the gameplay experience of playing in casual valve matchmaking servers.
+- [surepy/tf2_bot_detector](https://github.com/surepy/tf2_bot_detector) - A tool to gather and keep track of bots and bad actors in Team Fortress 2.
 - [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - ReMinecraftPE - A custom experience based on Minecraft PE as of 2011.
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) - Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functiona
