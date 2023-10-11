@@ -134,6 +134,7 @@
 
 ## C# # 
 
+- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
 - [vbisbest/MineChat](https://github.com/vbisbest/MineChat) - MineChat mobile application
 - [vin350/TwitchPointsFarmer](https://github.com/vin350/TwitchPointsFarmer) - This project aims to help those people who keeps many Twitch livestreams open 24/7 farming those channel points. It helps them by providing a costless interface, and by making possible farming multipl
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
@@ -317,6 +318,7 @@
 
 ## Java 
 
+- [Defective4/Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client) - Another Minecraft Chat Client written from scratch in Java. It has inventory handling, movement, automatic messages and many more little things. It supports Minecraft versions 1.8 to 1.19.2 (With Forg
 - [AutumnVN/loli](https://github.com/AutumnVN/loli) - A Minecraft client mod
 - [Mojang/slicer](https://github.com/Mojang/slicer) - Resource pack migration tool for Minecraft 1.14
 - [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware
