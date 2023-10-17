@@ -535,6 +535,7 @@
 
 ## MDX 
 
+- [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## Makefile 
