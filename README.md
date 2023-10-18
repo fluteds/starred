@@ -82,6 +82,7 @@
 
 ## AutoHotkey 
 
+- [KraXen72/ahk-scripts](https://github.com/KraXen72/ahk-scripts) - 
 - [LSDL/hogwarts-legacy-gesture-to-spell](https://github.com/LSDL/hogwarts-legacy-gesture-to-spell) - A AHK script project that allows you to cast magic with mouse gestures in Hogwarts Legacy game.
 - [houdini101/AHK_Minecraft_Tools](https://github.com/houdini101/AHK_Minecraft_Tools) - Simple AutoHotKey Script for Minecraft. Includes AFK-Fishing, Auto-Sweep Attack and Nether Portal Calculator.
 - [gbs0/gta_casino_solver](https://github.com/gbs0/gta_casino_solver) - Some scripts that solve the keypad hacking in the vault from GTA V Casino heist.
@@ -845,6 +846,7 @@
 
 ## SCSS 
 
+- [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
 - [Saltssaumure/w9x-discord-theme](https://github.com/Saltssaumure/w9x-discord-theme) - A Windows 9x style Discord theme.
 - [discord-extensions/theme-notices](https://github.com/discord-extensions/theme-notices) - CSS & SCSS styling that you can apply to your theme which allows you to warn the user.
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
