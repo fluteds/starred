@@ -561,6 +561,7 @@
 
 ## Others 
 
+- [InventivetalentDev/minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets) - Extracted Minecraft Assets
 - [ewanhowell5195/visualShulkerLabels](https://github.com/ewanhowell5195/visualShulkerLabels) - The Visual Shulker Labels resource pack
 - [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
 - [fabiencelier/geoguessr-tips](https://github.com/fabiencelier/geoguessr-tips) - Tips and resources for GeoGuessr
