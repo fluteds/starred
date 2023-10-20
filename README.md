@@ -142,7 +142,6 @@
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [jamescl604/MSFSVoiceAttackPlugin](https://github.com/jamescl604/MSFSVoiceAttackPlugin) - Enables additional control of Microsoft Flight Simulator 2020 from Voice Attack
 - [andyvorld/LGSTrayBattery](https://github.com/andyvorld/LGSTrayBattery) - A tray app used to track battery levels of wireless Logitech mouse.
-- [SolomonRosemite/ITECH-Auto-Attendance](https://github.com/SolomonRosemite/ITECH-Auto-Attendance) - (Only relevant for ITECH students) An application that regularly inscribes school attendance.
 - [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
@@ -700,7 +699,7 @@
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [AidanHarveyNelson/pokemon_tcg_redeem](https://github.com/AidanHarveyNelson/pokemon_tcg_redeem) - A Script to automatically redeem Pokemon TCG Live Codes
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [danielweidman/pixmob-ir-reverse-engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering) - Hacking the PixMob infrared (and now also RF!) protocol to enable control of PixMob wristbands at home.
 - [daisyUniverse/FxGitHub](https://github.com/daisyUniverse/FxGitHub) - An attempt to make a github embed that actually shows the code you link to
 - [Shishkebaboo/VodRecovery](https://github.com/Shishkebaboo/VodRecovery) - The purpose of this script is to obtain videos or clips that are either marked as "sub-only" or have been deleted on Twitch.
@@ -819,6 +818,7 @@
 
 ## Rust 
 
+- [ddotthomas/SteamDeck_SD_Card_Scanner](https://github.com/ddotthomas/SteamDeck_SD_Card_Scanner) - A program to keep track of the games on the SD card on a Steam Deck
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [ihateblueb/cobalt-cli](https://github.com/ihateblueb/cobalt-cli) - save what you love from your terminal
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
