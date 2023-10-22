@@ -919,6 +919,7 @@
 
 ## TypeScript 
 
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [retrixe/EnderChat](https://github.com/retrixe/EnderChat) - A React Native app for Android/iOS to chat on Minecraft servers from your phone.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [jinglescode/nostr-url-shortener](https://github.com/jinglescode/nostr-url-shortener) - A free URL shortener service enabled by the NOSTR protocol, that is fast and fuss-free, stripped of all bells and whistles, no gimmicks—it just works!
@@ -926,7 +927,7 @@
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
 - [rod41732/chatterino-theme-creator-web](https://github.com/rod41732/chatterino-theme-creator-web) - Visual theme creator for Chatterino (https://chatterino.com)
 - [NandaScott/PTCGL-Flipper-Redeemer](https://github.com/NandaScott/PTCGL-Flipper-Redeemer) - 
-- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop
 - [acquitelol/rosiecord](https://github.com/acquitelol/rosiecord) - Wrapper for @enmity-mod with more modifications
 - [ryanccn/discord-css-mappings](https://github.com/ryanccn/discord-css-mappings) - CSS mappings for Discord themes.
 - [benbalter/gmail-and-google-calendar-stats](https://github.com/benbalter/gmail-and-google-calendar-stats) - Scrapes your GMail and Google Calendar data and returns it as a CSV for further analysis.
