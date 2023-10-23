@@ -318,7 +318,6 @@
 
 ## Java 
 
-- [Defective4/Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client) - Another Minecraft Chat Client written from scratch in Java. It has inventory handling, movement, automatic messages and many more little things. It supports Minecraft versions 1.8 to 1.19.2 (With Forg
 - [AutumnVN/loli](https://github.com/AutumnVN/loli) - A Minecraft client mod
 - [Mojang/slicer](https://github.com/Mojang/slicer) - Resource pack migration tool for Minecraft 1.14
 - [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware
@@ -893,6 +892,7 @@
 
 ## Svelte 
 
+- [chrrs/freddit](https://github.com/chrrs/freddit) - Alternative Reddit frontend
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - A tool for setting the artwork of your Steam library.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
@@ -919,6 +919,7 @@
 
 ## TypeScript 
 
+- [milutinke/MCC.js](https://github.com/milutinke/MCC.js) - A library for controlling the Minecraft Console Client and making bots for it in JavaScript/TypeScript.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [retrixe/EnderChat](https://github.com/retrixe/EnderChat) - A React Native app for Android/iOS to chat on Minecraft servers from your phone.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
@@ -946,7 +947,7 @@
 - [c-rainbow/twitch-audio-web](https://github.com/c-rainbow/twitch-audio-web) - Chrome extension to enable Twitch radio mode in web
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [makidrone/blahaj-quest](https://github.com/makidrone/blahaj-quest) - Hourly BLÅHAJ finder map
+- [makidoll/blahaj-quest](https://github.com/makidoll/blahaj-quest) - Hourly BLÅHAJ finder map
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [rishiosaur/ll](https://github.com/rishiosaur/ll) - ⚡️ A blazing fast link shortener powered by Next.js and DNS magic!
@@ -977,7 +978,7 @@
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
-- [makidrone/makidrone.io](https://github.com/makidrone/makidrone.io) - its my site
+- [makidoll/makidrone.io](https://github.com/makidoll/makidrone.io) - its my site
 - [ryanmcgall/ryanmcgall.xyz-](https://github.com/ryanmcgall/ryanmcgall.xyz-) - Personal website 👋
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
