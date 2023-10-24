@@ -530,7 +530,7 @@
 - [tilda/painmon](https://github.com/tilda/painmon) - Personal Genshin Impact-themed desktop suite for Rainmeter
 - [xatier/girlfriend_require](https://github.com/xatier/girlfriend_require) - i need a girlfriend
 - [Adoggman/NoPixelServer](https://github.com/Adoggman/NoPixelServer) - NoPixel full server files
-- [swxy/FORTNITE-H6CKZ](https://github.com/swxy/FORTNITE-H6CKZ) - Free, working cheats for the popular online game Fortnite download. See opponents in Fortnite through walls thanks to ESP, shoot accurately at Fortnite. You can download our cheats by clicking on butt
+- [swxy/multi-loader-project](https://github.com/swxy/multi-loader-project) - HACK | RUST | CS2 | VALORANT | FORTNITE | CS2 SKIN CHANGER | VALORANT SKIN CHANGER | MULTI LOADER HACK |
 
 ## MDX 
 
@@ -683,6 +683,7 @@
 
 ## Python 
 
+- [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [lun-4/finfox](https://github.com/lun-4/finfox) - scripts for personal finance
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
