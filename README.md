@@ -530,7 +530,7 @@
 - [tilda/painmon](https://github.com/tilda/painmon) - Personal Genshin Impact-themed desktop suite for Rainmeter
 - [xatier/girlfriend_require](https://github.com/xatier/girlfriend_require) - i need a girlfriend
 - [Adoggman/NoPixelServer](https://github.com/Adoggman/NoPixelServer) - NoPixel full server files
-- [swxy/multi-loader-project](https://github.com/swxy/multi-loader-project) - HACK | RUST | CS2 | VALORANT | FORTNITE | CS2 SKIN CHANGER | VALORANT SKIN CHANGER | MULTI LOADER HACK |
+- [swxy/NoPixel-2-Full-Server](https://github.com/swxy/NoPixel-2-Full-Server) - 
 
 ## MDX 
 
@@ -559,6 +559,8 @@
 
 ## Others 
 
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [InventivetalentDev/minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets) - Extracted Minecraft Assets
 - [ewanhowell5195/visualShulkerLabels](https://github.com/ewanhowell5195/visualShulkerLabels) - The Visual Shulker Labels resource pack
 - [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
@@ -920,6 +922,7 @@
 
 ## TypeScript 
 
+- [encode42/flags.sh](https://github.com/encode42/flags.sh) - A simple script generator to start your Minecraft servers with optimal flags.
 - [milutinke/MCC.js](https://github.com/milutinke/MCC.js) - A library for controlling the Minecraft Console Client and making bots for it in JavaScript/TypeScript.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [retrixe/EnderChat](https://github.com/retrixe/EnderChat) - A React Native app for Android/iOS to chat on Minecraft servers from your phone.
@@ -979,7 +982,7 @@
 - [kidonng/cherry](https://github.com/kidonng/cherry) - @kidonng's user scripts, styles & patches
 - [pizzaql/next](https://github.com/pizzaql/next) - (Work in progress) The rewritten version of the original PizzaQL 🍕
 - [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
-- [makidoll/makidrone.io](https://github.com/makidoll/makidrone.io) - its my site
+- [makidoll/makidoll.io](https://github.com/makidoll/makidoll.io) - its my site
 - [ryanmcgall/ryanmcgall.xyz-](https://github.com/ryanmcgall/ryanmcgall.xyz-) - Personal website 👋
 - [katsukixyz/izone-archive](https://github.com/katsukixyz/izone-archive) - Archiving IZ*ONE-related media
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
