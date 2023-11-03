@@ -353,6 +353,7 @@
 
 ## JavaScript 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
 - [f1-tools/MVF1-Streamdeck](https://github.com/f1-tools/MVF1-Streamdeck) - A Streamdeck plugin for using Multiviewer for Formula 1
@@ -926,6 +927,7 @@
 
 ## TypeScript 
 
+- [vangelov/devresume](https://github.com/vangelov/devresume) - A free web-based resume editor based on writing YAML with realtime preview and PDF export.
 - [encode42/flags.sh](https://github.com/encode42/flags.sh) - A simple script generator to start your Minecraft servers with optimal flags.
 - [milutinke/MCC.js](https://github.com/milutinke/MCC.js) - A library for controlling the Minecraft Console Client and making bots for it in JavaScript/TypeScript.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
