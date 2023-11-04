@@ -114,6 +114,7 @@
 
 ## C 
 
+- [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [mierau/gamekid](https://github.com/mierau/gamekid) - Play Game Boy games on your Playdate.
 - [UnrealPowerz/powar](https://github.com/UnrealPowerz/powar) - A Pokéwalker emulator
@@ -927,6 +928,7 @@
 
 ## TypeScript 
 
+- [Snazzah/xban](https://github.com/Snazzah/xban) - A simple slash-command bot that cross-bans users.
 - [vangelov/devresume](https://github.com/vangelov/devresume) - A free web-based resume editor based on writing YAML with realtime preview and PDF export.
 - [encode42/flags.sh](https://github.com/encode42/flags.sh) - A simple script generator to start your Minecraft servers with optimal flags.
 - [milutinke/MCC.js](https://github.com/milutinke/MCC.js) - A library for controlling the Minecraft Console Client and making bots for it in JavaScript/TypeScript.
