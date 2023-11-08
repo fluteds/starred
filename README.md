@@ -41,6 +41,7 @@
 - [Markdown](#markdown)
 - [Mercury](#mercury)
 - [Objective-C](#objective-c)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -562,6 +563,10 @@
 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 
+## OpenSCAD 
+
+- [diademiemi/openscad_fidget_toys](https://github.com/diademiemi/openscad_fidget_toys) - Fidget toys designed in openSCAD for FDM printing
+
 ## Others 
 
 - [natarii/vrchat-domain-blocklist](https://github.com/natarii/vrchat-domain-blocklist) - VRChat Advertising/Tracking Domain Blocklist
@@ -929,6 +934,7 @@
 
 ## TypeScript 
 
+- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [Snazzah/xban](https://github.com/Snazzah/xban) - A simple slash-command bot that cross-bans users.
 - [vangelov/devresume](https://github.com/vangelov/devresume) - A free web-based resume editor based on writing YAML with realtime preview and PDF export.
 - [encode42/flags.sh](https://github.com/encode42/flags.sh) - A simple script generator to start your Minecraft servers with optimal flags.
