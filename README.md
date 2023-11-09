@@ -179,6 +179,7 @@
 
 ## C++ 
 
+- [mastercomfig/tf2-patches](https://github.com/mastercomfig/tf2-patches) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [surepy/tf2_bot_detector](https://github.com/surepy/tf2_bot_detector) - A handy little tool to gather, keep track and automatically votekick bots and bad actors in Team Fortress 2.
 - [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - ReMinecraftPE - A custom experience based on Minecraft PE as of 2011.
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
