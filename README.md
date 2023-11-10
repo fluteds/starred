@@ -290,7 +290,6 @@
 - [spotlightishere/dubdub.bingo](https://github.com/spotlightishere/dubdub.bingo) - WWDC '23 bingo card
 - [joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch) - the transparent ransomware claim tracker 🥷🏼🧅🖥️
 - [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
-- [makidoll/blahaj-quest](https://github.com/makidoll/blahaj-quest) - Hourly BLÅHAJ finder map
 - [DeepDiscord/DeepDiscord](https://github.com/DeepDiscord/DeepDiscord) - Search Discord's "Deep Web" (work in progress)
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pabio/redirect-russia](https://github.com/pabio/redirect-russia) - 🇺🇦 Redirect Russian traffic from your site to support Ukraine
@@ -358,6 +357,7 @@
 
 ## JavaScript 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
@@ -570,6 +570,7 @@
 
 ## Others 
 
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [natarii/vrchat-domain-blocklist](https://github.com/natarii/vrchat-domain-blocklist) - VRChat Advertising/Tracking Domain Blocklist
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -967,6 +968,7 @@
 - [c-rainbow/twitch-audio-web](https://github.com/c-rainbow/twitch-audio-web) - Chrome extension to enable Twitch radio mode in web
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
+- [makidoll/blahaj-quest](https://github.com/makidoll/blahaj-quest) - Hourly BLÅHAJ finder map
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [rishiosaur/ll](https://github.com/rishiosaur/ll) - ⚡️ A blazing fast link shortener powered by Next.js and DNS magic!
