@@ -691,6 +691,7 @@
 
 ## PowerShell 
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [brian6932/dank-scoop](https://github.com/brian6932/dank-scoop) - xD Yet Another Personal Bucket for Scoop
 - [brian6932/personal-scripts](https://github.com/brian6932/personal-scripts) - Just some personal scripts that I wanted to add to scoop
 - [theyetty/update-hogwarts-legacy-engine.ini](https://github.com/theyetty/update-hogwarts-legacy-engine.ini) - 
@@ -958,7 +959,6 @@
 - [NandaScott/PTCGL-Flipper-Redeemer](https://github.com/NandaScott/PTCGL-Flipper-Redeemer) - 
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop
 - [acquitelol/rosiecord](https://github.com/acquitelol/rosiecord) - Wrapper for @enmity-mod with more modifications
-- [ryanccn/discord-css-mappings](https://github.com/ryanccn/discord-css-mappings) - CSS mappings for Discord themes.
 - [benbalter/gmail-and-google-calendar-stats](https://github.com/benbalter/gmail-and-google-calendar-stats) - Scrapes your GMail and Google Calendar data and returns it as a CSV for further analysis.
 - [MeguminSama/cropcord](https://github.com/MeguminSama/cropcord) - Delete screenshots from discord
 - [martinkadlec0/hc-tcg](https://github.com/martinkadlec0/hc-tcg) - Hermitcraft TCG
