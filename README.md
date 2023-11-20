@@ -285,6 +285,7 @@
 
 ## HTML 
 
+- [extratone/jellycuts](https://github.com/extratone/jellycuts) - Shortcuts development in the .jelly language.
 - [skullface/ohio-for-palestine](https://github.com/skullface/ohio-for-palestine) - Events, actions, and resources for Ohioans in solidarity with Palestine https://ohiopalestine.com
 - [NoTextToSpeech/goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
