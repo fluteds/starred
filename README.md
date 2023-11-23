@@ -179,6 +179,7 @@
 
 ## C++ 
 
+- [ratwithacompiler/OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
 - [mastercomfig/tf2-patches](https://github.com/mastercomfig/tf2-patches) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [surepy/tf2_bot_detector](https://github.com/surepy/tf2_bot_detector) - A handy little tool to gather, keep track and automatically votekick bots and bad actors in Team Fortress 2.
 - [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - ReMinecraftPE - A custom experience based on Minecraft PE as of 2011.
@@ -364,6 +365,7 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
 - [f1-tools/MVF1-Streamdeck](https://github.com/f1-tools/MVF1-Streamdeck) - A Streamdeck plugin for using Multiviewer for Formula 1
 - [tdjsnelling/monaco](https://github.com/tdjsnelling/monaco) - Real-time F1 live timing & telemetry UI
@@ -706,7 +708,6 @@
 ## Python 
 
 - [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
-- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [lun-4/finfox](https://github.com/lun-4/finfox) - scripts for personal finance
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [surepy/tf2db-sleepy-list](https://github.com/surepy/tf2db-sleepy-list) - sleepy's incredibly lazy tf2bd list
@@ -944,6 +945,7 @@
 
 ## TypeScript 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [Snazzah/xban](https://github.com/Snazzah/xban) - A simple slash-command bot that cross-bans users.
