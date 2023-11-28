@@ -40,7 +40,7 @@
 - [Mako](#mako)
 - [Markdown](#markdown)
 - [Mercury](#mercury)
-- [Objective-C](#objective-c)
+- [Nim](#nim)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -124,6 +124,7 @@
 - [Malin001/Legilimens-Hogwarts-Legacy-cpp](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-cpp) - Legilimens is a tool to help you find your last few missing collectibles in Hogwarts Legacy and finally get that 100% completion. Now rewritten in C++
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [jbruchon/snippets](https://github.com/jbruchon/snippets) - Little helpful pieces of code I wrote, then found lying around in the snippets storeroom behind the red door in the rainforest.
 - [tesselslate/mapless-practice](https://github.com/tesselslate/mapless-practice) - Generator for practicing mapless buried treasure for Minecraft speedruns
@@ -179,6 +180,7 @@
 
 ## C++ 
 
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [ratwithacompiler/OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
 - [mastercomfig/tf2-patches](https://github.com/mastercomfig/tf2-patches) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [surepy/tf2_bot_detector](https://github.com/surepy/tf2_bot_detector) - A handy little tool to gather, keep track and automatically votekick bots and bad actors in Team Fortress 2.
@@ -526,6 +528,7 @@
 
 ## Kotlin 
 
+- [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [Maxr1998/LightStickMod](https://github.com/Maxr1998/LightStickMod) - Modding the LOOΠΔ light stick with a custom PCB/firmware, rechargeable battery and a companion Android app for wireless control.
 - [flex3r/DankChat](https://github.com/flex3r/DankChat) - Don't you guys have phones?
 - [isXander/Pronounify](https://github.com/isXander/Pronounify) - View your pronouns in Minecraft
@@ -565,9 +568,9 @@
 
 - [spacekookie/gay](https://github.com/spacekookie/gay) - 🏳️‍🌈 LGBT pride in here 🏳️‍🌈
 
-## Objective-C 
+## Nim 
 
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
 ## OpenSCAD 
 
@@ -575,6 +578,7 @@
 
 ## Others 
 
+- [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [natarii/vrchat-domain-blocklist](https://github.com/natarii/vrchat-domain-blocklist) - VRChat Advertising/Tracking Domain Blocklist
@@ -706,6 +710,7 @@
 
 ## Python 
 
+- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
 - [lun-4/finfox](https://github.com/lun-4/finfox) - scripts for personal finance
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -716,7 +721,7 @@
 - [meganmansfield/taylorswift](https://github.com/meganmansfield/taylorswift) - A code to match you with the perfect Taylor Swift song for your mood and relationship status.
 - [karayaman/lichess-with-a-real-board](https://github.com/karayaman/lichess-with-a-real-board) - Lichess.org client for real life chess boards.
 - [tf2classic/TF2CDownloader](https://github.com/tf2classic/TF2CDownloader) - Cross-platform utility for automatically downloading and installing TF2 Classic
-- [Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator](https://github.com/Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator) - A highly customizable Genius Invokation TCG simulator for training AI. (PyPI package: dgisim)
+- [Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator](https://github.com/Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator) - A highly customizable Genius Invokation TCG simulator for Reinforcement Learning. (PyPI package: dgisim)
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
