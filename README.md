@@ -950,6 +950,7 @@
 
 ## TypeScript 
 
+- [0kzh/minicraft](https://github.com/0kzh/minicraft) - A web-based Minecraft clone, built with THREE.js
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
