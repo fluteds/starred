@@ -238,6 +238,7 @@
 
 ## EJS 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [crizmo/Stream-Savers](https://github.com/crizmo/Stream-Savers) - Stream Savers is a free, open-source and easy-to-use service to loop stream 24/7 to YouTube
 
 ## Elixir 
