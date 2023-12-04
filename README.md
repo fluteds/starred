@@ -233,7 +233,7 @@
 
 ## Dart 
 
-- [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. Built with Flutter.
+- [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 - [itzAlex/chatsen](https://github.com/itzAlex/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 - [chatsen/chatsen](https://github.com/chatsen/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 
@@ -848,6 +848,7 @@
 
 ## Rust 
 
+- [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Avoid Twitch ads by grabbing video playlists from Russia
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) - A CLI internet speed test tool
 - [ddotthomas/SteamDeck_SD_Card_Scanner](https://github.com/ddotthomas/SteamDeck_SD_Card_Scanner) - A program to keep track of the games on the SD card on a Steam Deck
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
