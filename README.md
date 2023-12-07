@@ -41,6 +41,7 @@
 - [Markdown](#markdown)
 - [Mercury](#mercury)
 - [Nim](#nim)
+- [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -265,6 +266,7 @@
 
 ## Go 
 
+- [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [WiiLink24/Demae-Deliveroo](https://github.com/WiiLink24/Demae-Deliveroo) - Deliveroo but on your Wii, how amazing!
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -575,6 +577,10 @@
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
+## Objective-C 
+
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
+
 ## OpenSCAD 
 
 - [diademiemi/openscad_fidget_toys](https://github.com/diademiemi/openscad_fidget_toys) - Fidget toys designed in openSCAD for FDM printing
@@ -850,6 +856,7 @@
 
 ## Rust 
 
+- [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Avoid Twitch ads by grabbing video playlists from Russia
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) - A CLI internet speed test tool
 - [ddotthomas/SteamDeck_SD_Card_Scanner](https://github.com/ddotthomas/SteamDeck_SD_Card_Scanner) - A program to keep track of the games on the SD card on a Steam Deck
