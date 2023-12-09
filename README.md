@@ -207,6 +207,7 @@
 
 ## CSS 
 
+- [skullface/pomoday](https://github.com/skullface/pomoday) - 🍅 lo-fi aesthetic pomodoro timer ⏲️
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 - [schnensch0/zelk](https://github.com/schnensch0/zelk) - discord theme inspired by zorin
 - [jakejarvis/kitboga-bank](https://github.com/jakejarvis/kitboga-bank) - Mirror of Kitboga's fake bank account repository on BitBucket, please submit new themes there!
@@ -652,7 +653,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [Hypnootize/TF2-HUDs-Archive](https://github.com/Hypnootize/TF2-HUDs-Archive) - List of all TF2 updated and outdated HUDs
-- [sr2echa/sr2echa](https://github.com/sr2echa/sr2echa) - About Me
+- [sr2echa/sr2echa](https://github.com/sr2echa/sr2echa) - ✨
 - [LukeSmithxyz/etc](https://github.com/LukeSmithxyz/etc) - Random files that could be of interest
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [shackhornold/UwUCraft](https://github.com/shackhornold/UwUCraft) - A wholesome minecraft texture pack collaborative effort.
@@ -712,10 +713,10 @@
 - [theyetty/update-hogwarts-legacy-engine.ini](https://github.com/theyetty/update-hogwarts-legacy-engine.ini) - 
 - [daisyUniverse/PluralKit-Windows-Switcher](https://github.com/daisyUniverse/PluralKit-Windows-Switcher) - A set of scripts that allow your windows system to start up differently depending on whose fronting in pluralkit
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1)
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 
 ## Python 
 
@@ -793,7 +794,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [3096/genshin_scripts](https://github.com/3096/genshin_scripts) - 
 - [MCBE-Speedrunning/Steve-Bot](https://github.com/MCBE-Speedrunning/Steve-Bot) - A discord bot made for the minecraft bedrock speedrunning server
-- [mebeim/aoc](https://github.com/mebeim/aoc) - 🎄 My solutions and walkthroughs for Advent of Code (https://adventofcode.com) and more related stuff.
+- [mebeim/aoc](https://github.com/mebeim/aoc) - 🎄 My solutions and walkthroughs for Advent of Code and more related stuff.
 - [sdushantha/svart](https://github.com/sdushantha/svart) - Change between dark/light mode depending on the ambient light intensity
 - [AlexFlipnote/OsuKeyboard](https://github.com/AlexFlipnote/OsuKeyboard) - A nice little software that simulates the typing sound from Osu!
 - [DuncanRuns/F3Cender](https://github.com/DuncanRuns/F3Cender) - It's pronounced F3 Sender but I had to get F3+C in the name. A small script to send your Minecraft F3+C copies to a discord channel through webhooks.
