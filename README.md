@@ -84,6 +84,7 @@
 
 ## AutoHotkey 
 
+- [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [KraXen72/ahk-scripts](https://github.com/KraXen72/ahk-scripts) - 
 - [LSDL/hogwarts-legacy-gesture-to-spell](https://github.com/LSDL/hogwarts-legacy-gesture-to-spell) - A AHK script project that allows you to cast magic with mouse gestures in Hogwarts Legacy game.
 - [houdini101/AHK_Minecraft_Tools](https://github.com/houdini101/AHK_Minecraft_Tools) - Simple AutoHotKey Script for Minecraft. Includes AFK-Fishing, Auto-Sweep Attack and Nether Portal Calculator.
@@ -139,6 +140,7 @@
 
 ## C# # 
 
+- [AudioBand/AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar
 - [velddev/another-suika-game](https://github.com/velddev/another-suika-game) - This time with combo chains
 - [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
 - [vbisbest/MineChat](https://github.com/vbisbest/MineChat) - MineChat mobile application
@@ -293,6 +295,7 @@
 
 ## HTML 
 
+- [nkoehring/250kb-club](https://github.com/nkoehring/250kb-club) - An exclusive members-only club for web pages weighing no more than 250kb. Inspired by Bredley Taunts 1MB.club
 - [extratone/jellycuts](https://github.com/extratone/jellycuts) - Shortcuts development in the .jelly language.
 - [skullface/ohio-for-palestine](https://github.com/skullface/ohio-for-palestine) - Events, actions, and resources for Ohioans in solidarity with Palestine https://ohiopalestine.com
 - [NoTextToSpeech/goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
@@ -369,6 +372,7 @@
 
 ## JavaScript 
 
+- [WinClassic/MSFX](https://github.com/WinClassic/MSFX) - A Internet Explorer 5 theme for Mozilla Firefox.
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
@@ -842,7 +846,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 138 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 139 stars and 171 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -858,6 +862,7 @@
 
 ## Rust 
 
+- [fawni/shy](https://github.com/fawni/shy) - 🍂 Command line MusicBee remote controller
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Avoid Twitch ads by grabbing video playlists from Russia
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) - A CLI internet speed test tool
