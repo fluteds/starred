@@ -117,6 +117,7 @@
 
 ## C 
 
+- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [mierau/gamekid](https://github.com/mierau/gamekid) - Play Game Boy games on your Playdate.
@@ -140,6 +141,7 @@
 
 ## C# # 
 
+- [BriannaFoxwell/mb_DiscordRichPresence](https://github.com/BriannaFoxwell/mb_DiscordRichPresence) - it just works
 - [AudioBand/AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar
 - [velddev/another-suika-game](https://github.com/velddev/another-suika-game) - This time with combo chains
 - [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
@@ -209,6 +211,7 @@
 
 ## CSS 
 
+- [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [skullface/pomoday](https://github.com/skullface/pomoday) - 🍅 lo-fi aesthetic pomodoro timer ⏲️
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 - [schnensch0/zelk](https://github.com/schnensch0/zelk) - discord theme inspired by zorin
@@ -436,6 +439,7 @@
 - [daisyUniverse/TwitFix-Extension](https://github.com/daisyUniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [Mango0x45/retime.mcbe.wtf](https://github.com/Mango0x45/retime.mcbe.wtf) - A run retimer for speedrunners.
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [google/santa-tracker-web](https://github.com/google/santa-tracker-web) - The source code to Santa Tracker's website, by Google
 - [angeloanan/youtube-tv-browser](https://github.com/angeloanan/youtube-tv-browser) - ⏯ | A lightweight browser extension that enables YouTube for TV in your browser
 - [WalshyDev/Discord-bad-domains](https://github.com/WalshyDev/Discord-bad-domains) - 
@@ -1022,7 +1026,6 @@
 - [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators and Guides for Minecraft 1.15, 1.16, 1.17, 1.18, 1.19, 1.20
 - [soatok/dunktags](https://github.com/soatok/dunktags) - Generate a hashtag for a terrible take so you can dunk on it without boosting engagement
 - [Xetera/fixtiktok](https://github.com/Xetera/fixtiktok) - Make tiktok embeds playable on Discord by adding "fix" before "tiktok.com"
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
 - [indiesdev/curl](https://github.com/indiesdev/curl) - 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
