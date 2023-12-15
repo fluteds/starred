@@ -211,6 +211,7 @@
 
 ## CSS 
 
+- [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - "All natural pine, faux fur and a bit of soho vibes for the classy minimalist."
 - [cheesesamwich/3AM](https://github.com/cheesesamwich/3AM) - A chill rounded dark theme for discord designed to remove all the clutter and flashiness of modern themes.
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [skullface/pomoday](https://github.com/skullface/pomoday) - 🍅 lo-fi aesthetic pomodoro timer ⏲️
@@ -693,7 +694,6 @@
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [gridaco/x](https://github.com/gridaco/x) - We will be ready soon
 - [skullface/acnh](https://github.com/skullface/acnh) - 🌱Tracking progress + info in Animal Crossing: New Horizons!
 - [soft-aesthetic/soft-era-vs-code](https://github.com/soft-aesthetic/soft-era-vs-code) - 🌸 soft era for VS Code ~ Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -868,6 +868,7 @@
 
 ## Rust 
 
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
 - [aenriii/moon](https://github.com/aenriii/moon) - a simple cli for @moonlight-mod [WIP]
 - [fawni/shy](https://github.com/fawni/shy) - 🍂 Command line MusicBee remote controller
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
@@ -1061,6 +1062,7 @@
 - [camero2734/Nico-and-the-Bots](https://github.com/camero2734/Nico-and-the-Bots) - A collection of bots for the twenty one pilots Discord server
 - [defund12/defund12.org](https://github.com/defund12/defund12.org) - defund12.org
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [gridaco/grida](https://github.com/gridaco/grida) - 🎥 An opensource design tool. WebGPU based performant live design collaboration & workspace app - redesigned for both designers and developers
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
