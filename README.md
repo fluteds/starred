@@ -61,6 +61,7 @@
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Valve Data Format](#valve-data-format)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [mcfunction](#mcfunction)
 
@@ -731,6 +732,7 @@
 
 ## Python 
 
+- [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
 - [xP9nda/PapaFreezeriaBot](https://github.com/xP9nda/PapaFreezeriaBot) - A python bot to automate gameplay of Papa's Freezeria Deluxe on Steam.
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
@@ -1079,6 +1081,10 @@
 
 - [dangreene0/BetterGreenScreen](https://github.com/dangreene0/BetterGreenScreen) - A tool HUD that offers a larger green screen, prevents models from spinning, with a slimmed down UI.
 - [JarateKing/TF2-Hud-Reference](https://github.com/JarateKing/TF2-Hud-Reference) - Tutorial and reference for huds
+
+## Vim Script 
+
+- [KraXen72/dots.tam](https://github.com/KraXen72/dots.tam) - Linux configuration files.
 
 ## Vue 
 
