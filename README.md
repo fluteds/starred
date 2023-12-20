@@ -601,6 +601,7 @@
 
 ## Others 
 
+- [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
@@ -755,7 +756,7 @@
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [AidanHarveyNelson/pokemon_tcg_redeem](https://github.com/AidanHarveyNelson/pokemon_tcg_redeem) - A Script to automatically redeem Pokemon TCG Live Codes
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [danielweidman/pixmob-ir-reverse-engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering) - Hacking the PixMob infrared (and now also RF!) protocol to enable control of PixMob wristbands at home.
 - [daisyUniverse/FxGitHub](https://github.com/daisyUniverse/FxGitHub) - An attempt to make a github embed that actually shows the code you link to
@@ -985,6 +986,7 @@
 
 ## TypeScript 
 
+- [paralogical/glish](https://github.com/paralogical/glish) - map all words to single-syllable version
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) - Yet another Discord mod
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [0kzh/minicraft](https://github.com/0kzh/minicraft) - A web-based Minecraft clone, built with THREE.js
