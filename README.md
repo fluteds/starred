@@ -379,6 +379,7 @@
 
 ## JavaScript 
 
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [WinClassic/MSFX](https://github.com/WinClassic/MSFX) - A Internet Explorer 5 theme for Mozilla Firefox.
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
@@ -725,6 +726,7 @@
 
 ## PowerShell 
 
+- [robwillisinfo/Get-LargestFiles](https://github.com/robwillisinfo/Get-LargestFiles) - PowerShell Script – Quickly Find The Largest Files
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [brian6932/dank-scoop](https://github.com/brian6932/dank-scoop) - xD Yet Another Personal Bucket for Scoop
 - [brian6932/personal-scripts](https://github.com/brian6932/personal-scripts) - Just some personal scripts that I wanted to add to scoop
@@ -990,7 +992,7 @@
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) - Yet another Discord mod
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [0kzh/minicraft](https://github.com/0kzh/minicraft) - A web-based Minecraft clone, built with THREE.js
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [Snazzah/xban](https://github.com/Snazzah/xban) - A simple slash-command bot that cross-bans users.
