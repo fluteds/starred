@@ -64,6 +64,7 @@
 - [Valve Data Format](#valve-data-format)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [Yacc](#yacc)
 - [mcfunction](#mcfunction)
 
 ## ActionScript 
@@ -1101,6 +1102,10 @@
 - [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
 - [eggsy/is-inside-me-dead](https://github.com/eggsy/is-inside-me-dead) - 😥 Website source code after is-inside.me was shut down.
 - [PredaaA/whatismyti.me](https://github.com/PredaaA/whatismyti.me) - Get your time and timezone to your clipboard easily, and more time utilities!
+
+## Yacc 
+
+- [OpenNBS/OpenNoteBlockStudio](https://github.com/OpenNBS/OpenNoteBlockStudio) - An open-source Minecraft music maker.
 
 ## mcfunction 
 
