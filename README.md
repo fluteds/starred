@@ -165,6 +165,7 @@
 - [KrisIsBackAU/Oculus-VR-Dash-Manager](https://github.com/KrisIsBackAU/Oculus-VR-Dash-Manager) - Oculus VR Dash Manager
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
 - [riperiperi/FreeSO](https://github.com/riperiperi/FreeSO) - Re-implementation of The Sims Online.
+- [34736384/genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 - [BunniKaitlyn/OculusKiller](https://github.com/BunniKaitlyn/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
@@ -204,7 +205,6 @@
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
 - [LiquidFenrir/3ds-webcam](https://github.com/LiquidFenrir/3ds-webcam) - Use your 3DS as a webcam over the network
 - [digital-dream-labs/vector](https://github.com/digital-dream-labs/vector) - Public repository for rolling release of main Vector robot code repository.
-- [34736384/genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [MaikelChan/SpaceCadetPinball](https://github.com/MaikelChan/SpaceCadetPinball) - Wii and 3DS ports of  3D Pinball - Space Cadet
 - [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
@@ -215,7 +215,6 @@
 ## CSS 
 
 - [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - "All natural pine, faux fur and a bit of soho vibes for the classy minimalist."
-- [cheesesamwich/3AM](https://github.com/cheesesamwich/3AM) - A chill rounded dark theme for discord designed to remove all the clutter and flashiness of modern themes.
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [skullface/pomoday](https://github.com/skullface/pomoday) - 🍅 lo-fi aesthetic pomodoro timer ⏲️
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
@@ -991,6 +990,7 @@
 ## TypeScript 
 
 - [paralogical/glish](https://github.com/paralogical/glish) - map all words to single-syllable version
+- [cheesesamwich/3AM](https://github.com/cheesesamwich/3AM) - A chill rounded dark theme for discord designed to remove all the clutter and flashiness of modern themes.
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) - Yet another Discord mod
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [0kzh/minicraft](https://github.com/0kzh/minicraft) - A web-based Minecraft clone, built with THREE.js
