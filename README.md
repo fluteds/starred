@@ -120,6 +120,7 @@
 
 ## C 
 
+- [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
@@ -345,6 +346,7 @@
 
 ## Java 
 
+- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [henkelmax/mod-update-checker](https://github.com/henkelmax/mod-update-checker) - A library for Minecraft mods, that checks for available updates.
 - [AutumnVN/loli](https://github.com/AutumnVN/loli) - Client-side QoL Minecraft Fabric mod
 - [Mojang/slicer](https://github.com/Mojang/slicer) - Resource pack migration tool for Minecraft 1.14
