@@ -992,7 +992,6 @@
 ## TypeScript 
 
 - [paralogical/glish](https://github.com/paralogical/glish) - map all words to single-syllable version
-- [cheesesamwich/3AM](https://github.com/cheesesamwich/3AM) - A chill rounded dark theme for discord designed to remove all the clutter and flashiness of modern themes.
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) - Yet another Discord mod
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [0kzh/minicraft](https://github.com/0kzh/minicraft) - A web-based Minecraft clone, built with THREE.js
