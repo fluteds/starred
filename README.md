@@ -110,6 +110,7 @@
 
 ## Batchfile 
 
+- [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows.
 - [absunth/beta_mod_grabber](https://github.com/absunth/beta_mod_grabber) - script to grab recommended mods for minecraft b1.7.3
 - [JarateKing/CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - Clean TF2's sequel
 - [yonderbread/ame-scripts](https://github.com/yonderbread/ame-scripts) - Windows 10 AME script, sliced and diced.
@@ -742,6 +743,7 @@
 
 ## Python 
 
+- [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
 - [xP9nda/PapaFreezeriaBot](https://github.com/xP9nda/PapaFreezeriaBot) - A python bot to automate gameplay of Papa's Freezeria Deluxe on Steam.
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
@@ -991,6 +993,7 @@
 
 ## TypeScript 
 
+- [Nostalgia-09/AeroChat](https://github.com/Nostalgia-09/AeroChat) - 
 - [paralogical/glish](https://github.com/paralogical/glish) - map all words to single-syllable version
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) - Yet another Discord mod
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
