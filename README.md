@@ -146,6 +146,7 @@
 
 ## C# # 
 
+- [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [BriannaFoxwell/mb_DiscordRichPresence](https://github.com/BriannaFoxwell/mb_DiscordRichPresence) - it just works
 - [AudioBand/AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar
 - [velddev/another-suika-game](https://github.com/velddev/another-suika-game) - This time with combo chains
@@ -416,7 +417,6 @@
 - [KevinParnell/OneeChan](https://github.com/KevinParnell/OneeChan) - Customizable rice and themes for 4chan X
 - [NeverDecaf/majsoul-mods](https://github.com/NeverDecaf/majsoul-mods) - A collection of mahjong soul scripts
 - [vg-mjg/majsoul-plus-mods](https://github.com/vg-mjg/majsoul-plus-mods) - Collection of majsoul plus mods
-- [tacohitbox/userscripts](https://github.com/tacohitbox/userscripts) - Some userscripts I wrote.
 - [sorz/accept-language-per-site](https://github.com/sorz/accept-language-per-site) - Firefox extension to change Accept-Language for different sites.
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to show sub only VOD on Twitch
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
