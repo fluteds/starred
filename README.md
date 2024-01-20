@@ -814,7 +814,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC) - Connect your Nintendo Switch playing status to Discord!
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File/Folder Downloader (curl/wget fails due to the security notice).
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [lun-4/storcord](https://github.com/lun-4/storcord) - a badly-designed document store on top of discord (meme, not production ready, NOT PRODUCTION READY)
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
@@ -872,7 +872,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 143 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
