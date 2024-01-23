@@ -1001,6 +1001,7 @@
 
 ## TypeScript 
 
+- [Xetera/vuniparr](https://github.com/Xetera/vuniparr) - A custom Radarr list for movies that just became available for streaming
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [Nostalgia-09/AeroChat](https://github.com/Nostalgia-09/AeroChat) - 
