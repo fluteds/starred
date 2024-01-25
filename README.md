@@ -387,6 +387,7 @@
 
 ## JavaScript 
 
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [Cynosphere/comcord](https://github.com/Cynosphere/comcord) - A CLI-based client for Discord inspired by SDF's commode.
@@ -1001,6 +1002,7 @@
 
 ## TypeScript 
 
+- [katlyn/lovetap](https://github.com/katlyn/lovetap) - A simple way for loved ones to let each other know they are thinking of one another.
 - [Xetera/vuniparr](https://github.com/Xetera/vuniparr) - A custom Radarr list for movies that just became available for streaming
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
