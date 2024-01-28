@@ -194,7 +194,6 @@
 ## C++ 
 
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [ratwithacompiler/OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
 - [mastercomfig/tf2-patches](https://github.com/mastercomfig/tf2-patches) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [surepy/tf2_bot_detector](https://github.com/surepy/tf2_bot_detector) - A handy little tool to gather, keep track and automatically votekick bots and bad actors in Team Fortress 2.
@@ -476,7 +475,6 @@
 - [notion-enhancer/extension](https://github.com/notion-enhancer/extension) - an enhancer/customiser for the all-in-one productivity workspace notion.so (browser)
 - [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord.
 - [baspinarenes/spider-solitaire](https://github.com/baspinarenes/spider-solitaire) - Legendary spider solitaire game with Windows XP theme
-- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [captainadorable/personal-website](https://github.com/captainadorable/personal-website) - My personal website source code.
 - [cyberbarbie/taelur](https://github.com/cyberbarbie/taelur) - Get to know Taelur via npm. Just run `npx taelur`
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
