@@ -109,6 +109,7 @@
 
 ## Batchfile 
 
+- [rossy/mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows.
 - [absunth/beta_mod_grabber](https://github.com/absunth/beta_mod_grabber) - script to grab recommended mods for minecraft b1.7.3
 - [JarateKing/CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - Clean TF2's sequel
@@ -603,6 +604,7 @@
 
 ## Others 
 
+- [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits) - A repository of Formula 1™ circuits in GeoJSON format.
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
