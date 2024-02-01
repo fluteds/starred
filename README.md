@@ -361,7 +361,7 @@
 - [RedLime/SleepBackground](https://github.com/RedLime/SleepBackground) - Your instances are want to sleep, just let them do it (better performance & configurable Dynamic Menu FPS))
 - [DuncanRuns/Force-Port-Mod](https://github.com/DuncanRuns/Force-Port-Mod) - A fabric mod which forces the port of the "open to lan" feature to be 25565.
 - [tr7zw/ItemSwapper](https://github.com/tr7zw/ItemSwapper) - Tweaks to the inventory system based on Xisumavoid's video.
-- [chrrs/PegsEmotes](https://github.com/chrrs/PegsEmotes) - Discord style chat emotes for Minecraft chat.
+- [chrrs/pegs-emotes](https://github.com/chrrs/pegs-emotes) - Discord style chat emotes for Minecraft chat.
 - [TwitchRecover/TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Twitch VOD tool which recovers all VODs including those that are sub only or deleted.
 - [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable.
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
@@ -563,6 +563,8 @@
 
 ## Logos 
 
+- [level3tjg/TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad blocker for Twitch iOS app
+- [arichornlover/YouTubeEnhanced](https://github.com/arichornlover/YouTubeEnhanced) - YouTubeEnhanced is a modified version of YouTube with additional features and mainly made for non jailbroken users!
 - [enmity-mod/tweak](https://github.com/enmity-mod/tweak) - Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.
 
 ## Lua 
