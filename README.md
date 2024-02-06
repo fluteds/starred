@@ -384,6 +384,7 @@
 
 ## JavaScript 
 
+- [ottomated/emoji-thief](https://github.com/ottomated/emoji-thief) - Monitors the clipboard for Discord emoji URLs, and uses a bot to upload them to a private server.
 - [SirStig/fortnite-deck](https://github.com/SirStig/fortnite-deck) - Hope to be the home of the only fortnite installer for steam deck.
 - [discord-relay-chat/drc](https://github.com/discord-relay-chat/drc) - Discord Relay Chat
 - [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made
@@ -562,6 +563,7 @@
 
 ## Logos 
 
+- [Balackburn/YTLitePlus](https://github.com/Balackburn/YTLitePlus) - A modified version of Youtube supercharged with YTLite (by @dayanch96) and +20 tweaks
 - [level3tjg/TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad blocker for Twitch iOS app
 - [arichornlover/YouTubeEnhanced](https://github.com/arichornlover/YouTubeEnhanced) - YouTubeEnhanced is a modified version of YouTube with additional features and mainly made for non jailbroken users!
 - [enmity-mod/tweak](https://github.com/enmity-mod/tweak) - Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.
@@ -875,6 +877,7 @@
 
 ## Ruby 
 
+- [johnpeart/johnpeart.github.io](https://github.com/johnpeart/johnpeart.github.io) - My personal website.
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 - [stevekinney/pizza](https://github.com/stevekinney/pizza) - Where is the best :pizza: in a given city?
