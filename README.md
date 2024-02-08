@@ -474,7 +474,7 @@
 - [itsmeow/TOP-LoC-ARG-Tester](https://github.com/itsmeow/TOP-LoC-ARG-Tester) - A discord bot to test codes from the twenty one pilots LoC ARG
 - [cheap-glitch/vim.help](https://github.com/cheap-glitch/vim.help) - 📔 A mirror of Vim’s built-in documentation, adapted and improved for the web.
 - [cheap-glitch/fretboarder](https://github.com/cheap-glitch/fretboarder) - 🎸 A web app to visualize scales, chords and arpeggios on all kinds of fretboards.
-- [notion-enhancer/extension](https://github.com/notion-enhancer/extension) - an enhancer/customiser for the all-in-one productivity workspace notion.so (browser)
+- [notion-enhancer/extension](https://github.com/notion-enhancer/extension) - An enhancer/customiser for the all-in-one productivity workspace Notion (v0.11.0 browser extension)
 - [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord.
 - [baspinarenes/spider-solitaire](https://github.com/baspinarenes/spider-solitaire) - Legendary spider solitaire game with Windows XP theme
 - [captainadorable/personal-website](https://github.com/captainadorable/personal-website) - My personal website source code.
@@ -529,7 +529,7 @@
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
-- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [forwardemail/custom-fonts-in-emails](https://github.com/forwardemail/custom-fonts-in-emails) - An extremely easy way to use custom fonts in emails without having to use art software.
 - [hundredrabbits/Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool
@@ -869,7 +869,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 148 stars and 173 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 148 stars and 174 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
