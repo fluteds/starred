@@ -144,7 +144,7 @@
 ## C# # 
 
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 PowerToys
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Anti-assistant assistant
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [BriannaFoxwell/mb_DiscordRichPresence](https://github.com/BriannaFoxwell/mb_DiscordRichPresence) - it just works
