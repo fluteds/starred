@@ -602,6 +602,7 @@
 
 ## Objective-C 
 
+- [ichitaso/ApolloPatcher](https://github.com/ichitaso/ApolloPatcher) - Apollo for Reddit tweak with in-app configurable API keys
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 
 ## OpenSCAD 
@@ -981,6 +982,7 @@
 
 ## Swift 
 
+- [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [vendetta-mod/VendettaTweak](https://github.com/vendetta-mod/VendettaTweak) - A tweak to inject Vendetta, a mod for Discord's mobile apps.
 - [TheChanDev/TheChan](https://github.com/TheChanDev/TheChan) - 
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
