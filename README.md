@@ -297,7 +297,6 @@
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [auguwu/ume](https://github.com/auguwu/ume) - 🐻‍❄️💐 Easy, and flexible image host to share with your friends on Discord, Telegram, and more.
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
@@ -566,7 +565,7 @@
 
 ## Logos 
 
-- [Balackburn/YTLitePlus](https://github.com/Balackburn/YTLitePlus) - A modified version of Youtube supercharged with YTLite (by @dayanch96) and +20 tweaks
+- [Balackburn/YTLitePlus](https://github.com/Balackburn/YTLitePlus) - A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks
 - [level3tjg/TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad blocker for Twitch iOS app
 - [arichornlover/YouTubeEnhanced](https://github.com/arichornlover/YouTubeEnhanced) - YouTubeEnhanced is a modified version of YouTube with additional features and mainly made for non jailbroken users!
 - [enmity-mod/tweak](https://github.com/enmity-mod/tweak) - Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.
@@ -874,7 +873,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 148 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 149 stars and 176 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -920,6 +919,7 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [aquelemiguel/parrot](https://github.com/aquelemiguel/parrot) - 🦜 A hassle-free, highly performant, host-it-yourself Discord music bot with YouTube and Spotify support. Powered by yt-dlp.
 - [queer/qit](https://github.com/queer/qit) - Overly opinionated git tooling
+- [auguwu/ume](https://github.com/auguwu/ume) - 🐻‍❄️💐 Easy, and flexible image host to share with your friends on Discord, Telegram, and more.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
