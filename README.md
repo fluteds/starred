@@ -85,6 +85,7 @@
 
 ## AutoHotkey 
 
+- [Green-Bat/Savefile-Converter](https://github.com/Green-Bat/Savefile-Converter) - A program that converts Steam savefiles into Epic Games savefiles and vice versa for the Batman: Arkham games
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [KraXen72/ahk-scripts](https://github.com/KraXen72/ahk-scripts) - 
 - [LSDL/hogwarts-legacy-gesture-to-spell](https://github.com/LSDL/hogwarts-legacy-gesture-to-spell) - A AHK script project that allows you to cast magic with mouse gestures in Hogwarts Legacy game.
@@ -611,6 +612,7 @@
 
 ## Others 
 
+- [PrincessAkira/ublacklist-ai](https://github.com/PrincessAkira/ublacklist-ai) - Block the god damn ai from my google.
 - [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits) - A repository of Formula 1™ circuits in GeoJSON format.
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
@@ -747,6 +749,7 @@
 
 ## Python 
 
+- [Green-Bat/Savefile-Manager](https://github.com/Green-Bat/Savefile-Manager) - A program to help manage savefiles
 - [Loser02/YOUTUBE-DATA-TRANSFER](https://github.com/Loser02/YOUTUBE-DATA-TRANSFER) - moves youtube subsciptions and youtube playlists between accounts
 - [SamuraiOndo/fortniteFestivalDownloader](https://github.com/SamuraiOndo/fortniteFestivalDownloader) - Downloads Fortnite Festival stems
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
