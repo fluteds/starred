@@ -145,8 +145,9 @@
 
 ## C# # 
 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [builtbybel/BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
+- [builtbybel/BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The real PowerToys
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [BriannaFoxwell/mb_DiscordRichPresence](https://github.com/BriannaFoxwell/mb_DiscordRichPresence) - it just works
@@ -612,6 +613,8 @@
 
 ## Others 
 
+- [sam-hosseini/freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
+- [outofambit/friends-and-lovers-license](https://github.com/outofambit/friends-and-lovers-license) - what if code i wrote was only for the people i love?
 - [PrincessAkira/ublacklist-ai](https://github.com/PrincessAkira/ublacklist-ai) - Block the god damn ai from my google.
 - [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits) - A repository of Formula 1™ circuits in GeoJSON format.
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
@@ -876,7 +879,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 149 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 176 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
