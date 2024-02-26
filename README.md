@@ -459,7 +459,6 @@
 - [daisyUniverse/TwitFix-Extension](https://github.com/daisyUniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [MCBE-Speedrunning/retime.mcbe.wtf](https://github.com/MCBE-Speedrunning/retime.mcbe.wtf) - A run retimer for speedrunners.
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [google/santa-tracker-web](https://github.com/google/santa-tracker-web) - The source code to Santa Tracker's website, by Google
 - [angeloanan/youtube-tv-browser](https://github.com/angeloanan/youtube-tv-browser) - ⏯ | A lightweight browser extension that enables YouTube for TV in your browser
 - [WalshyDev/Discord-bad-domains](https://github.com/WalshyDev/Discord-bad-domains) - 
@@ -881,7 +880,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 175 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -1074,6 +1073,7 @@
 - [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators and Tools for Minecraft 1.15, 1.16, 1.17, 1.18, 1.19, 1.20
 - [soatok/dunktags](https://github.com/soatok/dunktags) - Generate a hashtag for a terrible take so you can dunk on it without boosting engagement
 - [Xetera/fixtiktok](https://github.com/Xetera/fixtiktok) - Make tiktok embeds playable on Discord by adding "fix" before "tiktok.com"
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
 - [indiesdev/curl](https://github.com/indiesdev/curl) - 
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
