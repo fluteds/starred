@@ -880,7 +880,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 151 stars and 175 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 150 stars and 175 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -899,13 +899,13 @@
 
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [aenriii/moon](https://github.com/aenriii/moon) - a simple cli for @moonlight-mod [WIP]
 - [fawni/shy](https://github.com/fawni/shy) - 🍂 Command line MusicBee remote controller
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Avoid Twitch ads by grabbing video playlists from Russia
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) - A CLI internet speed test tool
-- [ddotthomas/SteamDeck_SD_Card_Scanner](https://github.com/ddotthomas/SteamDeck_SD_Card_Scanner) - A program to keep track of the games on the SD card on a Steam Deck
+- [ddotthomas/SteamDeck_SD_Card_Scanner](https://github.com/ddotthomas/SteamDeck_SD_Card_Scanner) - A program to keep track of the games on the Steam Deck's SD card
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [ihateblueb/cobalt-cli](https://github.com/ihateblueb/cobalt-cli) - save what you love from your terminal
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
