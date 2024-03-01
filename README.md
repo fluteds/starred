@@ -284,6 +284,7 @@
 
 ## Go 
 
+- [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
@@ -753,6 +754,7 @@
 
 ## Python 
 
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [Green-Bat/Savefile-Manager](https://github.com/Green-Bat/Savefile-Manager) - A program to help manage savefiles
 - [Loser02/YOUTUBE-DATA-TRANSFER](https://github.com/Loser02/YOUTUBE-DATA-TRANSFER) - moves youtube subsciptions and youtube playlists between accounts
