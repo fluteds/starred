@@ -149,7 +149,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [builtbybel/BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Anti-assistant assistant
+- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - Your Personal Windows Pilot (former Bloatynosy)
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [BriannaFoxwell/mb_DiscordRichPresence](https://github.com/BriannaFoxwell/mb_DiscordRichPresence) - it just works
@@ -619,6 +619,7 @@
 
 ## Others 
 
+- [pjortiz/docker-arrs-with-nordvpn](https://github.com/pjortiz/docker-arrs-with-nordvpn) - This is a Docker Stack to deploy Sonarr, Radarr, Prowlarr, and qBittorrent. With Jacket and qBittorrent connecting to NordVPN
 - [sam-hosseini/freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 - [outofambit/friends-and-lovers-license](https://github.com/outofambit/friends-and-lovers-license) - what if code i wrote was only for the people i love?
 - [PrincessAkira/ublacklist-ai](https://github.com/PrincessAkira/ublacklist-ai) - Block the god damn ai from my google.
@@ -774,6 +775,7 @@
 - [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script which takes the game you're playing on steam and displays it on discord
 - [xP9nda/PapaFreezeriaBot](https://github.com/xP9nda/PapaFreezeriaBot) - A python bot to automate gameplay of Papa's Freezeria Deluxe on Steam.
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
 - [lun-4/finfox](https://github.com/lun-4/finfox) - scripts for personal finance
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -958,6 +960,7 @@
 
 ## Shell 
 
+- [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [kageurufu/steamdeck_startup_animations](https://github.com/kageurufu/steamdeck_startup_animations) - A collection of steamdeck startup animations, plus a script to randomize your startup on each boot
 - [aBoredDev/playit-setup-script](https://github.com/aBoredDev/playit-setup-script) - An un-official script to set up the playit.gg tunnel host (https://playit.gg/) and install it as a service on Linux
 - [TheRemote/RaspberryPiMinecraft](https://github.com/TheRemote/RaspberryPiMinecraft) - Configuration files and performance testing scripts to setup and optimize a dedicated Minecraft (PC Java version) server
@@ -1034,7 +1037,6 @@
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) - Yet another Discord mod
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [0kzh/minicraft](https://github.com/0kzh/minicraft) - A web-based Minecraft clone, built with THREE.js
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
