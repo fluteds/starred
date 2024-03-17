@@ -361,7 +361,7 @@
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [henkelmax/mod-update-checker](https://github.com/henkelmax/mod-update-checker) - A library for Minecraft mods, that checks for available updates.
-- [AutumnVN/loli](https://github.com/AutumnVN/loli) - Client-side QoL Minecraft Fabric mod
+- [AutumnVN/autumn](https://github.com/AutumnVN/autumn) - My client-side Minecraft Fabric mod
 - [Mojang/slicer](https://github.com/Mojang/slicer) - Resource pack migration tool for Minecraft 1.14
 - [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware
 - [adryd325/mc-a11y-tweaks](https://github.com/adryd325/mc-a11y-tweaks) - Small tweaks related to flickers, flashes, and scaling in Minecraft
@@ -751,7 +751,7 @@
 - [brian6932/personal-scripts](https://github.com/brian6932/personal-scripts) - Just some personal scripts that I wanted to add to scoop
 - [theyetty/update-hogwarts-legacy-engine.ini](https://github.com/theyetty/update-hogwarts-legacy-engine.ini) - 
 - [daisyUniverse/PluralKit-Windows-Switcher](https://github.com/daisyUniverse/PluralKit-Windows-Switcher) - A set of scripts that allow your windows system to start up differently depending on whose fronting in pluralkit
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
+- [t4rra/CCStopper](https://github.com/t4rra/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
@@ -908,6 +908,7 @@
 
 ## Rust 
 
+- [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
