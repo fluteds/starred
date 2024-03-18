@@ -572,7 +572,7 @@
 
 ## Logos 
 
-- [Balackburn/YTLitePlus](https://github.com/Balackburn/YTLitePlus) - A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks
+- [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks
 - [level3tjg/TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad blocker for Twitch iOS app
 - [arichornlover/YouTubeEnhanced](https://github.com/arichornlover/YouTubeEnhanced) - YouTubeEnhanced is a modified version of YouTube with additional features and mainly made for non jailbroken users!
 - [enmity-mod/tweak](https://github.com/enmity-mod/tweak) - Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.
@@ -1005,6 +1005,7 @@
 
 ## Swift 
 
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [vendetta-mod/VendettaTweak](https://github.com/vendetta-mod/VendettaTweak) - A tweak to inject Vendetta, a mod for Discord's mobile apps.
 - [TheChanDev/TheChan](https://github.com/TheChanDev/TheChan) - 
