@@ -149,7 +149,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - Your Personal Windows Pilot (former Bloatynosy)
+- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - Your Personal Windows Pilot
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [BriannaFoxwell/mb_DiscordRichPresence](https://github.com/BriannaFoxwell/mb_DiscordRichPresence) - it just works
@@ -845,7 +845,7 @@
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub.
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [3096/genshin_scripts](https://github.com/3096/genshin_scripts) - 
 - [MCBE-Speedrunning/Steve-Bot](https://github.com/MCBE-Speedrunning/Steve-Bot) - A discord bot made for the minecraft bedrock speedrunning server
 - [mebeim/aoc](https://github.com/mebeim/aoc) - 🎄 My solutions and walkthroughs for Advent of Code and more related stuff.
