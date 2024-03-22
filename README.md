@@ -121,7 +121,6 @@
 
 ## C 
 
-- [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an effective tracking device, compatible with both Apple AirTag and Samsung SmartTag. It uses the BLE beacon to broadcast, allowing users to clone ex
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -764,6 +763,7 @@
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [FailSpy/humble-steam-key-redeemer](https://github.com/FailSpy/humble-steam-key-redeemer) - Python script to extract all Humble Bundle keys and redeem them on Steam automagically.
 - [NDDDDDDDDD/TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Just a really simple program that checks if normally private trackers are open to registration.  Feedback and tracker recommendations are very much appreciated!
+- [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an effective tracking device, compatible with both Apple AirTag and Samsung SmartTag. It uses the BLE beacon to broadcast, allowing users to clone ex
 - [jo1gi/audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook CLI downloader
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
@@ -894,7 +894,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 154 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 155 stars and 176 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
