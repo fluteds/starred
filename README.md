@@ -965,6 +965,7 @@
 
 ## Shell 
 
+- [LordZeuss/raspi-docker](https://github.com/LordZeuss/raspi-docker) - This project is to automate the install(s) of Docker and or Mullvad VPN onto Rasbian & Debian based distros.
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [kageurufu/steamdeck_startup_animations](https://github.com/kageurufu/steamdeck_startup_animations) - A collection of steamdeck startup animations, plus a script to randomize your startup on each boot
 - [aBoredDev/playit-setup-script](https://github.com/aBoredDev/playit-setup-script) - An un-official script to set up the playit.gg tunnel host (https://playit.gg/) and install it as a service on Linux
