@@ -37,7 +37,6 @@
 - [Logos](#logos)
 - [Lua](#lua)
 - [MDX](#mdx)
-- [Makefile](#makefile)
 - [Mako](#mako)
 - [Mercury](#mercury)
 - [Nim](#nim)
@@ -589,10 +588,6 @@
 - [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
-## Makefile 
-
-- [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
-
 ## Mako 
 
 - [HANDZCZ/genshin-stats](https://github.com/HANDZCZ/genshin-stats) - Repository that host code to show my genshin stats. Claims daily reward and active primo codes.
@@ -754,6 +749,7 @@
 
 ## Python 
 
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
 - [garyexplains/examples](https://github.com/garyexplains/examples) - Example code used in my videos
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [FailSpy/humble-steam-key-redeemer](https://github.com/FailSpy/humble-steam-key-redeemer) - Python script to extract all Humble Bundle keys and redeem them on Steam automagically.
