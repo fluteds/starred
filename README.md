@@ -62,6 +62,7 @@
 - [VBScript](#vbscript)
 - [Valve Data Format](#valve-data-format)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Yacc](#yacc)
 - [mcfunction](#mcfunction)
@@ -883,7 +884,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 154 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 153 stars and 177 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -1131,6 +1132,10 @@
 
 - [ctaylo21/jarvis](https://github.com/ctaylo21/jarvis) - Dotfiles for a powerful, web development-focused environment powered by Neovim, iTerm2, tmux, and zsh
 - [KraXen72/dots.tam](https://github.com/KraXen72/dots.tam) - Linux configuration files.
+
+## Visual Basic .NET 
+
+- [aidanmacgregor/Fortnite-XP-Tool](https://github.com/aidanmacgregor/Fortnite-XP-Tool) - A tool to automate jam mode & Lego Fortnite to gain up to 5 levels each daily
 
 ## Vue 
 
