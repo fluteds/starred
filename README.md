@@ -396,6 +396,7 @@
 
 ## JavaScript 
 
+- [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
 - [discordier/sam](https://github.com/discordier/sam) - Software Automatic Mouth - Tiny Speech Synthesizer
 - [ottomated/emoji-thief](https://github.com/ottomated/emoji-thief) - Monitors the clipboard for Discord emoji URLs, and uses a bot to upload them to a private server.
 - [SirStig/fortnite-deck](https://github.com/SirStig/fortnite-deck) - Hope to be the home of the only fortnite installer for steam deck.
@@ -885,7 +886,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 153 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 154 stars and 176 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -914,7 +915,7 @@
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [ihateblueb/cobalt-cli](https://github.com/ihateblueb/cobalt-cli) - save what you love from your terminal
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
-- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - [DISCONTINUED] 👇 Command-line downloader for Crunchyroll
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
 - [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
