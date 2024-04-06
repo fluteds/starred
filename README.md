@@ -737,6 +737,7 @@
 
 ## PowerShell 
 
+- [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [robwillisinfo/Get-LargestFiles](https://github.com/robwillisinfo/Get-LargestFiles) - PowerShell Script – Quickly Find The Largest Files
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -1112,7 +1113,7 @@
 - [camero2734/Nico-and-the-Bots](https://github.com/camero2734/Nico-and-the-Bots) - A collection of bots for the twenty one pilots Discord server
 - [defund12/defund12.org](https://github.com/defund12/defund12.org) - defund12.org
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [gridaco/grida](https://github.com/gridaco/grida) - 🎨 An opensource design tool. WebGPU based performant live design collaboration & workspace app - redesigned for both designers and developers
+- [gridaco/grida](https://github.com/gridaco/grida) - Free and Open Canvas for Humans and Machines
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
