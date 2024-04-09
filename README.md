@@ -1059,7 +1059,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
 - [yuanqing/single-page-markdown-website](https://github.com/yuanqing/single-page-markdown-website) - :hot_pepper: Create a nice single-page documentation website from one or more Markdown files
