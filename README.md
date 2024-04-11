@@ -1023,6 +1023,7 @@
 
 ## TypeScript 
 
+- [govizlora/optical-breacher](https://github.com/govizlora/optical-breacher) - Online Cyberpunk 2077 breach protocol minigame puzzle solver using camera
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [partyhatgg/yapper](https://github.com/partyhatgg/yapper) - A Discord bot created to transcribe Discord voice messages.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
