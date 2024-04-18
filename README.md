@@ -110,6 +110,7 @@
 
 ## Batchfile 
 
+- [mitchv2020/QuestToolbox](https://github.com/mitchv2020/QuestToolbox) - A batch file full of useful tools to use for Quest 1 and 2!
 - [rossy/mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows.
 - [absunth/beta_mod_grabber](https://github.com/absunth/beta_mod_grabber) - script to grab recommended mods for minecraft b1.7.3
@@ -143,6 +144,10 @@
 
 ## C# # 
 
+- [Goobwabber/LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller) - Installs past Beat Saber versions to your steam library
+- [kckarnige/OculusKillSwitch](https://github.com/kckarnige/OculusKillSwitch) - Toggle Oculus Killer and play your Oculus games how Zuck intended.
+- [icosa-foundation/open-brush](https://github.com/icosa-foundation/open-brush) - Open Brush is the open source, community led evolution of Tilt Brush! Forked from https://github.com/googlevr/tilt-brush
+- [DevOculus-Meta-Quest/OculusKiller](https://github.com/DevOculus-Meta-Quest/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
 - [oureveryday/Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
@@ -197,6 +202,7 @@
 
 ## C++ 
 
+- [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
 - [furstyferret-dev/bindicator](https://github.com/furstyferret-dev/bindicator) - 
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [ratwithacompiler/OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
@@ -754,7 +760,6 @@
 
 ## Python 
 
-- [nythepegasus/SideJITServer](https://github.com/nythepegasus/SideJITServer) - A JIT enabler for iOS 17 with a Windows/macOS computer on the same WiFi!
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
 - [garyexplains/examples](https://github.com/garyexplains/examples) - Example code used in my videos
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
