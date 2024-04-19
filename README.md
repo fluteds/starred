@@ -1031,7 +1031,7 @@
 
 - [govizlora/optical-breacher](https://github.com/govizlora/optical-breacher) - Online Cyberpunk 2077 breach protocol minigame puzzle solver using camera
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
-- [partyhatgg/yapper](https://github.com/partyhatgg/yapper) - A Discord bot created to transcribe Discord voice messages.
+- [partyhatgg/yapper](https://github.com/partyhatgg/yapper) - A Discord bot for transcribing voice messages/media on Discord
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
 - [katlyn/lovetap](https://github.com/katlyn/lovetap) - A simple way for loved ones to let each other know they are thinking of one another.
