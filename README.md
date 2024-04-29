@@ -144,6 +144,8 @@
 
 ## C# # 
 
+- [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
+- [InvoxiPlayGames/FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival.
 - [pointfeev/CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selec
 - [Goobwabber/LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller) - Installs past Beat Saber versions to your steam library
 - [kckarnige/OculusKillSwitch](https://github.com/kckarnige/OculusKillSwitch) - Toggle Oculus Killer and play your Oculus games how Zuck intended.
@@ -294,6 +296,7 @@
 
 ## Go 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -402,6 +405,7 @@
 
 ## JavaScript 
 
+- [EFHIII/midi-ch](https://github.com/EFHIII/midi-ch) - .midi to clone hero converter
 - [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
 - [discordier/sam](https://github.com/discordier/sam) - Software Automatic Mouth - Tiny Speech Synthesizer
 - [ottomated/emoji-thief](https://github.com/ottomated/emoji-thief) - Monitors the clipboard for Discord emoji URLs, and uses a bot to upload them to a private server.
@@ -896,7 +900,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 158 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 158 stars and 175 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
