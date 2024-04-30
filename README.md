@@ -624,6 +624,7 @@
 
 ## Others 
 
+- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 - [Democles85/Cyberpunk-2077-Mods](https://github.com/Democles85/Cyberpunk-2077-Mods) - A list on mods I have been working on and will continue to make it better.
 - [sam-hosseini/freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 - [outofambit/friends-and-lovers-license](https://github.com/outofambit/friends-and-lovers-license) - what if code i wrote was only for the people i love?
@@ -900,7 +901,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 158 stars and 175 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 158 stars and 176 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
