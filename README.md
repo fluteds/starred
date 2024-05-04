@@ -426,7 +426,6 @@
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
 - [f1-tools/MVF1-Streamdeck](https://github.com/f1-tools/MVF1-Streamdeck) - A Streamdeck plugin for using Multiviewer for Formula 1
 - [tdjsnelling/monaco](https://github.com/tdjsnelling/monaco) - Real-time F1 live timing & telemetry UI
-- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [javierarce/letterboxd-scraper](https://github.com/javierarce/letterboxd-scraper) - A script that scrapes films from a Letterboxd user's public diary.
@@ -1059,6 +1058,7 @@
 - [milutinke/MCC.js](https://github.com/milutinke/MCC.js) - A library for controlling the Minecraft Console Client and making bots for it in JavaScript/TypeScript.
 - [retrixe/EnderChat](https://github.com/retrixe/EnderChat) - An app for Android/iOS to chat on Minecraft servers from your phone.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [jinglescode/nostr-url-shortener](https://github.com/jinglescode/nostr-url-shortener) - A free URL shortener service enabled by the NOSTR protocol, that is fast and fuss-free, stripped of all bells and whistles, no gimmicks—it just works!
 - [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
