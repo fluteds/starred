@@ -144,6 +144,7 @@
 
 ## C# # 
 
+- [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
 - [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
 - [InvoxiPlayGames/FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival.
 - [pointfeev/CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selec
@@ -766,6 +767,7 @@
 
 ## Python 
 
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
 - [jaylann/NexusAutoDL](https://github.com/jaylann/NexusAutoDL) - A tool for automatically downloading mods from Nexusmods with support for different Mod Managers such as Vortex, Portmod and Wabbajack.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
 - [garyexplains/examples](https://github.com/garyexplains/examples) - Example code used in my videos
@@ -797,7 +799,6 @@
 - [meganmansfield/taylorswift](https://github.com/meganmansfield/taylorswift) - A code to match you with the perfect Taylor Swift song for your mood and relationship status.
 - [karayaman/lichess-with-a-real-board](https://github.com/karayaman/lichess-with-a-real-board) - Lichess.org client for real life chess boards.
 - [tf2classic/TF2CDownloader](https://github.com/tf2classic/TF2CDownloader) - Cross-platform utility for automatically downloading and installing TF2 Classic
-- [Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator](https://github.com/Jarvis-Yu/Dottore-Genius-Invokation-TCG-Simulator) - A highly customizable Genius Invokation TCG simulator for Reinforcement Learning. (PyPI package: dgisim)
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
