@@ -370,6 +370,7 @@
 
 ## Java 
 
+- [gtrxAC/discord-j2me](https://github.com/gtrxAC/discord-j2me) - Discord client for Java ME (MIDP 2.0) devices
 - [chrrs/camerapture](https://github.com/chrrs/camerapture) - Fabric mod with cameras that can take pictures!
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -725,7 +726,6 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [skullface/acnh](https://github.com/skullface/acnh) - 🌱Tracking progress + info in Animal Crossing: New Horizons!
 - [soft-aesthetic/soft-era-vs-code](https://github.com/soft-aesthetic/soft-era-vs-code) - 🌸 soft era for VS Code ~ Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [skullface/awesome-acnh](https://github.com/skullface/awesome-acnh) - 🏝 Curated list of resources and tips for Animal Crossing: New Horizons
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
@@ -767,7 +767,6 @@
 
 ## Python 
 
-- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
 - [jaylann/NexusAutoDL](https://github.com/jaylann/NexusAutoDL) - A tool for automatically downloading mods from Nexusmods with support for different Mod Managers such as Vortex, Portmod and Wabbajack.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
 - [garyexplains/examples](https://github.com/garyexplains/examples) - Example code used in my videos
@@ -901,7 +900,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 160 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 160 stars and 177 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
@@ -972,7 +971,6 @@
 
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [pikdum/steam-deck](https://github.com/pikdum/steam-deck) - steam deck tools, currently only vortex
-- [LordZeuss/raspi-docker](https://github.com/LordZeuss/raspi-docker) - This project is to automate the install(s) of Docker and or Mullvad VPN onto Rasbian & Debian based distros.
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [kageurufu/steamdeck_startup_animations](https://github.com/kageurufu/steamdeck_startup_animations) - A collection of steamdeck startup animations, plus a script to randomize your startup on each boot
 - [aBoredDev/playit-setup-script](https://github.com/aBoredDev/playit-setup-script) - An un-official script to set up the playit.gg tunnel host (https://playit.gg/) and install it as a service on Linux
@@ -1038,6 +1036,8 @@
 
 ## TypeScript 
 
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [govizlora/optical-breacher](https://github.com/govizlora/optical-breacher) - Online Cyberpunk 2077 breach protocol minigame puzzle solver using camera
 - [partyhatgg/yapper](https://github.com/partyhatgg/yapper) - A Discord bot for transcribing voice messages/media on Discord
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
