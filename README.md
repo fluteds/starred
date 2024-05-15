@@ -421,7 +421,7 @@
 - [Cynosphere/comcord](https://github.com/Cynosphere/comcord) - A CLI-based client for Discord inspired by SDF's commode.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [WinClassic/MSFX](https://github.com/WinClassic/MSFX) - A Internet Explorer 5 theme for Mozilla Firefox.
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
@@ -767,6 +767,7 @@
 
 ## Python 
 
+- [latorc/MahjongCopilot](https://github.com/latorc/MahjongCopilot) - 雀魂游戏实时 AI 指导 / In-game step-by-step AI Assistant for Maj-soul
 - [jaylann/NexusAutoDL](https://github.com/jaylann/NexusAutoDL) - A tool for automatically downloading mods from Nexusmods with support for different Mod Managers such as Vortex, Portmod and Wabbajack.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
 - [garyexplains/examples](https://github.com/garyexplains/examples) - Example code used in my videos
