@@ -110,6 +110,7 @@
 
 ## Batchfile 
 
+- [p3tr0s/ProxyCap_Retry](https://github.com/p3tr0s/ProxyCap_Retry) - A script to reset the 30 day trial of proxycap
 - [mitchv2020/QuestToolbox](https://github.com/mitchv2020/QuestToolbox) - A batch file full of useful tools to use for Quest 1 and 2!
 - [rossy/mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows.
