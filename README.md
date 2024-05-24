@@ -184,7 +184,7 @@
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
 - [riperiperi/FreeSO](https://github.com/riperiperi/FreeSO) - Re-implementation of The Sims Online.
 - [34736384/genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
-- [BunniKaitlyn/OculusKiller](https://github.com/BunniKaitlyn/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
+- [irlbunny/OculusKiller](https://github.com/irlbunny/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [Andrewthe13th/Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
@@ -304,6 +304,7 @@
 
 ## Go 
 
+- [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [ezrizhu/now](https://github.com/ezrizhu/now) - efingerd program
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
@@ -758,7 +759,6 @@
 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
-- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [robwillisinfo/Get-LargestFiles](https://github.com/robwillisinfo/Get-LargestFiles) - PowerShell Script – Quickly Find The Largest Files
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [brian6932/dank-scoop](https://github.com/brian6932/dank-scoop) - 🪣 Yet Another Personal Scoop Bucket
@@ -925,6 +925,7 @@
 
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [aenriii/moon](https://github.com/aenriii/moon) - a simple cli for @moonlight-mod [WIP]
