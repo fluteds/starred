@@ -379,6 +379,7 @@
 
 ## Java 
 
+- [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric mod to expertly edit your books with rich formatting options and page utilities
 - [gtrxAC/discord-j2me](https://github.com/gtrxAC/discord-j2me) - Discord client for Java ME (MIDP 2.0) devices
 - [chrrs/camerapture](https://github.com/chrrs/camerapture) - Fabric mod with cameras that can take pictures!
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
@@ -774,6 +775,7 @@
 
 ## Python 
 
+- [ScottBot10/calibre_annas_archive](https://github.com/ScottBot10/calibre_annas_archive) - Calibre store plugin for Anna's Archive
 - [jadencamelot/f1-data](https://github.com/jadencamelot/f1-data) - Terminal-based Formula 1 live telemetry dashboard, that syncs with VLC video playback.
 - [latorc/MahjongCopilot](https://github.com/latorc/MahjongCopilot) - 雀魂游戏实时 AI 指导 / In-game step-by-step AI Assistant for Maj-soul
 - [jaylann/NexusAutoDL](https://github.com/jaylann/NexusAutoDL) - A tool for automatically downloading mods from Nexusmods with support for different Mod Managers such as Vortex, Portmod and Wabbajack.
