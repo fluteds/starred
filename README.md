@@ -238,7 +238,7 @@
 
 ## CSS 
 
-- [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - "All natural pine, faux fur and a bit of soho vibes for the classy minimalist."
+- [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - I'm currently using the Rose Pine color scheme to personalize my Windows desktop.
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [skullface/pomoday](https://github.com/skullface/pomoday) - 🍅 lo-fi aesthetic pomodoro timer ⏲️
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
@@ -929,6 +929,7 @@
 
 ## Rust 
 
+- [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
@@ -983,6 +984,7 @@
 
 ## Shell 
 
+- [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [pikdum/steam-deck](https://github.com/pikdum/steam-deck) - steam deck tools, currently only vortex
