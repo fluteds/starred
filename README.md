@@ -387,7 +387,7 @@
 - [henkelmax/mod-update-checker](https://github.com/henkelmax/mod-update-checker) - A library for Minecraft mods, that checks for available updates.
 - [AutumnVN/autumn](https://github.com/AutumnVN/autumn) - My client-side Minecraft Fabric mod
 - [Mojang/slicer](https://github.com/Mojang/slicer) - Resource pack migration tool for Minecraft 1.14
-- [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware
+- [trigram-mrp/fractureiser](https://github.com/trigram-mrp/fractureiser) - Information about the fractureiser malware (June 2023)
 - [adryd325/mc-a11y-tweaks](https://github.com/adryd325/mc-a11y-tweaks) - Small tweaks related to flickers, flashes, and scaling in Minecraft
 - [DuncanRuns/MinecraftCoopStarter](https://github.com/DuncanRuns/MinecraftCoopStarter) - A simple ngrok wrapper for minecraft coops; opens the 25565 tcp port to the world through ngrok.
 - [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
@@ -449,7 +449,6 @@
 - [Roshy10/taylors-version](https://github.com/Roshy10/taylors-version) - A React app which updates Spotify playlists to use Taylor Swift's re-released tracks
 - [sky-pose-rick/ptcgl-credits](https://github.com/sky-pose-rick/ptcgl-credits) - 
 - [stephanerangaya/throbber](https://github.com/stephanerangaya/throbber) - A Google Chrome/Microsoft Edge extension that brings you back to the 90s
-- [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [rdeprey/meeting-indicator](https://github.com/rdeprey/meeting-indicator) - Use your Outlook calendar to show a message on an LCD screen so that others know when you're in a meeting
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
