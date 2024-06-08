@@ -249,7 +249,6 @@
 - [guglicap/wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
 - [tandpfun/nft-avatar](https://github.com/tandpfun/nft-avatar) - Create fake Twitter NFT avatars by giving your profile picture a hexagonal shape.
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
-- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [skullface/design-resources](https://github.com/skullface/design-resources) - 📐 Select websites, tools, assets, and readings for working in and learning about design.
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
@@ -601,6 +600,7 @@
 
 ## Lua 
 
+- [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 - [mar04/chapters_for_mpv](https://github.com/mar04/chapters_for_mpv) - mpv script for adding/editing/removing/saving/loading chapters
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [tilda/painmon](https://github.com/tilda/painmon) - Personal Genshin Impact-themed desktop suite for Rainmeter
@@ -715,6 +715,7 @@
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [SeedFinding/fnseedc](https://github.com/SeedFinding/fnseedc) - Collection of resources for Minecraft Seedcracking
 - [funkyface/ssg-seeds](https://github.com/funkyface/ssg-seeds) - Minecraft SSG seeds for 1.16
+- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
 - [devmount/CheatSheets](https://github.com/devmount/CheatSheets) - A curated list of everything I look up more than twice
 - [miffycs/Animal-Crossing-Amiibo](https://github.com/miffycs/Animal-Crossing-Amiibo) - 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only. Series 5 data uploaded.
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
@@ -775,6 +776,7 @@
 
 ## Python 
 
+- [Concept-Bytes/Jarvis](https://github.com/Concept-Bytes/Jarvis) - 
 - [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [ScottBot10/calibre_annas_archive](https://github.com/ScottBot10/calibre_annas_archive) - Calibre store plugin for Anna's Archive
 - [jadencamelot/f1-data](https://github.com/jadencamelot/f1-data) - Terminal-based Formula 1 live telemetry dashboard, that syncs with VLC video playback.
