@@ -428,7 +428,6 @@
 - [ChrisMBarr/UserScripts](https://github.com/ChrisMBarr/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
-- [Cynosphere/comcord](https://github.com/Cynosphere/comcord) - A CLI-based client for Discord inspired by SDF's commode.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [WinClassic/MSFX](https://github.com/WinClassic/MSFX) - A Internet Explorer 5 theme for Mozilla Firefox.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
@@ -715,7 +714,7 @@
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [SeedFinding/fnseedc](https://github.com/SeedFinding/fnseedc) - Collection of resources for Minecraft Seedcracking
 - [funkyface/ssg-seeds](https://github.com/funkyface/ssg-seeds) - Minecraft SSG seeds for 1.16
-- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
+- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A database of custom user requested backgrounds for @Discord.
 - [devmount/CheatSheets](https://github.com/devmount/CheatSheets) - A curated list of everything I look up more than twice
 - [miffycs/Animal-Crossing-Amiibo](https://github.com/miffycs/Animal-Crossing-Amiibo) - 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only. Series 5 data uploaded.
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
