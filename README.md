@@ -601,6 +601,7 @@
 
 ## Lua 
 
+- [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 - [mar04/chapters_for_mpv](https://github.com/mar04/chapters_for_mpv) - mpv script for adding/editing/removing/saving/loading chapters
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
