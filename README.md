@@ -1025,7 +1025,6 @@
 
 ## Svelte 
 
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [chrrs/freddit](https://github.com/chrrs/freddit) - Alternative Reddit frontend
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Simple and elegant Steam library customization
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
@@ -1060,6 +1059,7 @@
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [govizlora/optical-breacher](https://github.com/govizlora/optical-breacher) - Online Cyberpunk 2077 breach protocol minigame puzzle solver using camera
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [partyhatgg/yapper](https://github.com/partyhatgg/yapper) - A Discord bot for transcribing voice messages/media on Discord
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
