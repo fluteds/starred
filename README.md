@@ -599,7 +599,7 @@
 - [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks
 - [level3tjg/TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad blocker for Twitch iOS app
 - [arichornlover/YouTubeEnhanced](https://github.com/arichornlover/YouTubeEnhanced) - YouTubeEnhanced is a modified version of YouTube with additional features and mainly made for non jailbroken users!
-- [enmity-mod/tweak](https://github.com/enmity-mod/tweak) - Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.
+- [enmity-mod/tweak](https://github.com/enmity-mod/tweak) - 🔧 iOS jailbreak tweak to handle bundle loading and native functionality for Enmity.
 
 ## Lua 
 
@@ -1096,7 +1096,7 @@
 - [cyyynthia/discord-active-dev](https://github.com/cyyynthia/discord-active-dev) - Thingy to ~~farm~~get the Discord active developer badge, written in the form of a mini tutorial
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
-- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - The power of addons, all in your hand.
+- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - 🧩 The power of addons, all in your hand.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
