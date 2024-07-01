@@ -239,6 +239,7 @@
 
 ## CSS 
 
+- [coolesding/onekocord](https://github.com/coolesding/onekocord) - CSS-Snippets for Oneko in Discord Clients
 - [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - I'm currently using the Rose Pine color scheme to personalize my Windows desktop.
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [skullface/pomoday](https://github.com/skullface/pomoday) - 🍅 lo-fi aesthetic pomodoro timer ⏲️
@@ -639,6 +640,7 @@
 
 ## Others 
 
+- [Lylythii/OnekoStyles](https://github.com/Lylythii/OnekoStyles) - Different designs for 'Oneko'. | Useful for Vencord plugin users. :)
 - [Democles85/Cyberpunk-2077-Mods](https://github.com/Democles85/Cyberpunk-2077-Mods) - A list on mods I have been working on and will continue to make it better.
 - [sam-hosseini/freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 - [outofambit/friends-and-lovers-license](https://github.com/outofambit/friends-and-lovers-license) - what if code i wrote was only for the people i love?
