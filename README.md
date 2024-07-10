@@ -285,7 +285,6 @@
 ## Fluent 
 
 - [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## G-code 
 
@@ -330,6 +329,7 @@
 
 ## HTML 
 
+- [skullface/suitortheband](https://github.com/skullface/suitortheband) - 
 - [dimdenGD/mood-tracker](https://github.com/dimdenGD/mood-tracker) - My mood tracker
 - [rebane2001/antonymph](https://github.com/rebane2001/antonymph) - a pop-up music video
 - [trentwiles/FinesForLondon.org](https://github.com/trentwiles/FinesForLondon.org) - Give your friend a fake TfL fine
@@ -338,6 +338,7 @@
 - [extratone/jellycuts](https://github.com/extratone/jellycuts) - Shortcuts development in the .jelly language.
 - [skullface/ohio-for-palestine](https://github.com/skullface/ohio-for-palestine) - Events, actions, and resources for Ohioans in solidarity with Palestine https://ohiopalestine.com
 - [NoTextToSpeech/goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [spotlightishere/dubdub.bingo](https://github.com/spotlightishere/dubdub.bingo) - WWDC '23 bingo card
 - [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
@@ -376,7 +377,7 @@
 ## Java 
 
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric mod to expertly edit your books with rich formatting options and page utilities
-- [gtrxAC/discord-j2me](https://github.com/gtrxAC/discord-j2me) - Discord client for Java ME (MIDP 2.0) devices
+- [gtrxAC/discord-j2me](https://github.com/gtrxAC/discord-j2me) - Discord client for Java ME (MIDP 1.0 & 2.0) devices
 - [chrrs/camerapture](https://github.com/chrrs/camerapture) - Fabric mod with cameras that can take pictures!
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [henkelmax/mod-update-checker](https://github.com/henkelmax/mod-update-checker) - A library for Minecraft mods, that checks for available updates.
