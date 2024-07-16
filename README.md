@@ -948,6 +948,7 @@
 
 ## SCSS 
 
+- [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
 - [KraXen72/rosebox](https://github.com/KraXen72/rosebox) - a dark, eye-friendly color scheme similar to gruvbox
 - [Saltssaumure/w9x-discord-theme](https://github.com/Saltssaumure/w9x-discord-theme) - A Windows 9x style Discord theme.
 - [discord-extensions/theme-notices](https://github.com/discord-extensions/theme-notices) - CSS & SCSS styling that you can apply to your theme which allows you to warn the user.
