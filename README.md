@@ -973,7 +973,7 @@
 - [luzifer-arch/chatterino2-dankerino-git](https://github.com/luzifer-arch/chatterino2-dankerino-git) - 
 - [mwvd/i-am-home-now-i-love-u-sleep-tight](https://github.com/mwvd/i-am-home-now-i-love-u-sleep-tight) - text your best friend "i am home now i love u sleep tight" when you are home
 - [diademiemi/blahaj.sh](https://github.com/diademiemi/blahaj.sh) - Blahaj.sh site
-- [prxdev05/arch-linux-post-install](https://github.com/prxdev05/arch-linux-post-install) - :rocket: My Arch Linux post-installation setup and configs scripts.
+- [antonino3g/arch-linux-post-install](https://github.com/antonino3g/arch-linux-post-install) - :rocket: My Arch Linux post-installation setup and configs scripts.
 - [JohnHammond/ignition_key](https://github.com/JohnHammond/ignition_key) - This is a small BASH script to quickly setup all the tools I would want and need on a new machine.
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [skullface/dotfiles](https://github.com/skullface/dotfiles) - 💻 Configurations to set-up and customize my own lappytop!
@@ -1067,7 +1067,7 @@
 - [hc-tcg/hc-tcg](https://github.com/hc-tcg/hc-tcg) - Hermitcraft TCG
 - [cyyynthia/discord-active-dev](https://github.com/cyyynthia/discord-active-dev) - Thingy to ~~farm~~get the Discord active developer badge, written in the form of a mini tutorial
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
-- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - 🧩 The power of addons, all in your hand.
+- [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - 🧩 The power of addons, all in your hand. Built on top of @discord.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [wesbos/check-my-hair](https://github.com/wesbos/check-my-hair) - Hair!
