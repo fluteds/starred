@@ -301,6 +301,7 @@
 
 ## Go 
 
+- [acifani/formula1-go](https://github.com/acifani/formula1-go) - 🏎 Formula1 CLI
 - [chowder/duck-gen](https://github.com/chowder/duck-gen) - Generate Private Duck Addresses from your command-line
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [ezrizhu/now](https://github.com/ezrizhu/now) - efingerd program
