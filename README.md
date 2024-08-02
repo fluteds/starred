@@ -798,7 +798,7 @@
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [AidanHarveyNelson/pokemon_tcg_redeem](https://github.com/AidanHarveyNelson/pokemon_tcg_redeem) - A Script to automatically redeem Pokemon TCG Live Codes
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [danielweidman/pixmob-ir-reverse-engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering) - Hacking the PixMob infrared (and now also RF!) protocol to enable control of PixMob wristbands at home.
 - [daisyUniverse/FxGitHub](https://github.com/daisyUniverse/FxGitHub) - An attempt to make a github embed that actually shows the code you link to
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -893,7 +893,7 @@
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 174 stars and 178 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
