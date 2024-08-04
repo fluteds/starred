@@ -300,6 +300,7 @@
 
 ## Go 
 
+- [RambIing/ringbot](https://github.com/RambIing/ringbot) - Discord Phone Call Bot with Twilio
 - [acifani/formula1-go](https://github.com/acifani/formula1-go) - 🏎 Formula1 CLI
 - [chowder/duck-gen](https://github.com/chowder/duck-gen) - Generate Private Duck Addresses from your command-line
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
@@ -908,6 +909,7 @@
 
 ## Rust 
 
+- [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
@@ -1032,6 +1034,7 @@
 
 ## TypeScript 
 
+- [Xetera/me](https://github.com/Xetera/me) - 🧍‍♀️ An API for your online presence
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [mikeyaworski/Twitch-Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Always support your favorite streamer by automatically pulling up their stream when they go live.
