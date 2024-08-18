@@ -466,7 +466,6 @@
 - [cheap-glitch/fretboarder](https://github.com/cheap-glitch/fretboarder) - 🎸 A web app to visualize scales, chords and arpeggios on all kinds of fretboards.
 - [notion-enhancer/extension](https://github.com/notion-enhancer/extension) - An enhancer/customiser for the all-in-one productivity workspace Notion (v0.11.0 browser extension)
 - [baspinarenes/spider-solitaire](https://github.com/baspinarenes/spider-solitaire) - Legendary spider solitaire game with Windows XP theme
-- [captainadorable/personal-website](https://github.com/captainadorable/personal-website) - My personal website source code.
 - [cyberbarbie/taelur](https://github.com/cyberbarbie/taelur) - Get to know Taelur via npm. Just run `npx taelur`
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
