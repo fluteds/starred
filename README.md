@@ -196,6 +196,7 @@
 
 ## C++ 
 
+- [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
@@ -918,6 +919,7 @@
 
 ## TypeScript 
 
+- [Xetera/kindle-api](https://github.com/Xetera/kindle-api) - 📕 Access Kindle's private API in Node.js without a headless browser
 - [Xetera/me](https://github.com/Xetera/me) - 🧍‍♀️ An API for your online presence
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
