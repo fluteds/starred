@@ -678,6 +678,7 @@
 
 ## Python 
 
+- [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - Titling software for streamers who use DJ software like Serato, Virtual DJ, and more.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
