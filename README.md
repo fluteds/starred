@@ -313,6 +313,7 @@
 
 ## HTML 
 
+- [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [skullface/suitortheband](https://github.com/skullface/suitortheband) - 
 - [dimdenGD/mood-tracker](https://github.com/dimdenGD/mood-tracker) - My mood tracker
 - [rebane2001/antonymph](https://github.com/rebane2001/antonymph) - a pop-up music video
