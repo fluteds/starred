@@ -403,7 +403,6 @@
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [WinClassic/MSFX](https://github.com/WinClassic/MSFX) - A Internet Explorer 5 theme for Mozilla Firefox.
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
@@ -898,6 +897,7 @@
 
 ## Svelte 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [chrrs/freddit](https://github.com/chrrs/freddit) - Alternative Reddit frontend
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Simple and elegant Steam library customization
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
