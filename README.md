@@ -140,7 +140,7 @@
 
 ## C# # 
 
-- [jumoog/intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
+- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
 - [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
 - [InvoxiPlayGames/FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival.
@@ -389,6 +389,7 @@
 
 ## JavaScript 
 
+- [KermWasTaken/costcodle](https://github.com/KermWasTaken/costcodle) - Daily guessing game for Costco items
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 - [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
@@ -403,7 +404,6 @@
 - [ChrisMBarr/UserScripts](https://github.com/ChrisMBarr/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [WinClassic/MSFX](https://github.com/WinClassic/MSFX) - A Internet Explorer 5 theme for Mozilla Firefox.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
@@ -675,7 +675,7 @@
 - [theyetty/update-hogwarts-legacy-engine.ini](https://github.com/theyetty/update-hogwarts-legacy-engine.ini) - 
 - [daisyUniverse/PluralKit-Windows-Switcher](https://github.com/daisyUniverse/PluralKit-Windows-Switcher) - A set of scripts that allow your windows system to start up differently depending on whose fronting in pluralkit
 - [t4rra/CCStopper](https://github.com/t4rra/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
@@ -900,6 +900,7 @@
 
 ## Svelte 
 
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [chrrs/freddit](https://github.com/chrrs/freddit) - Alternative Reddit frontend
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Simple and elegant Steam library customization
