@@ -310,7 +310,6 @@
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
 
 ## HTML 
@@ -498,6 +497,7 @@
 - [pixelcrisis/turnstyles](https://github.com/pixelcrisis/turnstyles) - turnstyles for turntable.fm | a chrome extension
 - [jodrell2000/rboto](https://github.com/jodrell2000/rboto) - Mr. Roboto bot for I ❤️ The 80's room on Turntable.fm
 - [extplug/replug](https://github.com/extplug/replug) - Semi-automatic reverse engineering of plug.dj client javascript
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [samuri51/chillybot](https://github.com/samuri51/chillybot) - a turntable bot created by a moderator of straight_chillin11
 - [ouuan/my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
 - [avatarkava/beavisbot](https://github.com/avatarkava/beavisbot) - A node.js powered bot for plug.dj and dubtrack.fm
