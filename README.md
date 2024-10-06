@@ -314,6 +314,7 @@
 
 ## HTML 
 
+- [dfbr/dfbr.github.io](https://github.com/dfbr/dfbr.github.io) - Norwegian words (and other resources) that I should be learning
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [skullface/suitortheband](https://github.com/skullface/suitortheband) - 
 - [dimdenGD/mood-tracker](https://github.com/dimdenGD/mood-tracker) - My mood tracker
@@ -566,6 +567,7 @@
 
 ## Others 
 
+- [choukha/learn-norwegian](https://github.com/choukha/learn-norwegian) - Resources & Notes for learning Norwegian Language
 - [Clement87/Pepito-API](https://github.com/Clement87/Pepito-API) - Events when PepitoTheCat is in or out
 - [Lylythii/OnekoStyles](https://github.com/Lylythii/OnekoStyles) - Different designs for 'Oneko'. | Useful for Vencord plugin users. :)
 - [Democles85/Cyberpunk-2077-Mods](https://github.com/Democles85/Cyberpunk-2077-Mods) - A list on mods I have been working on and will continue to make it better.
