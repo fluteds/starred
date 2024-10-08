@@ -568,6 +568,7 @@
 
 ## Others 
 
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.
 - [choukha/learn-norwegian](https://github.com/choukha/learn-norwegian) - Resources & Notes for learning Norwegian Language
 - [Clement87/Pepito-API](https://github.com/Clement87/Pepito-API) - Events when PepitoTheCat is in or out
 - [Lylythii/OnekoStyles](https://github.com/Lylythii/OnekoStyles) - Different designs for 'Oneko'. | Useful for Vencord plugin users. :)
