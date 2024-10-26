@@ -937,6 +937,7 @@
 
 ## TypeScript 
 
+- [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [JustJoostNL/F1MV-Lights-Integration](https://github.com/JustJoostNL/F1MV-Lights-Integration) - The best way to connect your smart home lights to MultiViewer.
 - [Xetera/kindle-api](https://github.com/Xetera/kindle-api) - 📕 Access Kindle's private API in Node.js without a headless browser
