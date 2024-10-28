@@ -281,6 +281,7 @@
 
 ## Go 
 
+- [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
 - [Sohimaster/Firefox-Passwords-Decryptor](https://github.com/Sohimaster/Firefox-Passwords-Decryptor) - Extracts and decrypts passwords saved in Firefox.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [bogdanfinn/tls-client-api](https://github.com/bogdanfinn/tls-client-api) - This is an application which is using gosoline and TLS-Client to run a simple request forwarding service with the option to use specific tls fingerprints which are implemented in TLS-client
