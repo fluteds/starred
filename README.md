@@ -147,7 +147,7 @@
 - [Goobwabber/LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller) - Installs past Beat Saber versions to your steam library
 - [kckarnige/OculusKillSwitch](https://github.com/kckarnige/OculusKillSwitch) - 'til you need them again.
 - [DevOculus-Meta-Quest/OculusKiller](https://github.com/DevOculus-Meta-Quest/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
-- [oureveryday/Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
+- [SteamAutoCracks/Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
