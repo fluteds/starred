@@ -82,6 +82,8 @@
 
 ## AutoHotkey 
 
+- [mleonardblair/TCGCardShop-Pack-Opener](https://github.com/mleonardblair/TCGCardShop-Pack-Opener) - This AutoHotkey script automates the process of opening card packs in the TCG Card Shop Simulator. Customize the number of packs and hands via a config file, and the script adapts for rare card drops 
+- [tuki0918/TCGCardShopSimulator-AHK](https://github.com/tuki0918/TCGCardShopSimulator-AHK) - AutoHotkey for TCG Card Shop Simulator
 - [Green-Bat/Savefile-Converter](https://github.com/Green-Bat/Savefile-Converter) - A program that converts Steam savefiles into Epic Games savefiles and vice versa for the Batman: Arkham games
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [KraXen72/ahk-scripts](https://github.com/KraXen72/ahk-scripts) - 
@@ -438,7 +440,7 @@
 - [TimIsOverpowered/archive](https://github.com/TimIsOverpowered/archive) - Automated Upload Twitch Vod to Youtube after streaming & Serves as an API for VOD playback with chat replay
 - [z0ccc/LocateJS](https://github.com/z0ccc/LocateJS) - Check if your location is actually hidden
 - [davialcantaraa/lofi-me](https://github.com/davialcantaraa/lofi-me) - ☕ A simple lofi player for desktop
-- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServer V1, codebase needs lots of improvements
+- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServerV1
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [Erisa/starbin](https://github.com/Erisa/starbin) - A hastebin-compatible paste site running on Cloudflare Pages.
 - [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that was used for Club Penguin Rewritten events.
