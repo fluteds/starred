@@ -393,6 +393,7 @@
 
 ## JavaScript 
 
+- [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard) - Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
 - [rgerum/unofficial-duolingo-stories](https://github.com/rgerum/unofficial-duolingo-stories) - This project brings the official Duolingo Stories to new languages, translated by a community effort.
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
@@ -873,6 +874,7 @@
 
 ## Shell 
 
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky) - Make your standing desk smarter
 - [na-na-hi/renget](https://github.com/na-na-hi/renget) - rentry download script
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
