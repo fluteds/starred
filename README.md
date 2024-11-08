@@ -888,7 +888,7 @@
 - [TheRemote/RaspberryPiMinecraft](https://github.com/TheRemote/RaspberryPiMinecraft) - Configuration files and performance testing scripts to setup and optimize a dedicated Minecraft (PC Java version) server
 - [luzifer-arch/chatterino2-dankerino-git](https://github.com/luzifer-arch/chatterino2-dankerino-git) - 
 - [mwvd/i-am-home-now-i-love-u-sleep-tight](https://github.com/mwvd/i-am-home-now-i-love-u-sleep-tight) - text your best friend "i am home now i love u sleep tight" when you are home
-- [diademiemi/blahaj.sh](https://github.com/diademiemi/blahaj.sh) - Blahaj.sh site
+- [x86-39/blahaj.sh](https://github.com/x86-39/blahaj.sh) - Blahaj.sh site
 - [antonino3g/arch-linux-post-install](https://github.com/antonino3g/arch-linux-post-install) - :rocket: My Arch Linux post-installation setup and configs scripts.
 - [JohnHammond/ignition_key](https://github.com/JohnHammond/ignition_key) - This is a small BASH script to quickly setup all the tools I would want and need on a new machine.
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
