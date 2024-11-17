@@ -600,7 +600,7 @@
 - [JohnHammond/labs](https://github.com/JohnHammond/labs) - Free and publicly available training labs and exercises, for quick copy-and-paste demonstrations, learning and education.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [hashirahmad/Best-always-free-tier-cloud-platforms](https://github.com/hashirahmad/Best-always-free-tier-cloud-platforms) - Best 'always' free tier cloud platforms
-- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd "open-source" licenses.
 - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
 - [ilfuriano/smart_intercom](https://github.com/ilfuriano/smart_intercom) - 
 - [Discord-AntiScam/scam-links](https://github.com/Discord-AntiScam/scam-links) - A database of over 24000 scam links used for Discord, Steam and more.
