@@ -53,7 +53,6 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
-- [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
@@ -765,7 +764,6 @@
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [Hamlet3000/vectorator](https://github.com/Hamlet3000/vectorator) - This is a fork of TurkMcGill's program for Anki's Vector robot. It makes him talk. A LOT.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-- [pistacium/top-run-time](https://github.com/pistacium/top-run-time) - Takes output from RedLime's SpeedRunIGT mod (igt_timer.log) to get the top run retime as per the rules in speedrun.com/mc as well as generating a new file which is a copy of igt_timer.log which specif
 - [CowCoding0/Gartic-Phone-Draw-Bot](https://github.com/CowCoding0/Gartic-Phone-Draw-Bot) - Drawing Bot for Gartic Phone
 - [EhsanKia/CatalogScanner](https://github.com/EhsanKia/CatalogScanner) - Scans Animal Crossing: New Horizon catalog from video of user scrolling through.
 - [tilda/genshin-recipe-data](https://github.com/tilda/genshin-recipe-data) - An attempt to keep a current copy of Genshin Impact's cooking recipe data
@@ -932,10 +930,6 @@
 ## Tcl 
 
 - [Slush0Puppy/retime](https://github.com/Slush0Puppy/retime) - A tool for retiming speedruns down to the millisecond.
-
-## TeX 
-
-- [pistacium/meeras_reset-inator_3000](https://github.com/pistacium/meeras_reset-inator_3000) - meeras_reset-inator_3000
 
 ## Text 
 
