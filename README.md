@@ -694,6 +694,7 @@
 
 ## Python 
 
+- [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - 
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
 - [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - Titling software for streamers who use DJ software like Serato, Virtual DJ, and more.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
