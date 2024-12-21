@@ -317,6 +317,7 @@
 
 ## HTML 
 
+- [skullface/kaleidoscope-year](https://github.com/skullface/kaleidoscope-year) - 🗓️ Workshop ticketing microsite
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [dfbr/dfbr.github.io](https://github.com/dfbr/dfbr.github.io) - Norwegian words (and other resources) that I should be learning
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
