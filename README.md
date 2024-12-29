@@ -822,7 +822,7 @@
 ## Rust 
 
 - [yobson1/webfishing-midi](https://github.com/yobson1/webfishing-midi) - cross-platform midi player for the webfishing guitar!
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [Yaulendil/HexTwitch](https://github.com/Yaulendil/HexTwitch) - A HexChat addon/plugin for Twitch IRC interaction.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
