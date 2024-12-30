@@ -402,7 +402,6 @@
 - [KermWasTaken/costcodle](https://github.com/KermWasTaken/costcodle) - Daily guessing game for Costco items
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 - [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
-- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL
 - [ed7n/jcard-template](https://github.com/ed7n/jcard-template) - Printable in-browser template for cassette tape J-cards.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -808,7 +807,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 187 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 187 stars and 176 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -947,6 +946,7 @@
 - [Xetera/me](https://github.com/Xetera/me) - 🧍‍♀️ An API for your online presence
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [mikeyaworski/Twitch-Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Always support your favorite streamer by automatically pulling up their stream when they go live.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
