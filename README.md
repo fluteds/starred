@@ -137,7 +137,6 @@
 - [AndyNovo/filteredseed](https://github.com/AndyNovo/filteredseed) - 
 - [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing impersonation privileges through the "Printer Bug"
 - [smy20011/fsg-windows](https://github.com/smy20011/fsg-windows) - Minecraft Speedrun Filter Compiled for Windows
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 
 ## C# # 
 
@@ -522,6 +521,7 @@
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [forwardemail/custom-fonts-in-emails](https://github.com/forwardemail/custom-fonts-in-emails) - An extremely easy way to use custom fonts in emails without having to use art software.
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [hundredrabbits/Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
