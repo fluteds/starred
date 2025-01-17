@@ -120,6 +120,7 @@
 
 ## C 
 
+- [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -363,9 +364,9 @@
 
 ## Java 
 
-- [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric mod to expertly edit your books with rich formatting options and page utilities
+- [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
 - [gtrxAC/discord-j2me](https://github.com/gtrxAC/discord-j2me) - Discord client for Java ME (MIDP 1.0 & 2.0) devices
-- [chrrs/camerapture](https://github.com/chrrs/camerapture) - Fabric mod with cameras that can take pictures!
+- [chrrs/camerapture](https://github.com/chrrs/camerapture) - Fabric / (Neo)Forge mod with cameras that can take pictures!
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [henkelmax/mod-update-checker](https://github.com/henkelmax/mod-update-checker) - A library for Minecraft mods, that checks for available updates.
 - [AutumnVN/autumn](https://github.com/AutumnVN/autumn) - My client-side Minecraft Fabric mod
