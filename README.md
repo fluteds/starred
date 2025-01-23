@@ -944,6 +944,7 @@
 
 ## TypeScript 
 
+- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
@@ -992,7 +993,7 @@
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [makipony/blahaj-quest](https://github.com/makipony/blahaj-quest) - Hourly BLÅHAJ finder map
+- [makidoll/blahaj-quest](https://github.com/makidoll/blahaj-quest) - Hourly BLÅHAJ finder map
 - [nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - An easy way to mass download osu! beatmaps
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
 - [gowon-bot/gowon](https://github.com/gowon-bot/gowon) - A Last.fm Discord bot written in TypeScript
