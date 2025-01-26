@@ -106,7 +106,6 @@
 
 ## Batchfile 
 
-- [p3tr0s/ProxyCap_Retry](https://github.com/p3tr0s/ProxyCap_Retry) - A script to reset the 30 day trial of proxycap
 - [mitchv2020/QuestToolbox](https://github.com/mitchv2020/QuestToolbox) - A batch file full of useful tools to use for Quest 1 and 2!
 - [rossy/mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows.
@@ -120,7 +119,8 @@
 
 ## C 
 
-- [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [peppy/qmk_firmware](https://github.com/peppy/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -284,6 +284,7 @@
 
 ## Go 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -295,7 +296,6 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [dos-2/oddshub](https://github.com/dos-2/oddshub) - A terminal UI designed for analyzing sports betting odds💰
-- [RambIing/ringbot](https://github.com/RambIing/ringbot) - Discord Phone Call Bot with Twilio
 - [acifani/formula1-go](https://github.com/acifani/formula1-go) - 🏎 Formula1 CLI
 - [chowder/duck-gen](https://github.com/chowder/duck-gen) - Generate Private Duck Addresses from your command-line
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
@@ -328,7 +328,6 @@
 - [skullface/suitortheband](https://github.com/skullface/suitortheband) - 
 - [dimdenGD/mood-tracker](https://github.com/dimdenGD/mood-tracker) - My mood tracker
 - [rebane2001/antonymph](https://github.com/rebane2001/antonymph) - a pop-up music video
-- [trentwiles/FinesForLondon.org](https://github.com/trentwiles/FinesForLondon.org) - Give your friend a fake TfL fine
 - [Axemasta/Password-Splitter](https://github.com/Axemasta/Password-Splitter) - A quick and easy tool to split passwords up and quickly identify the position of characters in your passwords
 - [nkoehring/250kb-club](https://github.com/nkoehring/250kb-club) - An exclusive members-only club for web pages weighing no more than 250kb. Inspired by Bredley Taunts 1MB.club
 - [extratone/jellycuts](https://github.com/extratone/jellycuts) - Shortcuts development in the .jelly language.
@@ -402,13 +401,11 @@
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
 - [rgerum/unofficial-duolingo-stories](https://github.com/rgerum/unofficial-duolingo-stories) - This project brings the official Duolingo Stories to new languages, translated by a community effort.
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
-- [KermWasTaken/costcodle](https://github.com/KermWasTaken/costcodle) - Daily guessing game for Costco items
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 - [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 - [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL
 - [ed7n/jcard-template](https://github.com/ed7n/jcard-template) - Printable in-browser template for cassette tape J-cards.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [EFHIII/midi-ch](https://github.com/EFHIII/midi-ch) - .midi to clone hero converter
 - [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
 - [ottomated/emoji-thief](https://github.com/ottomated/emoji-thief) - Monitors the clipboard for Discord emoji URLs, and uses a bot to upload them to a private server.
 - [SirStig/fortnite-deck](https://github.com/SirStig/fortnite-deck) - Hope to be the home of the only fortnite installer for steam deck.
@@ -706,7 +703,6 @@
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
 - [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - Titling software for streamers who use DJ software like Serato, Virtual DJ, and more.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [kennethnym/infinifi](https://github.com/kennethnym/infinifi) - infinifi plays gentle lofi music in the background indefinitely
@@ -723,7 +719,6 @@
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [Green-Bat/Savefile-Manager](https://github.com/Green-Bat/Savefile-Manager) - A program to help manage savefiles
-- [Loser02/YOUTUBE-DATA-TRANSFER](https://github.com/Loser02/YOUTUBE-DATA-TRANSFER) - moves youtube subsciptions and youtube playlists between accounts
 - [SamuraiOndo/fortniteFestivalDownloader](https://github.com/SamuraiOndo/fortniteFestivalDownloader) - Downloads Fortnite Festival stems
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [pipeeeeees/waze-voicepack-links](https://github.com/pipeeeeees/waze-voicepack-links) - A collaborative list of Waze navigation voice packs
@@ -826,10 +821,8 @@
 
 ## Rust 
 
-- [Patryk27/kartoffels](https://github.com/Patryk27/kartoffels) - a game where you're given a potato and your job is to implement a firmware for it
-- [yobson1/webfishing-midi](https://github.com/yobson1/webfishing-midi) - cross-platform midi player for the webfishing guitar!
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
-- [Yaulendil/HexTwitch](https://github.com/Yaulendil/HexTwitch) - A HexChat addon/plugin for Twitch IRC interaction.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
@@ -851,7 +844,6 @@
 - [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [Lioness100/free-duolingo-plus](https://github.com/Lioness100/free-duolingo-plus) - Simple CLI tool to create dummy accounts with referral links to give yourself free Plus.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [suptejas/turbo-delete](https://github.com/suptejas/turbo-delete) - ⚡ A Blazing fast alternative to the stock windows folder delete function!
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
