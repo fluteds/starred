@@ -923,6 +923,7 @@
 
 ## Swift 
 
+- [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [vendetta-mod/VendettaTweak](https://github.com/vendetta-mod/VendettaTweak) - A tweak to inject Vendetta, a mod for Discord's mobile apps.
 - [TheChanDev/TheChan](https://github.com/TheChanDev/TheChan) - 
