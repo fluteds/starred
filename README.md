@@ -223,6 +223,7 @@
 
 ## CSS 
 
+- [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
 - [dimdenGD/discord-oled-theme](https://github.com/dimdenGD/discord-oled-theme) - Theme for OLED screens like AMOLED theme for phones. Nothing else.
 - [coolesding/onekocord](https://github.com/coolesding/onekocord) - CSS-Snippets for Oneko in Discord Clients
 - [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - I'm currently using the Rose Pine color scheme to personalize my Windows desktop.
@@ -813,7 +814,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 191 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 190 stars and 177 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -945,6 +946,7 @@
 
 ## TypeScript 
 
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 - [SnapEnhance/web](https://github.com/SnapEnhance/web) - A userscript for Snapchat Web
 - [chrrs/chat-app](https://github.com/chrrs/chat-app) - Twitch chat client in React Native!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
