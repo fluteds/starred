@@ -39,6 +39,7 @@
 - [Lua](#lua)
 - [Mako](#mako)
 - [Mercury](#mercury)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -578,6 +579,10 @@
 
 - [spacekookie/gay](https://github.com/spacekookie/gay) - 🏳️‍🌈 LGBT pride in here 🏳️‍🌈
 
+## Nix 
+
+- [joinemm/nix-infra](https://github.com/joinemm/nix-infra) - :snowflake: i use NixOS btw
+
 ## Objective-C 
 
 - [ichitaso/ApolloPatcher](https://github.com/ichitaso/ApolloPatcher) - Apollo for Reddit tweak with in-app configurable API keys
@@ -823,7 +828,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 189 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 190 stars and 179 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
