@@ -960,6 +960,7 @@
 
 ## TypeScript 
 
+- [vmfunc/book-search](https://github.com/vmfunc/book-search) - 
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 - [SnapEnhance/web](https://github.com/SnapEnhance/web) - A userscript for Snapchat Web
 - [chrrs/chat-app](https://github.com/chrrs/chat-app) - Twitch chat client in React Native!
