@@ -433,7 +433,7 @@
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [javierarce/letterboxd-scraper](https://github.com/javierarce/letterboxd-scraper) - A script that scrapes films from a Letterboxd user's public diary.
 - [MitanshiKshatriya/taylor-swift-api](https://github.com/MitanshiKshatriya/taylor-swift-api) - get random lyrics/quotes of Taylor Swift
-- [lawreka/ascii-tarot](https://github.com/lawreka/ascii-tarot) - A CLI tool for tarot reading with full ASCII art deck *:･ﾟ✧*:･ﾟ✧
+- [lawreka/ascii-tarot](https://github.com/lawreka/ascii-tarot) - A CLI tool for tarot reading with full ASCII art deck
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [sky-pose-rick/ptcgl-credits](https://github.com/sky-pose-rick/ptcgl-credits) - 
 - [stephanerangaya/throbber](https://github.com/stephanerangaya/throbber) - A Google Chrome/Microsoft Edge extension that brings you back to the 90s
@@ -829,7 +829,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 192 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 193 stars and 179 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
