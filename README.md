@@ -121,6 +121,7 @@
 
 ## C 
 
+- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [peppy/qmk_firmware](https://github.com/peppy/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
@@ -894,6 +895,7 @@
 
 ## Shell 
 
+- [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [meshstyles/bash_downloaders](https://github.com/meshstyles/bash_downloaders) - these are several downloaders written in bash
 - [pirate/wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
