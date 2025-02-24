@@ -1020,7 +1020,7 @@
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [makidoll/blahaj-quest](https://github.com/makidoll/blahaj-quest) - Hourly BLÅHAJ finder map
+- [makinori/blahaj-quest](https://github.com/makinori/blahaj-quest) - Hourly BLÅHAJ finder map
 - [nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - An easy way to mass download osu! beatmaps
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
 - [gowon-bot/gowon](https://github.com/gowon-bot/gowon) - A Last.fm Discord bot written in TypeScript
@@ -1033,7 +1033,7 @@
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
 - [indiesdev/curl](https://github.com/indiesdev/curl) - 
-- [dreamingkills/shinbatsu](https://github.com/dreamingkills/shinbatsu) - scrobble your played osu! beatmaps to last.fm!
+- [lucamotion/shinbatsu](https://github.com/lucamotion/shinbatsu) - scrobble your played osu! beatmaps to last.fm!
 - [cnrad/sponsor](https://github.com/cnrad/sponsor) - 💰 A simple, inviting alternative to GitHub Sponsors
 - [tatupesonen/formatbot](https://github.com/tatupesonen/formatbot) - A bot to format code inside code blocks on Discord
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
