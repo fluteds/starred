@@ -407,6 +407,7 @@
 
 ## JavaScript 
 
+- [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts) - Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
 - [geringverdien/webfishing-gameboy-emulator](https://github.com/geringverdien/webfishing-gameboy-emulator) - GB(C) emulator integration for WEBFISHING
 - [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard) - Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
