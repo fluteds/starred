@@ -251,7 +251,7 @@
 
 ## Crystal 
 
-- [GeopJr/BLAHAJ](https://github.com/GeopJr/BLAHAJ) - 🦈🏳️‍⚧️🏳️‍🌈 Gay sharks at your local terminal - lolcat-like CLI tool
+- [GeopJr/BLAHAJ](https://github.com/GeopJr/BLAHAJ) - [MIRROR] 🦈🏳️‍⚧️🏳️‍🌈 Gay sharks at your local terminal - lolcat-like CLI tool
 - [ryanprior/meet](https://github.com/ryanprior/meet) - Start a meeting quickly from the comfort of your command line. 👩‍👩‍👧‍👦️💨️
 
 ## Dart 
@@ -431,7 +431,6 @@
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
-- [f1-tools/MVF1-Streamdeck](https://github.com/f1-tools/MVF1-Streamdeck) - A Streamdeck plugin for using Multiviewer for Formula 1
 - [tdjsnelling/monaco](https://github.com/tdjsnelling/monaco) - Real-time F1 live timing & telemetry UI
 - [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
@@ -1005,6 +1004,7 @@
 - [vangelov/devresume](https://github.com/vangelov/devresume) - A free web-based resume editor based on writing YAML with realtime preview and PDF export.
 - [encode42/flags.sh](https://github.com/encode42/flags.sh) - A simple script generator to start your Minecraft servers with optimal flags.
 - [milutinke/MCC.js](https://github.com/milutinke/MCC.js) - A library for controlling the Minecraft Console Client and making bots for it in JavaScript/TypeScript.
+- [f1-tools/MultiViewer-Streamdeck-Plugin](https://github.com/f1-tools/MultiViewer-Streamdeck-Plugin) - A Streamdeck plugin for using Multiviewer for Formula 1
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
 - [rod41732/chatterino-theme-creator-web](https://github.com/rod41732/chatterino-theme-creator-web) - Visual theme creator for Chatterino (https://chatterino.com)
