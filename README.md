@@ -717,6 +717,7 @@
 
 ## Python 
 
+- [jfoot/Bus-Departure-Board](https://github.com/jfoot/Bus-Departure-Board) - A selection of Python programs which will retrieve live bus and rail UK open data and output it to a ER-OLEDM032 (256X64) display screen.
 - [Smart123s/ItchClaim](https://github.com/Smart123s/ItchClaim) - Automatically claim free games from itch.io
 - [emilianavt/OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) - Robust realtime face and facial landmark tracking on CPU with Unity integration
 - [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
@@ -1010,7 +1011,7 @@
 - [vangelov/devresume](https://github.com/vangelov/devresume) - A free web-based resume editor based on writing YAML with realtime preview and PDF export.
 - [encode42/flags.sh](https://github.com/encode42/flags.sh) - A simple script generator to start your Minecraft servers with optimal flags.
 - [milutinke/MCC.js](https://github.com/milutinke/MCC.js) - A library for controlling the Minecraft Console Client and making bots for it in JavaScript/TypeScript.
-- [f1-tools/MultiViewer-Streamdeck-Plugin](https://github.com/f1-tools/MultiViewer-Streamdeck-Plugin) - A Streamdeck plugin for using Multiviewer for Formula 1
+- [f1-tools/MultiViewer-StreamDeck-Plugin](https://github.com/f1-tools/MultiViewer-StreamDeck-Plugin) - A Streamdeck plugin for using Multiviewer for Formula 1
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
 - [rod41732/chatterino-theme-creator-web](https://github.com/rod41732/chatterino-theme-creator-web) - Visual theme creator for Chatterino (https://chatterino.com)
