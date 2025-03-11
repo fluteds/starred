@@ -229,6 +229,7 @@
 
 ## CSS 
 
+- [benfl3713/DepartureBoard](https://github.com/benfl3713/DepartureBoard) - 🚅 This Project allows a user to view live train times in the format of a station departure board
 - [Jonius7/SteamUI-OldGlory](https://github.com/Jonius7/SteamUI-OldGlory) - A set of customisable Steam Library tweaks, with an installer. Also a reference that you can use to learn how to make your own tweaks.
 - [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
 - [dimdenGD/discord-oled-theme](https://github.com/dimdenGD/discord-oled-theme) - Theme for OLED screens like AMOLED theme for phones. Nothing else.
@@ -310,7 +311,6 @@
 - [chowder/duck-gen](https://github.com/chowder/duck-gen) - Generate Private Duck Addresses from your command-line
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [ezrizhu/now](https://github.com/ezrizhu/now) - efingerd program
-- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [WiiLink24/Demae-Deliveroo](https://github.com/WiiLink24/Demae-Deliveroo) - Deliveroo but on your Wii, how amazing!
@@ -836,7 +836,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 195 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 196 stars and 179 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -975,6 +975,7 @@
 
 ## TypeScript 
 
+- [entur/tavla](https://github.com/entur/tavla) - 🖥 A customizable departure board for all public transport in Norway
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
 - [vmfunc/book-search](https://github.com/vmfunc/book-search) - 
