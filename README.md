@@ -201,6 +201,7 @@
 
 ## C++ 
 
+- [mastercomfig/tc2](https://github.com/mastercomfig/tc2) - A TF2 mod with fresh new development
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app
@@ -597,7 +598,7 @@
 - [deroverda/recommended-radio-streams](https://github.com/deroverda/recommended-radio-streams) - A curated list of online radio streams where anyone can contribute by adding new channels, reporting broken links, improving the content, or suggesting great radio stations and apps.
 - [drunohazarb/4chan-captcha-solver](https://github.com/drunohazarb/4chan-captcha-solver) - 
 - [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
-- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [choukha/learn-norwegian](https://github.com/choukha/learn-norwegian) - Resources & Notes for learning Norwegian Language
 - [Clement87/Pepito-API](https://github.com/Clement87/Pepito-API) - Events when PepitoTheCat is in or out
 - [Lylythii/OnekoStyles](https://github.com/Lylythii/OnekoStyles) - Different designs for 'Oneko'. | Useful for Vencord plugin users. :)
@@ -849,6 +850,7 @@
 
 ## Rust 
 
+- [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
 - [vxfemboy/spiderirc](https://github.com/vxfemboy/spiderirc) - WIP: 🕸️ A fuzzy peer-to-peer chat system where every user is a friendly spider in a decentralized web! Weave connections across networks, spin channel webs, and chat with fellow arachnids - no central
 - [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
@@ -877,7 +879,7 @@
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [suptejas/turbo-delete](https://github.com/suptejas/turbo-delete) - ⚡ A Blazing fast alternative to the stock windows folder delete function!
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [angelofallars/treefetch](https://github.com/angelofallars/treefetch) - 🌲 A plant-based system fetch tool made with Rust.
 - [sagiegurari/shell2batch](https://github.com/sagiegurari/shell2batch) - Coverts simple basic shell scripts to windows batch scripts.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
@@ -957,6 +959,7 @@
 
 ## Swift 
 
+- [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
 - [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [vendetta-mod/VendettaTweak](https://github.com/vendetta-mod/VendettaTweak) - A tweak to inject Vendetta, a mod for Discord's mobile apps.
