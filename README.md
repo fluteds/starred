@@ -837,7 +837,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 196 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 197 stars and 179 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -1091,6 +1091,7 @@
 
 ## Vim Script 
 
+- [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [ctaylo21/jarvis](https://github.com/ctaylo21/jarvis) - Dotfiles for a powerful, web development-focused environment powered by Neovim, iTerm2, tmux, and zsh
 - [KraXen72/dots.tam](https://github.com/KraXen72/dots.tam) - Linux configuration files.
 
