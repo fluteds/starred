@@ -121,6 +121,7 @@
 
 ## C 
 
+- [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -366,6 +367,7 @@
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [skullface/protest.wtf](https://github.com/skullface/protest.wtf) - ✊ Going to a protest and don’t know wtf to do or wtf to bring? This guide aims to help you protect yourself.
 - [learning-gardens/pixel-lab](https://github.com/learning-gardens/pixel-lab) - A space for indie game devs, weird web artists, and anyone making or learning about all the strange things you can make with pixels
+- [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 
 ## Haskell 
 
@@ -718,6 +720,7 @@
 
 ## Python 
 
+- [jampez77/Ryanair](https://github.com/jampez77/Ryanair) - Ryanair Home Assistant Integration
 - [jfoot/Bus-Departure-Board](https://github.com/jfoot/Bus-Departure-Board) - A selection of Python programs which will retrieve live bus and rail UK open data and output it to a ER-OLEDM032 (256X64) display screen.
 - [Smart123s/ItchClaim](https://github.com/Smart123s/ItchClaim) - Automatically claim free games from itch.io
 - [emilianavt/OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) - Robust realtime face and facial landmark tracking on CPU with Unity integration
@@ -846,7 +849,6 @@
 
 - [stevekinney/pizza](https://github.com/stevekinney/pizza) - Where is the best :pizza: in a given city?
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
-- [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 
 ## Rust 
 
