@@ -412,6 +412,7 @@
 
 ## JavaScript 
 
+- [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts) - Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
 - [geringverdien/webfishing-gameboy-emulator](https://github.com/geringverdien/webfishing-gameboy-emulator) - GB(C) emulator integration for WEBFISHING
 - [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard) - Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
@@ -497,7 +498,7 @@
 - [baspinarenes/spider-solitaire](https://github.com/baspinarenes/spider-solitaire) - Legendary spider solitaire game with Windows XP theme
 - [cyberbarbie/taelur](https://github.com/cyberbarbie/taelur) - Get to know Taelur via npm. Just run `npx taelur`
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [migueravila/bento](https://github.com/migueravila/bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [itsmeow/Spicetify-Canvas](https://github.com/itsmeow/Spicetify-Canvas) - Spotify Canvas, on Spicetify for Desktop!
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
@@ -720,6 +721,7 @@
 
 ## Python 
 
+- [CodeFoodPixels/robovac](https://github.com/CodeFoodPixels/robovac) - Add a Eufy RoboVac easily to Home Assistant
 - [jampez77/Ryanair](https://github.com/jampez77/Ryanair) - Ryanair Home Assistant Integration
 - [jfoot/Bus-Departure-Board](https://github.com/jfoot/Bus-Departure-Board) - A selection of Python programs which will retrieve live bus and rail UK open data and output it to a ER-OLEDM032 (256X64) display screen.
 - [Smart123s/ItchClaim](https://github.com/Smart123s/ItchClaim) - Automatically claim free games from itch.io
@@ -840,7 +842,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 197 stars and 179 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 198 stars and 179 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
