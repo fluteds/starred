@@ -296,6 +296,7 @@
 
 ## Go 
 
+- [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
@@ -415,7 +416,6 @@
 
 - [mgriley/BigOlJungle](https://github.com/mgriley/BigOlJungle) - Repo for JungleReader web-reader, JungleWriter site editor, and utils.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
-- [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts) - Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
 - [geringverdien/webfishing-gameboy-emulator](https://github.com/geringverdien/webfishing-gameboy-emulator) - GB(C) emulator integration for WEBFISHING
 - [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard) - Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
@@ -725,7 +725,6 @@
 ## Python 
 
 - [CodeFoodPixels/robovac](https://github.com/CodeFoodPixels/robovac) - Add a Eufy RoboVac easily to Home Assistant
-- [jampez77/Ryanair](https://github.com/jampez77/Ryanair) - Ryanair Home Assistant Integration
 - [jfoot/Bus-Departure-Board](https://github.com/jfoot/Bus-Departure-Board) - A selection of Python programs which will retrieve live bus and rail UK open data and output it to a ER-OLEDM032 (256X64) display screen.
 - [Smart123s/ItchClaim](https://github.com/Smart123s/ItchClaim) - Automatically claim free games from itch.io
 - [emilianavt/OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) - Robust realtime face and facial landmark tracking on CPU with Unity integration
@@ -857,6 +856,8 @@
 
 ## Rust 
 
+- [Kyagara/rt](https://github.com/Kyagara/rt) - Twitch and Youtube frontend app using Tauri and SvelteKit. Save users, watch streams and videos, block ads, view chat with emote support.
+- [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
 - [lcolonq/renderer](https://github.com/lcolonq/renderer) - LCOLONQ model renderer
 - [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
 - [vxfemboy/spiderirc](https://github.com/vxfemboy/spiderirc) - WIP: 🕸️ A fuzzy peer-to-peer chat system where every user is a friendly spider in a decentralized web! Weave connections across networks, spin channel webs, and chat with fellow arachnids - no central
@@ -967,7 +968,6 @@
 
 ## Swift 
 
-- [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
 - [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [vendetta-mod/VendettaTweak](https://github.com/vendetta-mod/VendettaTweak) - A tweak to inject Vendetta, a mod for Discord's mobile apps.
