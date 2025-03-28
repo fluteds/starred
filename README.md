@@ -731,6 +731,7 @@
 
 ## Python 
 
+- [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [CodeFoodPixels/robovac](https://github.com/CodeFoodPixels/robovac) - Add a Eufy RoboVac easily to Home Assistant
 - [jfoot/Bus-Departure-Board](https://github.com/jfoot/Bus-Departure-Board) - A selection of Python programs which will retrieve live bus and rail UK open data and output it to a ER-OLEDM032 (256X64) display screen.
 - [Smart123s/ItchClaim](https://github.com/Smart123s/ItchClaim) - Automatically claim free games from itch.io
