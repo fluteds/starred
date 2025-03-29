@@ -302,7 +302,7 @@
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
+- [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Self-hostable instant messaging server that makes classic AIM and ICQ clients work again.
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
@@ -740,7 +740,7 @@
 - [cqueenly/ldr_statistics](https://github.com/cqueenly/ldr_statistics) - This Python script calculates statistics about your long-distance relationship based on the provided inputs.
 - [plamere/SmarterPlaylists](https://github.com/plamere/SmarterPlaylists) - web app for creating sophisticated playlists
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple and powerful finance tracker
+- [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple but powerful finance tracker
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - 
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
@@ -865,7 +865,7 @@
 ## Rust 
 
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
-- [Kyagara/rt](https://github.com/Kyagara/rt) - Twitch and Youtube frontend app using Tauri and SvelteKit. Save users, watch streams and videos, block ads, view chat with emote support.
+- [Kyagara/rt](https://github.com/Kyagara/rt) - Twitch and Youtube frontend app using Tauri and SvelteKit. Save users, watch streams and videos with no ads, view chat with emote support.
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
 - [lcolonq/renderer](https://github.com/lcolonq/renderer) - LCOLONQ model renderer
 - [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
