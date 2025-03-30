@@ -302,7 +302,7 @@
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Self-hostable instant messaging server that makes classic AIM and ICQ clients work again.
+- [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Self-hostable instant messaging server that makes classic AIM and ICQ clients work again. (Independently developed, not affiliated with AOL)
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
@@ -731,6 +731,7 @@
 
 ## Python 
 
+- [kmsky/ascii-webcam](https://github.com/kmsky/ascii-webcam) - Webcam stream to ASCII
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [CodeFoodPixels/robovac](https://github.com/CodeFoodPixels/robovac) - Add a Eufy RoboVac easily to Home Assistant
 - [jfoot/Bus-Departure-Board](https://github.com/jfoot/Bus-Departure-Board) - A selection of Python programs which will retrieve live bus and rail UK open data and output it to a ER-OLEDM032 (256X64) display screen.
@@ -994,6 +995,7 @@
 
 ## TypeScript 
 
+- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
 - [entur/tavla](https://github.com/entur/tavla) - 🖥 A customizable departure board for all public transport in Norway
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
@@ -1117,6 +1119,7 @@
 
 ## Vue 
 
+- [Treeki/MeteoNook](https://github.com/Treeki/MeteoNook) - weather prediction tool for Animal Crossing: New Horizons
 - [schej-it/schej.it](https://github.com/schej-it/schej.it) - schej helps you quickly find the best time for your group to meet. It's like When2meet with Google Calendar integration!
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
