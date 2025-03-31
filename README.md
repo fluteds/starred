@@ -604,6 +604,7 @@
 
 ## Others 
 
+- [flejz/hass-cyberpunk-2077-theme](https://github.com/flejz/hass-cyberpunk-2077-theme) - Cyberpunk 2077 GUI inspied Home Assistant theme
 - [deroverda/recommended-radio-streams](https://github.com/deroverda/recommended-radio-streams) - A curated list of online radio streams where anyone can contribute by adding new channels, reporting broken links, improving the content, or suggesting great radio stations and apps.
 - [drunohazarb/4chan-captcha-solver](https://github.com/drunohazarb/4chan-captcha-solver) - 
 - [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
@@ -865,6 +866,7 @@
 
 ## Rust 
 
+- [kirillkuzin/cyberpunk2077ai](https://github.com/kirillkuzin/cyberpunk2077ai) - 🤖CyberAI is designed to bridge the world of Cyberpunk 2077 and the power of OpenAI's AI technology.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
 - [Kyagara/rt](https://github.com/Kyagara/rt) - Twitch and Youtube frontend app using Tauri and SvelteKit. Save users, watch streams and videos with no ads, view chat with emote support.
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
