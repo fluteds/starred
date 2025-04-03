@@ -276,6 +276,7 @@
 
 ## Emacs Lisp 
 
+- [lcolonq/upsidedowncake](https://github.com/lcolonq/upsidedowncake) - Compiler Upside-Down Cake
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 
 ## Fluent 
@@ -302,7 +303,7 @@
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Self-hostable instant messaging server that makes classic AIM and ICQ clients work again. (Independently developed, not affiliated with AOL)
+- [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Self-hostable instant messaging server that makes classic AIM and ICQ clients work again. (Independently developed, not affiliated with or endorsed by AOL)
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
@@ -926,6 +927,7 @@
 
 ## Shell 
 
+- [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [shinya/pokemon-terminal-art](https://github.com/shinya/pokemon-terminal-art) - Display Pokemon in Terminal
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
