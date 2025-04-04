@@ -604,6 +604,7 @@
 
 ## Others 
 
+- [protesilaos/iosevka-comfy](https://github.com/protesilaos/iosevka-comfy) - Custom build of Iosevka with different style and metrics than the default.
 - [flejz/hass-cyberpunk-2077-theme](https://github.com/flejz/hass-cyberpunk-2077-theme) - Cyberpunk 2077 GUI inspied Home Assistant theme
 - [deroverda/recommended-radio-streams](https://github.com/deroverda/recommended-radio-streams) - A curated list of online radio streams where anyone can contribute by adding new channels, reporting broken links, improving the content, or suggesting great radio stations and apps.
 - [drunohazarb/4chan-captcha-solver](https://github.com/drunohazarb/4chan-captcha-solver) - 
