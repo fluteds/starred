@@ -150,7 +150,7 @@
 - [arbabf/safespaces](https://github.com/arbabf/safespaces) - Sensory safe spaces in VR for neurodivergent people
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
-- [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!
+- [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-keys, and more!
 - [InvoxiPlayGames/FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival.
 - [Goobwabber/LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller) - Installs past Beat Saber versions to your steam library
 - [kckarnige/OculusKillSwitch](https://github.com/kckarnige/OculusKillSwitch) - 'til you need them again.
@@ -562,7 +562,7 @@
 
 ## KiCad Layout 
 
-- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - A highly integrated, high end, open source laptop. Attempt the impossible.
+- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 
 ## Kotlin 
 
@@ -794,7 +794,7 @@
 - [seksea/auto-status](https://github.com/seksea/auto-status) - Ever wanted to have discord say you've played Garfield Kart for 10k+ days or say you're competing in a made up tournament? Well this project is for you
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 - [joinemm/spotify-to-lastfm](https://github.com/joinemm/spotify-to-lastfm) - :musical_note: Analyze and bulk scrobble your spotify data package into Last.fm
-- [MCMi460/3DS-RPC](https://github.com/MCMi460/3DS-RPC) - Connect your 3DS playing status to Discord!
+- [3DS-RPC/3DS-RPC](https://github.com/3DS-RPC/3DS-RPC) - Connect your 3DS playing status to Discord!
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [SpaceGliderr/orbot](https://github.com/SpaceGliderr/orbot) - Bot for the Loona Discord server
 - [Samathingamajig/twitch-sub-pricing](https://github.com/Samathingamajig/twitch-sub-pricing) - Finds where the cheapest Twitch subs can be acquired
@@ -867,6 +867,7 @@
 
 ## Rust 
 
+- [taskylizard/hanukkah](https://github.com/taskylizard/hanukkah) - 🕯 wooo spooky data
 - [kirillkuzin/cyberpunk2077ai](https://github.com/kirillkuzin/cyberpunk2077ai) - 🤖CyberAI is designed to bridge the world of Cyberpunk 2077 and the power of OpenAI's AI technology.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
 - [Kyagara/rt](https://github.com/Kyagara/rt) - Twitch and Youtube frontend app using Tauri and SvelteKit. Save users, watch streams and videos with no ads, view chat with emote support.
@@ -981,6 +982,7 @@
 
 ## Swift 
 
+- [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [vendetta-mod/VendettaTweak](https://github.com/vendetta-mod/VendettaTweak) - A tweak to inject Vendetta, a mod for Discord's mobile apps.
