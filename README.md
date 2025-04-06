@@ -604,6 +604,8 @@
 
 ## Others 
 
+- [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb) - Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
+- [AMSanchezC/R36sGuide](https://github.com/AMSanchezC/R36sGuide) - A guide on getting started with you R36s and more
 - [protesilaos/iosevka-comfy](https://github.com/protesilaos/iosevka-comfy) - Custom build of Iosevka with different style and metrics than the default.
 - [flejz/hass-cyberpunk-2077-theme](https://github.com/flejz/hass-cyberpunk-2077-theme) - Cyberpunk 2077 GUI inspied Home Assistant theme
 - [deroverda/recommended-radio-streams](https://github.com/deroverda/recommended-radio-streams) - A curated list of online radio streams where anyone can contribute by adding new channels, reporting broken links, improving the content, or suggesting great radio stations and apps.
