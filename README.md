@@ -736,6 +736,7 @@
 
 ## Python 
 
+- [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate and Upscale easily on Linux/Windows/MacOS.
 - [kmsky/ascii-webcam](https://github.com/kmsky/ascii-webcam) - Webcam stream to ASCII
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [CodeFoodPixels/robovac](https://github.com/CodeFoodPixels/robovac) - Add a Eufy RoboVac easily to Home Assistant
@@ -870,6 +871,7 @@
 
 ## Rust 
 
+- [diabloproject/clonk-cli](https://github.com/diabloproject/clonk-cli) - 
 - [taskylizard/hanukkah](https://github.com/taskylizard/hanukkah) - 🕯 wooo spooky data
 - [kirillkuzin/cyberpunk2077ai](https://github.com/kirillkuzin/cyberpunk2077ai) - 🤖CyberAI is designed to bridge the world of Cyberpunk 2077 and the power of OpenAI's AI technology.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
