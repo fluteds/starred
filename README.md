@@ -875,7 +875,6 @@
 - [taskylizard/hanukkah](https://github.com/taskylizard/hanukkah) - 🕯 wooo spooky data
 - [kirillkuzin/cyberpunk2077ai](https://github.com/kirillkuzin/cyberpunk2077ai) - 🤖CyberAI is designed to bridge the world of Cyberpunk 2077 and the power of OpenAI's AI technology.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
-- [Kyagara/rt](https://github.com/Kyagara/rt) - Twitch and Youtube frontend app using Tauri and SvelteKit. Save users, watch streams and videos with no ads, view chat with emote support.
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
 - [lcolonq/renderer](https://github.com/lcolonq/renderer) - LCOLONQ model renderer
 - [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
@@ -980,6 +979,7 @@
 
 ## Svelte 
 
+- [Kyagara/rt](https://github.com/Kyagara/rt) - A Twitch and Youtube desktop app. Save users, watch streams and videos with no ads, view chat with emote support.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [chrrs/freddit](https://github.com/chrrs/freddit) - Alternative Reddit frontend
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Simple and elegant Steam library customization
