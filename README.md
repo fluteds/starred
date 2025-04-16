@@ -428,7 +428,6 @@
 - [rgerum/unofficial-duolingo-stories](https://github.com/rgerum/unofficial-duolingo-stories) - This project brings the official Duolingo Stories to new languages, translated by a community effort.
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
-- [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 - [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL
 - [ed7n/jcard-template](https://github.com/ed7n/jcard-template) - Printable in-browser template for cassette tape J-cards.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -615,6 +614,7 @@
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [choukha/learn-norwegian](https://github.com/choukha/learn-norwegian) - Resources & Notes for learning Norwegian Language
 - [Clement87/Pepito-API](https://github.com/Clement87/Pepito-API) - Events when PepitoTheCat is in or out
+- [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 - [Lylythii/OnekoStyles](https://github.com/Lylythii/OnekoStyles) - Different designs for 'Oneko'. | Useful for Vencord plugin users. :)
 - [Democles85/Cyberpunk-2077-Mods](https://github.com/Democles85/Cyberpunk-2077-Mods) - A list on mods I have been working on and will continue to make it better.
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
