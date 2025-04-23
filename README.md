@@ -11,6 +11,7 @@
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [AutoIt](#autoit)
+- [BASIC](#basic)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -106,6 +107,10 @@
 ## AutoIt 
 
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## BASIC 
+
+- [maurymarkowitz/101-BASIC-Computer-Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games) - Type-in programs from the original 101 BASIC Computer Games, in their original DEC and Dartmouth dialects. No, this is *not* the same as BASIC Computer Games.
 
 ## Batchfile 
 
@@ -614,7 +619,7 @@
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [choukha/learn-norwegian](https://github.com/choukha/learn-norwegian) - Resources & Notes for learning Norwegian Language
 - [Clement87/Pepito-API](https://github.com/Clement87/Pepito-API) - Events when PepitoTheCat is in or out
-- [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
+- [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - 🏠 - A modern, minimalistic dashboard for Home Assistant
 - [Lylythii/OnekoStyles](https://github.com/Lylythii/OnekoStyles) - Different designs for 'Oneko'. | Useful for Vencord plugin users. :)
 - [Democles85/Cyberpunk-2077-Mods](https://github.com/Democles85/Cyberpunk-2077-Mods) - A list on mods I have been working on and will continue to make it better.
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
@@ -859,7 +864,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 200 stars and 180 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 201 stars and 180 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
