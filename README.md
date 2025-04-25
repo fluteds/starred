@@ -240,7 +240,7 @@
 
 - [benfl3713/DepartureBoard](https://github.com/benfl3713/DepartureBoard) - 🚅 This Project allows a user to view live train times in the format of a station departure board
 - [Jonius7/SteamUI-OldGlory](https://github.com/Jonius7/SteamUI-OldGlory) - A set of customisable Steam Library tweaks, with an installer. Also a reference that you can use to learn how to make your own tweaks.
-- [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
+- [refact0r/system24](https://github.com/refact0r/system24) - a tui-like discord theme
 - [dimdenGD/discord-oled-theme](https://github.com/dimdenGD/discord-oled-theme) - Theme for OLED screens like AMOLED theme for phones. Nothing else.
 - [coolesding/onekocord](https://github.com/coolesding/onekocord) - CSS-Snippets for Oneko in Discord Clients
 - [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - I'm currently using the Rose Pine color scheme to personalize my Windows desktop.
