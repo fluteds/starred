@@ -127,6 +127,7 @@
 
 ## C 
 
+- [ashtf8/EinkPDA](https://github.com/ashtf8/EinkPDA) - An E-Ink PDA device using the ESP32 S3.
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -152,6 +153,7 @@
 
 ## C# # 
 
+- [giada0019/ACSE-Tree](https://github.com/giada0019/ACSE-Tree) - An optimized Save Editor for the Animal Crossing: New Leaf and Animal Forest written in C#
 - [arbabf/safespaces](https://github.com/arbabf/safespaces) - Sensory safe spaces in VR for neurodivergent people
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
@@ -510,7 +512,7 @@
 - [baspinarenes/spider-solitaire](https://github.com/baspinarenes/spider-solitaire) - Legendary spider solitaire game with Windows XP theme
 - [cyberbarbie/taelur](https://github.com/cyberbarbie/taelur) - Get to know Taelur via npm. Just run `npx taelur`
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [migueravila/bento](https://github.com/migueravila/bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
 - [itsmeow/Spicetify-Canvas](https://github.com/itsmeow/Spicetify-Canvas) - Spotify Canvas, on Spicetify for Desktop!
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [Ridermansb/ridermansb](https://github.com/Ridermansb/ridermansb) - My NPM Card 😉
