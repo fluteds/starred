@@ -127,6 +127,7 @@
 
 ## C 
 
+- [XorTroll/mkds-re](https://github.com/XorTroll/mkds-re) - Mario Kart DS (EU) reverse-engineering work: ASM-hacking and other tools
 - [ashtf8/EinkPDA](https://github.com/ashtf8/EinkPDA) - An E-Ink PDA device using the ESP32 S3.
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
@@ -744,6 +745,7 @@
 
 ## Python 
 
+- [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate and Upscale easily on Linux/Windows/MacOS.
 - [kmsky/ascii-webcam](https://github.com/kmsky/ascii-webcam) - Webcam stream to ASCII
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
