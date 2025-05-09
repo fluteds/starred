@@ -430,6 +430,7 @@
 
 ## JavaScript 
 
+- [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [mgriley/BigOlJungle](https://github.com/mgriley/BigOlJungle) - Repo for JungleReader web-reader, JungleWriter site editor, and utils.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts) - Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
@@ -871,7 +872,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 204 stars and 180 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 204 stars and 179 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
