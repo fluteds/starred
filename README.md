@@ -156,7 +156,7 @@
 
 - [giada0019/ACSE-Tree](https://github.com/giada0019/ACSE-Tree) - An optimized Save Editor for the Animal Crossing: New Leaf and Animal Forest written in C#
 - [arbabf/safespaces](https://github.com/arbabf/safespaces) - Sensory safe spaces in VR for neurodivergent people
-- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
+- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
 - [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-keys, and more!
 - [InvoxiPlayGames/FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival.
@@ -398,6 +398,7 @@
 
 ## Java 
 
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
 - [gtrxAC/discord-j2me](https://github.com/gtrxAC/discord-j2me) - Discord client for Java ME (MIDP 1.0 & 2.0) devices
@@ -430,6 +431,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [mgriley/BigOlJungle](https://github.com/mgriley/BigOlJungle) - Repo for JungleReader web-reader, JungleWriter site editor, and utils.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
