@@ -695,7 +695,7 @@
 - [funkyface/ssg-seeds](https://github.com/funkyface/ssg-seeds) - Minecraft SSG seeds for 1.16
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A database of custom user requested backgrounds for @Discord.
 - [miffycs/Animal-Crossing-Amiibo](https://github.com/miffycs/Animal-Crossing-Amiibo) - 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only. Series 5 data uploaded.
-- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
+- [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [ZoeBijl/QueerCats](https://github.com/ZoeBijl/QueerCats) - A whole bunch of pride flags represented as blobby cat emoji
 - [lvlcnrn/lvlcnrnusb](https://github.com/lvlcnrn/lvlcnrnusb) - 
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
@@ -1151,7 +1151,7 @@
 ## Vue 
 
 - [Treeki/MeteoNook](https://github.com/Treeki/MeteoNook) - weather prediction tool for Animal Crossing: New Horizons
-- [schej-it/schej.it](https://github.com/schej-it/schej.it) - schej helps you quickly find the best time for your group to meet. It's like When2meet with Google Calendar integration!
+- [schej-it/schej.it](https://github.com/schej-it/schej.it) - Schej is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [tilda/enkanomiya](https://github.com/tilda/enkanomiya) - Calculate the "CRIT Value" (CV) of your artifacts easily, and more
