@@ -504,7 +504,7 @@
 - [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
 - [4ndv/HexaGone](https://github.com/4ndv/HexaGone) - Replaces twitter NFT idiocracy
 - [daisyUniverse/TwitFix-Extension](https://github.com/daisyUniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
-- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [MCBE-Speedrunning/retime.mcbe.wtf](https://github.com/MCBE-Speedrunning/retime.mcbe.wtf) - A run retimer for speedrunners.
 - [WalshyDev/Discord-bad-domains](https://github.com/WalshyDev/Discord-bad-domains) - 
 - [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
@@ -1006,7 +1006,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [chrrs/freddit](https://github.com/chrrs/freddit) - Alternative Reddit frontend
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Simple and elegant Steam library customization
-- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
+- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 
 ## Swift 
