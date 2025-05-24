@@ -453,7 +453,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
 - [ottomated/emoji-thief](https://github.com/ottomated/emoji-thief) - Monitors the clipboard for Discord emoji URLs, and uses a bot to upload them to a private server.
-- [SirStig/fortnite-deck](https://github.com/SirStig/fortnite-deck) - Hope to be the home of the only fortnite installer for steam deck.
+- [SirStig/fortnite-deck](https://github.com/SirStig/fortnite-deck) - (Deprecated, use Xbox Game Cloud) Hope to be the home of the only fortnite installer for steam deck.
 - [discord-relay-chat/drc](https://github.com/discord-relay-chat/drc) - Discord Relay Chat
 - [ChrisMBarr/UserScripts](https://github.com/ChrisMBarr/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
