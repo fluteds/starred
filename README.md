@@ -354,6 +354,7 @@
 
 ## HTML 
 
+- [Priyonti270/Egg-Timer](https://github.com/Priyonti270/Egg-Timer) - Egg Timer inspired by @Nashallery
 - [hrtowii/dotfiles](https://github.com/hrtowii/dotfiles) - dotfiles for my first arch rice
 - [skullface/kaleidoscope-year](https://github.com/skullface/kaleidoscope-year) - 🗓️ Workshop ticketing microsite
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
