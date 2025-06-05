@@ -213,6 +213,7 @@
 
 ## C++ 
 
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [mastercomfig/tc2](https://github.com/mastercomfig/tc2) - A TF2 mod with fresh new development
@@ -439,7 +440,7 @@
 
 ## JavaScript 
 
-- [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your daily web browser.
+- [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI tool to replace and automate your daily web browser.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [mgriley/BigOlJungle](https://github.com/mgriley/BigOlJungle) - Repo for JungleReader web-reader, JungleWriter site editor, and utils.
