@@ -899,6 +899,7 @@
 
 ## Rust 
 
+- [ttytm/wthrr-the-weathercrab](https://github.com/ttytm/wthrr-the-weathercrab) - 🌞 🦀 🌙 Weather companion for the terminal. Rust app.
 - [octagony/rumos](https://github.com/octagony/rumos) - CLI utility to control screen brightness
 - [diabloproject/clonk-cli](https://github.com/diabloproject/clonk-cli) - 
 - [taskylizard/hanukkah](https://github.com/taskylizard/hanukkah) - 🕯 wooo spooky data
@@ -962,6 +963,7 @@
 
 ## Shell 
 
+- [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
