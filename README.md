@@ -440,6 +440,7 @@
 
 ## JavaScript 
 
+- [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI tool to replace and automate your daily web browser.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
@@ -1039,6 +1040,7 @@
 
 ## TypeScript 
 
+- [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
