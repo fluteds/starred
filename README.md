@@ -764,6 +764,7 @@
 
 ## Python 
 
+- [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [Jonty/glastonbury-app-data](https://github.com/Jonty/glastonbury-app-data) - All the data behind the official Glastonbury Festival app
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [stong/tldw](https://github.com/stong/tldw) - Code for tldw.tube
