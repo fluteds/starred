@@ -128,6 +128,7 @@
 
 ## C 
 
+- [chaosgoo/mcompass](https://github.com/chaosgoo/mcompass) - 
 - [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) - A mathematical keypad for students and professionals
 - [XorTroll/mkds-re](https://github.com/XorTroll/mkds-re) - Mario Kart DS (EU) reverse-engineering work: ASM-hacking and other tools
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
@@ -764,6 +765,8 @@
 
 ## Python 
 
+- [Thokoop/Billy-B-assistant](https://github.com/Thokoop/Billy-B-assistant) - 
+- [BeardedTinker/Home-Assistant_Config](https://github.com/BeardedTinker/Home-Assistant_Config) - BeardedTinker Home Assistant configuration. Feel free to browse, edit, tweak, improve, criticize and suggest.
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [Jonty/glastonbury-app-data](https://github.com/Jonty/glastonbury-app-data) - All the data behind the official Glastonbury Festival app
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
