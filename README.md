@@ -767,7 +767,7 @@
 
 ## Python 
 
-- [Thokoop/Billy-B-assistant](https://github.com/Thokoop/Billy-B-assistant) - 
+- [Thokoop/billy-b-assistant](https://github.com/Thokoop/billy-b-assistant) - 
 - [BeardedTinker/Home-Assistant_Config](https://github.com/BeardedTinker/Home-Assistant_Config) - BeardedTinker Home Assistant configuration. Feel free to browse, edit, tweak, improve, criticize and suggest.
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [Jonty/glastonbury-app-data](https://github.com/Jonty/glastonbury-app-data) - All the data behind the official Glastonbury Festival app
