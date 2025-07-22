@@ -249,7 +249,6 @@
 
 - [ronaldl29/public-domain-recipes](https://github.com/ronaldl29/public-domain-recipes) - A recipe website with no backstories, ads, or trackers.
 - [hrtowii/dotfiles](https://github.com/hrtowii/dotfiles) - dotfiles for my first arch rice
-- [benfl3713/DepartureBoard](https://github.com/benfl3713/DepartureBoard) - 🚅 This Project allows a user to view live train times in the format of a station departure board
 - [Jonius7/SteamUI-OldGlory](https://github.com/Jonius7/SteamUI-OldGlory) - A set of customisable Steam Library tweaks, with an installer. Also a reference that you can use to learn how to make your own tweaks.
 - [refact0r/system24](https://github.com/refact0r/system24) - a tui-like discord theme
 - [dimdenGD/discord-oled-theme](https://github.com/dimdenGD/discord-oled-theme) - Theme for OLED screens like AMOLED theme for phones. Nothing else.
@@ -899,7 +898,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 213 stars and 184 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 213 stars and 185 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -1066,6 +1065,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
+- [benfl3713/DepartureBoard](https://github.com/benfl3713/DepartureBoard) - 🚅 This Project allows a user to view live train times in the format of a station departure board
 - [entur/tavla](https://github.com/entur/tavla) - 🖥 A customizable departure board for all public transport in Norway
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
