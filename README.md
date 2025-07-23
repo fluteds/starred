@@ -1055,6 +1055,7 @@
 
 ## TypeScript 
 
+- [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything
 - [Beast12/who-rang](https://github.com/Beast12/who-rang) - 
 - [Coyenn/iso](https://github.com/Coyenn/iso) - A plug-and-play dashboard for all your self-hosted services
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
