@@ -768,6 +768,7 @@
 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [TeejMcSteez/HAWebRTCFix](https://github.com/TeejMcSteez/HAWebRTCFix) - Attempting to fix HA Frontends WebRTC Error ```Failed to connect WebRTC stream: Answer tried to set recv when offer did not set send``` on Firefox
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [Thokoop/billy-b-assistant](https://github.com/Thokoop/billy-b-assistant) - 
 - [BeardedTinker/Home-Assistant_Config](https://github.com/BeardedTinker/Home-Assistant_Config) - BeardedTinker Home Assistant configuration. Feel free to browse, edit, tweak, improve, criticize and suggest.
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
@@ -1061,7 +1062,6 @@
 - [Beast12/who-rang](https://github.com/Beast12/who-rang) - 
 - [Coyenn/iso](https://github.com/Coyenn/iso) - A plug-and-play dashboard for all your self-hosted services
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
