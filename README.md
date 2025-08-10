@@ -816,7 +816,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [pipeeeeees/waze-voicepack-links](https://github.com/pipeeeeees/waze-voicepack-links) - A collaborative list of Waze navigation voice packs
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script that takes the game you're playing on steam and displays it on discord
+- [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script that actually displays the game you're playing on discord
 - [xP9nda/PapaFreezeriaBot](https://github.com/xP9nda/PapaFreezeriaBot) - A python bot to automate gameplay of Papa's Freezeria Deluxe on Steam.
 - [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
 - [lun-4/finfox](https://github.com/lun-4/finfox) - scripts for personal finance
@@ -902,7 +902,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 217 stars and 185 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 218 stars and 185 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
