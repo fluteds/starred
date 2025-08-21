@@ -766,6 +766,8 @@
 
 ## Python 
 
+- [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) - Unofficial ParcelApp integration with Home Assistant
+- [storm1er/ha_integration_parcelsapp](https://github.com/storm1er/ha_integration_parcelsapp) - Easily track all your delivery in Home Assistant, uses https://parcelsapp.com/ API
 - [CodingWithLewis/ReceiptPrinterAgent](https://github.com/CodingWithLewis/ReceiptPrinterAgent) - From my video: I Fixed my ADHD with a Receipt Printer
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [TeejMcSteez/HAWebRTCFix](https://github.com/TeejMcSteez/HAWebRTCFix) - Attempting to fix HA Frontends WebRTC Error ```Failed to connect WebRTC stream: Answer tried to set recv when offer did not set send``` on Firefox
