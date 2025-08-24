@@ -250,9 +250,9 @@
 - [ronaldl29/public-domain-recipes](https://github.com/ronaldl29/public-domain-recipes) - A recipe website with no backstories, ads, or trackers.
 - [hrtowii/dotfiles](https://github.com/hrtowii/dotfiles) - dotfiles for my first arch rice
 - [Jonius7/SteamUI-OldGlory](https://github.com/Jonius7/SteamUI-OldGlory) - A set of customisable Steam Library tweaks, with an installer. Also a reference that you can use to learn how to make your own tweaks.
-- [refact0r/system24](https://github.com/refact0r/system24) - a tui-like discord theme
+- [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
 - [dimdenGD/discord-oled-theme](https://github.com/dimdenGD/discord-oled-theme) - Theme for OLED screens like AMOLED theme for phones. Nothing else.
-- [coolesding/onekocord](https://github.com/coolesding/onekocord) - CSS-Snippets for Oneko in Discord Clients
+- [onekocord/onekocord](https://github.com/onekocord/onekocord) - CSS-Snippets for Oneko in Discord Clients
 - [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - I'm currently using the Rose Pine color scheme to personalize my Windows desktop.
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [skullface/pomoday](https://github.com/skullface/pomoday) - 🍅 lo-fi aesthetic pomodoro timer ⏲️
@@ -904,7 +904,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 218 stars and 184 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 219 stars and 185 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
