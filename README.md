@@ -361,6 +361,7 @@
 
 ## HTML 
 
+- [WolfwithSword/Bambu-HomeAssistant-Flows](https://github.com/WolfwithSword/Bambu-HomeAssistant-Flows) - A collection of HomeAssistant Dashboards and NodeRed Flows with a configurator to connect a BambuLabs printer to HomeAssistant through MQTT - based off of my Gists
 - [Priyonti270/Egg-Timer](https://github.com/Priyonti270/Egg-Timer) - Egg Timer inspired by @Nashallery
 - [skullface/kaleidoscope-year](https://github.com/skullface/kaleidoscope-year) - 🗓️ Workshop ticketing microsite
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
