@@ -478,6 +478,7 @@
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 - [tdjsnelling/monaco](https://github.com/tdjsnelling/monaco) - Real-time F1 live timing & telemetry UI
+- [ewanhowell5195/VisualShulkerLabels](https://github.com/ewanhowell5195/VisualShulkerLabels) - The Visual Shulker Labels resource pack
 - [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [javierarce/letterboxd-scraper](https://github.com/javierarce/letterboxd-scraper) - A script that scrapes films from a Letterboxd user's public diary.
@@ -662,7 +663,6 @@
 - [natarii/vrchat-domain-blocklist](https://github.com/natarii/vrchat-domain-blocklist) - VRChat Advertising/Tracking Domain Blocklist
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
-- [ewanhowell5195/visualShulkerLabels](https://github.com/ewanhowell5195/visualShulkerLabels) - The Visual Shulker Labels resource pack
 - [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
 - [fabiencelier/geoguessr-tips](https://github.com/fabiencelier/geoguessr-tips) - Tips and resources for GeoGuessr
 - [kostas-from-cyber-space/4chan-captcha-solver](https://github.com/kostas-from-cyber-space/4chan-captcha-solver) - 4chan captcha solver userscript
