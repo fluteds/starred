@@ -986,6 +986,7 @@
 
 ## Shell 
 
+- [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [saihgupr/resolve_entities](https://github.com/saihgupr/resolve_entities) - A sophisticated Bash script that resolves natural language phrases to Home Assistant entity IDs using domain-first fuzzy matching. Designed to work with Automate with Gemini AI.
 - [saihgupr/Automate-with-Gemini-AI](https://github.com/saihgupr/Automate-with-Gemini-AI) - Create Home Assistant automations using natural language commands powered by Google's Gemini AI
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
