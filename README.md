@@ -172,6 +172,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem!
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [UtsuhoRocks/mb_DiscordRichPresence](https://github.com/UtsuhoRocks/mb_DiscordRichPresence) - it just works
@@ -188,6 +189,7 @@
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
 - [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵
 - [7coil/DiscordForOffice](https://github.com/7coil/DiscordForOffice) - Discord Rich Presence for Microsoft Office (2013 and above, Office 365)
+- [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [KrisIsBackAU/Oculus-VR-Dash-Manager](https://github.com/KrisIsBackAU/Oculus-VR-Dash-Manager) - Oculus VR Dash Manager
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
 - [riperiperi/FreeSO](https://github.com/riperiperi/FreeSO) - Re-implementation of The Sims Online.
@@ -323,7 +325,7 @@
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Self-hostable instant messaging server that makes classic AIM and ICQ clients work again. (Independently developed, not affiliated with or endorsed by AOL)
+- [mk6i/retro-aim-server](https://github.com/mk6i/retro-aim-server) - Self-hostable instant messaging server compatible with classic AIM and ICQ clients. (Independently developed, not affiliated with or endorsed by AOL)
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
@@ -363,7 +365,6 @@
 - [WolfwithSword/Bambu-HomeAssistant-Flows](https://github.com/WolfwithSword/Bambu-HomeAssistant-Flows) - A collection of HomeAssistant Dashboards and NodeRed Flows with a configurator to connect a BambuLabs printer to HomeAssistant through MQTT - based off of my Gists
 - [Priyonti270/Egg-Timer](https://github.com/Priyonti270/Egg-Timer) - Egg Timer inspired by @Nashallery
 - [skullface/kaleidoscope-year](https://github.com/skullface/kaleidoscope-year) - 🗓️ Workshop ticketing microsite
-- [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [dfbr/dfbr.github.io](https://github.com/dfbr/dfbr.github.io) - Norwegian words (and other resources) that I should be learning
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [skullface/suitortheband](https://github.com/skullface/suitortheband) - 
@@ -636,6 +637,7 @@
 
 ## Others 
 
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. This repository showcases diverse AI-generated visuals and prompts, highlighting the 
 - [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
