@@ -215,6 +215,7 @@
 
 ## C++ 
 
+- [spuder/OpenSpool](https://github.com/spuder/OpenSpool) - RFID for 3d printer filament
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
@@ -631,12 +632,14 @@
 
 ## Objective-C 
 
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [pallotron/yubiswitch](https://github.com/pallotron/yubiswitch) - OSX status bar application to enable/disable Yubikey Nano
 - [ichitaso/ApolloPatcher](https://github.com/ichitaso/ApolloPatcher) - Apollo for Reddit tweak with in-app configurable API keys
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 
 ## Others 
 
+- [RosaWagner/Borel](https://github.com/RosaWagner/Borel) - French cursive font for primary school teachers.
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of
 - [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
