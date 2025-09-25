@@ -591,6 +591,7 @@
 
 ## Jupyter Notebook 
 
+- [basbruss/adaptive-cover](https://github.com/basbruss/adaptive-cover) - An Adaptive Cover component for HomeAsisstant to control covers based on the sun's position
 - [charliezcr/Kpop-Data-Analysis](https://github.com/charliezcr/Kpop-Data-Analysis) - Data analysis about K-pop industry, artists, and companies. Visualized business performances of public K-pop companies and analyzed artist management and international marketing strategies
 
 ## KiCad Layout 
