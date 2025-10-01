@@ -6,6 +6,7 @@
 ## Contents
 
 - [ActionScript](#actionscript)
+- [Adblock Filter List](#adblock-filter-list)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [Astro](#astro)
@@ -70,6 +71,10 @@
 ## ActionScript 
 
 - [InQuest/malware-samples](https://github.com/InQuest/malware-samples) - A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net
+
+## Adblock Filter List 
+
+- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 
 ## AppleScript 
 
@@ -475,7 +480,7 @@
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
-- [WinClassic/MSFX](https://github.com/WinClassic/MSFX) - A Internet Explorer 5 theme for Mozilla Firefox.
+- [echelon-theme/spyglass](https://github.com/echelon-theme/spyglass) - A Internet Explorer 5 theme for Mozilla Firefox.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
@@ -772,7 +777,7 @@
 - [theyetty/update-hogwarts-legacy-engine.ini](https://github.com/theyetty/update-hogwarts-legacy-engine.ini) - 
 - [daisyUniverse/PluralKit-Windows-Switcher](https://github.com/daisyUniverse/PluralKit-Windows-Switcher) - A set of scripts that allow your windows system to start up differently depending on whose fronting in pluralkit
 - [t4rra/CCStopper](https://github.com/t4rra/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Carlmundo/W10-Cleanser](https://github.com/Carlmundo/W10-Cleanser) - Remove advertising, disable data collection, annoying notifications, default apps and more. Ideal for fresh installs of Windows 10 and those looking to purify their current installation.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
