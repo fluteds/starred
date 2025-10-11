@@ -784,6 +784,7 @@
 
 ## Python 
 
+- [adanowitz/HASSL](https://github.com/adanowitz/HASSL) - Home Assistant Simple Scripting Language
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) - Unofficial ParcelApp integration with Home Assistant
 - [storm1er/ha_integration_parcelsapp](https://github.com/storm1er/ha_integration_parcelsapp) - Easily track all your delivery in Home Assistant, uses https://parcelsapp.com/ API
