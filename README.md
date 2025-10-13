@@ -323,7 +323,7 @@
 ## Go 
 
 - [kennethnym/7am](https://github.com/kennethnym/7am) - 7am delivers daily weather summary to you at 7am
-- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
+- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's ,Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image pr
 - [ajmandourah/bazarr-sync](https://github.com/ajmandourah/bazarr-sync) - Bulk sync your subtitles via Bazarr.
 - [TypicalAM/goread](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS/Atom feeds right in the terminal!
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -784,6 +784,7 @@
 
 ## Python 
 
+- [zhouyuyang-joey/strudel_json_generator](https://github.com/zhouyuyang-joey/strudel_json_generator) - A Python script that can quickly generate a JSON file containing your sample information.
 - [jamietr1/obsidian-automation](https://github.com/jamietr1/obsidian-automation) - A set of scripts to help with automating tasks around the Obsidian text editor
 - [adanowitz/HASSL](https://github.com/adanowitz/HASSL) - Home Assistant Simple Scripting Language
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
@@ -925,7 +926,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 223 stars and 188 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 224 stars and 188 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
