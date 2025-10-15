@@ -784,6 +784,7 @@
 
 ## Python 
 
+- [Darkdragon14/ha-aqara-devices](https://github.com/Darkdragon14/ha-aqara-devices) - Custom Home Assistant integration for Aqara devices. Currently supports Camera Hub G3 (video control, human detection). FP2 presence sensor support planned. Extends official integration with extra fea
 - [zhouyuyang-joey/strudel_json_generator](https://github.com/zhouyuyang-joey/strudel_json_generator) - A Python script that can quickly generate a JSON file containing your sample information.
 - [jamietr1/obsidian-automation](https://github.com/jamietr1/obsidian-automation) - A set of scripts to help with automating tasks around the Obsidian text editor
 - [adanowitz/HASSL](https://github.com/adanowitz/HASSL) - Home Assistant Simple Scripting Language
