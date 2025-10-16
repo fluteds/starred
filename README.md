@@ -784,6 +784,7 @@
 
 ## Python 
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [Darkdragon14/ha-aqara-devices](https://github.com/Darkdragon14/ha-aqara-devices) - Custom Home Assistant integration for Aqara devices. Currently supports Camera Hub G3 (video control, human detection). FP2 presence sensor support planned. Extends official integration with extra fea
 - [zhouyuyang-joey/strudel_json_generator](https://github.com/zhouyuyang-joey/strudel_json_generator) - A Python script that can quickly generate a JSON file containing your sample information.
 - [jamietr1/obsidian-automation](https://github.com/jamietr1/obsidian-automation) - A set of scripts to help with automating tasks around the Obsidian text editor
@@ -927,7 +928,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 224 stars and 188 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 225 stars and 188 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
