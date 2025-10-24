@@ -596,7 +596,7 @@
 - [ganoninc/winerror-simulator](https://github.com/ganoninc/winerror-simulator) - A Windows XP error simulator
 - [twoscott/haseul-bot](https://github.com/twoscott/haseul-bot) - A general purpose Discord bot.
 - [wendy-guo/card-jitsu](https://github.com/wendy-guo/card-jitsu) - a "remake" of the classic card-jitsu game from club penguin, paired with your (my) favourite (island's) animal crossing villagers 🤍
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 
@@ -651,6 +651,7 @@
 
 ## Others 
 
+- [dizzydnallov/simple_dreams](https://github.com/dizzydnallov/simple_dreams) - A tranquil, nature-inspired visual theme featuring layered landscape illustrations with a minimalist aesthetic. Designed to encourage less clutter and create a more productive dashboard environment, t
 - [tsightler/ring-mqtt-ha-addon](https://github.com/tsightler/ring-mqtt-ha-addon) - Home Assistant addon to integrate Ring alarm and camera devices via MQTT
 - [RosaWagner/Borel](https://github.com/RosaWagner/Borel) - French cursive font for primary school teachers.
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of
@@ -788,6 +789,8 @@
 
 ## Python 
 
+- [adamcornforth/train-departure-pi](https://github.com/adamcornforth/train-departure-pi) - Experiment with showing real-time train departure info via an SSD1322 OLED screen attached to a Raspberry Pi.
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [Darkdragon14/ha-aqara-devices](https://github.com/Darkdragon14/ha-aqara-devices) - Custom Home Assistant integration for Aqara devices. Currently supports Camera Hub G3 (video control, human detection). FP2 presence sensor support planned. Extends official integration with extra fea
 - [zhouyuyang-joey/strudel_json_generator](https://github.com/zhouyuyang-joey/strudel_json_generator) - A Python script that can quickly generate a JSON file containing your sample information.
@@ -932,7 +935,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 225 stars and 188 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 226 stars and 188 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -1065,7 +1068,6 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [chrrs/freddit](https://github.com/chrrs/freddit) - Alternative Reddit frontend
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Simple and elegant Steam library customization
-- [hayase-app/ui](https://github.com/hayase-app/ui) - Formerly Miru. Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 
 ## Swift 
@@ -1099,7 +1101,6 @@
 - [notjuliet/pronouns-bsky](https://github.com/notjuliet/pronouns-bsky) - Pronouns labels on Bluesky
 - [SapphoSys/tailname](https://github.com/SapphoSys/tailname) - 🏷️ Search for custom tailnet name offers with keywords.
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [muckelba/dynamic-lights-homeassistant](https://github.com/muckelba/dynamic-lights-homeassistant) - 💡 Spicetify extension that changes Home Assistant lights based on the album cover color
 - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything
 - [Beast12/who-rang](https://github.com/Beast12/who-rang) - 
@@ -1236,6 +1237,7 @@
 
 ## Vue 
 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [Treeki/MeteoNook](https://github.com/Treeki/MeteoNook) - weather prediction tool for Animal Crossing: New Horizons
 - [schej-it/timeful.app](https://github.com/schej-it/timeful.app) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
