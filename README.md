@@ -940,7 +940,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 234 stars and 190 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 234 stars and 191 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -1136,7 +1136,7 @@
 - [JustJoostNL/F1MV-Lights-Integration](https://github.com/JustJoostNL/F1MV-Lights-Integration) - The best way to connect your smart home lights to MultiViewer.
 - [Xetera/kindle-api](https://github.com/Xetera/kindle-api) - 📕 Access Kindle's private API in Node.js without a headless browser
 - [Xetera/me](https://github.com/Xetera/me) - 🧍‍♀️ An API for your online presence
-- [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
+- [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Olympic Games calendars
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [mikeyaworski/Twitch-Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Always support your favorite streamer by automatically pulling up their stream when they go live.
