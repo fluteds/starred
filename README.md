@@ -401,7 +401,6 @@
 - [prolesoft/txt](https://github.com/prolesoft/txt) - Client-side encrypted (no server) text sharing
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [randomidiot13/queueclient-web](https://github.com/randomidiot13/queueclient-web) - An unofficial client for viewing the speedrun.com verification queue, in HTML this time.
-- [anadius/gd-efc](https://github.com/anadius/gd-efc) - Google Drive - encrypted folder copy
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [nthitz/pluggedTT](https://github.com/nthitz/pluggedTT) - 
 - [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing page template
