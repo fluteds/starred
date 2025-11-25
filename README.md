@@ -325,6 +325,7 @@
 
 ## Go 
 
+- [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [kennethnym/7am](https://github.com/kennethnym/7am) - 7am delivers daily weather summary to you at 7am
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image pro
@@ -792,6 +793,7 @@
 
 ## Python 
 
+- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [adamcornforth/train-departure-pi](https://github.com/adamcornforth/train-departure-pi) - Experiment with showing real-time train departure info via an SSD1322 OLED screen attached to a Raspberry Pi.
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
