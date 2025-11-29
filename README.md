@@ -325,6 +325,7 @@
 
 ## Go 
 
+- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [kennethnym/7am](https://github.com/kennethnym/7am) - 7am delivers daily weather summary to you at 7am
@@ -793,6 +794,7 @@
 
 ## Python 
 
+- [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [adamcornforth/train-departure-pi](https://github.com/adamcornforth/train-departure-pi) - Experiment with showing real-time train departure info via an SSD1322 OLED screen attached to a Raspberry Pi.
