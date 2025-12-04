@@ -166,6 +166,7 @@
 
 ## C# # 
 
+- [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [giada0019/ACSE-Tree](https://github.com/giada0019/ACSE-Tree) - An optimized Save Editor for the Animal Crossing: New Leaf and Animal Forest written in C#
 - [arbabf/safespaces](https://github.com/arbabf/safespaces) - Sensory safe spaces in VR for neurodivergent people
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
