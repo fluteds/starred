@@ -516,7 +516,7 @@
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 - [sudofox/mojang-blocklist](https://github.com/sudofox/mojang-blocklist) - identifying/tracking minecraft servers on mojang's blocklist
 - [TimIsOverpowered/archive](https://github.com/TimIsOverpowered/archive) - Automated Upload Twitch Vod to Youtube after streaming & Serves as an API for VOD playback with chat replay
-- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServerV1 is a local Fortnite backend (server emulator) which supports both Battle Royale and Save the World.
+- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServerV1 is a local, single-user Fortnite backend (server emulator) which supports both Battle Royale and Save the World.
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [Erisa/starbin](https://github.com/Erisa/starbin) - A hastebin-compatible paste site running on Cloudflare Pages.
 - [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that was used for Club Penguin Rewritten events.
