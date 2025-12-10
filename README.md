@@ -142,8 +142,8 @@
 - [XorTroll/mkds-re](https://github.com/XorTroll/mkds-re) - Mario Kart DS (EU) reverse-engineering work: ASM-hacking and other tools
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [peppy/qmk_firmware](https://github.com/peppy/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
