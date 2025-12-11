@@ -195,7 +195,6 @@
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
 - [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵
-- [7coil/DiscordForOffice](https://github.com/7coil/DiscordForOffice) - Discord Rich Presence for Microsoft Office (2013 and above, Office 365)
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [KrisIsBackAU/Oculus-VR-Dash-Manager](https://github.com/KrisIsBackAU/Oculus-VR-Dash-Manager) - Oculus VR Dash Manager
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
@@ -231,12 +230,10 @@
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [mastercomfig/tc2](https://github.com/mastercomfig/tc2) - A TF2 mod with fresh new development
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
-- [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app
 - [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers
-- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
 - [furstyferret-dev/bindicator](https://github.com/furstyferret-dev/bindicator) - 
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
@@ -288,7 +285,6 @@
 
 ## Dart 
 
-- [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [itzAlex/chatsen](https://github.com/itzAlex/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 - [chatsen/chatsen](https://github.com/chatsen/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 
@@ -321,6 +317,7 @@
 
 ## Go 
 
+- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal.
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
@@ -332,7 +329,6 @@
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [mk6i/open-oscar-server](https://github.com/mk6i/open-oscar-server) - Self-hostable instant messaging server compatible with classic AIM and ICQ clients. (Independently developed, not affiliated with or endorsed by AOL) Formerly known as Retro AIM Server.
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
@@ -341,7 +337,6 @@
 - [bogdanfinn/tls-client-api](https://github.com/bogdanfinn/tls-client-api) - This is an application which is using gosoline and TLS-Client to run a simple request forwarding service with the option to use specific tls fingerprints which are implemented in TLS-client
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [dos-2/oddshub](https://github.com/dos-2/oddshub) - A terminal UI designed for analyzing sports betting odds💰
 - [acifani/formula1-go](https://github.com/acifani/formula1-go) - 🏎 Formula1 CLI
 - [chowder/duck-gen](https://github.com/chowder/duck-gen) - Generate Private Duck Addresses from your command-line
@@ -364,7 +359,6 @@
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
 
@@ -387,7 +381,6 @@
 - [NoTextToSpeech/goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
 - [spotlightishere/dubdub.bingo](https://github.com/spotlightishere/dubdub.bingo) - WWDC '23 bingo card
 - [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
-- [DeepDiscord/DeepDiscord](https://github.com/DeepDiscord/DeepDiscord) - Search Discord's "Deep Web" (work in progress)
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [pabio/redirect-russia](https://github.com/pabio/redirect-russia) - 🇺🇦 Redirect Russian traffic from your site to support Ukraine
 - [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
@@ -477,9 +470,7 @@
 - [ed7n/jcard-template](https://github.com/ed7n/jcard-template) - Printable in-browser template for cassette tape J-cards.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
-- [ottomated/emoji-thief](https://github.com/ottomated/emoji-thief) - Monitors the clipboard for Discord emoji URLs, and uses a bot to upload them to a private server.
 - [SirStig/fortnite-deck](https://github.com/SirStig/fortnite-deck) - (Deprecated, use Xbox Game Cloud) Hope to be the home of the only fortnite installer for steam deck.
-- [discord-relay-chat/drc](https://github.com/discord-relay-chat/drc) - Discord Relay Chat
 - [ChrisMBarr/UserScripts](https://github.com/ChrisMBarr/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
@@ -559,7 +550,6 @@
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [111116/webosu](https://github.com/111116/webosu) - ➤⓵ web rhythm game (unofficial osu!) http://osugame.online/
 - [imjohnbo/issue-bot](https://github.com/imjohnbo/issue-bot) - GitHub Actions powered Issue Bot 🦾
-- [toluschr/BetterDiscord-Animated-Status](https://github.com/toluschr/BetterDiscord-Animated-Status) - Animate your Discord Status with this BetterDiscord Plugin
 - [vin/turntable.fm](https://github.com/vin/turntable.fm) - A turntable.fm bot based on Alain Gilbert's ttapi module for node.js.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [ephraimduncan/translate-readme](https://github.com/ephraimduncan/translate-readme) - Translate Github Readme to any other Language
@@ -595,7 +585,6 @@
 - [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) - 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [ganoninc/winerror-simulator](https://github.com/ganoninc/winerror-simulator) - A Windows XP error simulator
-- [twoscott/haseul-bot](https://github.com/twoscott/haseul-bot) - A general purpose Discord bot.
 - [wendy-guo/card-jitsu](https://github.com/wendy-guo/card-jitsu) - a "remake" of the classic card-jitsu game from club penguin, paired with your (my) favourite (island's) animal crossing villagers 🤍
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -693,7 +682,6 @@
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd "open-source" licenses.
 - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
 - [ilfuriano/smart_intercom](https://github.com/ilfuriano/smart_intercom) - 
-- [Discord-AntiScam/scam-links](https://github.com/Discord-AntiScam/scam-links) - A database of over 24000 scam links used for Discord, Steam and more.
 - [qfoxb/tf2bd-lists](https://github.com/qfoxb/tf2bd-lists) - A repository full of useful Team Fortress 2 Bot Detector lists!
 - [russdb/gruvbox-windows-terminal](https://github.com/russdb/gruvbox-windows-terminal) - A collection of gruvbox themes for windows terminal
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
@@ -712,7 +700,6 @@
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [sayuriu/handwriting-font](https://github.com/sayuriu/handwriting-font) - My handwriting, as a font!
-- [BuildBot42/discord-scam-links](https://github.com/BuildBot42/discord-scam-links) - One page, easily readable list of phishing Discord-imitating websites
 - [DevSpen/scam-links](https://github.com/DevSpen/scam-links) - Collection of phishing and malicious links that focuses on Steam and Discord scams.
 - [LlamaPag/bastion](https://github.com/LlamaPag/bastion) - A Minecraft bastion practice map for speedrunners
 - [aufzayed/bugbounty](https://github.com/aufzayed/bugbounty) - Bugbounty Resources
@@ -745,7 +732,6 @@
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [B00merang-Artwork/Windows-XP](https://github.com/B00merang-Artwork/Windows-XP) - Remake of classic YlmfOS theme with some mods for icons to scale right
-- [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
@@ -817,7 +803,6 @@
 - [wotakumoe/meow](https://github.com/wotakumoe/meow) - meow
 - [rmaake1/terminal-rain-lightning](https://github.com/rmaake1/terminal-rain-lightning) - Terminal-based ASCII rain and lightning animation.
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
-- [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [kmsky/ascii-webcam](https://github.com/kmsky/ascii-webcam) - Webcam stream to ASCII
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [CodeFoodPixels/robovac](https://github.com/CodeFoodPixels/robovac) - Add a Eufy RoboVac easily to Home Assistant
@@ -853,7 +838,6 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [pipeeeeees/waze-voicepack-links](https://github.com/pipeeeeees/waze-voicepack-links) - A collaborative list of Waze navigation voice packs
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [JustTemmie/steam-presence](https://github.com/JustTemmie/steam-presence) - A script that actually displays the game you're playing on discord
 - [xP9nda/PapaFreezeriaBot](https://github.com/xP9nda/PapaFreezeriaBot) - A python bot to automate gameplay of Papa's Freezeria Deluxe on Steam.
 - [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
 - [lun-4/finfox](https://github.com/lun-4/finfox) - scripts for personal finance
@@ -880,7 +864,6 @@
 - [joinemm/spotify-to-lastfm](https://github.com/joinemm/spotify-to-lastfm) - :musical_note: Analyze and bulk scrobble your spotify data package into Last.fm
 - [3DS-RPC/3DS-RPC](https://github.com/3DS-RPC/3DS-RPC) - Connect your 3DS playing status to Discord!
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
-- [SpaceGliderr/orbot](https://github.com/SpaceGliderr/orbot) - Bot for the Loona Discord server
 - [Samathingamajig/twitch-sub-pricing](https://github.com/Samathingamajig/twitch-sub-pricing) - Finds where the cheapest Twitch subs can be acquired
 - [breakerspace/weaponizing-censors](https://github.com/breakerspace/weaponizing-censors) - censors pose a threat to the entire Internet
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
@@ -912,8 +895,6 @@
 - [Sharpieman20/Sharpies-Speedrunning-Tools](https://github.com/Sharpieman20/Sharpies-Speedrunning-Tools) - 
 - [younishd/neoreset](https://github.com/younishd/neoreset) - Neo's auto resetter for Minecraft speedrunning on Linux.
 - [Phanabani/minecraft-playtime-calculator](https://github.com/Phanabani/minecraft-playtime-calculator) - A tool to analyze chat logs generated by Minecraft
-- [Roadcrosser/discord-member-watch](https://github.com/Roadcrosser/discord-member-watch) - Need to talk to/discipline a member but they aren't on? Get notified when they are.
-- [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
 - [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
 - [Xetera/this-tweet-took-off](https://github.com/Xetera/this-tweet-took-off) - 🔪 Block replies to viral tweets from users getting paid to promote useless products
 - [scribbletone/overlay-pdf](https://github.com/scribbletone/overlay-pdf) - This Drawbot script will take two PDFs and overlay them to help highlight differences.
@@ -930,7 +911,6 @@
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
-- [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
 - [anatolykopyl/youtube-cdl](https://github.com/anatolykopyl/youtube-cdl) - 📼 Bulk youtube subscription download
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [DavidBuchanan314/tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
@@ -988,7 +968,6 @@
 - [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [suptejas/turbo-delete](https://github.com/suptejas/turbo-delete) - ⚡ A Blazing fast alternative to the stock windows folder delete function!
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [angelofallars/treefetch](https://github.com/angelofallars/treefetch) - 🌲 A plant-based system fetch tool made with Rust.
@@ -999,7 +978,6 @@
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [sushiibot/sushii-2](https://github.com/sushiibot/sushii-2) - 🍣🍣 Moderation bot for Discord
 - [itsjunetime/smcurser](https://github.com/itsjunetime/smcurser) - SMServer tui client written in rust
 
 ## SCSS 
@@ -1017,6 +995,7 @@
 
 ## Shell 
 
+- [Benricheson101/optsync](https://github.com/Benricheson101/optsync) - Minecraft options.txt sync
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [saihgupr/resolve_entities](https://github.com/saihgupr/resolve_entities) - A sophisticated Bash script that resolves natural language phrases to Home Assistant entity IDs using domain-first fuzzy matching. Designed to work with Automate with Gemini AI.
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
@@ -1073,7 +1052,6 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [chrrs/freddit](https://github.com/chrrs/freddit) - Alternative Reddit frontend
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Simple and elegant Steam library customization
-- [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 
 ## Swift 
 
@@ -1103,7 +1081,6 @@
 ## TypeScript 
 
 - [lucasmelin/omg.lol-gh-status-sync-action](https://github.com/lucasmelin/omg.lol-gh-status-sync-action) - Sync your omg.lol status to your GitHub user profile status
-- [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [kaicoleridge/FredFrame](https://github.com/kaicoleridge/FredFrame) - Turn your photos into a Fred Again actual life cover art
 - [notjuliet/pronouns-bsky](https://github.com/notjuliet/pronouns-bsky) - Pronouns labels on Bluesky
 - [SapphoSys/tailname](https://github.com/SapphoSys/tailname) - 🏷️ Search for custom tailnet name offers with keywords.
@@ -1143,7 +1120,6 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [govizlora/optical-breacher](https://github.com/govizlora/optical-breacher) - Online Cyberpunk 2077 breach protocol minigame puzzle solver using camera
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
-- [partyhatgg/yapper](https://github.com/partyhatgg/yapper) - A Discord bot for transcribing voice messages/media on Discord
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
 - [katlyn/lovetap](https://github.com/katlyn/lovetap) - A simple way for loved ones to let each other know they are thinking of one another.
 - [Xetera/vuniparr](https://github.com/Xetera/vuniparr) - A custom Radarr list for movies that just became available for streaming
@@ -1165,7 +1141,7 @@
 - [benbalter/gmail-and-google-calendar-stats](https://github.com/benbalter/gmail-and-google-calendar-stats) - Scrapes your GMail and Google Calendar data and returns it as a CSV for further analysis.
 - [MeguminSama/cropcord](https://github.com/MeguminSama/cropcord) - Delete screenshots from discord
 - [hc-tcg/hc-tcg](https://github.com/hc-tcg/hc-tcg) - Hermitcraft TCG
-- [cyyynthia/discord-active-dev](https://github.com/cyyynthia/discord-active-dev) - Thingy to ~~farm~~get the Discord active developer badge, written in the form of a mini tutorial
+- [cyyynthia/discord-active-dev](https://github.com/cyyynthia/discord-active-dev) - Thingy to ~~farm~~get the Discord active developer badge, written in the form of a mini tutorial. No longer useful as Discord ended the Active Developer badge.
 - [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [enmity-mod/enmity](https://github.com/enmity-mod/enmity) - 🧩 The power of addons, all in your hand. Built on top of @discord.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
@@ -1179,7 +1155,6 @@
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) - An easy way to mass download osu! beatmaps
 - [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
-- [gowon-bot/gowon](https://github.com/gowon-bot/gowon) - A Last.fm Discord bot written in TypeScript
 - [judge2020/cloudflare-file-hosting](https://github.com/judge2020/cloudflare-file-hosting) - Use Cloudflare (Workers) as a file host!
 - [witchtrash/hakke.ro](https://github.com/witchtrash/hakke.ro) - idiot website
 - [lynn/hello](https://github.com/lynn/hello) - Word-guessing game
@@ -1206,15 +1181,12 @@
 - [NearW/minecraft-speedrun](https://github.com/NearW/minecraft-speedrun) - Server configuration for a speedrun server
 - [cyyynthia/pronoundb.org](https://github.com/cyyynthia/pronoundb.org) - A browser extension that lets people know how to refer to each other on various places of the Internet. Available on Chrome, Firefox, and Edge.
 - [cybershard/auproximity](https://github.com/cybershard/auproximity) - AUProximity is an open source proximity voice chat platform, primarily aimed at Among Us.
-- [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 - [TechLevelZero/doddlebot](https://github.com/TechLevelZero/doddlebot) - doddlebot for doddlecord
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [chiyadev/genshin-schedule](https://github.com/chiyadev/genshin-schedule) - 🕑 Genshin farming scheduler
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [Zaarrg/DropBot](https://github.com/Zaarrg/DropBot) - Drop Bot. Automaticlly Farms every Drop available like Rust for ya and now also your Custom Channel's
-- [camero2734/Nico-and-the-Bots](https://github.com/camero2734/Nico-and-the-Bots) - A collection of bots for the twenty one pilots Discord server
 - [defund12/defund12.org](https://github.com/defund12/defund12.org) - defund12.org
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
