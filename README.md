@@ -128,6 +128,7 @@
 - [JarateKing/CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - Clean TF2's sequel
 - [yonderbread/ame-scripts](https://github.com/yonderbread/ame-scripts) - Windows 10 AME script, sliced and diced.
 - [chsliu/batch](https://github.com/chsliu/batch) - Batch files for Windows
+- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Lyceris-chan/GenshinImpact](https://github.com/Lyceris-chan/GenshinImpact) - This repo contains a script meant to ease and help intel players with setting up their machine to be able to play this game.
 
