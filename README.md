@@ -128,7 +128,6 @@
 - [JarateKing/CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - Clean TF2's sequel
 - [yonderbread/ame-scripts](https://github.com/yonderbread/ame-scripts) - Windows 10 AME script, sliced and diced.
 - [chsliu/batch](https://github.com/chsliu/batch) - Batch files for Windows
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Lyceris-chan/GenshinImpact](https://github.com/Lyceris-chan/GenshinImpact) - This repo contains a script meant to ease and help intel players with setting up their machine to be able to play this game.
 
@@ -226,7 +225,6 @@
 - [spuder/OpenSpool](https://github.com/spuder/OpenSpool) - RFID for 3d printer filament
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [mastercomfig/tc2](https://github.com/mastercomfig/tc2) - A TF2 mod with fresh new development
@@ -318,6 +316,7 @@
 
 ## Go 
 
+- [steipete/sonoscli](https://github.com/steipete/sonoscli) - Control SONOS speakers from your terminal.
 - [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal.
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew
@@ -456,6 +455,7 @@
 - [tikel1/HA-isometric-animated-picture-card](https://github.com/tikel1/HA-isometric-animated-picture-card) - Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose frame or loop speed updates in real time from any entity state. Including an AI workflow that turns a
 - [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [mgriley/BigOlJungle](https://github.com/mgriley/BigOlJungle) - Repo for JungleReader web-reader, JungleWriter site editor, and other jungle-themed web projects.
@@ -920,7 +920,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 238 stars and 192 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 238 stars and 191 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
