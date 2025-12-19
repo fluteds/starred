@@ -364,6 +364,7 @@
 
 ## HTML 
 
+- [Tmp341/VIPApp](https://github.com/Tmp341/VIPApp) - The VIP Companion APP
 - [kja140/FredAgainOnLoop](https://github.com/kja140/FredAgainOnLoop) - Set Fred Again live music as your desktop background or just visit the site to live the Fred Again experience and become zen
 - [AeolusUX/ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS) - Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S
 - [WolfwithSword/Bambu-HomeAssistant-Flows](https://github.com/WolfwithSword/Bambu-HomeAssistant-Flows) - A collection of HomeAssistant Dashboards and NodeRed Flows with a configurator to connect a BambuLabs printer to HomeAssistant through MQTT - based off of my Gists
@@ -777,6 +778,7 @@
 
 ## Python 
 
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
