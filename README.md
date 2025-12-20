@@ -1085,7 +1085,7 @@
 - [lucasmelin/omg.lol-gh-status-sync-action](https://github.com/lucasmelin/omg.lol-gh-status-sync-action) - Sync your omg.lol status to your GitHub user profile status
 - [kaicoleridge/FredFrame](https://github.com/kaicoleridge/FredFrame) - Turn your photos into a Fred Again actual life cover art
 - [notjuliet/pronouns-bsky](https://github.com/notjuliet/pronouns-bsky) - Pronouns labels on Bluesky
-- [SapphoSys/tailname](https://github.com/SapphoSys/tailname) - 🏷️ Search for custom tailnet name offers with keywords.
+- [sapphies/tailname](https://github.com/sapphies/tailname) - 🏷️ Search for custom tailnet name offers with keywords.
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [muckelba/dynamic-lights-homeassistant](https://github.com/muckelba/dynamic-lights-homeassistant) - 💡 Spicetify extension that changes Home Assistant lights based on the album cover color
 - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything
