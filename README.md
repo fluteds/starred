@@ -254,6 +254,7 @@
 
 ## CSS 
 
+- [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 - [ronaldl29/public-domain-recipes](https://github.com/ronaldl29/public-domain-recipes) - A recipe website with no backstories, ads, or trackers.
 - [hrtowii/dotfiles](https://github.com/hrtowii/dotfiles) - dotfiles for my first arch rice
 - [Jonius7/SteamUI-OldGlory](https://github.com/Jonius7/SteamUI-OldGlory) - A set of customisable Steam Library tweaks, with an installer. Also a reference that you can use to learn how to make your own tweaks.
