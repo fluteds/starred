@@ -299,6 +299,7 @@
 
 ## Emacs Lisp 
 
+- [lcolonq/lethe](https://github.com/lcolonq/lethe) - simple note-taking tool / personal wiki for Emacs
 - [lcolonq/upsidedowncake](https://github.com/lcolonq/upsidedowncake) - Compiler Upside-Down Cake
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 
@@ -317,6 +318,8 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [hugomd/ascii-live](https://github.com/hugomd/ascii-live) - An extension to parrot.live, with support for more animations! http://ascii.live
 - [steipete/sonoscli](https://github.com/steipete/sonoscli) - Control SONOS speakers from your terminal.
 - [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal.
 - [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
@@ -449,6 +452,7 @@
 
 ## JavaScript 
 
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [func-vehicle/gtamanager](https://github.com/func-vehicle/gtamanager) - A web application to help you keep track of your businesses in GTA V
 - [itszn/strudel_samples](https://github.com/itszn/strudel_samples) - 
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
@@ -779,6 +783,7 @@
 
 ## Python 
 
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
@@ -999,6 +1004,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [Benricheson101/optsync](https://github.com/Benricheson101/optsync) - Minecraft options.txt sync
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
