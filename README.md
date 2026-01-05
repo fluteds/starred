@@ -936,6 +936,7 @@
 
 ## Rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [lordaimer/iris](https://github.com/lordaimer/iris) - A fast, minimal, config-driven file management engine built in Rust
 - [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions
 - [kpberry/image-to-ascii](https://github.com/kpberry/image-to-ascii) - Converts images and gifs to ascii art
