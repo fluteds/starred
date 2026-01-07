@@ -827,7 +827,7 @@
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [kennethnym/infinifi](https://github.com/kennethnym/infinifi) - infinifi plays gentle lofi music in the background indefinitely
 - [Concept-Bytes/Jarvis](https://github.com/Concept-Bytes/Jarvis) - 
-- [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
+- [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) - This was an app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [ScottBot10/calibre_annas_archive](https://github.com/ScottBot10/calibre_annas_archive) - Calibre store plugin for Anna's Archive
 - [jadencamelot/f1-data](https://github.com/jadencamelot/f1-data) - Terminal-based Formula 1 live telemetry dashboard, that syncs with VLC video playback.
 - [latorc/MahjongCopilot](https://github.com/latorc/MahjongCopilot) - 雀魂游戏实时 AI 指导 / In-game step-by-step AI Assistant for Maj-soul
@@ -924,7 +924,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 240 stars and 192 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 242 stars and 193 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
