@@ -780,6 +780,8 @@
 
 ## Python 
 
+- [naimaier/trakt-letterboxd-converter](https://github.com/naimaier/trakt-letterboxd-converter) - Convert Trakt export files to Letterboxd
+- [louiscrc/trakt-to-letterboxd](https://github.com/louiscrc/trakt-to-letterboxd) - Automatically transfer your trakt history to Letterboxd and keep it synced
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
@@ -888,7 +890,7 @@
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [CowCoding0/Gartic-Phone-Draw-Bot](https://github.com/CowCoding0/Gartic-Phone-Draw-Bot) - Drawing Bot for Gartic Phone
 - [EhsanKia/CatalogScanner](https://github.com/EhsanKia/CatalogScanner) - Scans Animal Crossing: New Horizon catalog from video of user scrolling through.
-- [tilda/genshin-recipe-data](https://github.com/tilda/genshin-recipe-data) - An attempt to keep a current copy of Genshin Impact's cooking recipe data
+- [tildas-old-projects/genshin-recipe-data](https://github.com/tildas-old-projects/genshin-recipe-data) - An attempt to keep a current copy of Genshin Impact's cooking recipe data
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC) - Connect your Nintendo Switch playing status to Discord!
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
@@ -1107,7 +1109,6 @@
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
-- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
 - [benfl3713/DepartureBoard](https://github.com/benfl3713/DepartureBoard) - 🚅 This Project allows a user to view live train times in the format of a station departure board
 - [entur/tavla](https://github.com/entur/tavla) - 🖥 A customizable departure board for all public transport in Norway
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
@@ -1227,6 +1228,7 @@
 
 ## Vue 
 
+- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
 - [Treeki/MeteoNook](https://github.com/Treeki/MeteoNook) - weather prediction tool for Animal Crossing: New Horizons
 - [schej-it/timeful.app](https://github.com/schej-it/timeful.app) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
