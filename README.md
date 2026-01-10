@@ -447,6 +447,7 @@
 
 ## JavaScript 
 
+- [stong/stripe-press-helper](https://github.com/stong/stripe-press-helper) - chrome extension to help you borrow stripe press books indefinitely
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [func-vehicle/gtamanager](https://github.com/func-vehicle/gtamanager) - A web application to help you keep track of your businesses in GTA V
 - [itszn/strudel_samples](https://github.com/itszn/strudel_samples) - 
