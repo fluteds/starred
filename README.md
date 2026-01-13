@@ -927,7 +927,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 242 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 243 stars and 194 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -961,7 +961,7 @@
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
-- [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
+- [Priler/jarvis](https://github.com/Priler/jarvis) - Offline voice assistant that respects your privacy. Forged in Rust.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
