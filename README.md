@@ -1010,6 +1010,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [Benricheson101/optsync](https://github.com/Benricheson101/optsync) - Minecraft options.txt sync
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
+- [saihgupr/resolve_entities](https://github.com/saihgupr/resolve_entities) - A sophisticated Bash script that resolves natural language phrases to Home Assistant entity IDs using domain-first fuzzy matching. Designed to work with Automate with Gemini AI.
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Easily create Piper text-to-speech models in any voice.  Make a text-to-speech model with your own voice recordings, or use thousands of RVC voices. Works offline on a Raspberry pi.   Rapidly record c
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
@@ -1133,7 +1134,7 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [govizlora/optical-breacher](https://github.com/govizlora/optical-breacher) - Online Cyberpunk 2077 breach protocol minigame puzzle solver using camera
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
 - [katlyn/lovetap](https://github.com/katlyn/lovetap) - A simple way for loved ones to let each other know they are thinking of one another.
 - [Xetera/vuniparr](https://github.com/Xetera/vuniparr) - A custom Radarr list for movies that just became available for streaming
