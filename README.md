@@ -604,6 +604,7 @@
 
 ## Kotlin 
 
+- [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [Maxr1998/LightStickMod](https://github.com/Maxr1998/LightStickMod) - Modding the LOOΠΔ light stick with a custom PCB/firmware, rechargeable battery and a companion Android app for wireless control.
 - [isXander/Pronounify](https://github.com/isXander/Pronounify) - View your pronouns in Minecraft
 - [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
@@ -782,6 +783,7 @@
 
 ## Python 
 
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
 - [naimaier/trakt-letterboxd-converter](https://github.com/naimaier/trakt-letterboxd-converter) - Convert Trakt export files to Letterboxd
 - [louiscrc/trakt-to-letterboxd](https://github.com/louiscrc/trakt-to-letterboxd) - Automatically transfer your trakt history to Letterboxd and keep it synced
