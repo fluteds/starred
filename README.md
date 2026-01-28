@@ -313,6 +313,7 @@
 
 ## Go 
 
+- [Xetera/localproxy](https://github.com/Xetera/localproxy) - 💻  http://localhost:8080 -&gt; https://project.proxy.localhost
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [hugomd/ascii-live](https://github.com/hugomd/ascii-live) - An extension to parrot.live, with support for more animations! http://ascii.live
@@ -1076,6 +1077,7 @@
 
 ## Swift 
 
+- [stong/bedtime-nag](https://github.com/stong/bedtime-nag) - macOS app that tells you to go to bed
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Bloom, Unpluq, Blok and more!
 - [khcrysalis/Copyboard](https://github.com/khcrysalis/Copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
@@ -1101,6 +1103,8 @@
 
 ## TypeScript 
 
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [lucasmelin/omg.lol-gh-status-sync-action](https://github.com/lucasmelin/omg.lol-gh-status-sync-action) - Sync your omg.lol status to your GitHub user profile status
 - [kaicoleridge/FredFrame](https://github.com/kaicoleridge/FredFrame) - Turn your photos into a Fred Again actual life cover art
