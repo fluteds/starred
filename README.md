@@ -933,7 +933,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 246 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 247 stars and 194 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -1107,7 +1107,7 @@
 - [lucasmelin/omg.lol-gh-status-sync-action](https://github.com/lucasmelin/omg.lol-gh-status-sync-action) - Sync your omg.lol status to your GitHub user profile status
 - [kaicoleridge/FredFrame](https://github.com/kaicoleridge/FredFrame) - Turn your photos into a Fred Again actual life cover art
 - [notjuliet/pronouns-bsky](https://github.com/notjuliet/pronouns-bsky) - Pronouns labels on Bluesky
-- [sapphies/tailname](https://github.com/sapphies/tailname) - 🏷️ Search for custom tailnet name offers with keywords.
+- [SapphoSys/tailname](https://github.com/SapphoSys/tailname) - 🏷️ Search for custom tailnet name offers with keywords.
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [muckelba/dynamic-lights-homeassistant](https://github.com/muckelba/dynamic-lights-homeassistant) - 💡 Spicetify extension that changes Home Assistant lights based on the album cover color
