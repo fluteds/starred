@@ -131,7 +131,7 @@
 - [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest, now with 100% less evil!
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
-- [chaosgoo/mcompass](https://github.com/chaosgoo/mcompass) - 
+- [chaosgoo/mcompass](https://github.com/chaosgoo/mcompass) - A Real-World Minecraft Compass
 - [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) - A mathematical keypad for students and professionals
 - [XorTroll/mkds-re](https://github.com/XorTroll/mkds-re) - Mario Kart DS (EU) reverse-engineering work: ASM-hacking and other tools
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
