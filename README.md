@@ -310,6 +310,7 @@
 
 ## Go 
 
+- [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [Xetera/localproxy](https://github.com/Xetera/localproxy) - ✨ Magically access any process/container on your computer through a .localhost URL
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -363,6 +364,7 @@
 
 ## HTML 
 
+- [ErikVeland/epstein-archive](https://github.com/ErikVeland/epstein-archive) - Epstein Files Archive - Document processing and analysis system for Epstein files with spice ratings, entity extraction, and advanced search capabilities
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 - [Tmp341/VIPApp](https://github.com/Tmp341/VIPApp) - The VIP Companion APP
 - [kja140/FredAgainOnLoop](https://github.com/kja140/FredAgainOnLoop) - Set Fred Again live music as your desktop background or just visit the site to live the Fred Again experience and become zen
@@ -524,7 +526,7 @@
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work
 - [robole/vscode-file-bunny](https://github.com/robole/vscode-file-bunny) - Perform file actions quickly with keyboard-driven file selection. 🐰
-- [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
+- [souwell/Five-Nights-at-Freddys-Web](https://github.com/souwell/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
 - [4ndv/HexaGone](https://github.com/4ndv/HexaGone) - Replaces twitter NFT idiocracy
 - [daisyUniverse/TwitFix-Extension](https://github.com/daisyUniverse/TwitFix-Extension) - A browser extension that adds TwitFix url copy buttons to Twitter
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
@@ -785,6 +787,7 @@
 
 ## Python 
 
+- [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
 - [naimaier/trakt-letterboxd-converter](https://github.com/naimaier/trakt-letterboxd-converter) - Convert Trakt export files to Letterboxd
