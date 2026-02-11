@@ -956,7 +956,7 @@
 - [ttytm/wthrr-the-weathercrab](https://github.com/ttytm/wthrr-the-weathercrab) - 🌞 🦀 🌙 Weather companion for the terminal. Rust app.
 - [octagony/rumos](https://github.com/octagony/rumos) - CLI utility to control screen brightness
 - [diabloproject/clonk-cli](https://github.com/diabloproject/clonk-cli) - 
-- [taskylizard/hanukkah](https://github.com/taskylizard/hanukkah) - 🕯 wooo spooky data
+- [taskyliz/hanukkah](https://github.com/taskyliz/hanukkah) - 🕯 wooo spooky data
 - [kirillkuzin/cyberpunk2077ai](https://github.com/kirillkuzin/cyberpunk2077ai) - 🤖CyberAI is designed to bridge the world of Cyberpunk 2077 and the power of OpenAI's AI technology.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
