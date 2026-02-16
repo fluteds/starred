@@ -310,6 +310,7 @@
 
 ## Go 
 
+- [Yakitrak/notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Obsidian CLI (Community) -  Interact with Obsidian in the terminal!
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [Xetera/localproxy](https://github.com/Xetera/localproxy) - ✨ Magically access any process/container on your computer through a .localhost URL
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -933,7 +934,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 248 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 248 stars and 195 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
