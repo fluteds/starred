@@ -365,7 +365,6 @@
 
 ## HTML 
 
-- [ErikVeland/epstein-archive](https://github.com/ErikVeland/epstein-archive) - Epstein Files Archive - Document processing and analysis system for Epstein files with spice ratings, entity extraction, and advanced search capabilities
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 - [Tmp341/VIPApp](https://github.com/Tmp341/VIPApp) - The VIP Companion APP
 - [kja140/FredAgainOnLoop](https://github.com/kja140/FredAgainOnLoop) - Set Fred Again live music as your desktop background or just visit the site to live the Fred Again experience and become zen
@@ -831,7 +830,7 @@
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - 
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
-- [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - Titling software for streamers who use DJ software like Serato, Virtual DJ, and more.
+- [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - Titling software for streamers
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
@@ -946,6 +945,7 @@
 
 ## Rust 
 
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [uncenter/kittysay](https://github.com/uncenter/kittysay) - cowsay, but with a cute kitty :3
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [lordaimer/iris](https://github.com/lordaimer/iris) - A fast, minimal, config-driven file management engine built in Rust
@@ -1077,7 +1077,7 @@
 ## Swift 
 
 - [stong/fastclock](https://github.com/stong/fastclock) - MacOS status bar clock that shows N minutes ahead
-- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch.
+- [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [stong/bedtime-nag](https://github.com/stong/bedtime-nag) - macOS app that tells you to go to bed
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Bloom, Unpluq, Blok and more!
@@ -1106,6 +1106,7 @@
 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
+- [ErikVeland/epstein-archive](https://github.com/ErikVeland/epstein-archive) - Epstein Files Archive - Document processing and analysis system for Epstein files with spice ratings, entity extraction, and advanced search capabilities
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
