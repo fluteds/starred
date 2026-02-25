@@ -948,6 +948,7 @@
 
 ## Rust 
 
+- [wez/govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [uncenter/kittysay](https://github.com/uncenter/kittysay) - cowsay, but with a cute kitty :3
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
