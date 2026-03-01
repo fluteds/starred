@@ -950,7 +950,7 @@
 ## Rust 
 
 - [wez/govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 - [uncenter/kittysay](https://github.com/uncenter/kittysay) - cowsay, but with a cute kitty :3
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [lordaimer/iris](https://github.com/lordaimer/iris) - A fast, minimal, config-driven file management engine built in Rust
@@ -961,7 +961,7 @@
 - [ttytm/wthrr-the-weathercrab](https://github.com/ttytm/wthrr-the-weathercrab) - 🌞 🦀 🌙 Weather companion for the terminal. Rust app.
 - [octagony/rumos](https://github.com/octagony/rumos) - CLI utility to control screen brightness
 - [diabloproject/clonk-cli](https://github.com/diabloproject/clonk-cli) - 
-- [taskyliz/hanukkah](https://github.com/taskyliz/hanukkah) - 🕯 wooo spooky data
+- [taskylizard/hanukkah](https://github.com/taskylizard/hanukkah) - 🕯 wooo spooky data
 - [kirillkuzin/cyberpunk2077ai](https://github.com/kirillkuzin/cyberpunk2077ai) - 🤖CyberAI is designed to bridge the world of Cyberpunk 2077 and the power of OpenAI's AI technology.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
