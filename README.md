@@ -936,7 +936,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 252 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 253 stars and 194 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -955,7 +955,7 @@
 - [lordaimer/iris](https://github.com/lordaimer/iris) - A fast, minimal, config-driven file management engine built in Rust
 - [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions
 - [kpberry/image-to-ascii](https://github.com/kpberry/image-to-ascii) - Converts images and gifs to ascii art
-- [wunnr/partydeck](https://github.com/wunnr/partydeck) - A split-screen game launcher for Linux/SteamOS
+- [partydeck/partydeck](https://github.com/partydeck/partydeck) - A split-screen game launcher for Linux/SteamOS
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [ttytm/wthrr-the-weathercrab](https://github.com/ttytm/wthrr-the-weathercrab) - 🌞 🦀 🌙 Weather companion for the terminal. Rust app.
 - [octagony/rumos](https://github.com/octagony/rumos) - CLI utility to control screen brightness
