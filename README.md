@@ -1082,6 +1082,7 @@
 
 ## Swift 
 
+- [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for coding tools
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [naomisphere/macpaper](https://github.com/naomisphere/macpaper) - The Wallpaper Manager for macOS
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
@@ -1113,6 +1114,8 @@
 
 ## TypeScript 
 
+- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
+- [stevysmith/clawdgotchi](https://github.com/stevysmith/clawdgotchi) - 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
 - [ErikVeland/epstein-archive](https://github.com/ErikVeland/epstein-archive) - Epstein Files Archive - Document processing and analysis system for Epstein files with spice ratings, entity extraction, and advanced search capabilities
