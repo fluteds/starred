@@ -253,6 +253,7 @@
 - [Jonius7/SteamUI-OldGlory](https://github.com/Jonius7/SteamUI-OldGlory) - A set of customisable Steam Library tweaks, with an installer. Also a reference that you can use to learn how to make your own tweaks.
 - [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
 - [dimdenGD/discord-oled-theme](https://github.com/dimdenGD/discord-oled-theme) - Theme for OLED screens like AMOLED theme for phones. Nothing else.
+- [skullface/suitortheband](https://github.com/skullface/suitortheband) - 
 - [onekocord/onekocord](https://github.com/onekocord/onekocord) - CSS-Snippets for Oneko in Discord Clients
 - [darkthemer/rosepine-theme-windows](https://github.com/darkthemer/rosepine-theme-windows) - I'm currently using the Rose Pine color scheme to personalize my Windows desktop.
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
@@ -366,6 +367,7 @@
 
 ## HTML 
 
+- [amywork777/CuteGhostty](https://github.com/amywork777/CuteGhostty) - Cute Ghostty - A cute customized Ghostty terminal emulator for macOS
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 - [Tmp341/VIPApp](https://github.com/Tmp341/VIPApp) - The VIP Companion APP
 - [kja140/FredAgainOnLoop](https://github.com/kja140/FredAgainOnLoop) - Set Fred Again live music as your desktop background or just visit the site to live the Fred Again experience and become zen
@@ -375,7 +377,6 @@
 - [skullface/kaleidoscope-year](https://github.com/skullface/kaleidoscope-year) - 🗓️ Workshop ticketing microsite
 - [dfbr/dfbr.github.io](https://github.com/dfbr/dfbr.github.io) - Norwegian words (and other resources) that I should be learning
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
-- [skullface/suitortheband](https://github.com/skullface/suitortheband) - 
 - [dimdenGD/mood-tracker](https://github.com/dimdenGD/mood-tracker) - My mood tracker
 - [rebane2001/antonymph](https://github.com/rebane2001/antonymph) - a pop-up music video
 - [Axemasta/Password-Splitter](https://github.com/Axemasta/Password-Splitter) - A quick and easy tool to split passwords up and quickly identify the position of characters in your passwords
@@ -789,6 +790,7 @@
 
 ## Python 
 
+- [Itsnotaka/interaction](https://github.com/Itsnotaka/interaction) - An interaction poke implementation of my own. Focusing on more UI side implementations.
 - [nazirlouis/ada_v2](https://github.com/nazirlouis/ada_v2) - 
 - [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
@@ -801,7 +803,7 @@
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [adamcornforth/train-departure-pi](https://github.com/adamcornforth/train-departure-pi) - Experiment with showing real-time train departure info via an SSD1322 OLED screen attached to a Raspberry Pi.
-- [Darkdragon14/ha-aqara-devices](https://github.com/Darkdragon14/ha-aqara-devices) - Custom Home Assistant integration for Aqara devices. Currently supports Camera Hub G3 (video control, human detection). FP2 presence sensor support planned. Extends official integration with extra fea
+- [Darkdragon14/ha-aqara-devices](https://github.com/Darkdragon14/ha-aqara-devices) - Custom Home Assistant integration for Aqara devices. Supports Hub G3, Hub M3, FP2 and FP300 via Aqara Cloud with advanced controls, presence telemetry and extended features beyond the official integra
 - [zhouyuyang-joey/strudel_json_generator](https://github.com/zhouyuyang-joey/strudel_json_generator) - A Python script that can quickly generate a JSON file containing your sample information.
 - [jamietr1/obsidian-automation](https://github.com/jamietr1/obsidian-automation) - A set of scripts to help with automating tasks around the Obsidian text editor
 - [adanowitz/HASSL](https://github.com/adanowitz/HASSL) - Home Assistant Simple Scripting Language
@@ -938,7 +940,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 254 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 255 stars and 194 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
