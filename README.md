@@ -1117,6 +1117,7 @@
 
 ## TypeScript 
 
+- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [obsidianmd/obsidian-maps](https://github.com/obsidianmd/obsidian-maps) - Map layout for Obsidian Bases. Display your notes as an interactive map view.
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
 - [stevysmith/clawdgotchi](https://github.com/stevysmith/clawdgotchi) - 
@@ -1273,6 +1274,7 @@
 
 ## Zig 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya
 
 ## mcfunction 
