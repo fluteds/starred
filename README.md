@@ -452,6 +452,8 @@
 
 ## JavaScript 
 
+- [djdevil/person-tracker-card](https://github.com/djdevil/person-tracker-card) - Advanced person tracking card for Home Assistant with visual editor
+- [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 - [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) - 
 - [agaragou/LockScreen-Calendar-ShortCut](https://github.com/agaragou/LockScreen-Calendar-ShortCut) - Shortcut to display year calendar with events on the lock screen wallpaper for iPhones
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
@@ -790,6 +792,7 @@
 
 ## Python 
 
+- [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar) - Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 - [Itsnotaka/interaction](https://github.com/Itsnotaka/interaction) - An interaction poke implementation of my own. Focusing on more UI side implementations.
 - [nazirlouis/ada_v2](https://github.com/nazirlouis/ada_v2) - 
 - [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
