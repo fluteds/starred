@@ -178,7 +178,7 @@
 - [UtsuhoRocks/mb_DiscordRichPresence](https://github.com/UtsuhoRocks/mb_DiscordRichPresence) - it just works
 - [AudioBand/AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar
 - [velddev/another-suika-game](https://github.com/velddev/another-suika-game) - This time with combo chains
-- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 1.21.11.
+- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 26.1
 - [vbisbest/MineChat](https://github.com/vbisbest/MineChat) - MineChat mobile application
 - [vin350/TwitchPointsFarmer](https://github.com/vin350/TwitchPointsFarmer) - This project aims to help those people who keeps many Twitch livestreams open 24/7 farming those channel points. It helps them by providing a costless interface, and by making possible farming multipl
 - [jamescl604/MSFSVoiceAttackPlugin](https://github.com/jamescl604/MSFSVoiceAttackPlugin) - Enables additional control of Microsoft Flight Simulator 2020 from Voice Attack
