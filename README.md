@@ -794,6 +794,7 @@
 
 ## Python 
 
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar) - Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 - [Itsnotaka/interaction](https://github.com/Itsnotaka/interaction) - An interaction poke implementation of my own. Focusing on more UI side implementations.
 - [nazirlouis/ada_v2](https://github.com/nazirlouis/ada_v2) - 
@@ -841,7 +842,7 @@
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - 
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
-- [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - Titling software for streamers
+- [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - What's Now Playing — live track display for DJs streaming on Twitch and Kick
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
