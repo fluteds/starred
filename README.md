@@ -946,7 +946,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 256 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 254 stars and 195 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -996,7 +996,7 @@
 - [ihateblueb/cobalt-cli](https://github.com/ihateblueb/cobalt-cli) - save what you love from your terminal
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
-- [cangzhang/champ-r](https://github.com/cangzhang/champ-r) - 🐶 Yet another League of Legends helper
+- [cangzhang/champr](https://github.com/cangzhang/champr) - 🐶 Yet another League of Legends helper
 - [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -1123,7 +1123,6 @@
 
 ## TypeScript 
 
-- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [obsidianmd/obsidian-maps](https://github.com/obsidianmd/obsidian-maps) - Map layout for Obsidian Bases. Display your notes as an interactive map view.
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
