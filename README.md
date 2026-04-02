@@ -147,7 +147,7 @@
 - [libc0607/GI_Dice](https://github.com/libc0607/GI_Dice) - An implementation of the Element Dice in Genius Invokation TCG with RISC-V & BLE inside 原神七圣召唤中的元素骰子，支持蓝牙
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [Malin001/Legilimens-Hogwarts-Legacy-cpp](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-cpp) - Legilimens is a tool to help you find your last few missing collectibles in Hogwarts Legacy and finally get that 100% completion. Now rewritten in C++
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [sharpbracket/redshift](https://github.com/sharpbracket/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
@@ -456,7 +456,7 @@
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 - [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) - 
 - [agaragou/LockScreen-Calendar-ShortCut](https://github.com/agaragou/LockScreen-Calendar-ShortCut) - Shortcut to display year calendar with events on the lock screen wallpaper for iPhones
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [stong/stripe-press-helper](https://github.com/stong/stripe-press-helper) - chrome extension to help you borrow stripe press books indefinitely
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [func-vehicle/gtamanager](https://github.com/func-vehicle/gtamanager) - A web application to help you keep track of your businesses in GTA V
@@ -959,6 +959,7 @@
 ## Rust 
 
 - [wez/govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [uncenter/kittysay](https://github.com/uncenter/kittysay) - cowsay, but with a cute kitty :3
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [ereinaimer/iris](https://github.com/ereinaimer/iris) - A fast, minimal, config-driven file management engine built in Rust
