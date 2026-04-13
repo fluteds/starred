@@ -657,6 +657,7 @@
 
 ## Others 
 
+- [AwesomeVisa/awesome-immigration](https://github.com/AwesomeVisa/awesome-immigration) - An Awesome list of long-term visas
 - [vystrcild/claude_code_journaling](https://github.com/vystrcild/claude_code_journaling) - A set of prompts and agents that process daily journal entries
 - [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) - Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
@@ -975,7 +976,6 @@
 - [octagony/rumos](https://github.com/octagony/rumos) - CLI utility to control screen brightness
 - [diabloproject/clonk-cli](https://github.com/diabloproject/clonk-cli) - 
 - [taskylizard/hanukkah](https://github.com/taskylizard/hanukkah) - 🕯 wooo spooky data
-- [kirillkuzin/cyberpunk2077ai](https://github.com/kirillkuzin/cyberpunk2077ai) - 🤖CyberAI is designed to bridge the world of Cyberpunk 2077 and the power of OpenAI's AI technology.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
 - [xvxx/phetch](https://github.com/xvxx/phetch) - 🐭 quick lil gopher client for your terminal
 - [lcolonq/renderer](https://github.com/lcolonq/renderer) - LCOLONQ model renderer
@@ -1000,7 +1000,7 @@
 - [ihateblueb/cobalt-cli](https://github.com/ihateblueb/cobalt-cli) - save what you love from your terminal
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
-- [cangzhang/champr](https://github.com/cangzhang/champr) - 🐶 Yet another League of Legends helper
+- [cangzhang/ChampR](https://github.com/cangzhang/ChampR) - 🐶 Yet another League of Legends helper
 - [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -1104,7 +1104,7 @@
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [stong/bedtime-nag](https://github.com/stong/bedtime-nag) - macOS app that tells you to go to bed
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-- [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Bloom, Unpluq, Blok and more!
+- [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!
 - [CLARATION/Copyboard](https://github.com/CLARATION/Copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
