@@ -367,6 +367,7 @@
 
 ## HTML 
 
+- [Tech1k/helloesp](https://github.com/Tech1k/helloesp) - A public website hosted on an ESP32.
 - [amywork777/CuteGhostty](https://github.com/amywork777/CuteGhostty) - Cute Ghostty - A cute customized Ghostty terminal emulator for macOS
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 - [Tmp341/VIPApp](https://github.com/Tmp341/VIPApp) - The VIP Companion APP
@@ -375,7 +376,7 @@
 - [WolfwithSword/Bambu-HomeAssistant-Flows](https://github.com/WolfwithSword/Bambu-HomeAssistant-Flows) - A collection of HomeAssistant Dashboards and NodeRed Flows with a configurator to connect a BambuLabs printer to HomeAssistant through MQTT - based off of my Gists
 - [Priyonti270/Egg-Timer](https://github.com/Priyonti270/Egg-Timer) - Egg Timer inspired by @Nashallery
 - [skullface/kaleidoscope-year](https://github.com/skullface/kaleidoscope-year) - 🗓️ Workshop ticketing microsite
-- [dfbr/dfbr.github.io](https://github.com/dfbr/dfbr.github.io) - Norwegian words (and other resources) that I should be learning
+- [dfbr/norwegianWords](https://github.com/dfbr/norwegianWords) - Norwegian words (and other resources) that I should be learning
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [dimdenGD/mood-tracker](https://github.com/dimdenGD/mood-tracker) - My mood tracker
 - [rebane2001/antonymph](https://github.com/rebane2001/antonymph) - a pop-up music video
@@ -645,7 +646,6 @@
 
 ## Nix 
 
-- [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
 - [joinemm/nix-infra](https://github.com/joinemm/nix-infra) - :snowflake: i use NixOS btw
 
 ## Objective-C 
@@ -662,6 +662,7 @@
 - [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) - Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+- [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
 - [esodesod/obsidian-web-clipper-templates](https://github.com/esodesod/obsidian-web-clipper-templates) - My collection of Obsidian Web Clipper templates
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
@@ -951,7 +952,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 255 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 258 stars and 195 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -1098,7 +1099,7 @@
 - [f/poke-gate](https://github.com/f/poke-gate) - Expose your machine to your Poke AI assistant via MCP tunnel
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for coding tools
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
-- [naomisphere/macpaper](https://github.com/naomisphere/macpaper) - The Wallpaper Manager for macOS
+- [naomisphere/moonleaf](https://github.com/naomisphere/moonleaf) - The Wallpaper Manager for macOS
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [stong/fastclock](https://github.com/stong/fastclock) - MacOS status bar clock that shows N minutes ahead
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
