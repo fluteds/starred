@@ -662,6 +662,7 @@
 
 ## Others 
 
+- [asekachov/Markie](https://github.com/asekachov/Markie) - Markie — quick-add panel for macOS. Public release feed (DMGs + Sparkle appcast).
 - [AwesomeVisa/awesome-immigration](https://github.com/AwesomeVisa/awesome-immigration) - An Awesome list of long-term visas
 - [vystrcild/claude_code_journaling](https://github.com/vystrcild/claude_code_journaling) - A set of prompts and agents that process daily journal entries
 - [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) - Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
@@ -853,7 +854,7 @@
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1) - 
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
-- [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - What's Now Playing — live track display for DJs streaming on Twitch and Kick
+- [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - What's Now Playing — live track IDs, chat bots, artist metadata, Guess Game, and charts for DJs streaming on Twitch and Kick
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
