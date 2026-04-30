@@ -1137,7 +1137,7 @@
 ## TypeScript 
 
 - [nmattia/skapa](https://github.com/nmattia/skapa) - Generate 3D printable models for IKEA SKADIS pegboards.
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Any model. Every tool. Zero limits.
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [obsidianmd/obsidian-maps](https://github.com/obsidianmd/obsidian-maps) - Map layout for Obsidian Bases. Display your notes as an interactive map view.
