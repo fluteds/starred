@@ -807,6 +807,7 @@
 
 ## Python 
 
+- [Jonty/uk-notam-archive](https://github.com/Jonty/uk-notam-archive) - An hourly updated archive of all UK Notices To Airmen (NOTAM)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar) - Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
@@ -1106,7 +1107,7 @@
 
 ## Swift 
 
-- [steipete/imsg](https://github.com/steipete/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
+- [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [f/poke-gate](https://github.com/f/poke-gate) - Expose your machine to your Poke AI assistant via MCP tunnel
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for coding tools
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
