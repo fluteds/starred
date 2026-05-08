@@ -1232,7 +1232,7 @@
 - [judge2020/cloudflare-file-hosting](https://github.com/judge2020/cloudflare-file-hosting) - Use Cloudflare (Workers) as a file host!
 - [witchtrash/hakke.ro](https://github.com/witchtrash/hakke.ro) - idiot website
 - [lynn/hello](https://github.com/lynn/hello) - Word-guessing game
-- [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators and Tools for Minecraft 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, 1.21
+- [misode/misode.github.io](https://github.com/misode/misode.github.io) - Data Pack Generators and Tools for Minecraft 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, 1.21, 26.1
 - [soatok/dunktags](https://github.com/soatok/dunktags) - Generate a hashtag for a terrible take so you can dunk on it without boosting engagement
 - [Xetera/fixtiktok](https://github.com/Xetera/fixtiktok) - Make tiktok embeds playable on Discord by adding "fix" before "tiktok.com"
 - [mordv/mnswpr](https://github.com/mordv/mnswpr) - 💣 Minesweeper game for your terminal
