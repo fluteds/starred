@@ -465,6 +465,7 @@
 
 ## JavaScript 
 
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 - [djdevil/person-tracker-card](https://github.com/djdevil/person-tracker-card) - Advanced person tracking card for Home Assistant with visual editor
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 - [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) - 
@@ -676,7 +677,6 @@
 - [AwesomeVisa/awesome-immigration](https://github.com/AwesomeVisa/awesome-immigration) - An Awesome list of long-term visas
 - [vystrcild/claude_code_journaling](https://github.com/vystrcild/claude_code_journaling) - A set of prompts and agents that process daily journal entries
 - [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) - Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
@@ -1119,6 +1119,7 @@
 
 ## Swift 
 
+- [farouqaldori/vibe-notch](https://github.com/farouqaldori/vibe-notch) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 - [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [f/poke-gate](https://github.com/f/poke-gate) - Expose your machine to your Poke AI assistant via MCP tunnel
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for claude code & codex
