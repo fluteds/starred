@@ -482,7 +482,6 @@
 - [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [mgriley/BigOlJungle](https://github.com/mgriley/BigOlJungle) - Repo for JungleReader web-reader, JungleWriter site editor, and other jungle-themed web projects.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
@@ -983,6 +982,7 @@
 
 ## Rust 
 
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [vxfemboy/vxfemboy](https://github.com/vxfemboy/vxfemboy) - 
 - [sarowish/ytsub](https://github.com/sarowish/ytsub) - A subscriptions only TUI YouTube client
@@ -1054,6 +1054,8 @@
 
 ## Shell 
 
+- [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
+- [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [p-poss/dj-claude-plugin](https://github.com/p-poss/dj-claude-plugin) - Adds live music and multi-agent jam band capabilities to Claude Code
 - [nickjj/notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
@@ -1182,6 +1184,7 @@
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [benfl3713/DepartureBoard](https://github.com/benfl3713/DepartureBoard) - 🚅 This Project allows a user to view live train times in the format of a station departure board
 - [entur/tavla](https://github.com/entur/tavla) - 🖥 A customizable departure board for all public transport in Norway
