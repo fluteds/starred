@@ -130,6 +130,7 @@
 
 ## C 
 
+- [meatpiHQ/wican-fw](https://github.com/meatpiHQ/wican-fw) - 
 - [jdknight/capsblock](https://github.com/jdknight/capsblock) - Prevent Caps Lock key from being left on in Windows.
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
@@ -465,6 +466,7 @@
 
 ## JavaScript 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 - [djdevil/person-tracker-card](https://github.com/djdevil/person-tracker-card) - Advanced person tracking card for Home Assistant with visual editor
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
