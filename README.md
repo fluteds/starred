@@ -300,6 +300,7 @@
 
 ## Emacs Lisp 
 
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [lcolonq/lethe](https://github.com/lcolonq/lethe) - simple note-taking tool / personal wiki for Emacs
 - [lcolonq/upsidedowncake](https://github.com/lcolonq/upsidedowncake) - Compiler Upside-Down Cake
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
@@ -528,7 +529,7 @@
 - [sorz/accept-language-per-site](https://github.com/sorz/accept-language-per-site) - Firefox extension to change Accept-Language for different sites.
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 - [sudofox/mojang-blocklist](https://github.com/sudofox/mojang-blocklist) - identifying/tracking minecraft servers on mojang's blocklist
-- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServerV1 is a local, single-user Fortnite backend (server emulator) which supports both Battle Royale and Save the World.
+- [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServerV1 is a local single-user Fortnite backend (server emulator) which supports both Battle Royale and Save the World.
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [Erisa/starbin](https://github.com/Erisa/starbin) - A hastebin-compatible paste site running on Cloudflare Pages.
 - [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that was used for Club Penguin Rewritten events.
