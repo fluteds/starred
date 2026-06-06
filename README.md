@@ -838,7 +838,7 @@
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [adamcornforth/train-departure-pi](https://github.com/adamcornforth/train-departure-pi) - Experiment with showing real-time train departure info via an SSD1322 OLED screen attached to a Raspberry Pi.
-- [Darkdragon14/ha-aqara-devices](https://github.com/Darkdragon14/ha-aqara-devices) - Custom Home Assistant integration for Aqara devices. Supports Hub G3, Hub M3, FP2 and FP300 via Aqara Cloud with advanced controls, presence telemetry and extended features beyond the official integra
+- [Darkdragon14/ha-aqara-devices](https://github.com/Darkdragon14/ha-aqara-devices) - Custom Home Assistant integration for Aqara devices. Supports G3, G2H Pro, G410, G4, M3, M100, FP2, FP300, and A100 Pro via Aqara Cloud with advanced controls, presence telemetry and extended features
 - [zhouyuyang-joey/strudel_json_generator](https://github.com/zhouyuyang-joey/strudel_json_generator) - A Python script that can quickly generate a JSON file containing your sample information.
 - [jamietr1/obsidian-automation](https://github.com/jamietr1/obsidian-automation) - A set of scripts to help with automating tasks around the Obsidian text editor
 - [adanowitz/HASSL](https://github.com/adanowitz/HASSL) - Home Assistant Simple Scripting Language
