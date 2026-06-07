@@ -1160,6 +1160,7 @@
 
 ## TypeScript 
 
+- [azjgard/trmnl-weekly-goal-tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Track weekly goals on a simple e-ink display
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [nmattia/skapa](https://github.com/nmattia/skapa) - Generate 3D printable models for IKEA SKADIS pegboards.
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
