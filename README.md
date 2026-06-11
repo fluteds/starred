@@ -694,7 +694,7 @@
 - [AMSanchezC/R36sGuide](https://github.com/AMSanchezC/R36sGuide) - A guide on getting started with you R36s and more
 - [protesilaos/iosevka-comfy](https://github.com/protesilaos/iosevka-comfy) - Custom build of Iosevka with different style and metrics than the default.
 - [flejz/hass-cyberpunk-2077-theme](https://github.com/flejz/hass-cyberpunk-2077-theme) - Cyberpunk 2077 GUI inspied Home Assistant theme
-- [deroverda/recommended-radio-streams](https://github.com/deroverda/recommended-radio-streams) - A hand-picked list of internet radio stations I actually listen to - underground electronic, freeform, jazz, ambient, and weird stuff. Includes direct stream URLs and the apps to play them.
+- [deroverda/recommended-radio-streams](https://github.com/deroverda/recommended-radio-streams) - Internet radio stations I actually listen to - underground electronic, freeform, jazz, ambient, and weird stuff. Direct stream URLs and the apps to play them.
 - [drunohazarb/4chan-captcha-solver](https://github.com/drunohazarb/4chan-captcha-solver) - 
 - [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
