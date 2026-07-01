@@ -874,7 +874,7 @@
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
 - [whatsnowplaying/whats-now-playing](https://github.com/whatsnowplaying/whats-now-playing) - What's Now Playing — live track IDs, chat bots, artist metadata, Guess Game, and charts for DJs streaming on Twitch and Kick
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [deep5050/radio-active](https://github.com/deep5050/radio-active) - Play any radios around the globe right from the terminal :zap:
+- [dpnkrpl/radio-active](https://github.com/dpnkrpl/radio-active) - Play any radios around the globe right from the terminal :zap:
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [kennethnym/infinifi](https://github.com/kennethnym/infinifi) - infinifi plays gentle lofi music in the background indefinitely
 - [Concept-Bytes/Jarvis](https://github.com/Concept-Bytes/Jarvis) - 
