@@ -893,7 +893,7 @@
 - [Green-Bat/Savefile-Manager](https://github.com/Green-Bat/Savefile-Manager) - A program to help manage savefiles
 - [SamuraiOndo/fortniteFestivalDownloader](https://github.com/SamuraiOndo/fortniteFestivalDownloader) - Downloads Fortnite Festival stems
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [pipeeeeees/waze-voicepack-links](https://github.com/pipeeeeees/waze-voicepack-links) - A collaborative list of Waze navigation voice packs
+- [pipeeeeees/waze-voicepack-links](https://github.com/pipeeeeees/waze-voicepack-links) - A community-maintained archive of classic and custom Waze GPS voice navigation packs
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [xP9nda/PapaFreezeriaBot](https://github.com/xP9nda/PapaFreezeriaBot) - A python bot to automate gameplay of Papa's Freezeria Deluxe on Steam.
 - [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
