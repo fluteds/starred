@@ -219,7 +219,7 @@
 - [spuder/OpenSpool](https://github.com/spuder/OpenSpool) - RFID for 3d printer filament
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-- [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [mastercomfig/tc2](https://github.com/mastercomfig/tc2) - A TF2 mod with fresh new development
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -1138,7 +1138,7 @@
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [stong/bedtime-nag](https://github.com/stong/bedtime-nag) - macOS app that tells you to go to bed
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-- [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!
+- [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, ScreenZen, Unpluq, Blok and more!
 - [claration/Copyboard](https://github.com/claration/Copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
