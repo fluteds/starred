@@ -468,6 +468,8 @@
 
 ## JavaScript 
 
+- [fluteds/wavez](https://github.com/fluteds/wavez) - Quality of life tools and userscripts for wavez.fm
+- [fluteds/wavez-discord-presence](https://github.com/fluteds/wavez-discord-presence) - Show your wavez.fm room, track, artist and DJ as Discord Rich Presence, a userscript plus a local bridge.
 - [netbymatt/ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 - [goto-bus-stop/dizzay](https://github.com/goto-bus-stop/dizzay) - dizzay (/ˈdɪːdʒeɪ/) is a command-line program that plays media from a plug.dj room in VLC or in Mplayer.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
