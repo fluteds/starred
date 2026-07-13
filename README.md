@@ -249,7 +249,7 @@
 
 ## CSS 
 
-- [spiritov/ds.css](https://github.com/spiritov/ds.css) - A css framework recreating the DS / DS Lite's UI
+- [spiritov/ds.css](https://github.com/spiritov/ds.css) - css framework recreating the DS / DS Lite's UI
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 - [ronaldl29/public-domain-recipes](https://github.com/ronaldl29/public-domain-recipes) - A recipe website with no backstories, ads, or trackers.
