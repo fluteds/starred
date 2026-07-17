@@ -1085,7 +1085,7 @@
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [meshstyles/bash_downloaders](https://github.com/meshstyles/bash_downloaders) - these are several downloaders written in bash
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
 - [tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky) - Make your standing desk smarter
 - [na-na-hi/renget](https://github.com/na-na-hi/renget) - rentry download script
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
