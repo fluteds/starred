@@ -469,7 +469,7 @@
 ## JavaScript 
 
 - [fluteds/wavez](https://github.com/fluteds/wavez) - Quality of life tools and userscripts for wavez.fm
-- [fluteds/wavez-discord-presence](https://github.com/fluteds/wavez-discord-presence) - Show your wavez.fm room, track, artist and DJ as Discord Rich Presence, a userscript plus a local bridge.
+- [fluteds/wavez-discord-presence](https://github.com/fluteds/wavez-discord-presence) - Show your wavez.fm room, track, artist and DJ information as a Discord Rich Presence
 - [netbymatt/ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 - [goto-bus-stop/dizzay](https://github.com/goto-bus-stop/dizzay) - dizzay (/ˈdɪːdʒeɪ/) is a command-line program that plays media from a plug.dj room in VLC or in Mplayer.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -980,7 +980,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 263 stars and 192 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 262 stars and 192 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
