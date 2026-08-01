@@ -678,6 +678,7 @@
 
 ## Others 
 
+- [WavezFM/WavezFM-Extension-API](https://github.com/WavezFM/WavezFM-Extension-API) - WavezFM Extension API provides a stable, official client-side bridge for browser extensions and user scripts running on WavezFM room pages.
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 - [asekachov/Markie](https://github.com/asekachov/Markie) - Markie — quick-add panel for macOS. Public release feed (DMGs + Sparkle appcast).
 - [AwesomeVisa/awesome-immigration](https://github.com/AwesomeVisa/awesome-immigration) - An Awesome list of long-term visas
