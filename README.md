@@ -474,7 +474,7 @@
 - [netbymatt/ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 - [goto-bus-stop/dizzay](https://github.com/goto-bus-stop/dizzay) - dizzay (/ˈdɪːdʒeɪ/) is a command-line program that plays media from a plug.dj room in VLC or in Mplayer.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
 - [f/poke-gate](https://github.com/f/poke-gate) - Expose your machine to your Poke AI assistant via MCP tunnel
 - [djdevil/person-tracker-card](https://github.com/djdevil/person-tracker-card) - Advanced person tracking card for Home Assistant with visual editor
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
