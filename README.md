@@ -1066,6 +1066,7 @@
 
 ## Shell 
 
+- [JTBrinkmann/plug-avatar-gifs](https://github.com/JTBrinkmann/plug-avatar-gifs) - 
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [p-poss/dj-claude-plugin](https://github.com/p-poss/dj-claude-plugin) - Adds live music and multi-agent jam band capabilities to Claude Code
