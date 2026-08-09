@@ -310,6 +310,7 @@
 ## Fluent 
 
 - [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## GDScript 
@@ -399,7 +400,6 @@
 - [extratone/jellycuts](https://github.com/extratone/jellycuts) - Shortcuts development in the .jelly language.
 - [skullface/ohio-for-palestine](https://github.com/skullface/ohio-for-palestine) - Events, actions, and resources for Ohioans in solidarity with Palestine https://ohiopalestine.com
 - [NoTextToSpeech/goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [spotlightishere/dubdub.bingo](https://github.com/spotlightishere/dubdub.bingo) - WWDC '23 bingo card
 - [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
