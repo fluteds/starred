@@ -327,7 +327,7 @@
 - [Yakitrak/notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Obsidian CLI (Community) -  Interact with Obsidian in the terminal!
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [Xetera/localproxy](https://github.com/Xetera/localproxy) - ✨ Magically access any process/container on your computer through a .localhost URL
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [hugomd/ascii-live](https://github.com/hugomd/ascii-live) - An extension to parrot.live, with support for more animations! http://ascii.live
 - [steipete/sonoscli](https://github.com/steipete/sonoscli) - Control SONOS speakers from your terminal.
@@ -468,6 +468,7 @@
 
 ## JavaScript 
 
+- [katelyynn/bleh](https://github.com/katelyynn/bleh) - a full redesign for last.fm
 - [fluteds/wavez](https://github.com/fluteds/wavez) - Quality of life tools and userscripts for wavez.fm
 - [fluteds/wavez-discord-presence](https://github.com/fluteds/wavez-discord-presence) - Show your wavez.fm room, track, artist and DJ information as a Discord Rich Presence
 - [netbymatt/ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
