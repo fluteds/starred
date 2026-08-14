@@ -59,6 +59,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Valve Data Format](#valve-data-format)
@@ -1161,6 +1162,10 @@
 ## Tcl 
 
 - [Slush0Puppy/retime](https://github.com/Slush0Puppy/retime) - A tool for retiming speedruns down to the millisecond.
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
