@@ -469,6 +469,7 @@
 
 ## JavaScript 
 
+- [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based strudel.cc controller, live coding using Strudel from Neovim.
 - [katelyynn/bleh](https://github.com/katelyynn/bleh) - a full redesign for last.fm
 - [fluteds/wavez](https://github.com/fluteds/wavez) - Quality of life tools and userscripts for wavez.fm
 - [fluteds/wavez-discord-presence](https://github.com/fluteds/wavez-discord-presence) - Show your wavez.fm room, track, artist and DJ information as a Discord Rich Presence
@@ -1175,7 +1176,7 @@
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [obsidianmd/obsidian-maps](https://github.com/obsidianmd/obsidian-maps) - Map layout for Obsidian Bases. Display your notes as an interactive map view.
-- [addev808/F1ReplayTiming](https://github.com/addev808/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
+- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
 - [stevysmith/clawdgotchi](https://github.com/stevysmith/clawdgotchi) - 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
