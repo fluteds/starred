@@ -6,7 +6,6 @@
 ## Contents
 
 - [Adblock Filter List](#adblock-filter-list)
-- [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
@@ -72,10 +71,6 @@
 ## Adblock Filter List 
 
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
-
-## AppleScript 
-
-- [noopkat/twitch-scripts](https://github.com/noopkat/twitch-scripts) - all of the scripts I use to automate my twitch stream
 
 ## Assembly 
 
@@ -220,12 +215,12 @@
 - [spuder/OpenSpool](https://github.com/spuder/OpenSpool) - RFID for 3d printer filament
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [mastercomfig/tc2](https://github.com/mastercomfig/tc2) - A TF2 mod with fresh new development
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 - [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app
-- [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
@@ -279,7 +274,6 @@
 
 ## Crystal 
 
-- [GeopJr/BLAHAJ](https://github.com/GeopJr/BLAHAJ) - [MIRROR] 🦈🏳️‍⚧️🏳️‍🌈 Gay sharks at your local terminal - lolcat-like CLI tool
 - [ryanprior/meet](https://github.com/ryanprior/meet) - Start a meeting quickly from the comfort of your command line. 👩‍👩‍👧‍👦️💨️
 
 ## Dart 
@@ -398,12 +392,10 @@
 - [Axemasta/Password-Splitter](https://github.com/Axemasta/Password-Splitter) - A quick and easy tool to split passwords up and quickly identify the position of characters in your passwords
 - [nkoehring/250kb-club](https://github.com/nkoehring/250kb-club) - An exclusive members-only club for web pages weighing no more than 250kb. Inspired by Bredley Taunts 1MB.club
 - [extratone/jellycuts](https://github.com/extratone/jellycuts) - Shortcuts development in the .jelly language.
-- [skullface/ohio-for-palestine](https://github.com/skullface/ohio-for-palestine) - Events, actions, and resources for Ohioans in solidarity with Palestine https://ohiopalestine.com
 - [NoTextToSpeech/goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
 - [spotlightishere/dubdub.bingo](https://github.com/spotlightishere/dubdub.bingo) - WWDC '23 bingo card
 - [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
-- [pabio/redirect-russia](https://github.com/pabio/redirect-russia) - 🇺🇦 Redirect Russian traffic from your site to support Ukraine
 - [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [jemimaabu/list-alphabetizer](https://github.com/jemimaabu/list-alphabetizer) - A webapp for sorting lists alphabetically
@@ -494,7 +486,6 @@
 - [tikel1/HA-isometric-animated-picture-card](https://github.com/tikel1/HA-isometric-animated-picture-card) - Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose frame or loop speed updates in real time from any entity state. Including an AI workflow that turns a
 - [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [mgriley/BigOlJungle](https://github.com/mgriley/BigOlJungle) - Repo for JungleReader web-reader, JungleWriter site editor, and other jungle-themed web projects.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
@@ -984,7 +975,7 @@
 - [poundifdef/plainoldrecipe](https://github.com/poundifdef/plainoldrecipe) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing.
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 265 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 265 stars and 193 forks 🌟
 - [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
 - [Study-Together-Org/time_counter](https://github.com/Study-Together-Org/time_counter) - 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
