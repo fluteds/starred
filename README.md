@@ -210,6 +210,7 @@
 
 ## C++ 
 
+- [ddeverill/SteamlessController](https://github.com/ddeverill/SteamlessController) - Support for the 2026 Steam Controller in non-Steam games
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [natbro/kaon](https://github.com/natbro/kaon) - Tools, and instructions for more easily installing and launching Windows games via Wine or CrossOver  directly in the macOS Steam client
 - [spuder/OpenSpool](https://github.com/spuder/OpenSpool) - RFID for 3d printer filament
