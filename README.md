@@ -217,7 +217,7 @@
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TalismanDesign/PocketMage_PDA](https://github.com/TalismanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [mastercomfig/tc2](https://github.com/mastercomfig/tc2) - A TF2 mod with fresh new development
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
