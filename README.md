@@ -606,7 +606,6 @@
 - [crsnbrt/keysim](https://github.com/crsnbrt/keysim) - design and test virtual 3d keyboards.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [forwardemail/custom-fonts-in-emails](https://github.com/forwardemail/custom-fonts-in-emails) - An extremely easy way to use custom fonts in emails without having to use art software.
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [hundredrabbits/Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
@@ -1130,6 +1129,7 @@
 
 ## Swift 
 
+- [themartiano/try-omarchy](https://github.com/themartiano/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [farouqaldori/vibe-notch](https://github.com/farouqaldori/vibe-notch) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 - [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for claude code & codex
@@ -1288,6 +1288,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [Zaarrg/DropBot](https://github.com/Zaarrg/DropBot) - Drop Bot. Automaticlly Farms every Drop available like Rust for ya and now also your Custom Channel's
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [defund12/defund12.org](https://github.com/defund12/defund12.org) - defund12.org
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
