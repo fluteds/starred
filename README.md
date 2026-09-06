@@ -629,6 +629,7 @@
 
 ## Kotlin 
 
+- [Strgazr-07/NCalender](https://github.com/Strgazr-07/NCalender) - A Nothing Inspired Calender App
 - [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [Maxr1998/LightStickMod](https://github.com/Maxr1998/LightStickMod) - Modding the LOOΠΔ light stick with a custom PCB/firmware, rechargeable battery and a companion Android app for wireless control.
 - [isXander/Pronounify](https://github.com/isXander/Pronounify) - View your pronouns in Minecraft
@@ -674,6 +675,7 @@
 
 ## Others 
 
+- [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - [WavezFM/WavezFM-Extension-API](https://github.com/WavezFM/WavezFM-Extension-API) - WavezFM Extension API provides a stable, official client-side bridge for browser extensions and user scripts running on WavezFM room pages.
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
