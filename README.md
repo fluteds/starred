@@ -457,9 +457,9 @@
 - [betacraftuk/betacraft-launcher](https://github.com/betacraftuk/betacraft-launcher) - A launcher for Minecraft focused on legacy versions of the game
 - [toolbox4minecraft/amidst](https://github.com/toolbox4minecraft/amidst) - Advanced Minecraft Interface and Data/Structure Tracking
 - [Zodsmar/SeedSearcherStandaloneTool](https://github.com/Zodsmar/SeedSearcherStandaloneTool) - Minecraft, searching numeric seeds for specific features/biomes
-- [KaptainWutax/FeatureUtils](https://github.com/KaptainWutax/FeatureUtils) - High-performance library that simulates Minecraft structures, decorators and loot for seed finding applications.
+- [KaptainWutax/FeatureUtils](https://github.com/KaptainWutax/FeatureUtils) - High-performance library that simulates structures, decorators and loot for seed finding applications.
 - [jan-leila/FastReset](https://github.com/jan-leila/FastReset) - 
-- [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) - Fast, Automatic In-Game Seed Cracker for Minecraft.
+- [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) - Fast, Automatic In-Game Seed Cracker.
 
 ## JavaScript 
 
@@ -678,7 +678,6 @@
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - [WavezFM/WavezFM-Extension-API](https://github.com/WavezFM/WavezFM-Extension-API) - WavezFM Extension API provides a stable, official client-side bridge for browser extensions and user scripts running on WavezFM room pages.
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
-- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [asekachov/Markie](https://github.com/asekachov/Markie) - Markie — quick-add panel for macOS. Public release feed (DMGs + Sparkle appcast).
 - [AwesomeVisa/awesome-immigration](https://github.com/AwesomeVisa/awesome-immigration) - An Awesome list of long-term visas
 - [vystrcild/claude_code_journaling](https://github.com/vystrcild/claude_code_journaling) - A set of prompts and agents that process daily journal entries
@@ -851,6 +850,7 @@
 - [CodingWithLewis/ReceiptPrinterAgent](https://github.com/CodingWithLewis/ReceiptPrinterAgent) - From my video: I Fixed my ADHD with a Receipt Printer
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [TeejMcSteez/HAWebRTCFix](https://github.com/TeejMcSteez/HAWebRTCFix) - Attempting to fix HA Frontends WebRTC Error ```Failed to connect WebRTC stream: Answer tried to set recv when offer did not set send``` on Firefox
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [Thokoop/billy-b-assistant](https://github.com/Thokoop/billy-b-assistant) - 
 - [BeardedTinker/Home-Assistant_Config](https://github.com/BeardedTinker/Home-Assistant_Config) - BeardedTinker Home Assistant configuration. Feel free to browse, edit, tweak, improve, criticize and suggest.
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
@@ -993,6 +993,7 @@
 - [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [pwnwriter/eipi.boo](https://github.com/pwnwriter/eipi.boo) - 🫶🏼 2d world/cards of anonymous confessions over ssh
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for computer people. Lofi, games, chat, artboard, and tech news, all via SSH.
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [vxfemboy/vxfemboy](https://github.com/vxfemboy/vxfemboy) - 
 - [sarowish/ytsub](https://github.com/sarowish/ytsub) - A subscriptions only TUI YouTube client
 - [wez/govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
@@ -1190,7 +1191,6 @@
 - [Beast12/who-rang](https://github.com/Beast12/who-rang) - 
 - [Coyenn/iso](https://github.com/Coyenn/iso) - A plug-and-play dashboard for all your self-hosted services
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
