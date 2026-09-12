@@ -588,7 +588,6 @@
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [pixelcrisis/turnstyles](https://github.com/pixelcrisis/turnstyles) - turnstyles for turntable.fm | a chrome extension
-- [jodrell2000/rboto](https://github.com/jodrell2000/rboto) - Mr. Roboto bot for I ❤️ The 80's room on Turntable.fm
 - [extplug/replug](https://github.com/extplug/replug) - Semi-automatic reverse engineering of plug.dj client javascript
 - [samuri51/chillybot](https://github.com/samuri51/chillybot) - a turntable bot created by a moderator of straight_chillin11
 - [ouuan/my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
@@ -674,6 +673,8 @@
 
 ## Others 
 
+- [xeji01/nothingfont](https://github.com/xeji01/nothingfont) - nothing.tech typeface
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - [WavezFM/WavezFM-Extension-API](https://github.com/WavezFM/WavezFM-Extension-API) - WavezFM Extension API provides a stable, official client-side bridge for browser extensions and user scripts running on WavezFM room pages.
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
@@ -888,7 +889,7 @@
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [jo1gi/audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook CLI downloader
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
-- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV-Based Jellyfin Client with Offline Sync
 - [Green-Bat/Savefile-Manager](https://github.com/Green-Bat/Savefile-Manager) - A program to help manage savefiles
 - [SamuraiOndo/fortniteFestivalDownloader](https://github.com/SamuraiOndo/fortniteFestivalDownloader) - Downloads Fortnite Festival stems
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -1015,7 +1016,7 @@
 - [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
 - [casey/intermodal](https://github.com/casey/intermodal) - command-line utility for BitTorrent torrent file creation, verification, and more
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Offline voice assistant that respects your privacy. Forged in Rust. WIP.
@@ -1131,6 +1132,7 @@
 
 ## Swift 
 
+- [msllrs/relay](https://github.com/msllrs/relay) - A macOS menu bar app that lets you build rich LLM prompts by combining files, clipboard captures, and voice notes.
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [farouqaldori/vibe-notch](https://github.com/farouqaldori/vibe-notch) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 - [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
