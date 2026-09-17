@@ -125,6 +125,7 @@
 
 ## C 
 
+- [flightportrait/frame](https://github.com/flightportrait/frame) - Firmware, device protocol, and reference BYOS server for the FlightPortrait e-ink frame
 - [meatpiHQ/wican-fw](https://github.com/meatpiHQ/wican-fw) - 
 - [jdknight/capsblock](https://github.com/jdknight/capsblock) - Prevent Caps Lock key from being left on in Windows.
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
@@ -156,6 +157,7 @@
 
 ## C# # 
 
+- [shtbox/jellycheckr](https://github.com/shtbox/jellycheckr) - Jellyfin plugin that detects continuous playback and shows an "Are you still watching?" prompt. If there is no response, playback is paused automatically. Ideal for preventing overnight binge sessions
 - [giada0019/ACSE-Tree](https://github.com/giada0019/ACSE-Tree) - An optimized Save Editor for the Animal Crossing: New Leaf and Animal Forest written in C#
 - [emilianavt/OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) - Robust realtime face and facial landmark tracking on CPU with Unity integration
 - [arbabf/safespaces](https://github.com/arbabf/safespaces) - Sensory safe spaces in VR for neurodivergent people
@@ -674,6 +676,8 @@
 
 ## Others 
 
+- [tarlepp/links-of-the-week](https://github.com/tarlepp/links-of-the-week) - 
+- [subinium/awesome-f1](https://github.com/subinium/awesome-f1) - 🏎️ A curated collection of high-quality Formula 1 and motorsport resources — APIs, datasets, telemetry tools, visualization, sim racing, and learning materials.
 - [xeji01/nothingfont](https://github.com/xeji01/nothingfont) - nothing.tech typeface
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
@@ -1065,6 +1069,7 @@
 
 ## Shell 
 
+- [dividendsolo/omarchy4mac](https://github.com/dividendsolo/omarchy4mac) - Omarchy for people who can't leave the Mac: AeroSpace + SketchyBar + Hammerspoon + Omarchy's own themes
 - [JTBrinkmann/plug-avatar-gifs](https://github.com/JTBrinkmann/plug-avatar-gifs) - 
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
@@ -1134,6 +1139,7 @@
 
 ## Swift 
 
+- [faeton/dishwatch](https://github.com/faeton/dishwatch) - Tiny bash CLI for Starlink: live terminal dashboard from the dish's local gRPC API — connection, signal, aim, GPS, power draw, 60s sparklines (ping/drop/up/down/watts). Logs reboots and dropouts so yo
 - [msllrs/relay](https://github.com/msllrs/relay) - A macOS menu bar app that lets you build rich LLM prompts by combining files, clipboard captures, and voice notes.
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [farouqaldori/vibe-notch](https://github.com/farouqaldori/vibe-notch) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
@@ -1326,7 +1332,7 @@
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
 - [Treeki/MeteoNook](https://github.com/Treeki/MeteoNook) - weather prediction tool for Animal Crossing: New Horizons
 - [schej-it/timeful.app](https://github.com/schej-it/timeful.app) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [tilda/enkanomiya](https://github.com/tilda/enkanomiya) - Calculate the "CRIT Value" (CV) of your artifacts easily, and more
 - [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
