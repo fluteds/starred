@@ -93,6 +93,7 @@
 - [gbs0/gta_casino_solver](https://github.com/gbs0/gta_casino_solver) - Some scripts that solve the keypad hacking in the vault from GTA V Casino heist.
 - [Specnr/MultiResetWall](https://github.com/Specnr/MultiResetWall) - A wall-style multi-instance macro for Minecraft RSG resetting
 - [phonowell/genshin-impact-script](https://github.com/phonowell/genshin-impact-script) - 原神脚本，包含自动钓鱼、自动拾取、自动跳过对话等多项实用功能。A Genshin Impact script includes many useful features such as automatic fishing, automatic item pickup, automatic dialogue skipping, etc.
+- [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
 - [pjagada/spawn-juicer](https://github.com/pjagada/spawn-juicer) - Multi-instance and single-instance set seed reset macro with automatic spawn resetting for Minecraft speedrunning
 - [xcloudx01/Automatic-Folder-Monitor-and-Sorter](https://github.com/xcloudx01/Automatic-Folder-Monitor-and-Sorter) - Automatically moves files matching a category to a set folder. Eg: All image files &gt; Images folder.
 - [Drugoy/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.
@@ -401,7 +402,6 @@
 - [spotlightishere/dubdub.bingo](https://github.com/spotlightishere/dubdub.bingo) - WWDC '23 bingo card
 - [aidenwallis/personal-twitch-alerts](https://github.com/aidenwallis/personal-twitch-alerts) - The CSS behind my custom Twitch sub alerts - for StreamElements, inspired by MSN notifications
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
-- [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [jemimaabu/list-alphabetizer](https://github.com/jemimaabu/list-alphabetizer) - A webapp for sorting lists alphabetically
 - [animebook/animebook.github.io](https://github.com/animebook/animebook.github.io) - In-browser video player for learning Japanese with subtitles
