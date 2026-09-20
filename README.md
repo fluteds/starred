@@ -1147,13 +1147,13 @@
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for claude code & codex
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [parkuoa/moonleaf](https://github.com/parkuoa/moonleaf) - light, capable wallpaper manager for macOS
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [stong/fastclock](https://github.com/stong/fastclock) - MacOS status bar clock that shows N minutes ahead
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [stong/bedtime-nag](https://github.com/stong/bedtime-nag) - macOS app that tells you to go to bed
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, ScreenZen, Unpluq, Scrolly, Blok and more!
-- [claration/Copyboard](https://github.com/claration/Copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
+- [claration/copyboard](https://github.com/claration/copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station's urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS
