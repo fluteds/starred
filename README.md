@@ -996,7 +996,7 @@
 ## Rust 
 
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
-- [pwnwriter/eipi.boo](https://github.com/pwnwriter/eipi.boo) - 🫶🏼 2d world/cards of anonymous confessions over ssh
+- [bytehunt/eipi.boo](https://github.com/bytehunt/eipi.boo) - 🫶🏼 2d world/cards of anonymous confessions over ssh
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for computer people. Lofi, games, chat, artboard, and tech news, all via SSH.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [vxfemboy/vxfemboy](https://github.com/vxfemboy/vxfemboy) - 
