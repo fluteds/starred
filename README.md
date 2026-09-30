@@ -1179,7 +1179,7 @@
 - [azjgard/trmnl-weekly-goal-tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Track weekly goals on a simple e-ink display
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [nmattia/skapa](https://github.com/nmattia/skapa) - Generate 3D printable models for IKEA SKADIS pegboards.
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
+- [Twigpine/openclaude](https://github.com/Twigpine/openclaude) - runs anywhere. uses anything
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [obsidianmd/obsidian-maps](https://github.com/obsidianmd/obsidian-maps) - Map layout for Obsidian Bases. Display your notes as an interactive map view.
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
