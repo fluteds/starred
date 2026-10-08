@@ -1070,6 +1070,7 @@
 
 ## Shell 
 
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [dividendsolo/omarchy4mac](https://github.com/dividendsolo/omarchy4mac) - Omarchy for people who can't leave the Mac: AeroSpace + SketchyBar + Hammerspoon + Omarchy's own themes
 - [JTBrinkmann/plug-avatar-gifs](https://github.com/JTBrinkmann/plug-avatar-gifs) - 
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
