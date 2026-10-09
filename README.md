@@ -500,6 +500,7 @@
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
 - [paaatrick/playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
+- [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - 🏠 HaCasa Nova: the HaCasa reboot. A room-first Home Assistant panel, built on the Homio design by iamtherufus.
 - [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL
 - [ed7n/jcard-template](https://github.com/ed7n/jcard-template) - Printable in-browser template for cassette tape J-cards.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -708,7 +709,6 @@
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [choukha/learn-norwegian](https://github.com/choukha/learn-norwegian) - Resources & Notes for learning Norwegian Language
 - [clement87/Pepito-API](https://github.com/clement87/Pepito-API) - Events when PepitoTheCat is in or out
-- [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa) - 🏠 - A modern, minimalistic dashboard for Home Assistant
 - [Democles85/Cyberpunk-2077-Mods](https://github.com/Democles85/Cyberpunk-2077-Mods) - A list on mods I have been working on and will continue to make it better.
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [sam-hosseini/freelancing-in-finland](https://github.com/sam-hosseini/freelancing-in-finland) - The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
@@ -1141,6 +1141,8 @@
 
 ## Swift 
 
+- [jaskirat1616/mactap-app](https://github.com/jaskirat1616/mactap-app) - MacTap — knock your MacBook to run shortcuts
+- [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [faeton/dishwatch](https://github.com/faeton/dishwatch) - Tiny bash CLI for Starlink: live terminal dashboard from the dish's local gRPC API — connection, signal, aim, GPS, power draw, 60s sparklines (ping/drop/up/down/watts). Logs reboots and dropouts so yo
 - [msllrs/relay](https://github.com/msllrs/relay) - A macOS menu bar app that lets you build rich LLM prompts by combining files, clipboard captures, and voice notes.
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
