@@ -269,6 +269,7 @@
 - [jakejarvis/kitboga-bank](https://github.com/jakejarvis/kitboga-bank) - Mirror of Kitboga's fake bank account repository on BitBucket, please submit new themes there!
 - [Peyrzival/dotfiles-gruv](https://github.com/Peyrzival/dotfiles-gruv) - 
 - [xandjiji/stardew-helper](https://github.com/xandjiji/stardew-helper) - Stardew Helper is a companion App to help you while playing Stardew Valley.
+- [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
 - [guglicap/wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
 - [skullface/design-resources](https://github.com/skullface/design-resources) - 📐 Select websites, tools, assets, and readings for working in and learning about design.
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
@@ -562,7 +563,6 @@
 - [MCBE-Speedrunning/retime.mcbe.wtf](https://github.com/MCBE-Speedrunning/retime.mcbe.wtf) - A run retimer for speedrunners.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [WalshyDev/Discord-bad-domains](https://github.com/WalshyDev/Discord-bad-domains) - 
-- [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [bokub/nopaste](https://github.com/bokub/nopaste) - :clipboard: Client-side paste service
@@ -827,6 +827,7 @@
 
 ## Python 
 
+- [StayLameBro/backburner](https://github.com/StayLameBro/backburner) - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable
 - [mudape/iphonedetect](https://github.com/mudape/iphonedetect) - A custom component for Home Assistant to detect iPhones connected to local LAN, even if the phone is in deep sleep.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
