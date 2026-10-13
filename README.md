@@ -167,6 +167,7 @@
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
 - [YARC-Official/YARG](https://github.com/YARC-Official/YARG) - YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-keys, and more!
 - [InvoxiPlayGames/FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival.
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 - [Goobwabber/LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller) - Installs past Beat Saber versions to your steam library
 - [kckarnige/OculusKillSwitch](https://github.com/kckarnige/OculusKillSwitch) - 'til you need them again.
 - [DevOculus-Meta-Quest/OculusKiller](https://github.com/DevOculus-Meta-Quest/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
@@ -174,7 +175,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Windows debloater.
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [UtsuhoRocks/mb_DiscordRichPresence](https://github.com/UtsuhoRocks/mb_DiscordRichPresence) - it just works
@@ -360,7 +361,6 @@
 - [chowder/duck-gen](https://github.com/chowder/duck-gen) - Generate Private Duck Addresses from your command-line
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [ezrizhu/now](https://github.com/ezrizhu/now) - efingerd program
-- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [WiiLink24/Demae-Deliveroo](https://github.com/WiiLink24/Demae-Deliveroo) - Deliveroo but on your Wii, how amazing!
@@ -814,7 +814,6 @@
 
 ## PowerShell 
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [robwillisinfo/Get-LargestFiles](https://github.com/robwillisinfo/Get-LargestFiles) - PowerShell Script – Quickly Find The Largest Files
 - [brian6932/dank-scoop](https://github.com/brian6932/dank-scoop) - 🪣 Yet Another Personal Scoop Bucket
 - [brian6932/personal-scripts](https://github.com/brian6932/personal-scripts) - Just some personal scripts that I wanted to add to scoop
@@ -1243,6 +1242,7 @@
 - [govizlora/optical-breacher](https://github.com/govizlora/optical-breacher) - Online Cyberpunk 2077 breach protocol minigame puzzle solver using camera
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [katlyn/lovetap](https://github.com/katlyn/lovetap) - A simple way for loved ones to let each other know they are thinking of one another.
 - [Xetera/vuniparr](https://github.com/Xetera/vuniparr) - A custom Radarr list for movies that just became available for streaming
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
