@@ -1075,6 +1075,7 @@
 
 ## Shell 
 
+- [XyraSinclair/SHTF](https://github.com/XyraSinclair/SHTF) - Offline household-continuity kit: 135 Kindle-ready books, field playbooks and emergency cards, medical guides, and download instructions for offline Wikipedia, maps, and local AI
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [dividendsolo/omarchy4mac](https://github.com/dividendsolo/omarchy4mac) - Omarchy for people who can't leave the Mac: AeroSpace + SketchyBar + Hammerspoon + Omarchy's own themes
 - [JTBrinkmann/plug-avatar-gifs](https://github.com/JTBrinkmann/plug-avatar-gifs) - 
@@ -1185,6 +1186,7 @@
 
 ## TypeScript 
 
+- [pluja/xmr.fan](https://github.com/pluja/xmr.fan) - Tiny tools for XMR fans. Mirror of https://tig.cx/pluja/xmr.fan
 - [katelyynn/bleh](https://github.com/katelyynn/bleh) - a full redesign for last.fm
 - [azjgard/trmnl-weekly-goal-tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Track weekly goals on a simple e-ink display
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
