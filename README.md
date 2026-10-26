@@ -79,7 +79,7 @@
 
 ## Astro 
 
-- [Rushmore75/foss.cooking](https://github.com/Rushmore75/foss.cooking) - Spirtual successor of based.cooking 🧑‍🍳 A FOSS and blazingly fast recipe site 🔥
+- [Rushmore75/foss.cooking](https://github.com/Rushmore75/foss.cooking) - Spirtual successor of based.cooking 🧑‍🍳
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## AutoHotkey 
@@ -190,7 +190,7 @@
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
-- [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵
+- [spytify/spytify](https://github.com/spytify/spytify) - 
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [KrisIsBackAU/Oculus-VR-Dash-Manager](https://github.com/KrisIsBackAU/Oculus-VR-Dash-Manager) - Oculus VR Dash Manager
 - [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
