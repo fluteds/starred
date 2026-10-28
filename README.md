@@ -721,7 +721,6 @@
 - [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits) - A repository of Formula 1™ circuits in GeoJSON format.
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
-- [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [natarii/vrchat-domain-blocklist](https://github.com/natarii/vrchat-domain-blocklist) - VRChat Advertising/Tracking Domain Blocklist
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -907,6 +906,7 @@
 - [pipeeeeees/waze-voicepack-links](https://github.com/pipeeeeees/waze-voicepack-links) - A community-maintained archive of classic and custom Waze GPS voice navigation packs
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [xP9nda/PapaFreezeriaBot](https://github.com/xP9nda/PapaFreezeriaBot) - A python bot to automate gameplay of Papa's Freezeria Deluxe on Steam.
+- [ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) - Tested prompts for AI video and image generation, plus agent recipes for editing video. Every entry ships with the exact prompt, settings and real output.
 - [funny-cat-happy/barknotificator](https://github.com/funny-cat-happy/barknotificator) - A package that allows you to send notifications to your iOS device using the Bark app without self server
 - [lun-4/finfox](https://github.com/lun-4/finfox) - scripts for personal finance
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
