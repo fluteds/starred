@@ -114,6 +114,7 @@
 
 ## Batchfile 
 
+- [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [mitchv2020/QuestToolbox](https://github.com/mitchv2020/QuestToolbox) - A batch file full of useful tools to use for Quest 1 and 2!
 - [rossy/mpv-install](https://github.com/rossy/mpv-install) - Sets up file associations for mpv on Windows
 - [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows.
@@ -128,7 +129,6 @@
 
 - [flightportrait/frame](https://github.com/flightportrait/frame) - Firmware, device protocol, and reference BYOS server for the FlightPortrait e-ink frame
 - [meatpiHQ/wican-fw](https://github.com/meatpiHQ/wican-fw) - 
-- [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [jdknight/capsblock](https://github.com/jdknight/capsblock) - Prevent Caps Lock key from being left on in Windows.
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
@@ -542,7 +542,7 @@
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 - [sudofox/mojang-blocklist](https://github.com/sudofox/mojang-blocklist) - identifying/tracking minecraft servers on mojang's blocklist
 - [Lawin0129/LawinServer](https://github.com/Lawin0129/LawinServer) - LawinServerV1 is a local single-user Fortnite backend (server emulator) with tons of original game features which supports both Battle Royale and Save the World.
-- [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
+- [hainguyents13/mechvibes-electron](https://github.com/hainguyents13/mechvibes-electron) - Mechvibes Legacy: the original Electron version, no longer maintained. The official Mechvibes app is now at hainguyents13/mechvibes.
 - [Erisa/starbin](https://github.com/Erisa/starbin) - A hastebin-compatible paste site running on Cloudflare Pages.
 - [ItsGravix/PenguinConcert](https://github.com/ItsGravix/PenguinConcert) - A virtual concert system that was used for Club Penguin Rewritten events.
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
@@ -1345,7 +1345,7 @@
 
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
 - [Treeki/MeteoNook](https://github.com/Treeki/MeteoNook) - weather prediction tool for Animal Crossing: New Horizons
-- [schej-it/timeful.app](https://github.com/schej-it/timeful.app) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
+- [schej-it/timeful](https://github.com/schej-it/timeful) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [tilda/enkanomiya](https://github.com/tilda/enkanomiya) - Calculate the "CRIT Value" (CV) of your artifacts easily, and more
 - [Ratismal/freedle](https://github.com/Ratismal/freedle) - A forever free Wordle clone.
