@@ -437,6 +437,7 @@
 
 ## Java 
 
+- [Shederator/wosbot](https://github.com/Shederator/wosbot) - Whiteout Survival Bot
 - [xyzeva/poisonedcapes](https://github.com/xyzeva/poisonedcapes) - custom capes in minecraft using cache poisoning
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
