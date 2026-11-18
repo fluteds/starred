@@ -368,7 +368,7 @@
 - [gempir/justlog](https://github.com/gempir/justlog) - twitch logging platform
 - [nuuls/filehost](https://github.com/nuuls/filehost) - 
 - [fourtf/i](https://github.com/fourtf/i) - Simple self-host image uploader.
-- [spytify/spytify](https://github.com/spytify/spytify) - 
+- [spytify/spytify](https://github.com/spytify/spytify) - Records an application's audio, splits it into tracks and tags them.
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
