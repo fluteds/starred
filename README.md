@@ -825,6 +825,7 @@
 
 ## Python 
 
+- [Tufalabs/tufazip](https://github.com/Tufalabs/tufazip) - We shrink 1 GB of Wikipedia to 105.39 MB, losslessly.
 - [StayLameBro/backburner](https://github.com/StayLameBro/backburner) - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable
 - [mudape/iphonedetect](https://github.com/mudape/iphonedetect) - A custom component for Home Assistant to detect iPhones connected to local LAN, even if the phone is in deep sleep.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
