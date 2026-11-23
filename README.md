@@ -524,7 +524,6 @@
 - [tdjsnelling/monaco](https://github.com/tdjsnelling/monaco) - Real-time F1 live timing & telemetry UI
 - [ewanhowell5195/VisualShulkerLabels](https://github.com/ewanhowell5195/VisualShulkerLabels) - The Visual Shulker Labels resource pack
 - [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
-- [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [javierarce/letterboxd-scraper](https://github.com/javierarce/letterboxd-scraper) - A script that scrapes films from a Letterboxd user's public diary.
 - [MitanshiKshatriya/taylor-swift-api](https://github.com/MitanshiKshatriya/taylor-swift-api) - get random lyrics/quotes of Taylor Swift
 - [lawreka/ascii-tarot](https://github.com/lawreka/ascii-tarot) - A CLI tool for tarot reading with full ASCII art deck
@@ -1253,6 +1252,7 @@
 - [milutinke/MCC.js](https://github.com/milutinke/MCC.js) - A library for controlling the Minecraft Console Client and making bots for it in JavaScript/TypeScript.
 - [f1-tools/MultiViewer-StreamDeck-Plugin](https://github.com/f1-tools/MultiViewer-StreamDeck-Plugin) - A Streamdeck plugin for using Multiviewer for Formula 1
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- [wangrongding/SuperHive](https://github.com/wangrongding/SuperHive) - An open-source shared workspace for humans and AI coding agents. Run it on your own computer or a cloud server and open it in the browser.
 - [benlikescode/geohub](https://github.com/benlikescode/geohub) - Free, open source geoguessr alternative
 - [rod41732/chatterino-theme-creator-web](https://github.com/rod41732/chatterino-theme-creator-web) - Visual theme creator for Chatterino (https://chatterino.com)
 - [NandaScott/PTCGL-Flipper-Redeemer](https://github.com/NandaScott/PTCGL-Flipper-Redeemer) - 
