@@ -912,7 +912,6 @@
 - [meganmansfield/taylorswift](https://github.com/meganmansfield/taylorswift) - A code to match you with the perfect Taylor Swift song for your mood and relationship status.
 - [karayaman/lichess-with-a-real-board](https://github.com/karayaman/lichess-with-a-real-board) - Lichess.org client for real life chess boards.
 - [tf2classified/TF2CDownloader](https://github.com/tf2classified/TF2CDownloader) - Cross-platform utility for automatically downloading and installing TF2 Classic
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [NeverDecaf/ungoogled-updater](https://github.com/NeverDecaf/ungoogled-updater) - Script for windows to keep ungoogled-chromium up to date.
 - [AidanHarveyNelson/pokemon_tcg_redeem](https://github.com/AidanHarveyNelson/pokemon_tcg_redeem) - A Script to automatically redeem Pokemon TCG Live Codes
 - [danielweidman/pixmob-ir-reverse-engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering) - Hacking the PixMob infrared (and now also RF!) protocol to enable control of PixMob wristbands at home.
@@ -1104,6 +1103,7 @@
 - [pikdum/steam-deck](https://github.com/pikdum/steam-deck) - steam deck tools for installing vortex
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [kageurufu/steamdeck_startup_animations](https://github.com/kageurufu/steamdeck_startup_animations) - A collection of steamdeck startup animations, plus a script to randomize your startup on each boot
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [aBoredDev/playit-setup-script](https://github.com/aBoredDev/playit-setup-script) - An un-official script to set up the playit.gg tunnel host (https://playit.gg/) and install it as a service on Linux
 - [TheRemote/RaspberryPiMinecraft](https://github.com/TheRemote/RaspberryPiMinecraft) - Configuration files and performance testing scripts to setup and optimize a dedicated Minecraft (PC Java version) server
 - [luzifer-arch/chatterino2-dankerino-git](https://github.com/luzifer-arch/chatterino2-dankerino-git) - 
