@@ -1142,7 +1142,7 @@
 ## Swift 
 
 - [jaskirat1616/mactap-app](https://github.com/jaskirat1616/mactap-app) - MacTap — knock your MacBook to run shortcuts
-- [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
+- [f/textream](https://github.com/f/textream) - Textream is a free macOS and iOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. Wit
 - [faeton/dishwatch](https://github.com/faeton/dishwatch) - Tiny bash CLI for Starlink: live terminal dashboard from the dish's local gRPC API — connection, signal, aim, GPS, power draw, 60s sparklines (ping/drop/up/down/watts). Logs reboots and dropouts so yo
 - [msllrs/relay](https://github.com/msllrs/relay) - A macOS menu bar app that lets you build rich LLM prompts by combining files, clipboard captures, and voice notes.
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
