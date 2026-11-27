@@ -42,7 +42,6 @@
 - [Mako](#mako)
 - [Mercury](#mercury)
 - [Nix](#nix)
-- [Nushell](#nushell)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -442,7 +441,7 @@
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
-- [gtrxAC/discord-j2me](https://github.com/gtrxAC/discord-j2me) - Discord client for Java ME (MIDP 1.0 & 2.0) devices
+- [gtrxAC/discord-j2me](https://github.com/gtrxAC/discord-j2me) - [OLD] Discord client for Java ME (MIDP 1.0 & 2.0) devices
 - [chrrs/camerapture](https://github.com/chrrs/camerapture) - Fabric / (Neo)Forge mod with cameras that can take pictures!
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [henkelmax/mod-update-checker](https://github.com/henkelmax/mod-update-checker) - A library for Minecraft mods, that checks for available updates.
@@ -649,6 +648,7 @@
 
 ## Lua 
 
+- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [potamides/dotfiles](https://github.com/potamides/dotfiles) - My personal dotfiles for most of the programs I use on a daily basis.
 - [mar04/chapters_for_mpv](https://github.com/mar04/chapters_for_mpv) - mpv script for adding/editing/removing/saving/loading chapters
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
@@ -667,10 +667,6 @@
 ## Nix 
 
 - [joinemm/nix-infra](https://github.com/joinemm/nix-infra) - :snowflake: i use NixOS btw
-
-## Nushell 
-
-- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 
 ## Objective-C 
 
